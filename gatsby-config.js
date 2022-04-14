@@ -1,12 +1,54 @@
 module.exports = {
   siteMetadata: {
-    title: `new`,
-    siteUrl: `https://www.yourdomain.tld`
+    title: `siteTitleTK`,
+    description: 'Description TK',
+    author: `Eric Dietrich / Montana Free Press`,
+    siteUrl: `https://www.yourdomain.tld`,
+    keywords: ['Montana', 'elections', 'voters', 'candidates', 'politicians', '2022'],
+    // hacky as hell
+    image: "https://apps.montanafreepress.org/montana-legislature-lawsuit-tracker/images/lawsuit-tracker.png"
   },
-  plugins: ["gatsby-plugin-emotion", {
-    resolve: 'gatsby-plugin-google-analytics',
-    options: {
-      "trackingId": "G-ZVEKZ4L9EE"
-    }
-  }, "gatsby-plugin-react-helmet"]
+  pathPrefix: `/url-tk`, // for S3
+  plugins: [
+    "gatsby-plugin-react-helmet",
+    "gatsby-plugin-emotion",
+    // // Unnecessary?
+    // {
+    //   resolve: `gatsby-source-graphql`,
+    //   options: {
+    //     typeName: `CMS`,
+    //     fieldName: 'content',
+    //     url: `http://localhost:1337/graphql`
+    //   }
+    // },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `data`,
+        path: `${__dirname}/src/data`,
+      },
+    },
+    `gatsby-transformer-json`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `images`,
+        path: `${__dirname}/src/images`,
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-google-analytics',
+      options: {
+        "trackingId": "G-ZVEKZ4L9EE"
+      }
+    },
+    {
+      resolve: `gatsby-plugin-parsely-analytics`,
+      options: {
+        apikey: 'montanafreepress.org',
+        enableInDevelopment: false // send page views when NODE_ENV !== prod
+      }
+    },
+    `gatsby-plugin-webpack-size`,
+  ]
 };
