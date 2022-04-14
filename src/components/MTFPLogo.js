@@ -28,7 +28,8 @@ const imgCss = css`
 const MTFPLogo = (props) => (
   <div css={containerCss}>
     <a href="https://montanafreepress.org">
-      <img src="mtfp-logo-100px.png" alt="MTFP logo" width={50} css={imgCss} />
+      Montana Free Press
+      {/* <img src="mtfp-logo.png" alt="MTFP logo" width={50} css={imgCss} /> */}
     </a>
   </div>
 )

@@ -4,6 +4,9 @@ import { css } from '@emotion/react'
 import { geoPath, geoMercator } from 'd3-geo'
 
 // Adapt SVG-based mapping rig from ... https://observablehq.com/@eidietrich/geojson-mapping-rig
+// TODO
+// - Custom marker logic
+// - Add click/tooltip interactivity options
 
 export class Map extends React.Component {
     render() {
