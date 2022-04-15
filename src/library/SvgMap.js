@@ -8,6 +8,33 @@ import { geoPath, geoMercator } from 'd3-geo'
 // - Custom marker logic
 // - Add click/tooltip interactivity options
 
+/* Usage
+
+counties and cities are shape and point geojson files, respectively
+
+<Map
+        layers={[
+          new FeatureLayer({
+            key: 'counties',
+            geodata: counties,
+            featureStyle: {
+              // fill: d => d.NAME === 'GALLATIN' ? 'red' : 'blue'
+            }
+          }),
+          new PointLayer({
+            key: 'cities',
+            geodata: cities,
+            labelStyle: {
+              text: d => d.NAME,
+              dx: d => d.offset ? d.offset[0] : '0.5em',
+              dy: d => d.offset ? d.offset[1] : '0.5em',
+            }
+          })
+        ]}
+      />
+
+*/
+
 export class Map extends React.Component {
     render() {
         const {
