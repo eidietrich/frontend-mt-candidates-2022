@@ -1,8 +1,9 @@
 import React from "react"
 import { css } from '@emotion/react'
 
+import logo from "../images/mtfp-logo.png"
+
 const containerCss = css`
-    /* width: 100px; */
     display: inline-block;
     position: relative;
 
@@ -28,8 +29,7 @@ const imgCss = css`
 const MTFPLogo = (props) => (
   <div css={containerCss}>
     <a href="https://montanafreepress.org">
-      Montana Free Press
-      {/* <img src="mtfp-logo.png" alt="MTFP logo" width={50} css={imgCss} /> */}
+      <img src={logo} alt="MTFP logo" width={50} css={imgCss} />
     </a>
   </div>
 )
