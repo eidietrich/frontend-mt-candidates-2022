@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Jane Doe",
+    "SummaryLine": "5th-generation Montanan",
+    "LongSummary": "This is a place for a 2-3 summary of a candidate's backgound, candidacy etc. Plan is to display it on candidate page but not overview page. Separate from SummaryLine, which is intended to be a one-clause description w/ name + profession details.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Duis in orci arcu. Phasellus non risus volutpat, aliquet sapien ac, vulputate lorem. Curabitur nec lorem imperdiet, mollis tellus quis, eleifend lacus. Aenean imperdiet, ipsum nec dapibus fringilla, diam dolor blandit diam, malesuada feugiat urna elit non nulla. Praesent mauris lorem, facilisis vel tempor vitae, iaculis volutpat leo. Pellentesque sodales elit in vehicula dignissim.\n\nProin egestas eget erat ut tempus. Sed eget purus fringilla, tincidunt nunc a, congue odio. Praesent non pretium lectus, at tincidunt velit. Maecenas augue purus, porttitor sed purus quis, eleifend maximus magna. Fusce laoreet dignissim arcu, sodales vulputate purus tincidunt ut. Morbi auctor neque non vestibulum imperdiet. Nam vel sem neque. Vivamus elementum ex sed aliquam sagittis. Proin justo enim, commodo lobortis urna sed, luctus porta orci. Sed sed ultricies sapien.\n\n",
+    "Race": "US-House-1-West",
+    "CampaignWebsiteUrl": "https://montanafreepress.org/",
+    "CampaignFBPageUrl": "https://www.facebook.com/mtfreepress",
+    "CampaignTwitterUrl": "https://twitter.com/mtfreepress/",
+    "CampaignInstagramUrl": "https://www.instagram.com/mtfreepress/",
+    "MtfpCoverageTag": null,
+    "createdAt": "2022-04-13T19:19:03.375Z",
+    "updatedAt": "2022-04-13T19:25:05.078Z",
+    "publishedAt": "2022-04-13T19:25:05.075Z",
+    "Party": "R",
+    "urlKey": "jane-doe"
+  }
+]
