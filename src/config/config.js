@@ -8,7 +8,7 @@ export const statusColors = (billStatus) => {
     }[billStatus] || '#666'
 }
 
-export const partyColors = (partyLetter, variant = null) => {
+export const partyColor = (partyLetter, variant = null) => {
     if (variant === 'lighter') {
         return {
             'R': '#f2b4b1',

@@ -1,7 +1,7 @@
 import React from 'react'
 import { css } from '@emotion/react'
 
-import { geoPath, geoMercator } from 'd3-geo'
+import { geoPath, geoMercator, geoAlbers } from 'd3-geo'
 
 // Adapt SVG-based mapping rig from ... https://observablehq.com/@eidietrich/geojson-mapping-rig
 // TODO
@@ -66,6 +66,7 @@ export class Map extends React.Component {
         return <svg
             width={width}
             height={height}
+            viewBox={`0 0 ${width} ${height}`}
             fontFamily={fontFamily}
             fontSize={fontSize}
             textAnchor={textAnchor}
@@ -81,7 +82,8 @@ export class Map extends React.Component {
         height: 600,
         width: 800,
         margin: { top: 10, left: 40, right: 40, bottom: 10 },
-        projection: geoMercator(),
+        // projection: geoMercator(), // Standard slippy map projection
+        projection: geoAlbers().rotate([110, 0, 0]), // Montana-optimized
         backgroundColor: '#fff',
         fontFamily: 'Arial, sans-serif',
         fontSize: 10,

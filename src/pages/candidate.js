@@ -17,6 +17,7 @@ const style = css`
 // TODO - implement handling for rich text formatting
 const Text = props => {
     const { text } = props
+    if (!text) return null
     const grafs = text.split('\n').filter(d => d)
     return <div>{grafs.map((graf, i) => <p key={String(i)}>{graf}</p>)}</div>
 }
