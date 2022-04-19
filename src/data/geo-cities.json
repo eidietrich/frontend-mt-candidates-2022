@@ -1,1 +1,155 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-114.00941481367617,46.86845609815254]},"properties":{"GEOID":"3050200","NAME":"Missoula","offset":[-15,12]}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.83850296885869,46.40588180031621]},"properties":{"GEOID":"3049525","NAME":"Miles City"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-114.32618037830662,48.21553771988646]},"properties":{"GEOID":"3040075","NAME":"Kalispell","offset":[-50,5]}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.68049816861198,48.54275568290601]},"properties":{"GEOID":"3035050","NAME":"Havre"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-112.54225090137798,45.99630474669668]},"properties":{"GEOID":"3011397","NAME":"Butte"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-111.05476616601253,45.682775182946244]},"properties":{"GEOID":"3008950","NAME":"Bozeman"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-112.0196972521252,46.59642057169749]},"properties":{"GEOID":"3035600","NAME":"Helena","offset":[-15,-5]}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.55027669152761,45.788885426373696]},"properties":{"GEOID":"3006550","NAME":"Billings","offset":[-20,15]}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-111.29948415503986,47.50216159847621]},"properties":{"GEOID":"3032800","NAME":"Great Falls"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.00941481367617,
+                    46.86845609815254
+                ]
+            },
+            "properties": {
+                "GEOID": "3050200",
+                "NAME": "Missoula",
+                "offset": [
+                    -15,
+                    12
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.83850296885869,
+                    46.40588180031621
+                ]
+            },
+            "properties": {
+                "GEOID": "3049525",
+                "NAME": "Miles City"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.32618037830662,
+                    48.21553771988646
+                ]
+            },
+            "properties": {
+                "GEOID": "3040075",
+                "NAME": "Kalispell",
+                "offset": [
+                    -10,
+                    -6
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.68049816861198,
+                    48.54275568290601
+                ]
+            },
+            "properties": {
+                "GEOID": "3035050",
+                "NAME": "Havre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.54225090137798,
+                    45.99630474669668
+                ]
+            },
+            "properties": {
+                "GEOID": "3011397",
+                "NAME": "Butte",
+                "offset": [
+                    -30,
+                    10
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.05476616601253,
+                    45.682775182946244
+                ]
+            },
+            "properties": {
+                "GEOID": "3008950",
+                "NAME": "Bozeman",
+                "offset": [
+                    -55,
+                    10
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.0196972521252,
+                    46.59642057169749
+                ]
+            },
+            "properties": {
+                "GEOID": "3035600",
+                "NAME": "Helena",
+                "offset": [
+                    -10,
+                    -5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -108.55027669152761,
+                    45.788885426373696
+                ]
+            },
+            "properties": {
+                "GEOID": "3006550",
+                "NAME": "Billings",
+                "offset": [
+                    -20,
+                    15
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.29948415503986,
+                    47.50216159847621
+                ]
+            },
+            "properties": {
+                "GEOID": "3032800",
+                "NAME": "Great Falls"
+            }
+        }
+    ]
+}

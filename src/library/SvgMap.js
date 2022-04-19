@@ -1,7 +1,11 @@
 import React from 'react'
-import { css } from '@emotion/react'
+// import { css } from '@emotion/react'
 
-import { geoPath, geoMercator, geoAlbers } from 'd3-geo'
+import {
+    geoPath,
+    // geoMercator,
+    geoAlbers
+} from 'd3-geo'
 
 // Adapt SVG-based mapping rig from ... https://observablehq.com/@eidietrich/geojson-mapping-rig
 // TODO
@@ -49,7 +53,7 @@ export class Map extends React.Component {
             textAnchor,
         } = this.props
 
-        if (layers.length === 0) throw 'No layers provided to map'
+        if (layers.length === 0) console.warn('No layers provided to map')
 
         const plotWidth = width - margin.right - margin.left
         const plotHeight = height - margin.top - margin.bottom
@@ -98,6 +102,7 @@ const FEATURE_DEFAULT_STYLE = {
     stroke: d => '#fff',
     strokeWidth: d => 1,
     strokeOpacity: d => 1,
+    strokeLinejoin: d => 'round',
 }
 
 export class FeatureLayer {
@@ -130,6 +135,7 @@ export class FeatureLayer {
                         stroke={this.style.stroke(p)}
                         strokeWidth={this.style.strokeWidth(p)}
                         strokeOpacity={this.style.strokeOpacity(p)}
+                        strokeLinejoin={this.style.strokeLinejoin(p)}
                     />
                 })
             }

@@ -83,6 +83,9 @@ const Layout = ({ children, siteHed, siteSubhed }) => {
                     </div>
                 </div>
 
+                <div>TK — Simple Navbar, similar to Capitol Tracker</div>
+                <br />
+
                 {/* <div css={navCss}>
           <Nav />
         </div> */}

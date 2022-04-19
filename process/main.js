@@ -1,6 +1,7 @@
 const {
     getJson,
     writeJson,
+    copyFile,
     makeUrlKey,
 } = require('../utils/functions.js')
 
@@ -28,7 +29,7 @@ const RACES = [
     {
         key: 'PSC-District-5',
         label: 'Public Service Commission District 5',
-        description: `One of five seats on Montana's utility regulation board. District includes Kalispell and Helena,`,
+        description: `One of five seats on Montana's utility regulation board. District includes Kalispell and Helena.`,
         note: `Each party's winning candidate in the June 7 primary will advance to the Nov. 8 general election.`
     },
     {
@@ -48,6 +49,8 @@ const RACES = [
 ]
 
 const main = () => {
+    copyFile('inputs/cms/overview.json', 'src/data/overview.json')
+
     const candidates = getJson('inputs/cms/candidates.json')
     candidates.forEach(candidate => {
         candidate.urlKey = makeUrlKey(candidate.Name)

@@ -12,15 +12,6 @@ module.exports = {
   plugins: [
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-emotion",
-    // // Unnecessary?
-    // {
-    //   resolve: `gatsby-source-graphql`,
-    //   options: {
-    //     typeName: `CMS`,
-    //     fieldName: 'content',
-    //     url: `http://localhost:1337/graphql`
-    //   }
-    // },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -36,19 +27,20 @@ module.exports = {
         path: `${__dirname}/src/images`,
       },
     },
+    `gatsby-plugin-sharp`,
+    `gatsby-transformer-sharp`,
     {
       resolve: 'gatsby-plugin-google-analytics',
       options: {
         "trackingId": "G-ZVEKZ4L9EE"
       }
     },
-    {
-      resolve: `gatsby-plugin-parsely-analytics`,
-      options: {
-        apikey: 'montanafreepress.org',
-        enableInDevelopment: false // send page views when NODE_ENV !== prod
-      }
-    },
-    `gatsby-plugin-webpack-size`,
+    // {
+    //   resolve: `gatsby-plugin-parsely-analytics`,
+    //   options: {
+    //     apikey: 'montanafreepress.org',
+    //     enableInDevelopment: false // send page views when NODE_ENV !== prod
+    //   }
+    // },
   ]
 };

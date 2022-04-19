@@ -1,19 +1,29 @@
 import * as React from "react"
 import { Map, FeatureLayer, PointLayer } from '../library/SvgMap'
 
-// Data layers
+// Base layers
 import counties from '../data/geo-counties.json'
 import cities from '../data/geo-cities.json'
 import lakes from '../data/geo-lakes.json'
 import highways from '../data/geo-highways.json'
 import reservations from '../data/geo-reservations.json'
 
-const BASE_MAP = [
+// District layers
+import psc from '../data/geo-psc-districts.json'
+import congressional from '../data/geo-congressional-rw2.json'
+
+const BASE_MAP_CONFIG = {
+    width: 600,
+    height: 400,
+    margin: { top: 20, left: 10, right: 10, bottom: 20 },
+}
+
+const BASE_MAP_LAYERS = [
     new FeatureLayer({
         key: 'counties',
         geodata: counties,
         featureStyle: {
-            // fill: d => d.NAME === 'GALLATIN' ? 'red' : 'blue'
+            fill: d => '#e0d4b8',
         }
     }),
     new FeatureLayer({
@@ -54,48 +64,107 @@ const BASE_MAP = [
     })
 ]
 
+const districtFeatureStyle = (selAccessor) => {
+    return {
+        fill: d => '#fff',
+        fillOpacity: d => (selAccessor(d)) ? 0 : 0.8,
+        stroke: d => '#222',
+        strokeWidth: d => 1,
+        strokeOpacity: d => 0.2,
+    }
+}
+const highlightStyle = {
+    fill: d => 'none',
+    stroke: d => 'black',
+    strokeWidth: d => 2,
+}
+
 export const raceMaps = [
     {
         "key": "US-House-1-West",
         "map": <Map
-            width={600}
-            height={350}
-            margin={{ top: 10, left: 10, right: 10, bottom: 10 }}
+            {...BASE_MAP_CONFIG}
             layers={[
-                ...BASE_MAP
+                ...BASE_MAP_LAYERS,
+                new FeatureLayer({
+                    key: 'district',
+                    geodata: congressional,
+                    featureStyle: districtFeatureStyle(d => d.ID === 1),
+                }),
+                new FeatureLayer({
+                    key: 'highlight',
+                    geodata: {
+                        ...congressional,
+                        features: congressional.features.filter(d => d.properties.ID === 1)
+                    },
+                    featureStyle: highlightStyle,
+                })
             ]}
         />
     },
     {
         "key": "US-House-2-East",
         "map": <Map
-            width={600}
-            height={350}
-            margin={{ top: 10, left: 10, right: 10, bottom: 10 }}
+            {...BASE_MAP_CONFIG}
             layers={[
-                ...BASE_MAP
+                ...BASE_MAP_LAYERS,
+                new FeatureLayer({
+                    key: 'district',
+                    geodata: congressional,
+                    featureStyle: districtFeatureStyle(d => d.ID === 2),
+                }),
+                new FeatureLayer({
+                    key: 'highlight',
+                    geodata: {
+                        ...congressional,
+                        features: congressional.features.filter(d => d.properties.ID === 2)
+                    },
+                    featureStyle: highlightStyle,
+                })
             ]}
         />
     },
     {
         "key": "PSC-District-1",
         "map": <Map
-            width={600}
-            height={350}
-            margin={{ top: 10, left: 10, right: 10, bottom: 10 }}
+            {...BASE_MAP_CONFIG}
             layers={[
-                ...BASE_MAP
+                ...BASE_MAP_LAYERS,
+                new FeatureLayer({
+                    key: 'district',
+                    geodata: psc,
+                    featureStyle: districtFeatureStyle(d => d.district === '1'),
+                }),
+                new FeatureLayer({
+                    key: 'highlight',
+                    geodata: {
+                        ...psc,
+                        features: psc.features.filter(d => d.properties.district === '1')
+                    },
+                    featureStyle: highlightStyle,
+                })
             ]}
         />
     },
     {
         "key": "PSC-District-5",
         "map": <Map
-            width={600}
-            height={350}
-            margin={{ top: 10, left: 10, right: 10, bottom: 10 }}
+            {...BASE_MAP_CONFIG}
             layers={[
-                ...BASE_MAP
+                ...BASE_MAP_LAYERS,
+                new FeatureLayer({
+                    key: 'district',
+                    geodata: psc,
+                    featureStyle: districtFeatureStyle(d => d.district === '5'),
+                }),
+                new FeatureLayer({
+                    key: 'highlight',
+                    geodata: {
+                        ...psc,
+                        features: psc.features.filter(d => d.properties.district === '5')
+                    },
+                    featureStyle: highlightStyle,
+                })
             ]}
         />
     },

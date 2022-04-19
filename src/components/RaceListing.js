@@ -1,9 +1,10 @@
 import React from 'react'
 import { css } from '@emotion/react'
-
 import { Link } from 'gatsby'
 
 import { raceMaps } from '../config/map-config'
+
+import Portrait from './Portrait'
 
 import {
     partyColor
@@ -45,7 +46,7 @@ const style = css`
     .Candidate {
         border: 1px solid var(--tan6);
         background-color: var(--tan1);
-        box-shadow: 1px 1px 2px #bbb;
+        box-shadow: 1px 1px 3px #666;
 
         position: relative;
         margin: 0.5em;
@@ -58,13 +59,13 @@ const style = css`
             :hover {
                 text-decoration: none;
                 color: var(--link);
-                opacity: 0.9;
+                /* opacity: 0.9; */
+                background-color: #eee;
             }
         }
 
         .portrait {
-            width: 100px;
-            height: 100px;
+            width: 90px;
             background-color: #666;
         }
         .col {
@@ -77,6 +78,8 @@ const style = css`
             }
             .summary {
                 font-style: italic;
+                font-size: 0.9em;
+                line-height: 1em;
             }
             .fakelink {
                 color: var(--tan5);
@@ -117,7 +120,7 @@ const PARTIES = [
 const Race = props => {
     const { label, description, note, candidates, isNonpartisan, districtMap } = props
     return < div className="Race" >
-        <h3 className="hed">{label}</h3>
+        <h2 className="hed">{label}</h2>
         <div className="description">{description}</div>
         <div className="district-map">{districtMap}</div>
         <div className="slates">
@@ -151,10 +154,16 @@ const PartySlate = props => {
 
 const Candidate = props => {
     const { Name, SummaryLine, Party, urlKey } = props
-    const color = partyColor(Party)
-    const portraitBarCss = css`border-top: 8px solid ${color};`
+    // const color = partyColor(Party)
+    // const portraitBarCss = css`border-top: 8px solid ${color};`
     return <div className="Candidate"><Link to={`/candidates/${urlKey}`}>
-        <div className="portrait" css={portraitBarCss}></div>
+        {/* <div className="portrait" css={portraitBarCss}></div> */}
+        <div className="portrait">
+            <Portrait
+                filename={`${urlKey}.png`}
+                barColor={partyColor(Party)}
+            />
+        </div>
         <div className="col">
             <div className="name">{Name}</div>
             <div className="summary">{SummaryLine}</div>

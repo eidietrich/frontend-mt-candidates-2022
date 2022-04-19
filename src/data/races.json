@@ -19,23 +19,25 @@
         "updatedAt": "2022-04-13T19:25:05.078Z",
         "publishedAt": "2022-04-13T19:25:05.075Z",
         "Party": "R",
+        "CampaignYoutubeUrl": null,
         "urlKey": "jane-doe"
       },
       {
-        "Name": "John Doe",
-        "SummaryLine": "6th-generation Montanan",
+        "Name": "Matt Rosendale",
+        "SummaryLine": "Incumbent U.S. Representative for Montana at-large",
         "LongSummary": "This is a place for a 2-3 summary of a candidate's backgound, candidacy etc. Plan is to display it on candidate page but not overview page. Separate from SummaryLine, which is intended to be a one-clause description w/ name + profession details.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Duis in orci arcu. Phasellus non risus volutpat, aliquet sapien ac, vulputate lorem. Curabitur nec lorem imperdiet, mollis tellus quis, eleifend lacus. Aenean imperdiet, ipsum nec dapibus fringilla, diam dolor blandit diam, malesuada feugiat urna elit non nulla. Praesent mauris lorem, facilisis vel tempor vitae, iaculis volutpat leo. Pellentesque sodales elit in vehicula dignissim.\n\nProin egestas eget erat ut tempus. Sed eget purus fringilla, tincidunt nunc a, congue odio. Praesent non pretium lectus, at tincidunt velit. Maecenas augue purus, porttitor sed purus quis, eleifend maximus magna. Fusce laoreet dignissim arcu, sodales vulputate purus tincidunt ut. Morbi auctor neque non vestibulum imperdiet. Nam vel sem neque. Vivamus elementum ex sed aliquam sagittis. Proin justo enim, commodo lobortis urna sed, luctus porta orci. Sed sed ultricies sapien.\n\n",
         "Race": "US-House-1-West",
-        "CampaignWebsiteUrl": "https://montanafreepress.org/",
-        "CampaignFBPageUrl": "https://www.facebook.com/mtfreepress",
-        "CampaignTwitterUrl": "https://twitter.com/mtfreepress/",
-        "CampaignInstagramUrl": "https://www.instagram.com/mtfreepress/",
+        "CampaignWebsiteUrl": "https://mattformontana.com/",
+        "CampaignFBPageUrl": "https://www.facebook.com/MattForMontana/",
+        "CampaignTwitterUrl": "https://twitter.com/MattForMontana",
+        "CampaignInstagramUrl": "https://www.instagram.com/mattformontana/",
         "MtfpCoverageTag": null,
         "createdAt": "2022-04-15T21:33:58.788Z",
-        "updatedAt": "2022-04-15T21:34:03.464Z",
+        "updatedAt": "2022-04-19T00:13:31.092Z",
         "publishedAt": "2022-04-15T21:34:03.459Z",
         "Party": "R",
-        "urlKey": "john-doe"
+        "CampaignYoutubeUrl": "https://www.youtube.com/user/MattForMontana",
+        "urlKey": "matt-rosendale"
       },
       {
         "Name": "Janet Doe",
@@ -51,6 +53,7 @@
         "updatedAt": "2022-04-15T21:34:21.481Z",
         "publishedAt": "2022-04-15T21:34:21.479Z",
         "Party": "R",
+        "CampaignYoutubeUrl": null,
         "urlKey": "janet-doe"
       },
       {
@@ -67,6 +70,7 @@
         "updatedAt": "2022-04-15T21:35:37.912Z",
         "publishedAt": "2022-04-15T21:35:37.909Z",
         "Party": "D",
+        "CampaignYoutubeUrl": null,
         "urlKey": "demmie-downer"
       },
       {
@@ -83,6 +87,7 @@
         "updatedAt": "2022-04-15T21:52:43.069Z",
         "publishedAt": "2022-04-15T21:52:43.066Z",
         "Party": "L",
+        "CampaignYoutubeUrl": null,
         "urlKey": "lonny-liberty"
       }
     ]
@@ -104,7 +109,7 @@
   {
     "key": "PSC-District-5",
     "label": "Public Service Commission District 5",
-    "description": "One of five seats on Montana's utility regulation board. District includes Kalispell and Helena,",
+    "description": "One of five seats on Montana's utility regulation board. District includes Kalispell and Helena.",
     "note": "Each party's winning candidate in the June 7 primary will advance to the Nov. 8 general election.",
     "candidates": []
   },
@@ -129,6 +134,7 @@
         "updatedAt": "2022-04-15T22:25:06.117Z",
         "publishedAt": "2022-04-15T22:25:06.114Z",
         "Party": "NP",
+        "CampaignYoutubeUrl": null,
         "urlKey": "judgy-mcjudgerson"
       }
     ]
