@@ -103,7 +103,7 @@ const RaceListing = props => {
     })
     return <div css={style}>
         {
-            mergedRaces.map(race => <Race {...race} />)
+            mergedRaces.map(race => <Race slug={race.key} {...race} />)
         }
     </div>
 }
@@ -118,8 +118,8 @@ const PARTIES = [
 ]
 
 const Race = props => {
-    const { label, description, note, candidates, isNonpartisan, districtMap } = props
-    return < div className="Race" >
+    const { slug, label, description, note, candidates, isNonpartisan, districtMap } = props
+    return <div className="Race" id={slug}>
         <h2 className="hed">{label}</h2>
         <div className="description">{description}</div>
         <div className="district-map">{districtMap}</div>

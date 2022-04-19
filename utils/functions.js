@@ -17,4 +17,5 @@ module.exports.copyFile = (src, dest) => {
     })
 }
 
-module.exports.makeUrlKey = name => name.toLowerCase().replace(/\s/g, '-')
+module.exports.makeUrlKey = name => name.toLowerCase()
+    .replace(/\s/g, '-').replace('/\./g', '').replace("'", '')

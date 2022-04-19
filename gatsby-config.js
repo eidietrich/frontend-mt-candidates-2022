@@ -35,6 +35,12 @@ module.exports = {
         "trackingId": "G-ZVEKZ4L9EE"
       }
     },
+    {
+      resolve: `gatsby-plugin-anchor-links`,
+      options: {
+        offset: -100,
+      }
+    },
     // {
     //   resolve: `gatsby-plugin-parsely-analytics`,
     //   options: {

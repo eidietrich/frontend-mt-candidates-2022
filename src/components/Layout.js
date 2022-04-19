@@ -2,7 +2,7 @@ import React from "react"
 import PropTypes from "prop-types"
 import { css } from '@emotion/react'
 // import { Link } from 'gatsby'
-// import Nav from './Nav'
+import Nav from '../library/Nav'
 
 import Footer from './Footer'
 import MTFPLogo from './MTFPLogo'
@@ -12,6 +12,8 @@ import { headerDonateUrl } from '../config/config'
 // import { formatTimeLong } from '../config/utils'
 
 import "../config/base.css"
+
+const { NODE_ENV } = process.env
 
 const style = css`
     position: relative;
@@ -59,18 +61,18 @@ const style = css`
         }
     }
 `
-// const navCss = css`
-//   position: sticky;
-//   top: 0px;
-//   background-color: white;
-//   margin: -10px;
-//   padding: 10px;
-//   margin-bottom: 0;
-//   padding-bottom: 0;
-//   z-index: 1000;
-// `
+const NAV_SCHEMA = [
+    { type: 'link', to: '/', label: 'Home' },
+    { type: 'anchor-link', to: '/#US-House-1-West', label: 'U.S. House' },
+    { type: 'anchor-link', to: '/#PSC-District-1', label: 'Public Service Commission' },
+    { type: 'anchor-link', to: '/#SupCo-1', label: 'MT Supreme Court' },
+    { type: 'anchor-link', to: '/#Ballot-Initiatives', label: 'Ballot initiatives' },
+    { type: 'anchor-link', to: '/#Montana-Legislature', label: 'Legislature' },
+    { type: 'anchor-link', to: '/#How-to-vote', label: 'How to vote' },
+]
 
 const Layout = ({ children, siteHed, siteSubhed }) => {
+
     return (
         <div css={style}>
             <div className="content">
@@ -83,17 +85,14 @@ const Layout = ({ children, siteHed, siteSubhed }) => {
                     </div>
                 </div>
 
-                <div>TK — Simple Navbar, similar to Capitol Tracker</div>
-                <br />
-
-                {/* <div css={navCss}>
-          <Nav />
-        </div> */}
-
+                <Nav schema={NAV_SCHEMA} />
                 <main>{children}</main>
             </div>
             <Footer />
-
+            {
+                // Parsely analytics script
+                (NODE_ENV === 'production') && <script id="parsely-cfg" src="//cdn.parsely.com/keys/montanafreepress.org/p.js"></script>
+            }
         </div>
     )
 }

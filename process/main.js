@@ -34,14 +34,14 @@ const RACES = [
     },
     {
         key: 'SupCo-1',
-        label: 'Montana Supreme Court seat 1',
+        label: 'Montana Supreme Court (Seat 1)',
         isNonpartisan: true,
         description: `One of seven seats on Montana's state Supreme Court (five of seven seats are out of cycle). Elected on a statewide basis.`,
         note: `Judical elections are officially nonpartisan. The two candidates for the seat who receive the most votes in the June 7 primary will advance to the Nov. 8 general election.`
     },
     {
         key: 'SupCo-2',
-        label: `Montana Supreme Court seat 2`,
+        label: `Montana Supreme Court (Seat 2)`,
         isNonpartisan: true,
         description: `One of seven seats on Montana's state Supreme Court (five of seven seats are out of cycle). Elected on a statewide basis.`,
         note: `Judical elections are officially nonpartisan. The two candidates for the seat who receive the most votes in the June 7 primary will advance to the Nov. 8 general election.`,
@@ -55,6 +55,7 @@ const main = () => {
     candidates.forEach(candidate => {
         candidate.urlKey = makeUrlKey(candidate.Name)
     })
+    console.log(candidates.map(d => d.Name))
     writeJson('src/data/candidates.json', candidates)
 
     const races = RACES.map(race => {

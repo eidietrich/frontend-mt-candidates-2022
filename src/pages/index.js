@@ -23,13 +23,13 @@ const IndexPage = () => {
       <hr />
       <RaceListing races={races} />
 
-      <h2>Ballot initiatives</h2>
+      <h2 id="Ballot-Initiatives">Ballot initiatives</h2>
       <ReactMarkdown>{overview.BallotMeasuresIntro}</ReactMarkdown>
 
-      <h2>Montana Legislature</h2>
+      <h2 id="Montana-Legislature">Montana Legislature</h2>
       <ReactMarkdown>{overview.LegislativeIntro}</ReactMarkdown>
 
-      <h2>How to vote</h2>
+      <h2 id="How-to-vote">How to vote</h2>
       <div>TK discuss how much to include here</div>
 
       {/* TODO: Shift this over to CMS */}
