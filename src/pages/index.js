@@ -18,7 +18,7 @@ const SEO_DESCRIPTION = 'TK SEO description'
 const IndexPage = () => {
   return <div>
     <SEO title={SEO_HED} description={SEO_DESCRIPTION} />
-    <Layout siteHed={TITLE} siteSubhed={SUBTITLE}>
+    <Layout maxWidth={1000} siteHed={TITLE} siteSubhed={SUBTITLE}>
       <ReactMarkdown>{overview.LedeIn}</ReactMarkdown>
       <hr />
       <RaceListing races={races} />

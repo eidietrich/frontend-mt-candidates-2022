@@ -4,11 +4,10 @@ import { css } from '@emotion/react'
 import ReactMarkdown from 'react-markdown'
 
 import Layout from "../components/Layout"
-import SEO from '../components/Seo'
+import Seo from '../components/Seo'
 import Portrait from '../components/Portrait'
 
 import { partyColor } from '../config/config'
-import { raceMaps } from '../config/map-config'
 import { web, facebook, twitter, instagram, youtube } from '../library/icons'
 
 const style = css`
@@ -52,15 +51,8 @@ const style = css`
             color: #666;
         }
     }
-    /* .portrait {
-        display: block;
-        width: 100px;
-        height: 100px;
-        background-color: #666;
-    } */
     
 `
-
 const partyFull = {
     'R': 'Republican candidate',
     'D': 'Democratic candidate',
@@ -75,7 +67,7 @@ class CandidatePage extends Component {
         const {
             urlKey,
             Name,
-            Race,
+            // Race,
             Party,
             SummaryLine,
             LongSummary,
@@ -87,8 +79,11 @@ class CandidatePage extends Component {
             race, // raceInfo
         } = data
         const color = partyColor(Party)
+        if (!urlKey) {
+            console.log('d', data)
+        }
         return (<div css={style}>
-            <SEO
+            <Seo
                 title={`Montana's 2022 election | ${Name}`}
                 description={`TK`}
             />
@@ -100,7 +95,7 @@ class CandidatePage extends Component {
                         <Portrait filename={`${urlKey}.png`} barColor={color} />
                     </div>
                     <div className="info">
-                        <div className="label">2022 {partyFull[Party]} for {race.label}</div>
+                        {/* <div className="label">2022 {partyFull[Party]} for {race.label}</div> */}
                         <h1>{Name}</h1>
                         <div className="short-summary">{SummaryLine}</div>
                         <div className="social-links-label">Campaign website</div>

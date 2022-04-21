@@ -10,6 +10,12 @@ import {
     partyColor
 } from '../config/config'
 
+const surname = fullName => {
+    const split = fullName.split(' ')
+    if (split.length < 2) return ''
+    return split[1]
+}
+
 const style = css`
     .Race {
         border-bottom: 1px solid var(--tan2);
@@ -65,7 +71,7 @@ const style = css`
         }
 
         .portrait {
-            width: 90px;
+            width: 75px;
             background-color: #666;
         }
         .col {
@@ -147,7 +153,11 @@ const PartySlate = props => {
     return <div className="PartySlate" css={slateStyle}>
         <div className="party-name" style={{ color: color }}>{party}</div>
         <div className="candidates">
-            {candidates.map(candidate => <Candidate key={candidate.urlKey} {...candidate} />)}
+            {candidates
+                .sort((a, b) => surname(a.Name).localeCompare(surname(b.Name)))
+                .sort((a, b) => a.isIncumbent ? -1 : 0)
+                .map(candidate => <Candidate key={candidate.urlKey} {...candidate} />)
+            }
         </div>
     </div>
 }

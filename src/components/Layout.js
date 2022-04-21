@@ -20,8 +20,8 @@ const style = css`
     .content {
         padding: 10px;
         padding-top: 0;
-        max-width: 800px;
         margin: auto;
+        max-width: 800px;
     }
     .header {
         background-color: var(--tan7);
@@ -71,11 +71,11 @@ const NAV_SCHEMA = [
     { type: 'anchor-link', to: '/#How-to-vote', label: 'How to vote' },
 ]
 
-const Layout = ({ children, siteHed, siteSubhed }) => {
+const Layout = ({ children, siteHed, siteSubhed, maxWidth }) => {
 
     return (
         <div css={style}>
-            <div className="content">
+            <div className="content" style={{ maxWidth: maxWidth || '800px' }}>
                 <div className="header">
                     {/* <h1 css={titleStyle}><Link to="/">{siteHed}</Link></h1> */}
                     <h1 className="title">{siteHed}</h1>

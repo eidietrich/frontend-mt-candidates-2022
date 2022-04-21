@@ -1,4 +1,6 @@
-const fs = require('fs')
+// const fs = require('fs')
+const fs = require('fs-extra')
+
 
 module.exports.getJson = (path) => JSON.parse(fs.readFileSync(path))
 
@@ -17,5 +19,12 @@ module.exports.copyFile = (src, dest) => {
     })
 }
 
+module.exports.copyFolderContents = (src, dest) => {
+    fs.copy(src, dest, err => {
+        if (err) throw err
+        console.log('Copied dir to', dest)
+    })
+}
+
 module.exports.makeUrlKey = name => name.toLowerCase()
-    .replace(/\s/g, '-').replace('/\./g', '').replace("'", '')
+    .replace(/\s/g, '-').replace('.', '').replace("'", '')

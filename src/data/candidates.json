@@ -10,9 +10,10 @@
     "CampaignInstagramUrl": "https://www.instagram.com/mattformontana/",
     "MtfpCoverageTag": "",
     "createdAt": "2022-04-15T21:33:58.788Z",
-    "updatedAt": "2022-04-19T19:27:59.406Z",
+    "updatedAt": "2022-04-20T21:10:45.320Z",
     "Party": "R",
     "CampaignYoutubeUrl": "https://www.youtube.com/user/MattForMontana",
+    "isIncumbent": true,
     "urlKey": "matt-rosendale"
   },
   {
@@ -26,9 +27,10 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:08:42.864Z",
-    "updatedAt": "2022-04-19T19:08:42.864Z",
+    "updatedAt": "2022-04-20T21:10:01.730Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
+    "isIncumbent": false,
     "urlKey": "mitch-heuer"
   },
   {
@@ -42,9 +44,10 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:09:04.516Z",
-    "updatedAt": "2022-04-19T19:09:04.516Z",
+    "updatedAt": "2022-04-20T21:10:09.388Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
+    "isIncumbent": false,
     "urlKey": "matt-jette"
   },
   {
@@ -58,14 +61,15 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:09:16.811Z",
-    "updatedAt": "2022-04-19T19:09:16.811Z",
+    "updatedAt": "2022-04-20T21:10:17.922Z",
     "Party": "L",
     "CampaignYoutubeUrl": null,
+    "isIncumbent": false,
     "urlKey": "john-lamb"
   },
   {
     "Name": "Al Olszewski",
-    "SummaryLine": "Summary TK",
+    "SummaryLine": "Former Kalispell state senator",
     "LongSummary": null,
     "Race": "US-House-1-West",
     "CampaignWebsiteUrl": null,
@@ -74,9 +78,10 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:09:36.240Z",
-    "updatedAt": "2022-04-19T19:09:36.240Z",
+    "updatedAt": "2022-04-20T21:10:24.187Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
+    "isIncumbent": false,
     "urlKey": "al-olszewski"
   },
   {
@@ -90,9 +95,10 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:09:50.929Z",
-    "updatedAt": "2022-04-19T19:09:50.929Z",
+    "updatedAt": "2022-04-20T21:10:31.202Z",
     "Party": "D",
     "CampaignYoutubeUrl": null,
+    "isIncumbent": false,
     "urlKey": "monica-tranel"
   },
   {
@@ -106,14 +112,15 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:09:59.802Z",
-    "updatedAt": "2022-04-19T19:09:59.802Z",
+    "updatedAt": "2022-04-20T21:10:37.317Z",
     "Party": "D",
     "CampaignYoutubeUrl": null,
+    "isIncumbent": false,
     "urlKey": "tom-winter"
   },
   {
     "Name": "Ryan Zinke",
-    "SummaryLine": "Former congressman and Interior Secretary",
+    "SummaryLine": "Former U.S. Interior Secretary",
     "LongSummary": null,
     "Race": "US-House-1-West",
     "CampaignWebsiteUrl": null,
@@ -122,9 +129,10 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:10:13.274Z",
-    "updatedAt": "2022-04-19T19:10:30.443Z",
+    "updatedAt": "2022-04-20T21:21:06.101Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
+    "isIncumbent": false,
     "urlKey": "ryan-zinke"
   },
   {
@@ -138,13 +146,14 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:10:46.697Z",
-    "updatedAt": "2022-04-19T19:10:46.697Z",
+    "updatedAt": "2022-04-20T21:10:53.911Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
+    "isIncumbent": false,
     "urlKey": "kyle-austin"
   },
   {
-    "Name": "Jame Boyette",
+    "Name": "James Boyette",
     "SummaryLine": "Summary TK",
     "LongSummary": null,
     "Race": "US-House-2-East",
@@ -154,14 +163,15 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:11:06.334Z",
-    "updatedAt": "2022-04-19T19:11:06.334Z",
+    "updatedAt": "2022-04-20T21:11:02.919Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
-    "urlKey": "jame-boyette"
+    "isIncumbent": false,
+    "urlKey": "james-boyette"
   },
   {
     "Name": "Gary Buchanan",
-    "SummaryLine": "Summary TK",
+    "SummaryLine": "Billings financial advisor",
     "LongSummary": null,
     "Race": "US-House-2-East",
     "CampaignWebsiteUrl": null,
@@ -170,9 +180,10 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:11:23.926Z",
-    "updatedAt": "2022-04-19T19:11:23.926Z",
+    "updatedAt": "2022-04-20T21:21:34.893Z",
     "Party": "I",
     "CampaignYoutubeUrl": null,
+    "isIncumbent": false,
     "urlKey": "gary-buchanan"
   },
   {
@@ -186,9 +197,10 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:11:51.881Z",
-    "updatedAt": "2022-04-19T19:11:51.881Z",
+    "updatedAt": "2022-04-20T21:11:09.181Z",
     "Party": "L",
     "CampaignYoutubeUrl": null,
+    "isIncumbent": false,
     "urlKey": "sam-rankin"
   },
   {
@@ -202,9 +214,10 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:12:16.334Z",
-    "updatedAt": "2022-04-19T19:12:16.334Z",
+    "updatedAt": "2022-04-20T21:11:17.929Z",
     "Party": "D",
     "CampaignYoutubeUrl": null,
+    "isIncumbent": false,
     "urlKey": "penny-ronning"
   },
   {
@@ -218,14 +231,15 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:12:33.866Z",
-    "updatedAt": "2022-04-19T19:12:33.866Z",
+    "updatedAt": "2022-04-20T21:11:24.412Z",
     "Party": "L",
     "CampaignYoutubeUrl": null,
+    "isIncumbent": false,
     "urlKey": "roger-roots"
   },
   {
-    "Name": "Mark Sweeny",
-    "SummaryLine": "State senator",
+    "Name": "Mark Sweeney",
+    "SummaryLine": "State senator, Philipsburg",
     "LongSummary": null,
     "Race": "US-House-2-East",
     "CampaignWebsiteUrl": null,
@@ -234,10 +248,11 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:12:44.107Z",
-    "updatedAt": "2022-04-19T19:12:56.489Z",
+    "updatedAt": "2022-04-20T21:11:37.633Z",
     "Party": "D",
     "CampaignYoutubeUrl": null,
-    "urlKey": "mark-sweeny"
+    "isIncumbent": false,
+    "urlKey": "mark-sweeney"
   },
   {
     "Name": "Samuel Thomas",
@@ -250,9 +265,10 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:13:12.060Z",
-    "updatedAt": "2022-04-19T19:13:12.060Z",
+    "updatedAt": "2022-04-20T21:11:43.179Z",
     "Party": "L",
     "CampaignYoutubeUrl": null,
+    "isIncumbent": false,
     "urlKey": "samuel-thomas"
   },
   {
@@ -266,9 +282,10 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:13:47.545Z",
-    "updatedAt": "2022-04-19T19:13:47.545Z",
+    "updatedAt": "2022-04-20T21:11:47.741Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
+    "isIncumbent": false,
     "urlKey": "charles-walking-child"
   },
   {
@@ -282,9 +299,10 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:14:04.239Z",
-    "updatedAt": "2022-04-19T19:14:04.239Z",
+    "updatedAt": "2022-04-20T21:11:52.818Z",
     "Party": "D",
     "CampaignYoutubeUrl": null,
+    "isIncumbent": false,
     "urlKey": "skylar-williams"
   },
   {
@@ -298,10 +316,11 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:14:21.264Z",
-    "updatedAt": "2022-04-19T19:14:21.264Z",
+    "updatedAt": "2022-04-20T21:08:31.610Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
-    "urlKey": "k.-webb-galbreath"
+    "isIncumbent": false,
+    "urlKey": "k-webb-galbreath"
   },
   {
     "Name": "Randy Pinocci",
@@ -314,13 +333,14 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:14:39.307Z",
-    "updatedAt": "2022-04-19T19:14:39.307Z",
+    "updatedAt": "2022-04-20T21:08:58.274Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
+    "isIncumbent": true,
     "urlKey": "randy-pinocci"
   },
   {
-    "Name": "Ann Bukacek",
+    "Name": "Annie Bukacek",
     "SummaryLine": "Summary TK",
     "LongSummary": null,
     "Race": "PSC-District-5",
@@ -330,10 +350,11 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:15:04.056Z",
-    "updatedAt": "2022-04-19T19:15:13.079Z",
+    "updatedAt": "2022-04-20T21:09:07.005Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
-    "urlKey": "ann-bukacek"
+    "isIncumbent": false,
+    "urlKey": "annie-bukacek"
   },
   {
     "Name": "Dean Crabb",
@@ -346,9 +367,10 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:15:27.534Z",
-    "updatedAt": "2022-04-19T19:16:12.574Z",
+    "updatedAt": "2022-04-20T21:09:11.618Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
+    "isIncumbent": false,
     "urlKey": "dean-crabb"
   },
   {
@@ -362,9 +384,10 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:15:41.634Z",
-    "updatedAt": "2022-04-19T19:15:41.634Z",
+    "updatedAt": "2022-04-20T21:09:16.441Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
+    "isIncumbent": false,
     "urlKey": "joe-dooling"
   },
   {
@@ -378,9 +401,10 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:15:58.758Z",
-    "updatedAt": "2022-04-19T19:15:58.758Z",
+    "updatedAt": "2022-04-20T21:09:21.109Z",
     "Party": "D",
     "CampaignYoutubeUrl": null,
+    "isIncumbent": false,
     "urlKey": "kevin-hamm"
   },
   {
@@ -394,9 +418,10 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:18:50.984Z",
-    "updatedAt": "2022-04-19T19:18:50.984Z",
+    "updatedAt": "2022-04-20T21:09:26.418Z",
     "Party": "D",
     "CampaignYoutubeUrl": null,
+    "isIncumbent": false,
     "urlKey": "john-repke"
   },
   {
@@ -410,9 +435,10 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:19:02.002Z",
-    "updatedAt": "2022-04-19T19:32:25.528Z",
+    "updatedAt": "2022-04-20T21:09:30.710Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
+    "isIncumbent": false,
     "urlKey": "derek-skees"
   },
   {
@@ -426,14 +452,15 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:19:17.161Z",
-    "updatedAt": "2022-04-19T19:19:17.161Z",
+    "updatedAt": "2022-04-20T21:09:35.378Z",
     "Party": "NP",
     "CampaignYoutubeUrl": null,
-    "urlKey": "bill-d'alton"
+    "isIncumbent": false,
+    "urlKey": "bill-dalton"
   },
   {
     "Name": "Jim Rice",
-    "SummaryLine": "Summary TK",
+    "SummaryLine": "Incumbent Supreme Court Justice",
     "LongSummary": null,
     "Race": "SupCo-1",
     "CampaignWebsiteUrl": null,
@@ -442,14 +469,15 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:19:29.798Z",
-    "updatedAt": "2022-04-19T19:19:29.798Z",
+    "updatedAt": "2022-04-20T21:09:41.434Z",
     "Party": "NP",
     "CampaignYoutubeUrl": null,
+    "isIncumbent": true,
     "urlKey": "jim-rice"
   },
   {
     "Name": "James Brown",
-    "SummaryLine": "Summary TK",
+    "SummaryLine": "Public Service Commission chairman",
     "LongSummary": null,
     "Race": "SupCo-2",
     "CampaignWebsiteUrl": null,
@@ -458,14 +486,15 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:19:40.855Z",
-    "updatedAt": "2022-04-19T19:19:40.855Z",
+    "updatedAt": "2022-04-20T21:09:45.981Z",
     "Party": "NP",
     "CampaignYoutubeUrl": null,
+    "isIncumbent": false,
     "urlKey": "james-brown"
   },
   {
     "Name": "Ingrid Gustafson",
-    "SummaryLine": "Summary TK",
+    "SummaryLine": "Incumbent Supreme Court Justice",
     "LongSummary": null,
     "Race": "SupCo-2",
     "CampaignWebsiteUrl": null,
@@ -474,14 +503,15 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:19:57.997Z",
-    "updatedAt": "2022-04-19T19:19:57.997Z",
+    "updatedAt": "2022-04-20T21:09:50.821Z",
     "Party": "NP",
     "CampaignYoutubeUrl": null,
+    "isIncumbent": true,
     "urlKey": "ingrid-gustafson"
   },
   {
     "Name": "Mike McMahon",
-    "SummaryLine": "Summary TK",
+    "SummaryLine": "Helena District Court Judge",
     "LongSummary": null,
     "Race": "SupCo-2",
     "CampaignWebsiteUrl": null,
@@ -490,9 +520,10 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:20:38.566Z",
-    "updatedAt": "2022-04-19T19:20:38.566Z",
+    "updatedAt": "2022-04-20T21:09:56.370Z",
     "Party": "NP",
     "CampaignYoutubeUrl": null,
+    "isIncumbent": false,
     "urlKey": "mike-mcmahon"
   },
   {
@@ -506,9 +537,10 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:29:22.619Z",
-    "updatedAt": "2022-04-19T19:29:22.619Z",
+    "updatedAt": "2022-04-20T21:20:48.249Z",
     "Party": "D",
     "CampaignYoutubeUrl": null,
+    "isIncumbent": false,
     "urlKey": "cora-neumann"
   }
 ]

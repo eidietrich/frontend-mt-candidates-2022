@@ -1,6 +1,8 @@
 NOTES.md
 .DS_Store
 
+inputs/portraits/raw
+inputs/portraits/processing.psd
 
 node_modules/
 .cache/

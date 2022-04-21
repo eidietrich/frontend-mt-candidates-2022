@@ -2,6 +2,7 @@ const {
     getJson,
     writeJson,
     copyFile,
+    copyFolderContents,
     makeUrlKey,
 } = require('../utils/functions.js')
 
@@ -50,12 +51,12 @@ const RACES = [
 
 const main = () => {
     copyFile('inputs/cms/overview.json', 'src/data/overview.json')
+    copyFolderContents('inputs/portraits/processed/', 'src/images/candidates/')
 
     const candidates = getJson('inputs/cms/candidates.json')
     candidates.forEach(candidate => {
         candidate.urlKey = makeUrlKey(candidate.Name)
     })
-    console.log(candidates.map(d => d.Name))
     writeJson('src/data/candidates.json', candidates)
 
     const races = RACES.map(race => {

@@ -12,6 +12,11 @@ exports.createPages = async ({
     candidates.forEach(candidate => {
         const key = candidate.urlKey
         const race = races.find(d => d.key === candidate.Race)
+        console.log(key, race.key, race.label)
+
+        if (!race) {
+            console.warn('Missing race', candidate.Race)
+        }
 
         candidate.race = {
             // only including necessary data here
