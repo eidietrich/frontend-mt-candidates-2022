@@ -8,7 +8,7 @@ module.exports = {
     // hacky as hell
     image: "https://apps.montanafreepress.org/montana-legislature-lawsuit-tracker/images/lawsuit-tracker.png"
   },
-  pathPrefix: `/url-tk`, // for S3
+  pathPrefix: `/demo-montana-2022-voter-guide`, // for S3
   plugins: [
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-emotion",

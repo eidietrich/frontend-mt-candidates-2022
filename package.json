@@ -12,7 +12,9 @@
     "start": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "deploy:demo": "gatsby build --prefix-paths && aws s3 sync public s3://apps.montanafreepress.org/demo-montana-2022-voter-guide --delete",
+    "decache:demo": "aws cloudfront create-invalidation --distribution-id E3LVPS3XLJHLL5 --paths \"/demo-montana-2022-voter-guide/*\""
   },
   "dependencies": {
     "@emotion/react": "^11.9.0",
