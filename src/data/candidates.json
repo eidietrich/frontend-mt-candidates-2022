@@ -10,11 +10,346 @@
     "CampaignInstagramUrl": "https://www.instagram.com/mattformontana/",
     "MtfpCoverageTag": "",
     "createdAt": "2022-04-15T21:33:58.788Z",
-    "updatedAt": "2022-04-20T21:10:45.320Z",
+    "updatedAt": "2022-04-22T17:17:24.029Z",
     "Party": "R",
     "CampaignYoutubeUrl": "https://www.youtube.com/user/MattForMontana",
     "isIncumbent": true,
-    "urlKey": "matt-rosendale"
+    "FECCandidateName": "ROSENDALE, MATT MR.",
+    "urlKey": "matt-rosendale",
+    "partyLabel": "Republican candidate",
+    "finances": [
+      {
+        "isThisCandidate": true,
+        "displayName": "Matt Rosendale",
+        "party": "R",
+        "candidateId": "H4MT00050",
+        "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
+        "totalReceipts": 1368829.3,
+        "totalDisbursments": 595522.1,
+        "cashOnHand": 1036146.24,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Mark Sweeney",
+        "party": "D",
+        "candidateId": "H2MT02159",
+        "candidateCommitteeName": "SWEENEY FOR MONTANA",
+        "totalReceipts": 82448,
+        "totalDisbursments": 27334.12,
+        "cashOnHand": 55113.88,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Gary Buchanan",
+        "party": "I",
+        "candidateId": "H2MT02167",
+        "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
+        "totalReceipts": 40573,
+        "totalDisbursments": 2838.66,
+        "cashOnHand": 37734.34,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Penny Ronning",
+        "party": "D",
+        "candidateId": "H2MT02134",
+        "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
+        "totalReceipts": 39021.45,
+        "totalDisbursments": 27211.84,
+        "cashOnHand": 11809.61,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Skylar Williams",
+        "party": "D",
+        "candidateId": "H2MT02118",
+        "candidateCommitteeName": "SKYLARFORUSCONGRESS",
+        "totalReceipts": 3213.51,
+        "totalDisbursments": 3054.42,
+        "cashOnHand": 159.09,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "James Boyette",
+        "party": "R",
+        "candidateId": "H2MT02142",
+        "candidateCommitteeName": "JAMES BOYETTE",
+        "totalReceipts": 2250,
+        "totalDisbursments": 4468.07,
+        "cashOnHand": -2218.07,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Kyle Austin",
+        "party": "R",
+        "candidateId": "H2MT02175",
+        "candidateCommitteeName": "AUSTIN FOR CONGRESS",
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Sam Rankin",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Roger Roots",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Samuel Thomas",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Charles Walking Child",
+        "party": "R",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      }
+    ],
+    "articles": [
+      {
+        "title": "Bipartisan old guard lines up behind independent U.S. House candidate",
+        "date": "2022-04-08T16:41:14",
+        "link": "https://montanafreepress.org/2022/04/08/bipartisan-old-guard-backs-gary-buchanan-us-house/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "2022 elections"
+            },
+            {
+              "name": "gary buchanan"
+            },
+            {
+              "name": "Matt Rosendale"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            },
+            {
+              "name": "U.S. House race"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/2022-04-08-gary-buchanan-at-rally/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Eric Dietrich"
+          }
+        },
+        "excerpt": "<p>Businessman Gary Buchanan of Billings, challenging Rep. Matt Rosendale for Montana’s eastern congressional district U.S. House seat, touts support from political figures who were among the most prominent Montana Republicans and Democrats in the 1990s and 2000s.</p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><amp-social-share type=\"twitter\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Twitter\" title=\"Click to share on Twitter\"></amp-social-share><amp-social-share type=\"facebook\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Facebook\" title=\"Click to share on Facebook\" data-param-app_id=\"249643311490\"></amp-social-share><amp-social-share type=\"email\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Email\" title=\"Click to share on Email\" data-target=\"_self\"></amp-social-share></div></div></div>"
+      },
+      {
+        "title": "Congressional races up and running",
+        "date": "2022-03-14T18:50:03",
+        "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "Al Olszewski"
+            },
+            {
+              "name": "Charles Walking Child"
+            },
+            {
+              "name": "Cora Neumann"
+            },
+            {
+              "name": "gary buchanan"
+            },
+            {
+              "name": "James Boyette"
+            },
+            {
+              "name": "John Lamb"
+            },
+            {
+              "name": "Kyle Austin"
+            },
+            {
+              "name": "Mark Sweeney"
+            },
+            {
+              "name": "Matt Jette"
+            },
+            {
+              "name": "Matt Rosendale"
+            },
+            {
+              "name": "Mitch Heuer"
+            },
+            {
+              "name": "Monica Tranel"
+            },
+            {
+              "name": "Penny Ronning"
+            },
+            {
+              "name": "Roger Roots"
+            },
+            {
+              "name": "Ryan Zinke"
+            },
+            {
+              "name": "Sam Rankin"
+            },
+            {
+              "name": "Samuel Thomas"
+            },
+            {
+              "name": "Skylar Williams"
+            },
+            {
+              "name": "Tom Winter"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/u-s-capitol-building-washington-d-c-united-states-of-america/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>Candidates running for seats in the U.S. House of Representatives have filed their requisite paperwork as of 5 p.m. Monday, bringing the tally of active candidates up to nine Republicans, six Democrats, four Libertarians and one Independent. </p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><amp-social-share type=\"twitter\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Twitter\" title=\"Click to share on Twitter\"></amp-social-share><amp-social-share type=\"facebook\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Facebook\" title=\"Click to share on Facebook\" data-param-app_id=\"249643311490\"></amp-social-share><amp-social-share type=\"email\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Email\" title=\"Click to share on Email\" data-target=\"_self\"></amp-social-share></div></div></div>"
+      }
+    ],
+    "race": {
+      "label": "U.S. House District 2 (East)",
+      "opponents": [
+        {
+          "urlKey": "kyle-austin",
+          "Name": "Kyle Austin",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "james-boyette",
+          "Name": "James Boyette",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "gary-buchanan",
+          "Name": "Gary Buchanan",
+          "SummaryLine": "Billings financial advisor",
+          "isIncumbent": false,
+          "Party": "I"
+        },
+        {
+          "urlKey": "sam-rankin",
+          "Name": "Sam Rankin",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "L"
+        },
+        {
+          "urlKey": "penny-ronning",
+          "Name": "Penny Ronning",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "roger-roots",
+          "Name": "Roger Roots",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "L"
+        },
+        {
+          "urlKey": "mark-sweeney",
+          "Name": "Mark Sweeney",
+          "SummaryLine": "State senator, Philipsburg",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "samuel-thomas",
+          "Name": "Samuel Thomas",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "L"
+        },
+        {
+          "urlKey": "charles-walking-child",
+          "Name": "Charles Walking Child",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "skylar-williams",
+          "Name": "Skylar Williams",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        }
+      ],
+      "hasQuestionnaire": true,
+      "campaignFinance": "fec"
+    }
   },
   {
     "Name": "Mitch Heuer",
@@ -27,11 +362,249 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:08:42.864Z",
-    "updatedAt": "2022-04-20T21:10:01.730Z",
+    "updatedAt": "2022-04-22T17:21:59.500Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "urlKey": "mitch-heuer"
+    "FECCandidateName": "HEUER, MITCH MR.",
+    "urlKey": "mitch-heuer",
+    "partyLabel": "Republican candidate",
+    "finances": [
+      {
+        "isThisCandidate": false,
+        "displayName": "Ryan Zinke",
+        "party": "R",
+        "candidateId": "H4MT01041",
+        "candidateCommitteeName": "ZINKE FOR CONGRESS",
+        "totalReceipts": 2484819.24,
+        "totalDisbursments": 1272320.57,
+        "cashOnHand": 1212498.67,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Cora Neumann",
+        "party": "D",
+        "candidateId": "H2MT02100",
+        "candidateCommitteeName": "CORA FOR MONTANA",
+        "totalReceipts": 1172109.15,
+        "totalDisbursments": 388093.28,
+        "cashOnHand": 877958.24,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Al Olszewski",
+        "party": "R",
+        "candidateId": "H2MT02084",
+        "candidateCommitteeName": "AL FOR MONTANA",
+        "totalReceipts": 678063.92,
+        "totalDisbursments": 313268.1,
+        "cashOnHand": 364795.82,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Monica Tranel",
+        "party": "D",
+        "candidateId": "H2MT02092",
+        "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
+        "totalReceipts": 675152.88,
+        "totalDisbursments": 408992.4,
+        "cashOnHand": 266160.48,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Tom Winter",
+        "party": "D",
+        "candidateId": "H0MT00090",
+        "candidateCommitteeName": "WINTER FOR MONTANA",
+        "totalReceipts": 94918.19,
+        "totalDisbursments": 78882.81,
+        "cashOnHand": 16035.38,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": true,
+        "displayName": "Mitch Heuer",
+        "party": "R",
+        "candidateId": "H2MT01136",
+        "candidateCommitteeName": "HEUER FOR CONGRESS",
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Matt Jette",
+        "party": "R",
+        "candidateId": "H2MT01110",
+        "candidateCommitteeName": "JETTE 4 MONTANA",
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "John Lamb",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      }
+    ],
+    "articles": [
+      {
+        "title": "Congressional races up and running",
+        "date": "2022-03-14T18:50:03",
+        "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "Al Olszewski"
+            },
+            {
+              "name": "Charles Walking Child"
+            },
+            {
+              "name": "Cora Neumann"
+            },
+            {
+              "name": "gary buchanan"
+            },
+            {
+              "name": "James Boyette"
+            },
+            {
+              "name": "John Lamb"
+            },
+            {
+              "name": "Kyle Austin"
+            },
+            {
+              "name": "Mark Sweeney"
+            },
+            {
+              "name": "Matt Jette"
+            },
+            {
+              "name": "Matt Rosendale"
+            },
+            {
+              "name": "Mitch Heuer"
+            },
+            {
+              "name": "Monica Tranel"
+            },
+            {
+              "name": "Penny Ronning"
+            },
+            {
+              "name": "Roger Roots"
+            },
+            {
+              "name": "Ryan Zinke"
+            },
+            {
+              "name": "Sam Rankin"
+            },
+            {
+              "name": "Samuel Thomas"
+            },
+            {
+              "name": "Skylar Williams"
+            },
+            {
+              "name": "Tom Winter"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/u-s-capitol-building-washington-d-c-united-states-of-america/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>Candidates running for seats in the U.S. House of Representatives have filed their requisite paperwork as of 5 p.m. Monday, bringing the tally of active candidates up to nine Republicans, six Democrats, four Libertarians and one Independent. </p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><amp-social-share type=\"twitter\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Twitter\" title=\"Click to share on Twitter\"></amp-social-share><amp-social-share type=\"facebook\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Facebook\" title=\"Click to share on Facebook\" data-param-app_id=\"249643311490\"></amp-social-share><amp-social-share type=\"email\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Email\" title=\"Click to share on Email\" data-target=\"_self\"></amp-social-share></div></div></div>"
+      }
+    ],
+    "race": {
+      "label": "U.S. House District 1 (West)",
+      "opponents": [
+        {
+          "urlKey": "matt-jette",
+          "Name": "Matt Jette",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "john-lamb",
+          "Name": "John Lamb",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "L"
+        },
+        {
+          "urlKey": "al-olszewski",
+          "Name": "Al Olszewski",
+          "SummaryLine": "Former Kalispell state senator",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "monica-tranel",
+          "Name": "Monica Tranel",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "tom-winter",
+          "Name": "Tom Winter",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "ryan-zinke",
+          "Name": "Ryan Zinke",
+          "SummaryLine": "Former U.S. Interior Secretary",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "cora-neumann",
+          "Name": "Cora Neumann",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        }
+      ],
+      "hasQuestionnaire": true,
+      "campaignFinance": "fec"
+    }
   },
   {
     "Name": "Matt Jette",
@@ -44,11 +617,249 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:09:04.516Z",
-    "updatedAt": "2022-04-20T21:10:09.388Z",
+    "updatedAt": "2022-04-22T17:22:13.560Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "urlKey": "matt-jette"
+    "FECCandidateName": "JETTE, MATTHEW DR.",
+    "urlKey": "matt-jette",
+    "partyLabel": "Republican candidate",
+    "finances": [
+      {
+        "isThisCandidate": false,
+        "displayName": "Ryan Zinke",
+        "party": "R",
+        "candidateId": "H4MT01041",
+        "candidateCommitteeName": "ZINKE FOR CONGRESS",
+        "totalReceipts": 2484819.24,
+        "totalDisbursments": 1272320.57,
+        "cashOnHand": 1212498.67,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Cora Neumann",
+        "party": "D",
+        "candidateId": "H2MT02100",
+        "candidateCommitteeName": "CORA FOR MONTANA",
+        "totalReceipts": 1172109.15,
+        "totalDisbursments": 388093.28,
+        "cashOnHand": 877958.24,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Al Olszewski",
+        "party": "R",
+        "candidateId": "H2MT02084",
+        "candidateCommitteeName": "AL FOR MONTANA",
+        "totalReceipts": 678063.92,
+        "totalDisbursments": 313268.1,
+        "cashOnHand": 364795.82,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Monica Tranel",
+        "party": "D",
+        "candidateId": "H2MT02092",
+        "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
+        "totalReceipts": 675152.88,
+        "totalDisbursments": 408992.4,
+        "cashOnHand": 266160.48,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Tom Winter",
+        "party": "D",
+        "candidateId": "H0MT00090",
+        "candidateCommitteeName": "WINTER FOR MONTANA",
+        "totalReceipts": 94918.19,
+        "totalDisbursments": 78882.81,
+        "cashOnHand": 16035.38,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Mitch Heuer",
+        "party": "R",
+        "candidateId": "H2MT01136",
+        "candidateCommitteeName": "HEUER FOR CONGRESS",
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": true,
+        "displayName": "Matt Jette",
+        "party": "R",
+        "candidateId": "H2MT01110",
+        "candidateCommitteeName": "JETTE 4 MONTANA",
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "John Lamb",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      }
+    ],
+    "articles": [
+      {
+        "title": "Congressional races up and running",
+        "date": "2022-03-14T18:50:03",
+        "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "Al Olszewski"
+            },
+            {
+              "name": "Charles Walking Child"
+            },
+            {
+              "name": "Cora Neumann"
+            },
+            {
+              "name": "gary buchanan"
+            },
+            {
+              "name": "James Boyette"
+            },
+            {
+              "name": "John Lamb"
+            },
+            {
+              "name": "Kyle Austin"
+            },
+            {
+              "name": "Mark Sweeney"
+            },
+            {
+              "name": "Matt Jette"
+            },
+            {
+              "name": "Matt Rosendale"
+            },
+            {
+              "name": "Mitch Heuer"
+            },
+            {
+              "name": "Monica Tranel"
+            },
+            {
+              "name": "Penny Ronning"
+            },
+            {
+              "name": "Roger Roots"
+            },
+            {
+              "name": "Ryan Zinke"
+            },
+            {
+              "name": "Sam Rankin"
+            },
+            {
+              "name": "Samuel Thomas"
+            },
+            {
+              "name": "Skylar Williams"
+            },
+            {
+              "name": "Tom Winter"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/u-s-capitol-building-washington-d-c-united-states-of-america/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>Candidates running for seats in the U.S. House of Representatives have filed their requisite paperwork as of 5 p.m. Monday, bringing the tally of active candidates up to nine Republicans, six Democrats, four Libertarians and one Independent. </p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><amp-social-share type=\"twitter\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Twitter\" title=\"Click to share on Twitter\"></amp-social-share><amp-social-share type=\"facebook\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Facebook\" title=\"Click to share on Facebook\" data-param-app_id=\"249643311490\"></amp-social-share><amp-social-share type=\"email\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Email\" title=\"Click to share on Email\" data-target=\"_self\"></amp-social-share></div></div></div>"
+      }
+    ],
+    "race": {
+      "label": "U.S. House District 1 (West)",
+      "opponents": [
+        {
+          "urlKey": "mitch-heuer",
+          "Name": "Mitch Heuer",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "john-lamb",
+          "Name": "John Lamb",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "L"
+        },
+        {
+          "urlKey": "al-olszewski",
+          "Name": "Al Olszewski",
+          "SummaryLine": "Former Kalispell state senator",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "monica-tranel",
+          "Name": "Monica Tranel",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "tom-winter",
+          "Name": "Tom Winter",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "ryan-zinke",
+          "Name": "Ryan Zinke",
+          "SummaryLine": "Former U.S. Interior Secretary",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "cora-neumann",
+          "Name": "Cora Neumann",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        }
+      ],
+      "hasQuestionnaire": true,
+      "campaignFinance": "fec"
+    }
   },
   {
     "Name": "John Lamb",
@@ -65,7 +876,245 @@
     "Party": "L",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "urlKey": "john-lamb"
+    "FECCandidateName": null,
+    "urlKey": "john-lamb",
+    "partyLabel": "Libertarian candidate",
+    "finances": [
+      {
+        "isThisCandidate": false,
+        "displayName": "Ryan Zinke",
+        "party": "R",
+        "candidateId": "H4MT01041",
+        "candidateCommitteeName": "ZINKE FOR CONGRESS",
+        "totalReceipts": 2484819.24,
+        "totalDisbursments": 1272320.57,
+        "cashOnHand": 1212498.67,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Cora Neumann",
+        "party": "D",
+        "candidateId": "H2MT02100",
+        "candidateCommitteeName": "CORA FOR MONTANA",
+        "totalReceipts": 1172109.15,
+        "totalDisbursments": 388093.28,
+        "cashOnHand": 877958.24,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Al Olszewski",
+        "party": "R",
+        "candidateId": "H2MT02084",
+        "candidateCommitteeName": "AL FOR MONTANA",
+        "totalReceipts": 678063.92,
+        "totalDisbursments": 313268.1,
+        "cashOnHand": 364795.82,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Monica Tranel",
+        "party": "D",
+        "candidateId": "H2MT02092",
+        "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
+        "totalReceipts": 675152.88,
+        "totalDisbursments": 408992.4,
+        "cashOnHand": 266160.48,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Tom Winter",
+        "party": "D",
+        "candidateId": "H0MT00090",
+        "candidateCommitteeName": "WINTER FOR MONTANA",
+        "totalReceipts": 94918.19,
+        "totalDisbursments": 78882.81,
+        "cashOnHand": 16035.38,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Mitch Heuer",
+        "party": "R",
+        "candidateId": "H2MT01136",
+        "candidateCommitteeName": "HEUER FOR CONGRESS",
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Matt Jette",
+        "party": "R",
+        "candidateId": "H2MT01110",
+        "candidateCommitteeName": "JETTE 4 MONTANA",
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": true,
+        "displayName": "John Lamb",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      }
+    ],
+    "articles": [
+      {
+        "title": "Congressional races up and running",
+        "date": "2022-03-14T18:50:03",
+        "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "Al Olszewski"
+            },
+            {
+              "name": "Charles Walking Child"
+            },
+            {
+              "name": "Cora Neumann"
+            },
+            {
+              "name": "gary buchanan"
+            },
+            {
+              "name": "James Boyette"
+            },
+            {
+              "name": "John Lamb"
+            },
+            {
+              "name": "Kyle Austin"
+            },
+            {
+              "name": "Mark Sweeney"
+            },
+            {
+              "name": "Matt Jette"
+            },
+            {
+              "name": "Matt Rosendale"
+            },
+            {
+              "name": "Mitch Heuer"
+            },
+            {
+              "name": "Monica Tranel"
+            },
+            {
+              "name": "Penny Ronning"
+            },
+            {
+              "name": "Roger Roots"
+            },
+            {
+              "name": "Ryan Zinke"
+            },
+            {
+              "name": "Sam Rankin"
+            },
+            {
+              "name": "Samuel Thomas"
+            },
+            {
+              "name": "Skylar Williams"
+            },
+            {
+              "name": "Tom Winter"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/u-s-capitol-building-washington-d-c-united-states-of-america/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>Candidates running for seats in the U.S. House of Representatives have filed their requisite paperwork as of 5 p.m. Monday, bringing the tally of active candidates up to nine Republicans, six Democrats, four Libertarians and one Independent. </p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><amp-social-share type=\"twitter\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Twitter\" title=\"Click to share on Twitter\"></amp-social-share><amp-social-share type=\"facebook\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Facebook\" title=\"Click to share on Facebook\" data-param-app_id=\"249643311490\"></amp-social-share><amp-social-share type=\"email\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Email\" title=\"Click to share on Email\" data-target=\"_self\"></amp-social-share></div></div></div>"
+      }
+    ],
+    "race": {
+      "label": "U.S. House District 1 (West)",
+      "opponents": [
+        {
+          "urlKey": "mitch-heuer",
+          "Name": "Mitch Heuer",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "matt-jette",
+          "Name": "Matt Jette",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "al-olszewski",
+          "Name": "Al Olszewski",
+          "SummaryLine": "Former Kalispell state senator",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "monica-tranel",
+          "Name": "Monica Tranel",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "tom-winter",
+          "Name": "Tom Winter",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "ryan-zinke",
+          "Name": "Ryan Zinke",
+          "SummaryLine": "Former U.S. Interior Secretary",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "cora-neumann",
+          "Name": "Cora Neumann",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        }
+      ],
+      "hasQuestionnaire": true,
+      "campaignFinance": "fec"
+    }
   },
   {
     "Name": "Al Olszewski",
@@ -78,11 +1127,249 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:09:36.240Z",
-    "updatedAt": "2022-04-20T21:10:24.187Z",
+    "updatedAt": "2022-04-22T17:23:04.982Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "urlKey": "al-olszewski"
+    "FECCandidateName": "OLSZEWSKI, AL",
+    "urlKey": "al-olszewski",
+    "partyLabel": "Republican candidate",
+    "finances": [
+      {
+        "isThisCandidate": false,
+        "displayName": "Ryan Zinke",
+        "party": "R",
+        "candidateId": "H4MT01041",
+        "candidateCommitteeName": "ZINKE FOR CONGRESS",
+        "totalReceipts": 2484819.24,
+        "totalDisbursments": 1272320.57,
+        "cashOnHand": 1212498.67,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Cora Neumann",
+        "party": "D",
+        "candidateId": "H2MT02100",
+        "candidateCommitteeName": "CORA FOR MONTANA",
+        "totalReceipts": 1172109.15,
+        "totalDisbursments": 388093.28,
+        "cashOnHand": 877958.24,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": true,
+        "displayName": "Al Olszewski",
+        "party": "R",
+        "candidateId": "H2MT02084",
+        "candidateCommitteeName": "AL FOR MONTANA",
+        "totalReceipts": 678063.92,
+        "totalDisbursments": 313268.1,
+        "cashOnHand": 364795.82,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Monica Tranel",
+        "party": "D",
+        "candidateId": "H2MT02092",
+        "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
+        "totalReceipts": 675152.88,
+        "totalDisbursments": 408992.4,
+        "cashOnHand": 266160.48,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Tom Winter",
+        "party": "D",
+        "candidateId": "H0MT00090",
+        "candidateCommitteeName": "WINTER FOR MONTANA",
+        "totalReceipts": 94918.19,
+        "totalDisbursments": 78882.81,
+        "cashOnHand": 16035.38,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Mitch Heuer",
+        "party": "R",
+        "candidateId": "H2MT01136",
+        "candidateCommitteeName": "HEUER FOR CONGRESS",
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Matt Jette",
+        "party": "R",
+        "candidateId": "H2MT01110",
+        "candidateCommitteeName": "JETTE 4 MONTANA",
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "John Lamb",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      }
+    ],
+    "articles": [
+      {
+        "title": "Congressional races up and running",
+        "date": "2022-03-14T18:50:03",
+        "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "Al Olszewski"
+            },
+            {
+              "name": "Charles Walking Child"
+            },
+            {
+              "name": "Cora Neumann"
+            },
+            {
+              "name": "gary buchanan"
+            },
+            {
+              "name": "James Boyette"
+            },
+            {
+              "name": "John Lamb"
+            },
+            {
+              "name": "Kyle Austin"
+            },
+            {
+              "name": "Mark Sweeney"
+            },
+            {
+              "name": "Matt Jette"
+            },
+            {
+              "name": "Matt Rosendale"
+            },
+            {
+              "name": "Mitch Heuer"
+            },
+            {
+              "name": "Monica Tranel"
+            },
+            {
+              "name": "Penny Ronning"
+            },
+            {
+              "name": "Roger Roots"
+            },
+            {
+              "name": "Ryan Zinke"
+            },
+            {
+              "name": "Sam Rankin"
+            },
+            {
+              "name": "Samuel Thomas"
+            },
+            {
+              "name": "Skylar Williams"
+            },
+            {
+              "name": "Tom Winter"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/u-s-capitol-building-washington-d-c-united-states-of-america/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>Candidates running for seats in the U.S. House of Representatives have filed their requisite paperwork as of 5 p.m. Monday, bringing the tally of active candidates up to nine Republicans, six Democrats, four Libertarians and one Independent. </p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><amp-social-share type=\"twitter\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Twitter\" title=\"Click to share on Twitter\"></amp-social-share><amp-social-share type=\"facebook\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Facebook\" title=\"Click to share on Facebook\" data-param-app_id=\"249643311490\"></amp-social-share><amp-social-share type=\"email\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Email\" title=\"Click to share on Email\" data-target=\"_self\"></amp-social-share></div></div></div>"
+      }
+    ],
+    "race": {
+      "label": "U.S. House District 1 (West)",
+      "opponents": [
+        {
+          "urlKey": "mitch-heuer",
+          "Name": "Mitch Heuer",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "matt-jette",
+          "Name": "Matt Jette",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "john-lamb",
+          "Name": "John Lamb",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "L"
+        },
+        {
+          "urlKey": "monica-tranel",
+          "Name": "Monica Tranel",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "tom-winter",
+          "Name": "Tom Winter",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "ryan-zinke",
+          "Name": "Ryan Zinke",
+          "SummaryLine": "Former U.S. Interior Secretary",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "cora-neumann",
+          "Name": "Cora Neumann",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        }
+      ],
+      "hasQuestionnaire": true,
+      "campaignFinance": "fec"
+    }
   },
   {
     "Name": "Monica Tranel",
@@ -95,11 +1382,249 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:09:50.929Z",
-    "updatedAt": "2022-04-20T21:10:31.202Z",
+    "updatedAt": "2022-04-22T17:23:27.569Z",
     "Party": "D",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "urlKey": "monica-tranel"
+    "FECCandidateName": "TRANEL, MONICA",
+    "urlKey": "monica-tranel",
+    "partyLabel": "Democratic candidate",
+    "finances": [
+      {
+        "isThisCandidate": false,
+        "displayName": "Ryan Zinke",
+        "party": "R",
+        "candidateId": "H4MT01041",
+        "candidateCommitteeName": "ZINKE FOR CONGRESS",
+        "totalReceipts": 2484819.24,
+        "totalDisbursments": 1272320.57,
+        "cashOnHand": 1212498.67,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Cora Neumann",
+        "party": "D",
+        "candidateId": "H2MT02100",
+        "candidateCommitteeName": "CORA FOR MONTANA",
+        "totalReceipts": 1172109.15,
+        "totalDisbursments": 388093.28,
+        "cashOnHand": 877958.24,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Al Olszewski",
+        "party": "R",
+        "candidateId": "H2MT02084",
+        "candidateCommitteeName": "AL FOR MONTANA",
+        "totalReceipts": 678063.92,
+        "totalDisbursments": 313268.1,
+        "cashOnHand": 364795.82,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": true,
+        "displayName": "Monica Tranel",
+        "party": "D",
+        "candidateId": "H2MT02092",
+        "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
+        "totalReceipts": 675152.88,
+        "totalDisbursments": 408992.4,
+        "cashOnHand": 266160.48,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Tom Winter",
+        "party": "D",
+        "candidateId": "H0MT00090",
+        "candidateCommitteeName": "WINTER FOR MONTANA",
+        "totalReceipts": 94918.19,
+        "totalDisbursments": 78882.81,
+        "cashOnHand": 16035.38,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Mitch Heuer",
+        "party": "R",
+        "candidateId": "H2MT01136",
+        "candidateCommitteeName": "HEUER FOR CONGRESS",
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Matt Jette",
+        "party": "R",
+        "candidateId": "H2MT01110",
+        "candidateCommitteeName": "JETTE 4 MONTANA",
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "John Lamb",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      }
+    ],
+    "articles": [
+      {
+        "title": "Congressional races up and running",
+        "date": "2022-03-14T18:50:03",
+        "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "Al Olszewski"
+            },
+            {
+              "name": "Charles Walking Child"
+            },
+            {
+              "name": "Cora Neumann"
+            },
+            {
+              "name": "gary buchanan"
+            },
+            {
+              "name": "James Boyette"
+            },
+            {
+              "name": "John Lamb"
+            },
+            {
+              "name": "Kyle Austin"
+            },
+            {
+              "name": "Mark Sweeney"
+            },
+            {
+              "name": "Matt Jette"
+            },
+            {
+              "name": "Matt Rosendale"
+            },
+            {
+              "name": "Mitch Heuer"
+            },
+            {
+              "name": "Monica Tranel"
+            },
+            {
+              "name": "Penny Ronning"
+            },
+            {
+              "name": "Roger Roots"
+            },
+            {
+              "name": "Ryan Zinke"
+            },
+            {
+              "name": "Sam Rankin"
+            },
+            {
+              "name": "Samuel Thomas"
+            },
+            {
+              "name": "Skylar Williams"
+            },
+            {
+              "name": "Tom Winter"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/u-s-capitol-building-washington-d-c-united-states-of-america/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>Candidates running for seats in the U.S. House of Representatives have filed their requisite paperwork as of 5 p.m. Monday, bringing the tally of active candidates up to nine Republicans, six Democrats, four Libertarians and one Independent. </p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><amp-social-share type=\"twitter\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Twitter\" title=\"Click to share on Twitter\"></amp-social-share><amp-social-share type=\"facebook\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Facebook\" title=\"Click to share on Facebook\" data-param-app_id=\"249643311490\"></amp-social-share><amp-social-share type=\"email\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Email\" title=\"Click to share on Email\" data-target=\"_self\"></amp-social-share></div></div></div>"
+      }
+    ],
+    "race": {
+      "label": "U.S. House District 1 (West)",
+      "opponents": [
+        {
+          "urlKey": "mitch-heuer",
+          "Name": "Mitch Heuer",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "matt-jette",
+          "Name": "Matt Jette",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "john-lamb",
+          "Name": "John Lamb",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "L"
+        },
+        {
+          "urlKey": "al-olszewski",
+          "Name": "Al Olszewski",
+          "SummaryLine": "Former Kalispell state senator",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "tom-winter",
+          "Name": "Tom Winter",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "ryan-zinke",
+          "Name": "Ryan Zinke",
+          "SummaryLine": "Former U.S. Interior Secretary",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "cora-neumann",
+          "Name": "Cora Neumann",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        }
+      ],
+      "hasQuestionnaire": true,
+      "campaignFinance": "fec"
+    }
   },
   {
     "Name": "Tom Winter",
@@ -112,11 +1637,249 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:09:59.802Z",
-    "updatedAt": "2022-04-20T21:10:37.317Z",
+    "updatedAt": "2022-04-22T17:23:45.554Z",
     "Party": "D",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "urlKey": "tom-winter"
+    "FECCandidateName": "WINTER, THOMAS",
+    "urlKey": "tom-winter",
+    "partyLabel": "Democratic candidate",
+    "finances": [
+      {
+        "isThisCandidate": false,
+        "displayName": "Ryan Zinke",
+        "party": "R",
+        "candidateId": "H4MT01041",
+        "candidateCommitteeName": "ZINKE FOR CONGRESS",
+        "totalReceipts": 2484819.24,
+        "totalDisbursments": 1272320.57,
+        "cashOnHand": 1212498.67,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Cora Neumann",
+        "party": "D",
+        "candidateId": "H2MT02100",
+        "candidateCommitteeName": "CORA FOR MONTANA",
+        "totalReceipts": 1172109.15,
+        "totalDisbursments": 388093.28,
+        "cashOnHand": 877958.24,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Al Olszewski",
+        "party": "R",
+        "candidateId": "H2MT02084",
+        "candidateCommitteeName": "AL FOR MONTANA",
+        "totalReceipts": 678063.92,
+        "totalDisbursments": 313268.1,
+        "cashOnHand": 364795.82,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Monica Tranel",
+        "party": "D",
+        "candidateId": "H2MT02092",
+        "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
+        "totalReceipts": 675152.88,
+        "totalDisbursments": 408992.4,
+        "cashOnHand": 266160.48,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": true,
+        "displayName": "Tom Winter",
+        "party": "D",
+        "candidateId": "H0MT00090",
+        "candidateCommitteeName": "WINTER FOR MONTANA",
+        "totalReceipts": 94918.19,
+        "totalDisbursments": 78882.81,
+        "cashOnHand": 16035.38,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Mitch Heuer",
+        "party": "R",
+        "candidateId": "H2MT01136",
+        "candidateCommitteeName": "HEUER FOR CONGRESS",
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Matt Jette",
+        "party": "R",
+        "candidateId": "H2MT01110",
+        "candidateCommitteeName": "JETTE 4 MONTANA",
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "John Lamb",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      }
+    ],
+    "articles": [
+      {
+        "title": "Congressional races up and running",
+        "date": "2022-03-14T18:50:03",
+        "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "Al Olszewski"
+            },
+            {
+              "name": "Charles Walking Child"
+            },
+            {
+              "name": "Cora Neumann"
+            },
+            {
+              "name": "gary buchanan"
+            },
+            {
+              "name": "James Boyette"
+            },
+            {
+              "name": "John Lamb"
+            },
+            {
+              "name": "Kyle Austin"
+            },
+            {
+              "name": "Mark Sweeney"
+            },
+            {
+              "name": "Matt Jette"
+            },
+            {
+              "name": "Matt Rosendale"
+            },
+            {
+              "name": "Mitch Heuer"
+            },
+            {
+              "name": "Monica Tranel"
+            },
+            {
+              "name": "Penny Ronning"
+            },
+            {
+              "name": "Roger Roots"
+            },
+            {
+              "name": "Ryan Zinke"
+            },
+            {
+              "name": "Sam Rankin"
+            },
+            {
+              "name": "Samuel Thomas"
+            },
+            {
+              "name": "Skylar Williams"
+            },
+            {
+              "name": "Tom Winter"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/u-s-capitol-building-washington-d-c-united-states-of-america/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>Candidates running for seats in the U.S. House of Representatives have filed their requisite paperwork as of 5 p.m. Monday, bringing the tally of active candidates up to nine Republicans, six Democrats, four Libertarians and one Independent. </p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><amp-social-share type=\"twitter\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Twitter\" title=\"Click to share on Twitter\"></amp-social-share><amp-social-share type=\"facebook\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Facebook\" title=\"Click to share on Facebook\" data-param-app_id=\"249643311490\"></amp-social-share><amp-social-share type=\"email\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Email\" title=\"Click to share on Email\" data-target=\"_self\"></amp-social-share></div></div></div>"
+      }
+    ],
+    "race": {
+      "label": "U.S. House District 1 (West)",
+      "opponents": [
+        {
+          "urlKey": "mitch-heuer",
+          "Name": "Mitch Heuer",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "matt-jette",
+          "Name": "Matt Jette",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "john-lamb",
+          "Name": "John Lamb",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "L"
+        },
+        {
+          "urlKey": "al-olszewski",
+          "Name": "Al Olszewski",
+          "SummaryLine": "Former Kalispell state senator",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "monica-tranel",
+          "Name": "Monica Tranel",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "ryan-zinke",
+          "Name": "Ryan Zinke",
+          "SummaryLine": "Former U.S. Interior Secretary",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "cora-neumann",
+          "Name": "Cora Neumann",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        }
+      ],
+      "hasQuestionnaire": true,
+      "campaignFinance": "fec"
+    }
   },
   {
     "Name": "Ryan Zinke",
@@ -129,11 +1892,249 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:10:13.274Z",
-    "updatedAt": "2022-04-20T21:21:06.101Z",
+    "updatedAt": "2022-04-22T17:24:02.146Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "urlKey": "ryan-zinke"
+    "FECCandidateName": "ZINKE, RYAN K",
+    "urlKey": "ryan-zinke",
+    "partyLabel": "Republican candidate",
+    "finances": [
+      {
+        "isThisCandidate": true,
+        "displayName": "Ryan Zinke",
+        "party": "R",
+        "candidateId": "H4MT01041",
+        "candidateCommitteeName": "ZINKE FOR CONGRESS",
+        "totalReceipts": 2484819.24,
+        "totalDisbursments": 1272320.57,
+        "cashOnHand": 1212498.67,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Cora Neumann",
+        "party": "D",
+        "candidateId": "H2MT02100",
+        "candidateCommitteeName": "CORA FOR MONTANA",
+        "totalReceipts": 1172109.15,
+        "totalDisbursments": 388093.28,
+        "cashOnHand": 877958.24,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Al Olszewski",
+        "party": "R",
+        "candidateId": "H2MT02084",
+        "candidateCommitteeName": "AL FOR MONTANA",
+        "totalReceipts": 678063.92,
+        "totalDisbursments": 313268.1,
+        "cashOnHand": 364795.82,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Monica Tranel",
+        "party": "D",
+        "candidateId": "H2MT02092",
+        "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
+        "totalReceipts": 675152.88,
+        "totalDisbursments": 408992.4,
+        "cashOnHand": 266160.48,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Tom Winter",
+        "party": "D",
+        "candidateId": "H0MT00090",
+        "candidateCommitteeName": "WINTER FOR MONTANA",
+        "totalReceipts": 94918.19,
+        "totalDisbursments": 78882.81,
+        "cashOnHand": 16035.38,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Mitch Heuer",
+        "party": "R",
+        "candidateId": "H2MT01136",
+        "candidateCommitteeName": "HEUER FOR CONGRESS",
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Matt Jette",
+        "party": "R",
+        "candidateId": "H2MT01110",
+        "candidateCommitteeName": "JETTE 4 MONTANA",
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "John Lamb",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      }
+    ],
+    "articles": [
+      {
+        "title": "Congressional races up and running",
+        "date": "2022-03-14T18:50:03",
+        "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "Al Olszewski"
+            },
+            {
+              "name": "Charles Walking Child"
+            },
+            {
+              "name": "Cora Neumann"
+            },
+            {
+              "name": "gary buchanan"
+            },
+            {
+              "name": "James Boyette"
+            },
+            {
+              "name": "John Lamb"
+            },
+            {
+              "name": "Kyle Austin"
+            },
+            {
+              "name": "Mark Sweeney"
+            },
+            {
+              "name": "Matt Jette"
+            },
+            {
+              "name": "Matt Rosendale"
+            },
+            {
+              "name": "Mitch Heuer"
+            },
+            {
+              "name": "Monica Tranel"
+            },
+            {
+              "name": "Penny Ronning"
+            },
+            {
+              "name": "Roger Roots"
+            },
+            {
+              "name": "Ryan Zinke"
+            },
+            {
+              "name": "Sam Rankin"
+            },
+            {
+              "name": "Samuel Thomas"
+            },
+            {
+              "name": "Skylar Williams"
+            },
+            {
+              "name": "Tom Winter"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/u-s-capitol-building-washington-d-c-united-states-of-america/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>Candidates running for seats in the U.S. House of Representatives have filed their requisite paperwork as of 5 p.m. Monday, bringing the tally of active candidates up to nine Republicans, six Democrats, four Libertarians and one Independent. </p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><amp-social-share type=\"twitter\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Twitter\" title=\"Click to share on Twitter\"></amp-social-share><amp-social-share type=\"facebook\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Facebook\" title=\"Click to share on Facebook\" data-param-app_id=\"249643311490\"></amp-social-share><amp-social-share type=\"email\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Email\" title=\"Click to share on Email\" data-target=\"_self\"></amp-social-share></div></div></div>"
+      }
+    ],
+    "race": {
+      "label": "U.S. House District 1 (West)",
+      "opponents": [
+        {
+          "urlKey": "mitch-heuer",
+          "Name": "Mitch Heuer",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "matt-jette",
+          "Name": "Matt Jette",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "john-lamb",
+          "Name": "John Lamb",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "L"
+        },
+        {
+          "urlKey": "al-olszewski",
+          "Name": "Al Olszewski",
+          "SummaryLine": "Former Kalispell state senator",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "monica-tranel",
+          "Name": "Monica Tranel",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "tom-winter",
+          "Name": "Tom Winter",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "cora-neumann",
+          "Name": "Cora Neumann",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        }
+      ],
+      "hasQuestionnaire": true,
+      "campaignFinance": "fec"
+    }
   },
   {
     "Name": "Kyle Austin",
@@ -146,11 +2147,303 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:10:46.697Z",
-    "updatedAt": "2022-04-20T21:10:53.911Z",
+    "updatedAt": "2022-04-22T17:17:35.471Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "urlKey": "kyle-austin"
+    "FECCandidateName": "AUSTIN, KYLE RAY",
+    "urlKey": "kyle-austin",
+    "partyLabel": "Republican candidate",
+    "finances": [
+      {
+        "isThisCandidate": false,
+        "displayName": "Matt Rosendale",
+        "party": "R",
+        "candidateId": "H4MT00050",
+        "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
+        "totalReceipts": 1368829.3,
+        "totalDisbursments": 595522.1,
+        "cashOnHand": 1036146.24,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Mark Sweeney",
+        "party": "D",
+        "candidateId": "H2MT02159",
+        "candidateCommitteeName": "SWEENEY FOR MONTANA",
+        "totalReceipts": 82448,
+        "totalDisbursments": 27334.12,
+        "cashOnHand": 55113.88,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Gary Buchanan",
+        "party": "I",
+        "candidateId": "H2MT02167",
+        "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
+        "totalReceipts": 40573,
+        "totalDisbursments": 2838.66,
+        "cashOnHand": 37734.34,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Penny Ronning",
+        "party": "D",
+        "candidateId": "H2MT02134",
+        "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
+        "totalReceipts": 39021.45,
+        "totalDisbursments": 27211.84,
+        "cashOnHand": 11809.61,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Skylar Williams",
+        "party": "D",
+        "candidateId": "H2MT02118",
+        "candidateCommitteeName": "SKYLARFORUSCONGRESS",
+        "totalReceipts": 3213.51,
+        "totalDisbursments": 3054.42,
+        "cashOnHand": 159.09,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "James Boyette",
+        "party": "R",
+        "candidateId": "H2MT02142",
+        "candidateCommitteeName": "JAMES BOYETTE",
+        "totalReceipts": 2250,
+        "totalDisbursments": 4468.07,
+        "cashOnHand": -2218.07,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": true,
+        "displayName": "Kyle Austin",
+        "party": "R",
+        "candidateId": "H2MT02175",
+        "candidateCommitteeName": "AUSTIN FOR CONGRESS",
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Sam Rankin",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Roger Roots",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Samuel Thomas",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Charles Walking Child",
+        "party": "R",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      }
+    ],
+    "articles": [
+      {
+        "title": "Congressional races up and running",
+        "date": "2022-03-14T18:50:03",
+        "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "Al Olszewski"
+            },
+            {
+              "name": "Charles Walking Child"
+            },
+            {
+              "name": "Cora Neumann"
+            },
+            {
+              "name": "gary buchanan"
+            },
+            {
+              "name": "James Boyette"
+            },
+            {
+              "name": "John Lamb"
+            },
+            {
+              "name": "Kyle Austin"
+            },
+            {
+              "name": "Mark Sweeney"
+            },
+            {
+              "name": "Matt Jette"
+            },
+            {
+              "name": "Matt Rosendale"
+            },
+            {
+              "name": "Mitch Heuer"
+            },
+            {
+              "name": "Monica Tranel"
+            },
+            {
+              "name": "Penny Ronning"
+            },
+            {
+              "name": "Roger Roots"
+            },
+            {
+              "name": "Ryan Zinke"
+            },
+            {
+              "name": "Sam Rankin"
+            },
+            {
+              "name": "Samuel Thomas"
+            },
+            {
+              "name": "Skylar Williams"
+            },
+            {
+              "name": "Tom Winter"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/u-s-capitol-building-washington-d-c-united-states-of-america/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>Candidates running for seats in the U.S. House of Representatives have filed their requisite paperwork as of 5 p.m. Monday, bringing the tally of active candidates up to nine Republicans, six Democrats, four Libertarians and one Independent. </p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><amp-social-share type=\"twitter\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Twitter\" title=\"Click to share on Twitter\"></amp-social-share><amp-social-share type=\"facebook\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Facebook\" title=\"Click to share on Facebook\" data-param-app_id=\"249643311490\"></amp-social-share><amp-social-share type=\"email\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Email\" title=\"Click to share on Email\" data-target=\"_self\"></amp-social-share></div></div></div>"
+      }
+    ],
+    "race": {
+      "label": "U.S. House District 2 (East)",
+      "opponents": [
+        {
+          "urlKey": "matt-rosendale",
+          "Name": "Matt Rosendale",
+          "SummaryLine": "Incumbent U.S. Representative for Montana at-large",
+          "isIncumbent": true,
+          "Party": "R"
+        },
+        {
+          "urlKey": "james-boyette",
+          "Name": "James Boyette",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "gary-buchanan",
+          "Name": "Gary Buchanan",
+          "SummaryLine": "Billings financial advisor",
+          "isIncumbent": false,
+          "Party": "I"
+        },
+        {
+          "urlKey": "sam-rankin",
+          "Name": "Sam Rankin",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "L"
+        },
+        {
+          "urlKey": "penny-ronning",
+          "Name": "Penny Ronning",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "roger-roots",
+          "Name": "Roger Roots",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "L"
+        },
+        {
+          "urlKey": "mark-sweeney",
+          "Name": "Mark Sweeney",
+          "SummaryLine": "State senator, Philipsburg",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "samuel-thomas",
+          "Name": "Samuel Thomas",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "L"
+        },
+        {
+          "urlKey": "charles-walking-child",
+          "Name": "Charles Walking Child",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "skylar-williams",
+          "Name": "Skylar Williams",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        }
+      ],
+      "hasQuestionnaire": true,
+      "campaignFinance": "fec"
+    }
   },
   {
     "Name": "James Boyette",
@@ -163,11 +2456,303 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:11:06.334Z",
-    "updatedAt": "2022-04-20T21:11:02.919Z",
+    "updatedAt": "2022-04-22T17:17:46.800Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "urlKey": "james-boyette"
+    "FECCandidateName": "BOYETTE, JAMES MATTHEW",
+    "urlKey": "james-boyette",
+    "partyLabel": "Republican candidate",
+    "finances": [
+      {
+        "isThisCandidate": false,
+        "displayName": "Matt Rosendale",
+        "party": "R",
+        "candidateId": "H4MT00050",
+        "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
+        "totalReceipts": 1368829.3,
+        "totalDisbursments": 595522.1,
+        "cashOnHand": 1036146.24,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Mark Sweeney",
+        "party": "D",
+        "candidateId": "H2MT02159",
+        "candidateCommitteeName": "SWEENEY FOR MONTANA",
+        "totalReceipts": 82448,
+        "totalDisbursments": 27334.12,
+        "cashOnHand": 55113.88,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Gary Buchanan",
+        "party": "I",
+        "candidateId": "H2MT02167",
+        "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
+        "totalReceipts": 40573,
+        "totalDisbursments": 2838.66,
+        "cashOnHand": 37734.34,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Penny Ronning",
+        "party": "D",
+        "candidateId": "H2MT02134",
+        "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
+        "totalReceipts": 39021.45,
+        "totalDisbursments": 27211.84,
+        "cashOnHand": 11809.61,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Skylar Williams",
+        "party": "D",
+        "candidateId": "H2MT02118",
+        "candidateCommitteeName": "SKYLARFORUSCONGRESS",
+        "totalReceipts": 3213.51,
+        "totalDisbursments": 3054.42,
+        "cashOnHand": 159.09,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": true,
+        "displayName": "James Boyette",
+        "party": "R",
+        "candidateId": "H2MT02142",
+        "candidateCommitteeName": "JAMES BOYETTE",
+        "totalReceipts": 2250,
+        "totalDisbursments": 4468.07,
+        "cashOnHand": -2218.07,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Kyle Austin",
+        "party": "R",
+        "candidateId": "H2MT02175",
+        "candidateCommitteeName": "AUSTIN FOR CONGRESS",
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Sam Rankin",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Roger Roots",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Samuel Thomas",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Charles Walking Child",
+        "party": "R",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      }
+    ],
+    "articles": [
+      {
+        "title": "Congressional races up and running",
+        "date": "2022-03-14T18:50:03",
+        "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "Al Olszewski"
+            },
+            {
+              "name": "Charles Walking Child"
+            },
+            {
+              "name": "Cora Neumann"
+            },
+            {
+              "name": "gary buchanan"
+            },
+            {
+              "name": "James Boyette"
+            },
+            {
+              "name": "John Lamb"
+            },
+            {
+              "name": "Kyle Austin"
+            },
+            {
+              "name": "Mark Sweeney"
+            },
+            {
+              "name": "Matt Jette"
+            },
+            {
+              "name": "Matt Rosendale"
+            },
+            {
+              "name": "Mitch Heuer"
+            },
+            {
+              "name": "Monica Tranel"
+            },
+            {
+              "name": "Penny Ronning"
+            },
+            {
+              "name": "Roger Roots"
+            },
+            {
+              "name": "Ryan Zinke"
+            },
+            {
+              "name": "Sam Rankin"
+            },
+            {
+              "name": "Samuel Thomas"
+            },
+            {
+              "name": "Skylar Williams"
+            },
+            {
+              "name": "Tom Winter"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/u-s-capitol-building-washington-d-c-united-states-of-america/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>Candidates running for seats in the U.S. House of Representatives have filed their requisite paperwork as of 5 p.m. Monday, bringing the tally of active candidates up to nine Republicans, six Democrats, four Libertarians and one Independent. </p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><amp-social-share type=\"twitter\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Twitter\" title=\"Click to share on Twitter\"></amp-social-share><amp-social-share type=\"facebook\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Facebook\" title=\"Click to share on Facebook\" data-param-app_id=\"249643311490\"></amp-social-share><amp-social-share type=\"email\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Email\" title=\"Click to share on Email\" data-target=\"_self\"></amp-social-share></div></div></div>"
+      }
+    ],
+    "race": {
+      "label": "U.S. House District 2 (East)",
+      "opponents": [
+        {
+          "urlKey": "matt-rosendale",
+          "Name": "Matt Rosendale",
+          "SummaryLine": "Incumbent U.S. Representative for Montana at-large",
+          "isIncumbent": true,
+          "Party": "R"
+        },
+        {
+          "urlKey": "kyle-austin",
+          "Name": "Kyle Austin",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "gary-buchanan",
+          "Name": "Gary Buchanan",
+          "SummaryLine": "Billings financial advisor",
+          "isIncumbent": false,
+          "Party": "I"
+        },
+        {
+          "urlKey": "sam-rankin",
+          "Name": "Sam Rankin",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "L"
+        },
+        {
+          "urlKey": "penny-ronning",
+          "Name": "Penny Ronning",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "roger-roots",
+          "Name": "Roger Roots",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "L"
+        },
+        {
+          "urlKey": "mark-sweeney",
+          "Name": "Mark Sweeney",
+          "SummaryLine": "State senator, Philipsburg",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "samuel-thomas",
+          "Name": "Samuel Thomas",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "L"
+        },
+        {
+          "urlKey": "charles-walking-child",
+          "Name": "Charles Walking Child",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "skylar-williams",
+          "Name": "Skylar Williams",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        }
+      ],
+      "hasQuestionnaire": true,
+      "campaignFinance": "fec"
+    }
   },
   {
     "Name": "Gary Buchanan",
@@ -180,11 +2765,346 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:11:23.926Z",
-    "updatedAt": "2022-04-20T21:21:34.893Z",
+    "updatedAt": "2022-04-22T17:18:00.635Z",
     "Party": "I",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "urlKey": "gary-buchanan"
+    "FECCandidateName": "BUCHANAN, GARY",
+    "urlKey": "gary-buchanan",
+    "partyLabel": "Independent candidate",
+    "finances": [
+      {
+        "isThisCandidate": false,
+        "displayName": "Matt Rosendale",
+        "party": "R",
+        "candidateId": "H4MT00050",
+        "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
+        "totalReceipts": 1368829.3,
+        "totalDisbursments": 595522.1,
+        "cashOnHand": 1036146.24,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Mark Sweeney",
+        "party": "D",
+        "candidateId": "H2MT02159",
+        "candidateCommitteeName": "SWEENEY FOR MONTANA",
+        "totalReceipts": 82448,
+        "totalDisbursments": 27334.12,
+        "cashOnHand": 55113.88,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": true,
+        "displayName": "Gary Buchanan",
+        "party": "I",
+        "candidateId": "H2MT02167",
+        "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
+        "totalReceipts": 40573,
+        "totalDisbursments": 2838.66,
+        "cashOnHand": 37734.34,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Penny Ronning",
+        "party": "D",
+        "candidateId": "H2MT02134",
+        "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
+        "totalReceipts": 39021.45,
+        "totalDisbursments": 27211.84,
+        "cashOnHand": 11809.61,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Skylar Williams",
+        "party": "D",
+        "candidateId": "H2MT02118",
+        "candidateCommitteeName": "SKYLARFORUSCONGRESS",
+        "totalReceipts": 3213.51,
+        "totalDisbursments": 3054.42,
+        "cashOnHand": 159.09,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "James Boyette",
+        "party": "R",
+        "candidateId": "H2MT02142",
+        "candidateCommitteeName": "JAMES BOYETTE",
+        "totalReceipts": 2250,
+        "totalDisbursments": 4468.07,
+        "cashOnHand": -2218.07,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Kyle Austin",
+        "party": "R",
+        "candidateId": "H2MT02175",
+        "candidateCommitteeName": "AUSTIN FOR CONGRESS",
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Sam Rankin",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Roger Roots",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Samuel Thomas",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Charles Walking Child",
+        "party": "R",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      }
+    ],
+    "articles": [
+      {
+        "title": "Bipartisan old guard lines up behind independent U.S. House candidate",
+        "date": "2022-04-08T16:41:14",
+        "link": "https://montanafreepress.org/2022/04/08/bipartisan-old-guard-backs-gary-buchanan-us-house/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "2022 elections"
+            },
+            {
+              "name": "gary buchanan"
+            },
+            {
+              "name": "Matt Rosendale"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            },
+            {
+              "name": "U.S. House race"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/2022-04-08-gary-buchanan-at-rally/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Eric Dietrich"
+          }
+        },
+        "excerpt": "<p>Businessman Gary Buchanan of Billings, challenging Rep. Matt Rosendale for Montana’s eastern congressional district U.S. House seat, touts support from political figures who were among the most prominent Montana Republicans and Democrats in the 1990s and 2000s.</p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><amp-social-share type=\"twitter\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Twitter\" title=\"Click to share on Twitter\"></amp-social-share><amp-social-share type=\"facebook\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Facebook\" title=\"Click to share on Facebook\" data-param-app_id=\"249643311490\"></amp-social-share><amp-social-share type=\"email\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Email\" title=\"Click to share on Email\" data-target=\"_self\"></amp-social-share></div></div></div>"
+      },
+      {
+        "title": "Congressional races up and running",
+        "date": "2022-03-14T18:50:03",
+        "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "Al Olszewski"
+            },
+            {
+              "name": "Charles Walking Child"
+            },
+            {
+              "name": "Cora Neumann"
+            },
+            {
+              "name": "gary buchanan"
+            },
+            {
+              "name": "James Boyette"
+            },
+            {
+              "name": "John Lamb"
+            },
+            {
+              "name": "Kyle Austin"
+            },
+            {
+              "name": "Mark Sweeney"
+            },
+            {
+              "name": "Matt Jette"
+            },
+            {
+              "name": "Matt Rosendale"
+            },
+            {
+              "name": "Mitch Heuer"
+            },
+            {
+              "name": "Monica Tranel"
+            },
+            {
+              "name": "Penny Ronning"
+            },
+            {
+              "name": "Roger Roots"
+            },
+            {
+              "name": "Ryan Zinke"
+            },
+            {
+              "name": "Sam Rankin"
+            },
+            {
+              "name": "Samuel Thomas"
+            },
+            {
+              "name": "Skylar Williams"
+            },
+            {
+              "name": "Tom Winter"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/u-s-capitol-building-washington-d-c-united-states-of-america/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>Candidates running for seats in the U.S. House of Representatives have filed their requisite paperwork as of 5 p.m. Monday, bringing the tally of active candidates up to nine Republicans, six Democrats, four Libertarians and one Independent. </p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><amp-social-share type=\"twitter\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Twitter\" title=\"Click to share on Twitter\"></amp-social-share><amp-social-share type=\"facebook\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Facebook\" title=\"Click to share on Facebook\" data-param-app_id=\"249643311490\"></amp-social-share><amp-social-share type=\"email\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Email\" title=\"Click to share on Email\" data-target=\"_self\"></amp-social-share></div></div></div>"
+      }
+    ],
+    "race": {
+      "label": "U.S. House District 2 (East)",
+      "opponents": [
+        {
+          "urlKey": "matt-rosendale",
+          "Name": "Matt Rosendale",
+          "SummaryLine": "Incumbent U.S. Representative for Montana at-large",
+          "isIncumbent": true,
+          "Party": "R"
+        },
+        {
+          "urlKey": "kyle-austin",
+          "Name": "Kyle Austin",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "james-boyette",
+          "Name": "James Boyette",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "sam-rankin",
+          "Name": "Sam Rankin",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "L"
+        },
+        {
+          "urlKey": "penny-ronning",
+          "Name": "Penny Ronning",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "roger-roots",
+          "Name": "Roger Roots",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "L"
+        },
+        {
+          "urlKey": "mark-sweeney",
+          "Name": "Mark Sweeney",
+          "SummaryLine": "State senator, Philipsburg",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "samuel-thomas",
+          "Name": "Samuel Thomas",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "L"
+        },
+        {
+          "urlKey": "charles-walking-child",
+          "Name": "Charles Walking Child",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "skylar-williams",
+          "Name": "Skylar Williams",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        }
+      ],
+      "hasQuestionnaire": true,
+      "campaignFinance": "fec"
+    }
   },
   {
     "Name": "Sam Rankin",
@@ -201,7 +3121,299 @@
     "Party": "L",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "urlKey": "sam-rankin"
+    "FECCandidateName": null,
+    "urlKey": "sam-rankin",
+    "partyLabel": "Libertarian candidate",
+    "finances": [
+      {
+        "isThisCandidate": false,
+        "displayName": "Matt Rosendale",
+        "party": "R",
+        "candidateId": "H4MT00050",
+        "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
+        "totalReceipts": 1368829.3,
+        "totalDisbursments": 595522.1,
+        "cashOnHand": 1036146.24,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Mark Sweeney",
+        "party": "D",
+        "candidateId": "H2MT02159",
+        "candidateCommitteeName": "SWEENEY FOR MONTANA",
+        "totalReceipts": 82448,
+        "totalDisbursments": 27334.12,
+        "cashOnHand": 55113.88,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Gary Buchanan",
+        "party": "I",
+        "candidateId": "H2MT02167",
+        "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
+        "totalReceipts": 40573,
+        "totalDisbursments": 2838.66,
+        "cashOnHand": 37734.34,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Penny Ronning",
+        "party": "D",
+        "candidateId": "H2MT02134",
+        "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
+        "totalReceipts": 39021.45,
+        "totalDisbursments": 27211.84,
+        "cashOnHand": 11809.61,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Skylar Williams",
+        "party": "D",
+        "candidateId": "H2MT02118",
+        "candidateCommitteeName": "SKYLARFORUSCONGRESS",
+        "totalReceipts": 3213.51,
+        "totalDisbursments": 3054.42,
+        "cashOnHand": 159.09,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "James Boyette",
+        "party": "R",
+        "candidateId": "H2MT02142",
+        "candidateCommitteeName": "JAMES BOYETTE",
+        "totalReceipts": 2250,
+        "totalDisbursments": 4468.07,
+        "cashOnHand": -2218.07,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Kyle Austin",
+        "party": "R",
+        "candidateId": "H2MT02175",
+        "candidateCommitteeName": "AUSTIN FOR CONGRESS",
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": true,
+        "displayName": "Sam Rankin",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Roger Roots",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Samuel Thomas",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Charles Walking Child",
+        "party": "R",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      }
+    ],
+    "articles": [
+      {
+        "title": "Congressional races up and running",
+        "date": "2022-03-14T18:50:03",
+        "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "Al Olszewski"
+            },
+            {
+              "name": "Charles Walking Child"
+            },
+            {
+              "name": "Cora Neumann"
+            },
+            {
+              "name": "gary buchanan"
+            },
+            {
+              "name": "James Boyette"
+            },
+            {
+              "name": "John Lamb"
+            },
+            {
+              "name": "Kyle Austin"
+            },
+            {
+              "name": "Mark Sweeney"
+            },
+            {
+              "name": "Matt Jette"
+            },
+            {
+              "name": "Matt Rosendale"
+            },
+            {
+              "name": "Mitch Heuer"
+            },
+            {
+              "name": "Monica Tranel"
+            },
+            {
+              "name": "Penny Ronning"
+            },
+            {
+              "name": "Roger Roots"
+            },
+            {
+              "name": "Ryan Zinke"
+            },
+            {
+              "name": "Sam Rankin"
+            },
+            {
+              "name": "Samuel Thomas"
+            },
+            {
+              "name": "Skylar Williams"
+            },
+            {
+              "name": "Tom Winter"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/u-s-capitol-building-washington-d-c-united-states-of-america/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>Candidates running for seats in the U.S. House of Representatives have filed their requisite paperwork as of 5 p.m. Monday, bringing the tally of active candidates up to nine Republicans, six Democrats, four Libertarians and one Independent. </p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><amp-social-share type=\"twitter\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Twitter\" title=\"Click to share on Twitter\"></amp-social-share><amp-social-share type=\"facebook\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Facebook\" title=\"Click to share on Facebook\" data-param-app_id=\"249643311490\"></amp-social-share><amp-social-share type=\"email\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Email\" title=\"Click to share on Email\" data-target=\"_self\"></amp-social-share></div></div></div>"
+      }
+    ],
+    "race": {
+      "label": "U.S. House District 2 (East)",
+      "opponents": [
+        {
+          "urlKey": "matt-rosendale",
+          "Name": "Matt Rosendale",
+          "SummaryLine": "Incumbent U.S. Representative for Montana at-large",
+          "isIncumbent": true,
+          "Party": "R"
+        },
+        {
+          "urlKey": "kyle-austin",
+          "Name": "Kyle Austin",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "james-boyette",
+          "Name": "James Boyette",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "gary-buchanan",
+          "Name": "Gary Buchanan",
+          "SummaryLine": "Billings financial advisor",
+          "isIncumbent": false,
+          "Party": "I"
+        },
+        {
+          "urlKey": "penny-ronning",
+          "Name": "Penny Ronning",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "roger-roots",
+          "Name": "Roger Roots",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "L"
+        },
+        {
+          "urlKey": "mark-sweeney",
+          "Name": "Mark Sweeney",
+          "SummaryLine": "State senator, Philipsburg",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "samuel-thomas",
+          "Name": "Samuel Thomas",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "L"
+        },
+        {
+          "urlKey": "charles-walking-child",
+          "Name": "Charles Walking Child",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "skylar-williams",
+          "Name": "Skylar Williams",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        }
+      ],
+      "hasQuestionnaire": true,
+      "campaignFinance": "fec"
+    }
   },
   {
     "Name": "Penny Ronning",
@@ -214,11 +3426,303 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:12:16.334Z",
-    "updatedAt": "2022-04-20T21:11:17.929Z",
+    "updatedAt": "2022-04-22T17:20:00.286Z",
     "Party": "D",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "urlKey": "penny-ronning"
+    "FECCandidateName": "RONNING, PENNY",
+    "urlKey": "penny-ronning",
+    "partyLabel": "Democratic candidate",
+    "finances": [
+      {
+        "isThisCandidate": false,
+        "displayName": "Matt Rosendale",
+        "party": "R",
+        "candidateId": "H4MT00050",
+        "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
+        "totalReceipts": 1368829.3,
+        "totalDisbursments": 595522.1,
+        "cashOnHand": 1036146.24,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Mark Sweeney",
+        "party": "D",
+        "candidateId": "H2MT02159",
+        "candidateCommitteeName": "SWEENEY FOR MONTANA",
+        "totalReceipts": 82448,
+        "totalDisbursments": 27334.12,
+        "cashOnHand": 55113.88,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Gary Buchanan",
+        "party": "I",
+        "candidateId": "H2MT02167",
+        "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
+        "totalReceipts": 40573,
+        "totalDisbursments": 2838.66,
+        "cashOnHand": 37734.34,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": true,
+        "displayName": "Penny Ronning",
+        "party": "D",
+        "candidateId": "H2MT02134",
+        "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
+        "totalReceipts": 39021.45,
+        "totalDisbursments": 27211.84,
+        "cashOnHand": 11809.61,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Skylar Williams",
+        "party": "D",
+        "candidateId": "H2MT02118",
+        "candidateCommitteeName": "SKYLARFORUSCONGRESS",
+        "totalReceipts": 3213.51,
+        "totalDisbursments": 3054.42,
+        "cashOnHand": 159.09,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "James Boyette",
+        "party": "R",
+        "candidateId": "H2MT02142",
+        "candidateCommitteeName": "JAMES BOYETTE",
+        "totalReceipts": 2250,
+        "totalDisbursments": 4468.07,
+        "cashOnHand": -2218.07,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Kyle Austin",
+        "party": "R",
+        "candidateId": "H2MT02175",
+        "candidateCommitteeName": "AUSTIN FOR CONGRESS",
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Sam Rankin",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Roger Roots",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Samuel Thomas",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Charles Walking Child",
+        "party": "R",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      }
+    ],
+    "articles": [
+      {
+        "title": "Congressional races up and running",
+        "date": "2022-03-14T18:50:03",
+        "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "Al Olszewski"
+            },
+            {
+              "name": "Charles Walking Child"
+            },
+            {
+              "name": "Cora Neumann"
+            },
+            {
+              "name": "gary buchanan"
+            },
+            {
+              "name": "James Boyette"
+            },
+            {
+              "name": "John Lamb"
+            },
+            {
+              "name": "Kyle Austin"
+            },
+            {
+              "name": "Mark Sweeney"
+            },
+            {
+              "name": "Matt Jette"
+            },
+            {
+              "name": "Matt Rosendale"
+            },
+            {
+              "name": "Mitch Heuer"
+            },
+            {
+              "name": "Monica Tranel"
+            },
+            {
+              "name": "Penny Ronning"
+            },
+            {
+              "name": "Roger Roots"
+            },
+            {
+              "name": "Ryan Zinke"
+            },
+            {
+              "name": "Sam Rankin"
+            },
+            {
+              "name": "Samuel Thomas"
+            },
+            {
+              "name": "Skylar Williams"
+            },
+            {
+              "name": "Tom Winter"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/u-s-capitol-building-washington-d-c-united-states-of-america/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>Candidates running for seats in the U.S. House of Representatives have filed their requisite paperwork as of 5 p.m. Monday, bringing the tally of active candidates up to nine Republicans, six Democrats, four Libertarians and one Independent. </p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><amp-social-share type=\"twitter\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Twitter\" title=\"Click to share on Twitter\"></amp-social-share><amp-social-share type=\"facebook\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Facebook\" title=\"Click to share on Facebook\" data-param-app_id=\"249643311490\"></amp-social-share><amp-social-share type=\"email\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Email\" title=\"Click to share on Email\" data-target=\"_self\"></amp-social-share></div></div></div>"
+      }
+    ],
+    "race": {
+      "label": "U.S. House District 2 (East)",
+      "opponents": [
+        {
+          "urlKey": "matt-rosendale",
+          "Name": "Matt Rosendale",
+          "SummaryLine": "Incumbent U.S. Representative for Montana at-large",
+          "isIncumbent": true,
+          "Party": "R"
+        },
+        {
+          "urlKey": "kyle-austin",
+          "Name": "Kyle Austin",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "james-boyette",
+          "Name": "James Boyette",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "gary-buchanan",
+          "Name": "Gary Buchanan",
+          "SummaryLine": "Billings financial advisor",
+          "isIncumbent": false,
+          "Party": "I"
+        },
+        {
+          "urlKey": "sam-rankin",
+          "Name": "Sam Rankin",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "L"
+        },
+        {
+          "urlKey": "roger-roots",
+          "Name": "Roger Roots",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "L"
+        },
+        {
+          "urlKey": "mark-sweeney",
+          "Name": "Mark Sweeney",
+          "SummaryLine": "State senator, Philipsburg",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "samuel-thomas",
+          "Name": "Samuel Thomas",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "L"
+        },
+        {
+          "urlKey": "charles-walking-child",
+          "Name": "Charles Walking Child",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "skylar-williams",
+          "Name": "Skylar Williams",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        }
+      ],
+      "hasQuestionnaire": true,
+      "campaignFinance": "fec"
+    }
   },
   {
     "Name": "Roger Roots",
@@ -235,7 +3739,299 @@
     "Party": "L",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "urlKey": "roger-roots"
+    "FECCandidateName": null,
+    "urlKey": "roger-roots",
+    "partyLabel": "Libertarian candidate",
+    "finances": [
+      {
+        "isThisCandidate": false,
+        "displayName": "Matt Rosendale",
+        "party": "R",
+        "candidateId": "H4MT00050",
+        "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
+        "totalReceipts": 1368829.3,
+        "totalDisbursments": 595522.1,
+        "cashOnHand": 1036146.24,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Mark Sweeney",
+        "party": "D",
+        "candidateId": "H2MT02159",
+        "candidateCommitteeName": "SWEENEY FOR MONTANA",
+        "totalReceipts": 82448,
+        "totalDisbursments": 27334.12,
+        "cashOnHand": 55113.88,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Gary Buchanan",
+        "party": "I",
+        "candidateId": "H2MT02167",
+        "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
+        "totalReceipts": 40573,
+        "totalDisbursments": 2838.66,
+        "cashOnHand": 37734.34,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Penny Ronning",
+        "party": "D",
+        "candidateId": "H2MT02134",
+        "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
+        "totalReceipts": 39021.45,
+        "totalDisbursments": 27211.84,
+        "cashOnHand": 11809.61,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Skylar Williams",
+        "party": "D",
+        "candidateId": "H2MT02118",
+        "candidateCommitteeName": "SKYLARFORUSCONGRESS",
+        "totalReceipts": 3213.51,
+        "totalDisbursments": 3054.42,
+        "cashOnHand": 159.09,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "James Boyette",
+        "party": "R",
+        "candidateId": "H2MT02142",
+        "candidateCommitteeName": "JAMES BOYETTE",
+        "totalReceipts": 2250,
+        "totalDisbursments": 4468.07,
+        "cashOnHand": -2218.07,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Kyle Austin",
+        "party": "R",
+        "candidateId": "H2MT02175",
+        "candidateCommitteeName": "AUSTIN FOR CONGRESS",
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Sam Rankin",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": true,
+        "displayName": "Roger Roots",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Samuel Thomas",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Charles Walking Child",
+        "party": "R",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      }
+    ],
+    "articles": [
+      {
+        "title": "Congressional races up and running",
+        "date": "2022-03-14T18:50:03",
+        "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "Al Olszewski"
+            },
+            {
+              "name": "Charles Walking Child"
+            },
+            {
+              "name": "Cora Neumann"
+            },
+            {
+              "name": "gary buchanan"
+            },
+            {
+              "name": "James Boyette"
+            },
+            {
+              "name": "John Lamb"
+            },
+            {
+              "name": "Kyle Austin"
+            },
+            {
+              "name": "Mark Sweeney"
+            },
+            {
+              "name": "Matt Jette"
+            },
+            {
+              "name": "Matt Rosendale"
+            },
+            {
+              "name": "Mitch Heuer"
+            },
+            {
+              "name": "Monica Tranel"
+            },
+            {
+              "name": "Penny Ronning"
+            },
+            {
+              "name": "Roger Roots"
+            },
+            {
+              "name": "Ryan Zinke"
+            },
+            {
+              "name": "Sam Rankin"
+            },
+            {
+              "name": "Samuel Thomas"
+            },
+            {
+              "name": "Skylar Williams"
+            },
+            {
+              "name": "Tom Winter"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/u-s-capitol-building-washington-d-c-united-states-of-america/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>Candidates running for seats in the U.S. House of Representatives have filed their requisite paperwork as of 5 p.m. Monday, bringing the tally of active candidates up to nine Republicans, six Democrats, four Libertarians and one Independent. </p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><amp-social-share type=\"twitter\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Twitter\" title=\"Click to share on Twitter\"></amp-social-share><amp-social-share type=\"facebook\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Facebook\" title=\"Click to share on Facebook\" data-param-app_id=\"249643311490\"></amp-social-share><amp-social-share type=\"email\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Email\" title=\"Click to share on Email\" data-target=\"_self\"></amp-social-share></div></div></div>"
+      }
+    ],
+    "race": {
+      "label": "U.S. House District 2 (East)",
+      "opponents": [
+        {
+          "urlKey": "matt-rosendale",
+          "Name": "Matt Rosendale",
+          "SummaryLine": "Incumbent U.S. Representative for Montana at-large",
+          "isIncumbent": true,
+          "Party": "R"
+        },
+        {
+          "urlKey": "kyle-austin",
+          "Name": "Kyle Austin",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "james-boyette",
+          "Name": "James Boyette",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "gary-buchanan",
+          "Name": "Gary Buchanan",
+          "SummaryLine": "Billings financial advisor",
+          "isIncumbent": false,
+          "Party": "I"
+        },
+        {
+          "urlKey": "sam-rankin",
+          "Name": "Sam Rankin",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "L"
+        },
+        {
+          "urlKey": "penny-ronning",
+          "Name": "Penny Ronning",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "mark-sweeney",
+          "Name": "Mark Sweeney",
+          "SummaryLine": "State senator, Philipsburg",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "samuel-thomas",
+          "Name": "Samuel Thomas",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "L"
+        },
+        {
+          "urlKey": "charles-walking-child",
+          "Name": "Charles Walking Child",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "skylar-williams",
+          "Name": "Skylar Williams",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        }
+      ],
+      "hasQuestionnaire": true,
+      "campaignFinance": "fec"
+    }
   },
   {
     "Name": "Mark Sweeney",
@@ -248,11 +4044,303 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:12:44.107Z",
-    "updatedAt": "2022-04-20T21:11:37.633Z",
+    "updatedAt": "2022-04-22T17:20:56.239Z",
     "Party": "D",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "urlKey": "mark-sweeney"
+    "FECCandidateName": "SWEENEY, MARK",
+    "urlKey": "mark-sweeney",
+    "partyLabel": "Democratic candidate",
+    "finances": [
+      {
+        "isThisCandidate": false,
+        "displayName": "Matt Rosendale",
+        "party": "R",
+        "candidateId": "H4MT00050",
+        "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
+        "totalReceipts": 1368829.3,
+        "totalDisbursments": 595522.1,
+        "cashOnHand": 1036146.24,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": true,
+        "displayName": "Mark Sweeney",
+        "party": "D",
+        "candidateId": "H2MT02159",
+        "candidateCommitteeName": "SWEENEY FOR MONTANA",
+        "totalReceipts": 82448,
+        "totalDisbursments": 27334.12,
+        "cashOnHand": 55113.88,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Gary Buchanan",
+        "party": "I",
+        "candidateId": "H2MT02167",
+        "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
+        "totalReceipts": 40573,
+        "totalDisbursments": 2838.66,
+        "cashOnHand": 37734.34,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Penny Ronning",
+        "party": "D",
+        "candidateId": "H2MT02134",
+        "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
+        "totalReceipts": 39021.45,
+        "totalDisbursments": 27211.84,
+        "cashOnHand": 11809.61,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Skylar Williams",
+        "party": "D",
+        "candidateId": "H2MT02118",
+        "candidateCommitteeName": "SKYLARFORUSCONGRESS",
+        "totalReceipts": 3213.51,
+        "totalDisbursments": 3054.42,
+        "cashOnHand": 159.09,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "James Boyette",
+        "party": "R",
+        "candidateId": "H2MT02142",
+        "candidateCommitteeName": "JAMES BOYETTE",
+        "totalReceipts": 2250,
+        "totalDisbursments": 4468.07,
+        "cashOnHand": -2218.07,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Kyle Austin",
+        "party": "R",
+        "candidateId": "H2MT02175",
+        "candidateCommitteeName": "AUSTIN FOR CONGRESS",
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Sam Rankin",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Roger Roots",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Samuel Thomas",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Charles Walking Child",
+        "party": "R",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      }
+    ],
+    "articles": [
+      {
+        "title": "Congressional races up and running",
+        "date": "2022-03-14T18:50:03",
+        "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "Al Olszewski"
+            },
+            {
+              "name": "Charles Walking Child"
+            },
+            {
+              "name": "Cora Neumann"
+            },
+            {
+              "name": "gary buchanan"
+            },
+            {
+              "name": "James Boyette"
+            },
+            {
+              "name": "John Lamb"
+            },
+            {
+              "name": "Kyle Austin"
+            },
+            {
+              "name": "Mark Sweeney"
+            },
+            {
+              "name": "Matt Jette"
+            },
+            {
+              "name": "Matt Rosendale"
+            },
+            {
+              "name": "Mitch Heuer"
+            },
+            {
+              "name": "Monica Tranel"
+            },
+            {
+              "name": "Penny Ronning"
+            },
+            {
+              "name": "Roger Roots"
+            },
+            {
+              "name": "Ryan Zinke"
+            },
+            {
+              "name": "Sam Rankin"
+            },
+            {
+              "name": "Samuel Thomas"
+            },
+            {
+              "name": "Skylar Williams"
+            },
+            {
+              "name": "Tom Winter"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/u-s-capitol-building-washington-d-c-united-states-of-america/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>Candidates running for seats in the U.S. House of Representatives have filed their requisite paperwork as of 5 p.m. Monday, bringing the tally of active candidates up to nine Republicans, six Democrats, four Libertarians and one Independent. </p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><amp-social-share type=\"twitter\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Twitter\" title=\"Click to share on Twitter\"></amp-social-share><amp-social-share type=\"facebook\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Facebook\" title=\"Click to share on Facebook\" data-param-app_id=\"249643311490\"></amp-social-share><amp-social-share type=\"email\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Email\" title=\"Click to share on Email\" data-target=\"_self\"></amp-social-share></div></div></div>"
+      }
+    ],
+    "race": {
+      "label": "U.S. House District 2 (East)",
+      "opponents": [
+        {
+          "urlKey": "matt-rosendale",
+          "Name": "Matt Rosendale",
+          "SummaryLine": "Incumbent U.S. Representative for Montana at-large",
+          "isIncumbent": true,
+          "Party": "R"
+        },
+        {
+          "urlKey": "kyle-austin",
+          "Name": "Kyle Austin",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "james-boyette",
+          "Name": "James Boyette",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "gary-buchanan",
+          "Name": "Gary Buchanan",
+          "SummaryLine": "Billings financial advisor",
+          "isIncumbent": false,
+          "Party": "I"
+        },
+        {
+          "urlKey": "sam-rankin",
+          "Name": "Sam Rankin",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "L"
+        },
+        {
+          "urlKey": "penny-ronning",
+          "Name": "Penny Ronning",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "roger-roots",
+          "Name": "Roger Roots",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "L"
+        },
+        {
+          "urlKey": "samuel-thomas",
+          "Name": "Samuel Thomas",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "L"
+        },
+        {
+          "urlKey": "charles-walking-child",
+          "Name": "Charles Walking Child",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "skylar-williams",
+          "Name": "Skylar Williams",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        }
+      ],
+      "hasQuestionnaire": true,
+      "campaignFinance": "fec"
+    }
   },
   {
     "Name": "Samuel Thomas",
@@ -269,7 +4357,299 @@
     "Party": "L",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "urlKey": "samuel-thomas"
+    "FECCandidateName": null,
+    "urlKey": "samuel-thomas",
+    "partyLabel": "Libertarian candidate",
+    "finances": [
+      {
+        "isThisCandidate": false,
+        "displayName": "Matt Rosendale",
+        "party": "R",
+        "candidateId": "H4MT00050",
+        "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
+        "totalReceipts": 1368829.3,
+        "totalDisbursments": 595522.1,
+        "cashOnHand": 1036146.24,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Mark Sweeney",
+        "party": "D",
+        "candidateId": "H2MT02159",
+        "candidateCommitteeName": "SWEENEY FOR MONTANA",
+        "totalReceipts": 82448,
+        "totalDisbursments": 27334.12,
+        "cashOnHand": 55113.88,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Gary Buchanan",
+        "party": "I",
+        "candidateId": "H2MT02167",
+        "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
+        "totalReceipts": 40573,
+        "totalDisbursments": 2838.66,
+        "cashOnHand": 37734.34,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Penny Ronning",
+        "party": "D",
+        "candidateId": "H2MT02134",
+        "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
+        "totalReceipts": 39021.45,
+        "totalDisbursments": 27211.84,
+        "cashOnHand": 11809.61,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Skylar Williams",
+        "party": "D",
+        "candidateId": "H2MT02118",
+        "candidateCommitteeName": "SKYLARFORUSCONGRESS",
+        "totalReceipts": 3213.51,
+        "totalDisbursments": 3054.42,
+        "cashOnHand": 159.09,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "James Boyette",
+        "party": "R",
+        "candidateId": "H2MT02142",
+        "candidateCommitteeName": "JAMES BOYETTE",
+        "totalReceipts": 2250,
+        "totalDisbursments": 4468.07,
+        "cashOnHand": -2218.07,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Kyle Austin",
+        "party": "R",
+        "candidateId": "H2MT02175",
+        "candidateCommitteeName": "AUSTIN FOR CONGRESS",
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Sam Rankin",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Roger Roots",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": true,
+        "displayName": "Samuel Thomas",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Charles Walking Child",
+        "party": "R",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      }
+    ],
+    "articles": [
+      {
+        "title": "Congressional races up and running",
+        "date": "2022-03-14T18:50:03",
+        "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "Al Olszewski"
+            },
+            {
+              "name": "Charles Walking Child"
+            },
+            {
+              "name": "Cora Neumann"
+            },
+            {
+              "name": "gary buchanan"
+            },
+            {
+              "name": "James Boyette"
+            },
+            {
+              "name": "John Lamb"
+            },
+            {
+              "name": "Kyle Austin"
+            },
+            {
+              "name": "Mark Sweeney"
+            },
+            {
+              "name": "Matt Jette"
+            },
+            {
+              "name": "Matt Rosendale"
+            },
+            {
+              "name": "Mitch Heuer"
+            },
+            {
+              "name": "Monica Tranel"
+            },
+            {
+              "name": "Penny Ronning"
+            },
+            {
+              "name": "Roger Roots"
+            },
+            {
+              "name": "Ryan Zinke"
+            },
+            {
+              "name": "Sam Rankin"
+            },
+            {
+              "name": "Samuel Thomas"
+            },
+            {
+              "name": "Skylar Williams"
+            },
+            {
+              "name": "Tom Winter"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/u-s-capitol-building-washington-d-c-united-states-of-america/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>Candidates running for seats in the U.S. House of Representatives have filed their requisite paperwork as of 5 p.m. Monday, bringing the tally of active candidates up to nine Republicans, six Democrats, four Libertarians and one Independent. </p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><amp-social-share type=\"twitter\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Twitter\" title=\"Click to share on Twitter\"></amp-social-share><amp-social-share type=\"facebook\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Facebook\" title=\"Click to share on Facebook\" data-param-app_id=\"249643311490\"></amp-social-share><amp-social-share type=\"email\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Email\" title=\"Click to share on Email\" data-target=\"_self\"></amp-social-share></div></div></div>"
+      }
+    ],
+    "race": {
+      "label": "U.S. House District 2 (East)",
+      "opponents": [
+        {
+          "urlKey": "matt-rosendale",
+          "Name": "Matt Rosendale",
+          "SummaryLine": "Incumbent U.S. Representative for Montana at-large",
+          "isIncumbent": true,
+          "Party": "R"
+        },
+        {
+          "urlKey": "kyle-austin",
+          "Name": "Kyle Austin",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "james-boyette",
+          "Name": "James Boyette",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "gary-buchanan",
+          "Name": "Gary Buchanan",
+          "SummaryLine": "Billings financial advisor",
+          "isIncumbent": false,
+          "Party": "I"
+        },
+        {
+          "urlKey": "sam-rankin",
+          "Name": "Sam Rankin",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "L"
+        },
+        {
+          "urlKey": "penny-ronning",
+          "Name": "Penny Ronning",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "roger-roots",
+          "Name": "Roger Roots",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "L"
+        },
+        {
+          "urlKey": "mark-sweeney",
+          "Name": "Mark Sweeney",
+          "SummaryLine": "State senator, Philipsburg",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "charles-walking-child",
+          "Name": "Charles Walking Child",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "skylar-williams",
+          "Name": "Skylar Williams",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        }
+      ],
+      "hasQuestionnaire": true,
+      "campaignFinance": "fec"
+    }
   },
   {
     "Name": "Charles Walking Child",
@@ -282,11 +4662,303 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:13:47.545Z",
-    "updatedAt": "2022-04-20T21:11:47.741Z",
+    "updatedAt": "2022-04-22T17:21:23.279Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "urlKey": "charles-walking-child"
+    "FECCandidateName": "WALKING CHILD, CHARLES A",
+    "urlKey": "charles-walking-child",
+    "partyLabel": "Republican candidate",
+    "finances": [
+      {
+        "isThisCandidate": false,
+        "displayName": "Matt Rosendale",
+        "party": "R",
+        "candidateId": "H4MT00050",
+        "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
+        "totalReceipts": 1368829.3,
+        "totalDisbursments": 595522.1,
+        "cashOnHand": 1036146.24,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Mark Sweeney",
+        "party": "D",
+        "candidateId": "H2MT02159",
+        "candidateCommitteeName": "SWEENEY FOR MONTANA",
+        "totalReceipts": 82448,
+        "totalDisbursments": 27334.12,
+        "cashOnHand": 55113.88,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Gary Buchanan",
+        "party": "I",
+        "candidateId": "H2MT02167",
+        "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
+        "totalReceipts": 40573,
+        "totalDisbursments": 2838.66,
+        "cashOnHand": 37734.34,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Penny Ronning",
+        "party": "D",
+        "candidateId": "H2MT02134",
+        "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
+        "totalReceipts": 39021.45,
+        "totalDisbursments": 27211.84,
+        "cashOnHand": 11809.61,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Skylar Williams",
+        "party": "D",
+        "candidateId": "H2MT02118",
+        "candidateCommitteeName": "SKYLARFORUSCONGRESS",
+        "totalReceipts": 3213.51,
+        "totalDisbursments": 3054.42,
+        "cashOnHand": 159.09,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "James Boyette",
+        "party": "R",
+        "candidateId": "H2MT02142",
+        "candidateCommitteeName": "JAMES BOYETTE",
+        "totalReceipts": 2250,
+        "totalDisbursments": 4468.07,
+        "cashOnHand": -2218.07,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Kyle Austin",
+        "party": "R",
+        "candidateId": "H2MT02175",
+        "candidateCommitteeName": "AUSTIN FOR CONGRESS",
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Sam Rankin",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Roger Roots",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Samuel Thomas",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": true,
+        "displayName": "Charles Walking Child",
+        "party": "R",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      }
+    ],
+    "articles": [
+      {
+        "title": "Congressional races up and running",
+        "date": "2022-03-14T18:50:03",
+        "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "Al Olszewski"
+            },
+            {
+              "name": "Charles Walking Child"
+            },
+            {
+              "name": "Cora Neumann"
+            },
+            {
+              "name": "gary buchanan"
+            },
+            {
+              "name": "James Boyette"
+            },
+            {
+              "name": "John Lamb"
+            },
+            {
+              "name": "Kyle Austin"
+            },
+            {
+              "name": "Mark Sweeney"
+            },
+            {
+              "name": "Matt Jette"
+            },
+            {
+              "name": "Matt Rosendale"
+            },
+            {
+              "name": "Mitch Heuer"
+            },
+            {
+              "name": "Monica Tranel"
+            },
+            {
+              "name": "Penny Ronning"
+            },
+            {
+              "name": "Roger Roots"
+            },
+            {
+              "name": "Ryan Zinke"
+            },
+            {
+              "name": "Sam Rankin"
+            },
+            {
+              "name": "Samuel Thomas"
+            },
+            {
+              "name": "Skylar Williams"
+            },
+            {
+              "name": "Tom Winter"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/u-s-capitol-building-washington-d-c-united-states-of-america/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>Candidates running for seats in the U.S. House of Representatives have filed their requisite paperwork as of 5 p.m. Monday, bringing the tally of active candidates up to nine Republicans, six Democrats, four Libertarians and one Independent. </p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><amp-social-share type=\"twitter\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Twitter\" title=\"Click to share on Twitter\"></amp-social-share><amp-social-share type=\"facebook\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Facebook\" title=\"Click to share on Facebook\" data-param-app_id=\"249643311490\"></amp-social-share><amp-social-share type=\"email\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Email\" title=\"Click to share on Email\" data-target=\"_self\"></amp-social-share></div></div></div>"
+      }
+    ],
+    "race": {
+      "label": "U.S. House District 2 (East)",
+      "opponents": [
+        {
+          "urlKey": "matt-rosendale",
+          "Name": "Matt Rosendale",
+          "SummaryLine": "Incumbent U.S. Representative for Montana at-large",
+          "isIncumbent": true,
+          "Party": "R"
+        },
+        {
+          "urlKey": "kyle-austin",
+          "Name": "Kyle Austin",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "james-boyette",
+          "Name": "James Boyette",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "gary-buchanan",
+          "Name": "Gary Buchanan",
+          "SummaryLine": "Billings financial advisor",
+          "isIncumbent": false,
+          "Party": "I"
+        },
+        {
+          "urlKey": "sam-rankin",
+          "Name": "Sam Rankin",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "L"
+        },
+        {
+          "urlKey": "penny-ronning",
+          "Name": "Penny Ronning",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "roger-roots",
+          "Name": "Roger Roots",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "L"
+        },
+        {
+          "urlKey": "mark-sweeney",
+          "Name": "Mark Sweeney",
+          "SummaryLine": "State senator, Philipsburg",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "samuel-thomas",
+          "Name": "Samuel Thomas",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "L"
+        },
+        {
+          "urlKey": "skylar-williams",
+          "Name": "Skylar Williams",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        }
+      ],
+      "hasQuestionnaire": true,
+      "campaignFinance": "fec"
+    }
   },
   {
     "Name": "Skylar Williams",
@@ -299,11 +4971,303 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:14:04.239Z",
-    "updatedAt": "2022-04-20T21:11:52.818Z",
+    "updatedAt": "2022-04-22T17:21:43.354Z",
     "Party": "D",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "urlKey": "skylar-williams"
+    "FECCandidateName": "WILLIAMS, SKYLAR",
+    "urlKey": "skylar-williams",
+    "partyLabel": "Democratic candidate",
+    "finances": [
+      {
+        "isThisCandidate": false,
+        "displayName": "Matt Rosendale",
+        "party": "R",
+        "candidateId": "H4MT00050",
+        "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
+        "totalReceipts": 1368829.3,
+        "totalDisbursments": 595522.1,
+        "cashOnHand": 1036146.24,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Mark Sweeney",
+        "party": "D",
+        "candidateId": "H2MT02159",
+        "candidateCommitteeName": "SWEENEY FOR MONTANA",
+        "totalReceipts": 82448,
+        "totalDisbursments": 27334.12,
+        "cashOnHand": 55113.88,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Gary Buchanan",
+        "party": "I",
+        "candidateId": "H2MT02167",
+        "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
+        "totalReceipts": 40573,
+        "totalDisbursments": 2838.66,
+        "cashOnHand": 37734.34,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Penny Ronning",
+        "party": "D",
+        "candidateId": "H2MT02134",
+        "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
+        "totalReceipts": 39021.45,
+        "totalDisbursments": 27211.84,
+        "cashOnHand": 11809.61,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": true,
+        "displayName": "Skylar Williams",
+        "party": "D",
+        "candidateId": "H2MT02118",
+        "candidateCommitteeName": "SKYLARFORUSCONGRESS",
+        "totalReceipts": 3213.51,
+        "totalDisbursments": 3054.42,
+        "cashOnHand": 159.09,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "James Boyette",
+        "party": "R",
+        "candidateId": "H2MT02142",
+        "candidateCommitteeName": "JAMES BOYETTE",
+        "totalReceipts": 2250,
+        "totalDisbursments": 4468.07,
+        "cashOnHand": -2218.07,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Kyle Austin",
+        "party": "R",
+        "candidateId": "H2MT02175",
+        "candidateCommitteeName": "AUSTIN FOR CONGRESS",
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Sam Rankin",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Roger Roots",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Samuel Thomas",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Charles Walking Child",
+        "party": "R",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      }
+    ],
+    "articles": [
+      {
+        "title": "Congressional races up and running",
+        "date": "2022-03-14T18:50:03",
+        "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "Al Olszewski"
+            },
+            {
+              "name": "Charles Walking Child"
+            },
+            {
+              "name": "Cora Neumann"
+            },
+            {
+              "name": "gary buchanan"
+            },
+            {
+              "name": "James Boyette"
+            },
+            {
+              "name": "John Lamb"
+            },
+            {
+              "name": "Kyle Austin"
+            },
+            {
+              "name": "Mark Sweeney"
+            },
+            {
+              "name": "Matt Jette"
+            },
+            {
+              "name": "Matt Rosendale"
+            },
+            {
+              "name": "Mitch Heuer"
+            },
+            {
+              "name": "Monica Tranel"
+            },
+            {
+              "name": "Penny Ronning"
+            },
+            {
+              "name": "Roger Roots"
+            },
+            {
+              "name": "Ryan Zinke"
+            },
+            {
+              "name": "Sam Rankin"
+            },
+            {
+              "name": "Samuel Thomas"
+            },
+            {
+              "name": "Skylar Williams"
+            },
+            {
+              "name": "Tom Winter"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/u-s-capitol-building-washington-d-c-united-states-of-america/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>Candidates running for seats in the U.S. House of Representatives have filed their requisite paperwork as of 5 p.m. Monday, bringing the tally of active candidates up to nine Republicans, six Democrats, four Libertarians and one Independent. </p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><amp-social-share type=\"twitter\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Twitter\" title=\"Click to share on Twitter\"></amp-social-share><amp-social-share type=\"facebook\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Facebook\" title=\"Click to share on Facebook\" data-param-app_id=\"249643311490\"></amp-social-share><amp-social-share type=\"email\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Email\" title=\"Click to share on Email\" data-target=\"_self\"></amp-social-share></div></div></div>"
+      }
+    ],
+    "race": {
+      "label": "U.S. House District 2 (East)",
+      "opponents": [
+        {
+          "urlKey": "matt-rosendale",
+          "Name": "Matt Rosendale",
+          "SummaryLine": "Incumbent U.S. Representative for Montana at-large",
+          "isIncumbent": true,
+          "Party": "R"
+        },
+        {
+          "urlKey": "kyle-austin",
+          "Name": "Kyle Austin",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "james-boyette",
+          "Name": "James Boyette",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "gary-buchanan",
+          "Name": "Gary Buchanan",
+          "SummaryLine": "Billings financial advisor",
+          "isIncumbent": false,
+          "Party": "I"
+        },
+        {
+          "urlKey": "sam-rankin",
+          "Name": "Sam Rankin",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "L"
+        },
+        {
+          "urlKey": "penny-ronning",
+          "Name": "Penny Ronning",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "roger-roots",
+          "Name": "Roger Roots",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "L"
+        },
+        {
+          "urlKey": "mark-sweeney",
+          "Name": "Mark Sweeney",
+          "SummaryLine": "State senator, Philipsburg",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "samuel-thomas",
+          "Name": "Samuel Thomas",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "L"
+        },
+        {
+          "urlKey": "charles-walking-child",
+          "Name": "Charles Walking Child",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        }
+      ],
+      "hasQuestionnaire": true,
+      "campaignFinance": "fec"
+    }
   },
   {
     "Name": "K. Webb Galbreath",
@@ -320,7 +5284,24 @@
     "Party": "R",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "urlKey": "k-webb-galbreath"
+    "FECCandidateName": null,
+    "urlKey": "k-webb-galbreath",
+    "partyLabel": "Republican candidate",
+    "finances": null,
+    "articles": [],
+    "race": {
+      "label": "Public Service Commission District 1",
+      "opponents": [
+        {
+          "urlKey": "randy-pinocci",
+          "Name": "Randy Pinocci",
+          "SummaryLine": "Incumbent commissioner",
+          "isIncumbent": true,
+          "Party": "R"
+        }
+      ],
+      "campaignFinance": "copp"
+    }
   },
   {
     "Name": "Randy Pinocci",
@@ -337,7 +5318,24 @@
     "Party": "R",
     "CampaignYoutubeUrl": null,
     "isIncumbent": true,
-    "urlKey": "randy-pinocci"
+    "FECCandidateName": null,
+    "urlKey": "randy-pinocci",
+    "partyLabel": "Republican candidate",
+    "finances": null,
+    "articles": [],
+    "race": {
+      "label": "Public Service Commission District 1",
+      "opponents": [
+        {
+          "urlKey": "k-webb-galbreath",
+          "Name": "K. Webb Galbreath",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        }
+      ],
+      "campaignFinance": "copp"
+    }
   },
   {
     "Name": "Annie Bukacek",
@@ -354,7 +5352,52 @@
     "Party": "R",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "urlKey": "annie-bukacek"
+    "FECCandidateName": null,
+    "urlKey": "annie-bukacek",
+    "partyLabel": "Republican candidate",
+    "finances": null,
+    "articles": [],
+    "race": {
+      "label": "Public Service Commission District 5",
+      "opponents": [
+        {
+          "urlKey": "dean-crabb",
+          "Name": "Dean Crabb",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "joe-dooling",
+          "Name": "Joe Dooling",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "kevin-hamm",
+          "Name": "Kevin Hamm",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "john-repke",
+          "Name": "John Repke",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "derek-skees",
+          "Name": "Derek Skees",
+          "SummaryLine": "State representative",
+          "isIncumbent": false,
+          "Party": "R"
+        }
+      ],
+      "campaignFinance": "copp"
+    }
   },
   {
     "Name": "Dean Crabb",
@@ -371,7 +5414,52 @@
     "Party": "R",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "urlKey": "dean-crabb"
+    "FECCandidateName": null,
+    "urlKey": "dean-crabb",
+    "partyLabel": "Republican candidate",
+    "finances": null,
+    "articles": [],
+    "race": {
+      "label": "Public Service Commission District 5",
+      "opponents": [
+        {
+          "urlKey": "annie-bukacek",
+          "Name": "Annie Bukacek",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "joe-dooling",
+          "Name": "Joe Dooling",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "kevin-hamm",
+          "Name": "Kevin Hamm",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "john-repke",
+          "Name": "John Repke",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "derek-skees",
+          "Name": "Derek Skees",
+          "SummaryLine": "State representative",
+          "isIncumbent": false,
+          "Party": "R"
+        }
+      ],
+      "campaignFinance": "copp"
+    }
   },
   {
     "Name": "Joe Dooling",
@@ -388,7 +5476,52 @@
     "Party": "R",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "urlKey": "joe-dooling"
+    "FECCandidateName": null,
+    "urlKey": "joe-dooling",
+    "partyLabel": "Republican candidate",
+    "finances": null,
+    "articles": [],
+    "race": {
+      "label": "Public Service Commission District 5",
+      "opponents": [
+        {
+          "urlKey": "annie-bukacek",
+          "Name": "Annie Bukacek",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "dean-crabb",
+          "Name": "Dean Crabb",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "kevin-hamm",
+          "Name": "Kevin Hamm",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "john-repke",
+          "Name": "John Repke",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "derek-skees",
+          "Name": "Derek Skees",
+          "SummaryLine": "State representative",
+          "isIncumbent": false,
+          "Party": "R"
+        }
+      ],
+      "campaignFinance": "copp"
+    }
   },
   {
     "Name": "Kevin Hamm",
@@ -405,7 +5538,52 @@
     "Party": "D",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "urlKey": "kevin-hamm"
+    "FECCandidateName": null,
+    "urlKey": "kevin-hamm",
+    "partyLabel": "Democratic candidate",
+    "finances": null,
+    "articles": [],
+    "race": {
+      "label": "Public Service Commission District 5",
+      "opponents": [
+        {
+          "urlKey": "annie-bukacek",
+          "Name": "Annie Bukacek",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "dean-crabb",
+          "Name": "Dean Crabb",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "joe-dooling",
+          "Name": "Joe Dooling",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "john-repke",
+          "Name": "John Repke",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "derek-skees",
+          "Name": "Derek Skees",
+          "SummaryLine": "State representative",
+          "isIncumbent": false,
+          "Party": "R"
+        }
+      ],
+      "campaignFinance": "copp"
+    }
   },
   {
     "Name": "John Repke",
@@ -422,7 +5600,52 @@
     "Party": "D",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "urlKey": "john-repke"
+    "FECCandidateName": null,
+    "urlKey": "john-repke",
+    "partyLabel": "Democratic candidate",
+    "finances": null,
+    "articles": [],
+    "race": {
+      "label": "Public Service Commission District 5",
+      "opponents": [
+        {
+          "urlKey": "annie-bukacek",
+          "Name": "Annie Bukacek",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "dean-crabb",
+          "Name": "Dean Crabb",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "joe-dooling",
+          "Name": "Joe Dooling",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "kevin-hamm",
+          "Name": "Kevin Hamm",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "derek-skees",
+          "Name": "Derek Skees",
+          "SummaryLine": "State representative",
+          "isIncumbent": false,
+          "Party": "R"
+        }
+      ],
+      "campaignFinance": "copp"
+    }
   },
   {
     "Name": "Derek Skees",
@@ -439,7 +5662,52 @@
     "Party": "R",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "urlKey": "derek-skees"
+    "FECCandidateName": null,
+    "urlKey": "derek-skees",
+    "partyLabel": "Republican candidate",
+    "finances": null,
+    "articles": [],
+    "race": {
+      "label": "Public Service Commission District 5",
+      "opponents": [
+        {
+          "urlKey": "annie-bukacek",
+          "Name": "Annie Bukacek",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "dean-crabb",
+          "Name": "Dean Crabb",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "joe-dooling",
+          "Name": "Joe Dooling",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "kevin-hamm",
+          "Name": "Kevin Hamm",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "john-repke",
+          "Name": "John Repke",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        }
+      ],
+      "campaignFinance": "copp"
+    }
   },
   {
     "Name": "Bill D'Alton",
@@ -456,7 +5724,24 @@
     "Party": "NP",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "urlKey": "bill-dalton"
+    "FECCandidateName": null,
+    "urlKey": "bill-dalton",
+    "partyLabel": "Candidate",
+    "finances": null,
+    "articles": [],
+    "race": {
+      "label": "Montana Supreme Court (Seat 1)",
+      "opponents": [
+        {
+          "urlKey": "jim-rice",
+          "Name": "Jim Rice",
+          "SummaryLine": "Incumbent Supreme Court Justice",
+          "isIncumbent": true,
+          "Party": "NP"
+        }
+      ],
+      "campaignFinance": "copp"
+    }
   },
   {
     "Name": "Jim Rice",
@@ -473,7 +5758,24 @@
     "Party": "NP",
     "CampaignYoutubeUrl": null,
     "isIncumbent": true,
-    "urlKey": "jim-rice"
+    "FECCandidateName": null,
+    "urlKey": "jim-rice",
+    "partyLabel": "Candidate",
+    "finances": null,
+    "articles": [],
+    "race": {
+      "label": "Montana Supreme Court (Seat 1)",
+      "opponents": [
+        {
+          "urlKey": "bill-dalton",
+          "Name": "Bill D'Alton",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "NP"
+        }
+      ],
+      "campaignFinance": "copp"
+    }
   },
   {
     "Name": "James Brown",
@@ -490,7 +5792,31 @@
     "Party": "NP",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "urlKey": "james-brown"
+    "FECCandidateName": null,
+    "urlKey": "james-brown",
+    "partyLabel": "Candidate",
+    "finances": null,
+    "articles": [],
+    "race": {
+      "label": "Montana Supreme Court (Seat 2)",
+      "opponents": [
+        {
+          "urlKey": "ingrid-gustafson",
+          "Name": "Ingrid Gustafson",
+          "SummaryLine": "Incumbent Supreme Court Justice",
+          "isIncumbent": true,
+          "Party": "NP"
+        },
+        {
+          "urlKey": "mike-mcmahon",
+          "Name": "Mike McMahon",
+          "SummaryLine": "Helena District Court Judge",
+          "isIncumbent": false,
+          "Party": "NP"
+        }
+      ],
+      "campaignFinance": "copp"
+    }
   },
   {
     "Name": "Ingrid Gustafson",
@@ -507,7 +5833,31 @@
     "Party": "NP",
     "CampaignYoutubeUrl": null,
     "isIncumbent": true,
-    "urlKey": "ingrid-gustafson"
+    "FECCandidateName": null,
+    "urlKey": "ingrid-gustafson",
+    "partyLabel": "Candidate",
+    "finances": null,
+    "articles": [],
+    "race": {
+      "label": "Montana Supreme Court (Seat 2)",
+      "opponents": [
+        {
+          "urlKey": "james-brown",
+          "Name": "James Brown",
+          "SummaryLine": "Public Service Commission chairman",
+          "isIncumbent": false,
+          "Party": "NP"
+        },
+        {
+          "urlKey": "mike-mcmahon",
+          "Name": "Mike McMahon",
+          "SummaryLine": "Helena District Court Judge",
+          "isIncumbent": false,
+          "Party": "NP"
+        }
+      ],
+      "campaignFinance": "copp"
+    }
   },
   {
     "Name": "Mike McMahon",
@@ -524,7 +5874,31 @@
     "Party": "NP",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "urlKey": "mike-mcmahon"
+    "FECCandidateName": null,
+    "urlKey": "mike-mcmahon",
+    "partyLabel": "Candidate",
+    "finances": null,
+    "articles": [],
+    "race": {
+      "label": "Montana Supreme Court (Seat 2)",
+      "opponents": [
+        {
+          "urlKey": "james-brown",
+          "Name": "James Brown",
+          "SummaryLine": "Public Service Commission chairman",
+          "isIncumbent": false,
+          "Party": "NP"
+        },
+        {
+          "urlKey": "ingrid-gustafson",
+          "Name": "Ingrid Gustafson",
+          "SummaryLine": "Incumbent Supreme Court Justice",
+          "isIncumbent": true,
+          "Party": "NP"
+        }
+      ],
+      "campaignFinance": "copp"
+    }
   },
   {
     "Name": "Cora Neumann",
@@ -537,10 +5911,248 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:29:22.619Z",
-    "updatedAt": "2022-04-20T21:20:48.249Z",
+    "updatedAt": "2022-04-22T17:24:21.642Z",
     "Party": "D",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "urlKey": "cora-neumann"
+    "FECCandidateName": "NEUMANN, CORA",
+    "urlKey": "cora-neumann",
+    "partyLabel": "Democratic candidate",
+    "finances": [
+      {
+        "isThisCandidate": false,
+        "displayName": "Ryan Zinke",
+        "party": "R",
+        "candidateId": "H4MT01041",
+        "candidateCommitteeName": "ZINKE FOR CONGRESS",
+        "totalReceipts": 2484819.24,
+        "totalDisbursments": 1272320.57,
+        "cashOnHand": 1212498.67,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": true,
+        "displayName": "Cora Neumann",
+        "party": "D",
+        "candidateId": "H2MT02100",
+        "candidateCommitteeName": "CORA FOR MONTANA",
+        "totalReceipts": 1172109.15,
+        "totalDisbursments": 388093.28,
+        "cashOnHand": 877958.24,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Al Olszewski",
+        "party": "R",
+        "candidateId": "H2MT02084",
+        "candidateCommitteeName": "AL FOR MONTANA",
+        "totalReceipts": 678063.92,
+        "totalDisbursments": 313268.1,
+        "cashOnHand": 364795.82,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Monica Tranel",
+        "party": "D",
+        "candidateId": "H2MT02092",
+        "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
+        "totalReceipts": 675152.88,
+        "totalDisbursments": 408992.4,
+        "cashOnHand": 266160.48,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Tom Winter",
+        "party": "D",
+        "candidateId": "H0MT00090",
+        "candidateCommitteeName": "WINTER FOR MONTANA",
+        "totalReceipts": 94918.19,
+        "totalDisbursments": 78882.81,
+        "cashOnHand": 16035.38,
+        "coverageEndDate": "2022-03-31T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Mitch Heuer",
+        "party": "R",
+        "candidateId": "H2MT01136",
+        "candidateCommitteeName": "HEUER FOR CONGRESS",
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Matt Jette",
+        "party": "R",
+        "candidateId": "H2MT01110",
+        "candidateCommitteeName": "JETTE 4 MONTANA",
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "John Lamb",
+        "party": "L",
+        "candidateId": null,
+        "candidateCommitteeName": null,
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      }
+    ],
+    "articles": [
+      {
+        "title": "Congressional races up and running",
+        "date": "2022-03-14T18:50:03",
+        "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "Al Olszewski"
+            },
+            {
+              "name": "Charles Walking Child"
+            },
+            {
+              "name": "Cora Neumann"
+            },
+            {
+              "name": "gary buchanan"
+            },
+            {
+              "name": "James Boyette"
+            },
+            {
+              "name": "John Lamb"
+            },
+            {
+              "name": "Kyle Austin"
+            },
+            {
+              "name": "Mark Sweeney"
+            },
+            {
+              "name": "Matt Jette"
+            },
+            {
+              "name": "Matt Rosendale"
+            },
+            {
+              "name": "Mitch Heuer"
+            },
+            {
+              "name": "Monica Tranel"
+            },
+            {
+              "name": "Penny Ronning"
+            },
+            {
+              "name": "Roger Roots"
+            },
+            {
+              "name": "Ryan Zinke"
+            },
+            {
+              "name": "Sam Rankin"
+            },
+            {
+              "name": "Samuel Thomas"
+            },
+            {
+              "name": "Skylar Williams"
+            },
+            {
+              "name": "Tom Winter"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/u-s-capitol-building-washington-d-c-united-states-of-america/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>Candidates running for seats in the U.S. House of Representatives have filed their requisite paperwork as of 5 p.m. Monday, bringing the tally of active candidates up to nine Republicans, six Democrats, four Libertarians and one Independent. </p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><amp-social-share type=\"twitter\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Twitter\" title=\"Click to share on Twitter\"></amp-social-share><amp-social-share type=\"facebook\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Facebook\" title=\"Click to share on Facebook\" data-param-app_id=\"249643311490\"></amp-social-share><amp-social-share type=\"email\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Email\" title=\"Click to share on Email\" data-target=\"_self\"></amp-social-share></div></div></div>"
+      }
+    ],
+    "race": {
+      "label": "U.S. House District 1 (West)",
+      "opponents": [
+        {
+          "urlKey": "mitch-heuer",
+          "Name": "Mitch Heuer",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "matt-jette",
+          "Name": "Matt Jette",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "john-lamb",
+          "Name": "John Lamb",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "L"
+        },
+        {
+          "urlKey": "al-olszewski",
+          "Name": "Al Olszewski",
+          "SummaryLine": "Former Kalispell state senator",
+          "isIncumbent": false,
+          "Party": "R"
+        },
+        {
+          "urlKey": "monica-tranel",
+          "Name": "Monica Tranel",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "tom-winter",
+          "Name": "Tom Winter",
+          "SummaryLine": "Summary TK",
+          "isIncumbent": false,
+          "Party": "D"
+        },
+        {
+          "urlKey": "ryan-zinke",
+          "Name": "Ryan Zinke",
+          "SummaryLine": "Former U.S. Interior Secretary",
+          "isIncumbent": false,
+          "Party": "R"
+        }
+      ],
+      "hasQuestionnaire": true,
+      "campaignFinance": "fec"
+    }
   }
 ]

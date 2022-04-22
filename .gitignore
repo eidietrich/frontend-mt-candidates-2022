@@ -4,6 +4,7 @@ NOTES.md
 inputs/portraits/raw
 inputs/portraits/processing.psd
 
+.env
 node_modules/
 .cache/
 public

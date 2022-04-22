@@ -13,6 +13,14 @@ export const dateFormatLong = timeFormat('%B %-d')
 export const dateFormatWithWeekday = timeFormat('%A, %B %-d')
 export const shortDateWithWeekday = timeFormat('%a, %b %-d')
 
+export const dollarFormatResponsive = num => {
+  if (Math.abs(num) < 1000) return format('$,.0f')(num)
+  if (Math.abs(num) >= 1000 && (Math.abs(num) < 10_000)) return format('$,.1s')(num)
+  if (Math.abs(num) >= 10_000 && (Math.abs(num) < 100_000)) return format('$,.2s')(num)
+  if (Math.abs(num) >= 100_000 && (Math.abs(num) < 1_000_000)) return format('$,.3s')(num)
+  if (Math.abs(num) >= 1_000_000 && (Math.abs(num) < 10_000_000)) return format('$,.2s')(num)
+  else return 'ERR'
+}
 
 // Routing
 export const billUrl = identifier => identifier.substring(0, 2).toLowerCase() + '-' + identifier.substring(3,)

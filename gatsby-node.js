@@ -9,22 +9,10 @@ exports.createPages = async ({
     actions: { createPage },
 }) => {
 
+    // Create pages
     candidates.forEach(candidate => {
-        const key = candidate.urlKey
-        const race = races.find(d => d.key === candidate.Race)
-        console.log(key, race.key, race.label)
-
-        if (!race) {
-            console.warn('Missing race', candidate.Race)
-        }
-
-        candidate.race = {
-            // only including necessary data here
-            label: race.label,
-        }
-
         createPage({
-            path: `/candidates/${key}`,
+            path: `/candidates/${candidate.urlKey}`,
             component: require.resolve('./src/pages/candidate.js'),
             context: {
                 ...candidate,

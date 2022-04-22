@@ -1,0 +1,129 @@
+[
+    {
+        "name": "dummy",
+        "responses": [
+            {
+                "question": "Particularly in the aftermath of the COVID-19 pandemic, what policies would you propose to help provide Montana workers with access to good jobs?",
+                "answer": [
+                    {
+                        "type": "text",
+                        "value": "As Montana’s economy recovers from COVID-19 it is more important than ever to make sure students and workers have access to the training they need to fill in-demand jobs. We need to be aggressive in making sure opportunities are available to workers, in a way that suits them, that also works for the business community. I believe the biggest area we can make an impact is through education."
+                    },
+                    {
+                        "type": "text",
+                        "value": "Before the COVID-19 pandemic almost everywhere I traveled business owners and employers would talk to me about how difficult it was to hire enough skilled workers. I have long championed apprenticeship programs in Montana, since I was deputy commissioner at the Montana Department of Labor. In 2017 Governor Bullock and I passed legislation to provide tax credits to businesses hiring apprentices and I believe those efforts should continue. We should also look at expanding dual enrollment programs, free two-year college tuition and greater access to work-based learning opportunities."
+                    }
+                ]
+            },
+            {
+                "question": "If the economic fallout of the COVID-19 pandemic causes a state budget crisis, how would you propose to address it? If you support tax increases, who specifically should pay more? If you support budget cuts, where specifically would you look to make cuts? (We assume that working to minimize waste, fraud and abuse is a given.)",
+                "answer": [
+                    {
+                        "type": "text",
+                        "value": "The good news is Montana’s budget was in a very strong position before the COVID-19 pandemic because Governor Bullock and I ensured we had adequate reserves during the last legislative session. But Montana is not immune to economic impacts of the pandemic and revenue declines as a result of the pandemic are starting to materialize."
+                    },
+                    {
+                        "type": "text",
+                        "value": "There will be difficult decisions to make in the next legislative session. I’m willing to have a conversation with both parties about how to bring fairness to our tax system while ensuring we have enough revenues to fund critical services Montanans expect, including increasing the income tax on folks who make more than $500,000 a year and capping the Capital Gains Tax Credit at one million dollars. The Republican-majority Montana Legislature has been studying our tax system for several interim sessions now and I would expect them to bring ideas to the table as well."
+                    }
+                ]
+            },
+            {
+                "question": "If elected governor, how would you attempt to bridge partisan divides to work with Montanans who don't share your political orientation in order to ensure their concerns are considered by your administration?",
+                "answer": [
+                    {
+                        "type": "text",
+                        "value": "As I have my entire time in public office, as governor I would bring together folks from all sides of the political aisle to find Montana-made solutions to our problems. As a legislator from Butte, as secretary of state, as president of the Senate and now as lt. governor, I’ve worked with Democrats and Republicans to craft numerous pieces of bipartisan legislation and implement a wide range of policy."
+                    },
+                    {
+                        "type": "text",
+                        "value": "It’s critical the next governor have the relationships necessary to bridge political divides in order to pass a balanced budget, make investments in our health care and education systems, and address some of the most pressing challenges of our time. I’ve built those relationships over the course of my time in public office and I’ll be ready to sit down with Montana leaders all across the state, to listen, and to work together to move Montana forward on day one as governor."
+                    }
+                ]
+            },
+            {
+                "question": "Should Montana’s minimum wage of $8.65 an hour be raised to $15 an hour, as some advocate?",
+                "answer": [
+                    {
+                        "type": "text",
+                        "value": "I’ve always been supportive of Montana’s approach to minimum wage, which took the debate out of politics and set into law a regular adjustment to the minimum wage based on cost of living and inflation. I also support doing everything we can to increase the earning abilities of Montana families. This includes making sure Montana workers have access to training programs to increase their skills and move into higher-paying jobs, investing in educational opportunities and doing everything we can to make sure workers’ rights are protected."
+                    }
+                ]
+            },
+            {
+                "question": "Do you favor legalizing marijuana use in Montana beyond the state’s existing medical marijuana program? If so, what sideboards would be appropriate?",
+                "answer": [
+                    {
+                        "type": "text",
+                        "value": "Yes, I do. I’ve long supported medical marijuana for those who need it and I support the citizens’ initiatives to legalize recreational marijuana. I sat down with the organizers of the initiative early on and pledged my support. We’ve seen success in other states but we’ve got to make sure we implement a program that works for Montana."
+                    },
+                    {
+                        "type": "text",
+                        "value": "I believe we must have protections to keep marijuana out of the hands of minors, we must have a proper testing system in place to make sure the marijuana being sold is safe, and we must ensure any revenue from the taxation and sale of marijuana is structured in a way that benefits Montana’s budget in the long run."
+                    }
+                ]
+            },
+            {
+                "question": "What steps would you support as governor to reduce the number of missing and murdered indigenous people in Montana?",
+                "answer": [
+                    {
+                        "type": "text",
+                        "value": "The epidemic of MMIP is a crisis and as governor I will make addressing this crisis a top priority. I would first and foremost make sure the voices of tribal leaders, advocates and tribal members are leading partners in these efforts to help us understand and engage with tribal communities."
+                    },
+                    {
+                        "type": "text",
+                        "value": "We must make sure that when a Native person goes missing, there is an immediate and serious law enforcement response. We need to continue to meet with tribes to implement the legislation and improve on potential implementation in the future, such as allowing tribes to enter potential memorandums of understanding with neighboring counties to provide more on-the-ground resources. We also know Native American communities are hit harder by systemic issues such as sex trafficking, drug abuse, and suicide; as governor I will work together with tribes, legislators and state agencies to address all of these issues."
+                    }
+                ]
+            },
+            {
+                "question": "Do you support state-funded pre-K education? If so, should pre-K schools run by churches or private entities be eligible for funding?",
+                "answer": [
+                    {
+                        "type": "text",
+                        "value": "Yes. High-quality publicly-funded pre-K is an investment Montana can’t afford not to make. The science and data is clear and it’s time we join the other 44 states who made this investment. It will be a top priority of mine as governor."
+                    },
+                    {
+                        "type": "text",
+                        "value": "I do not support any public dollars going towards private schools."
+                    }
+                ]
+            },
+            {
+                "question": "Should the state incarcerate fewer people? If so, are there specific criminal justice reform measures you support?",
+                "answer": [
+                    {
+                        "type": "text",
+                        "value": "I believe it’s time to try a different approach to our criminal justice challenges. Here in Montana, that new approach has already begun with a focus on justice reinvestment. The Montana Department of Corrections’ Justice Reinvestment Initiative seeks to disrupt the cycle of incarceration. Transforming our system to help inmates, probationers and parolees succeed as they return to our communities is a critical component of that effort."
+                    },
+                    {
+                        "type": "text",
+                        "value": "The department is in the early stages of implementing this evidence-based programming and the state must continue to support and invest in the training, resource, staffing and facility needs in order to meet the projected goals of reducing recidivism by 20%."
+                    }
+                ]
+            },
+            {
+                "question": "As governor, how would you ensure that journalists who cover your administration on citizens’ behalf have ample opportunity to understand how you are governing the state? Specifically, would you pledge to 1) Conduct weekly press briefings? And 2) Provide the public with comprehensive daily calendars detailing whom you have met with in your official capacity as governor?",
+                "answer": [
+                    {
+                        "type": "text",
+                        "value": "I’ve been proud to have maintained an open door policy with journalists and press throughout my time in public office and have developed working relationships with many individual reporters. As governor I would ensure transparency and access to my administration by conducting weekly press briefings when possible and more frequent briefings during legislative sessions when information and legislative dealings occur more quickly than day-to-day governing, and I would provide the public with calendars detailing whom I’ve met with in my official capacity as governor, as public safety concerns allow."
+                    }
+                ]
+            },
+            {
+                "question": "Montana political candidates often tout their Montana roots and face criticism if they were born and raised elsewhere. Is it important for the governor to be a lifelong Montanan?",
+                "answer": [
+                    {
+                        "type": "text",
+                        "value": "It’s important for Montana’s governor to share our values and understand the issues hard-working Montana families face. I was raised in Butte and I’m a lifelong Montanan. I’m a proud product of the Butte public school system and I spent my summers outdoors enjoying our public lands. I watched firsthand as Montana families fought against corporations for better wages and better working conditions. And I chose to raise my family here."
+                    },
+                    {
+                        "type": "text",
+                        "value": "I’ve been fighting for Montana families ever since I was elected to the Montana House as a young legislator from Butte. I’ve traveled to all 56 counties in Montana and visited with thousands of Montanans across the state over the course of several statewide elections and holding positions in elected office. I understand the issues Montanans from all walks of life face because I’ve listened to and visited with them directly over the course of a lifetime of public service."
+                    }
+                ]
+            }
+        ]
+    }
+]

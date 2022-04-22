@@ -91,7 +91,7 @@ const Layout = ({ children, siteHed, siteSubhed, maxWidth }) => {
             <Footer />
             {
                 // Parsely analytics script
-                (NODE_ENV === 'production') && <script id="parsely-cfg" src="//cdn.parsely.com/keys/montanafreepress.org/p.js"></script>
+                (NODE_ENV === 'production') && <script id="parsely-cfg" src="cdn.parsely.com/keys/montanafreepress.org/p.js"></script>
             }
         </div>
     )

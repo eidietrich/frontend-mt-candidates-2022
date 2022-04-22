@@ -1,20 +1,27 @@
 import React, { Component } from 'react'
 import { css } from '@emotion/react'
+import { Link } from 'gatsby'
 
 import ReactMarkdown from 'react-markdown'
 
 import Layout from "../components/Layout"
 import Seo from '../components/Seo'
 import Portrait from '../components/Portrait'
+import IssueQuestions from '../components/IssueQuestions'
+import CampaignFinance from '../components/CampaignFinance'
+import Coverage from '../components/Coverage'
 
 import { partyColor } from '../config/config'
 import { web, facebook, twitter, instagram, youtube } from '../library/icons'
+
+import dummyQuestions from '../data/dummy-Q-and-A.json'
 
 const style = css`
     .bio-box {
         display: flex;
         border: 1px solid var(--gray5);
         background: var(--tan1);
+        margin-top: 1.5em;
 
         .portrait {
 
@@ -51,15 +58,15 @@ const style = css`
             color: #666;
         }
     }
+
+    .competitors {
+        margin-top: 0.5em;
+
+        
+    }
     
 `
-const partyFull = {
-    'R': 'Republican candidate',
-    'D': 'Democratic candidate',
-    'L': 'Libertarian candidate',
-    'I': 'Independent candidate',
-    'NP': 'Candidate',
-}
+
 
 class CandidatePage extends Component {
     render() {
@@ -67,7 +74,7 @@ class CandidatePage extends Component {
         const {
             urlKey,
             Name,
-            // Race,
+            Race,
             Party,
             SummaryLine,
             LongSummary,
@@ -77,11 +84,16 @@ class CandidatePage extends Component {
             CampaignInstagramUrl,
             CampaignYoutubeUrl,
             race, // raceInfo
+            finances,
+            articles,
+            partyLabel,
         } = data
+
         const color = partyColor(Party)
-        if (!urlKey) {
-            console.log('d', data)
-        }
+        const opponents = race.opponents
+            .sort((a, b) => a.Name.localeCompare(b.Name))
+            .sort((a, b) => ['R', 'D', 'L'].indexOf(a.Party) - ['R', 'D', 'L'].indexOf(b.Party))
+
         return (<div css={style}>
             <Seo
                 title={`Montana's 2022 election | ${Name}`}
@@ -89,13 +101,11 @@ class CandidatePage extends Component {
             />
             <Layout>
                 <div className="bio-box">
-
-
                     <div className="portrait">
                         <Portrait filename={`${urlKey}.png`} barColor={color} />
                     </div>
                     <div className="info">
-                        {/* <div className="label">2022 {partyFull[Party]} for {race.label}</div> */}
+                        <div className="label">2022 {partyLabel} for {race.label}</div>
                         <h1>{Name}</h1>
                         <div className="short-summary">{SummaryLine}</div>
                         <div className="social-links-label">Campaign website</div>
@@ -114,15 +124,35 @@ class CandidatePage extends Component {
 
 
                 </div>
-                <ReactMarkdown>{LongSummary}</ReactMarkdown>
-                <h3>MTFP coverage</h3>
-                <div>TK curated media links</div>
 
-                <h3>The district</h3>
-                <div>TK information on district boundary + competitors</div>
+                <div className="competitors">
+                    <span>Competitors: </span>
+                    {opponents && opponents.map(d => <Opponent key={d.Name} {...d} />)}
+                </div>
+                <ReactMarkdown>{LongSummary}</ReactMarkdown>
+
+                {
+                    articles && (articles.length > 0) && <div>
+                        <h3>MTFP coverage</h3>
+                        <Coverage articles={articles} />
+                    </div>
+                }
 
                 <h3>Campaign finance</h3>
-                <div> TK</div>
+                {(race.campaignFinance === 'fec') && <CampaignFinance finances={finances} race={Race} />}
+                {(race.campaignFinance === 'copp') && <div>
+                    Campaign finance reporting for this race is done through <a href="https://politicalpractices.mt.gov/">Montana's Commissioner of Political Practices.</a> That data can be accessed through the COPP's <a href="https://cers-ext.mt.gov/CampaignTracker/dashboard">Campaign Electronic Reporting System Dashboard</a>.
+                </div>}
+
+
+                {
+                    race.hasQuestionnaire && <div>
+                        <h3>On the issues</h3>
+                        <div>DUMMY ANSWERS (Mike Cooney's answers from 2020) — ACTUAL CONTENT TK</div>
+                        {/* TODO - wire this up with actual content */}
+                        <IssueQuestions content={dummyQuestions[0].responses} candidateName={Name} />
+                    </div>
+                }
 
                 <h3>Republish this material</h3>
                 {/* MIRROR MATERIAL ON HOME PAGE? */}
@@ -135,6 +165,19 @@ class CandidatePage extends Component {
 
 
 export default CandidatePage
+
+const opponentStyle = css`
+    :not(:last-child):after {
+        content: ', ';
+    }
+`
+
+const Opponent = props => {
+    const { Name, Party, urlKey } = props
+    return <span css={opponentStyle}>
+        <Link to={`/candidates/${urlKey}`}>{Name} ({Party})</Link>
+    </span >
+}
 
 const socialTagStyle = css`
     display: inline-block;
