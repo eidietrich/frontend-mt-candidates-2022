@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { css } from '@emotion/react'
-import { Link } from 'gatsby'
+import { graphql, Link } from 'gatsby'
 
 import ReactMarkdown from 'react-markdown'
 
@@ -68,9 +68,12 @@ const style = css`
 
 class CandidatePage extends Component {
     render() {
-        const data = this.props.pageContext
         const {
-            urlKey,
+            title,
+            description
+        } = this.props.data.site.siteMetadata
+        const {
+            // urlKey,
             Name,
             District,
             Party,
@@ -86,7 +89,7 @@ class CandidatePage extends Component {
             articles,
             // partyLabel,
             // } = data
-        } = data
+        } = this.props.pageContext
 
         const color = partyColor(Party)
         // const opponents = race.opponents
@@ -97,10 +100,10 @@ class CandidatePage extends Component {
 
         return (<div css={style}>
             <Seo
-                title={`Montana's 2022 election | ${Name}`}
-                description={`TK`}
+                title={`${Name} | ${title}`}
+                description={description}
             />
-            <Layout>
+            <Layout siteHed={title} siteSubhed={description}>
                 <div className="bio-box">
                     {/* <div className="portrait">
                         <Portrait filename={`${urlKey}.png`} barColor={color} />
@@ -262,3 +265,14 @@ const SocialTag = props => {
         <span className="icon-label">{label}</span>
     </a>
 }
+
+export const query = graphql`
+  query LegislativeCandidatePageQuery {
+    site {
+      siteMetadata {
+        title
+        description
+      }
+    }
+  }
+`

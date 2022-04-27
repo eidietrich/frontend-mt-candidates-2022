@@ -72,7 +72,7 @@ const NAV_SCHEMA = [
     { type: 'anchor-link', to: '/#SupCo-1', label: 'MT Supreme Court' },
     { type: 'anchor-link', to: '/#Ballot-Initiatives', label: 'Ballot initiatives' },
     { type: 'anchor-link', to: '/#Montana-Legislature', label: 'Legislature' },
-    { type: 'anchor-link', to: '/#How-to-vote', label: 'How to vote' },
+    { type: 'link', to: '/how-to-vote', label: 'How to vote' },
 ]
 
 const Layout = ({ children, siteHed, siteSubhed, maxWidth }) => {
