@@ -57,7 +57,7 @@ const cleanLegislativeCandidates = candidates => {
             Name: c.Name,
             District: c.District,
             Party: c.Party,
-            status: c.Status,
+            Status: c.Status,
             CampaignWebsiteUrl: c.website_url === 'n/a' ? null : c.website_url,
             CampaignFBPageUrl: c.fb_url === 'n/a' ? null : c.fb_url,
             CampaignTwitterUrl: c.twitter_url === 'n/a' ? null : c.twitter_url,

@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Campaign tracker '22`,
+    title: `[DRAFT] Campaign tracker '22`,
     description: `The candidates and issues on Montana's 2022 ballot`,
     author: `Eric Dietrich / Montana Free Press`,
     siteUrl: `https://www.tk.tld`,

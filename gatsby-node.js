@@ -22,7 +22,6 @@ exports.createPages = async ({
     })
 
     legislativeCandidates.forEach(candidate => {
-        console.log(candidate)
         createPage({
             path: `/legislative-candidates/${candidate.urlKey}`,
             component: require.resolve('./src/templates/legislative-candidate.js'),
