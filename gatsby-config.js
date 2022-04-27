@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `siteTitleTK`,
-    description: 'Description TK',
+    title: `Campaign tracker '22`,
+    description: `The candidates and issues on Montana's 2022 ballot`,
     author: `Eric Dietrich / Montana Free Press`,
-    siteUrl: `https://www.yourdomain.tld`,
+    siteUrl: `https://www.tk.tld`,
     keywords: ['Montana', 'elections', 'voters', 'candidates', 'politicians', '2022'],
     // hacky as hell
     image: "https://apps.montanafreepress.org/montana-legislature-lawsuit-tracker/images/lawsuit-tracker.png"

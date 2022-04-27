@@ -1,7 +1,23 @@
 // const fs = require('fs')
 const fs = require('fs-extra')
+const { parse } = require('csv-parse/sync')
 
+// NOT DONE
+module.exports.getCsv = (path) => {
+    const raw = fs.readFileSync(path)
+    const rows = parse(raw, { columns: false, trim: true })
+    const head = rows[0]
+    const body = rows.slice(1,)
 
+    const data = body.map(row => {
+        const d = {}
+        head.forEach((key, i) => {
+            d[key] = row[i]
+        })
+        return d
+    })
+    return data
+}
 module.exports.getJson = (path) => JSON.parse(fs.readFileSync(path))
 
 module.exports.writeJson = (path, data) => {

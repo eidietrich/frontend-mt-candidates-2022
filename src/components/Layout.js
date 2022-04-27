@@ -21,7 +21,11 @@ const style = css`
         padding: 10px;
         padding-top: 0;
         margin: auto;
+        
+    }
+    .top-material {
         max-width: 800px;
+        margin: auto;
     }
     .header {
         background-color: var(--tan7);
@@ -76,16 +80,18 @@ const Layout = ({ children, siteHed, siteSubhed, maxWidth }) => {
     return (
         <div css={style}>
             <div className="content" style={{ maxWidth: maxWidth || '800px' }}>
-                <div className="header">
-                    {/* <h1 css={titleStyle}><Link to="/">{siteHed}</Link></h1> */}
-                    <h1 className="title">{siteHed}</h1>
-                    <h2 className="subtitle">{siteSubhed}</h2>
-                    <div className="blurb">
-                        A digital guide by <MTFPLogo />| <a href={headerDonateUrl}>Support this work</a>
+                <div className="top-material">
+                    <div className="header">
+                        {/* <h1 css={titleStyle}><Link to="/">{siteHed}</Link></h1> */}
+                        <h1 className="title">{siteHed}</h1>
+                        <h2 className="subtitle">{siteSubhed}</h2>
+                        <div className="blurb">
+                            A digital guide by <MTFPLogo />| <a href={headerDonateUrl}>Support this work</a>
+                        </div>
                     </div>
+                    <Nav schema={NAV_SCHEMA} />
                 </div>
 
-                <Nav schema={NAV_SCHEMA} />
                 <main>{children}</main>
             </div>
             <Footer />

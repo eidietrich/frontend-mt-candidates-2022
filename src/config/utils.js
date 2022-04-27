@@ -34,7 +34,7 @@ export const capitalize = string => `${string[0].toUpperCase()}${string.slice(1)
 export const titleCase = string => string.replace(/\w\S*/g, txt => txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase())
   .replace('Mt', 'MT') // for addresses
 export const cleanPhoneString = string => string.replace(/\s|\-|\(|\)/g, '')
-
+export const cleanNameString = string => string.toUpperCase().replace(' ', '').replace('-', '')
 
 // Adapted from https://stackoverflow.com/questions/14763997/javascript-array-to-sentence
 export const listToText = (list) => {

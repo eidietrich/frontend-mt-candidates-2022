@@ -17,12 +17,20 @@ const getOverviewPage = async () => {
     const overviewPage = resultData.data.attributes
     return overviewPage
 }
+const getHowToVotePage = async () => {
+    const result = await fetch('http://localhost:1337/api/how-to-vote-page')
+    const resultData = await result.json()
+    const howToVotePage = resultData.data.attributes
+    return howToVotePage
+}
 
 const main = async () => {
     const candidates = await getCandidates()
     writeJson('./inputs/cms/candidates.json', candidates)
     const overview = await getOverviewPage()
     writeJson('./inputs/cms/overview.json', overview)
+    const howToVote = await getHowToVotePage()
+    writeJson('./inputs/cms/how-to-vote.json', howToVote)
 
 }
 

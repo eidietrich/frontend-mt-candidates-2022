@@ -14,8 +14,6 @@ import Coverage from '../components/Coverage'
 import { partyColor } from '../config/config'
 import { web, facebook, twitter, instagram, youtube } from '../library/icons'
 
-import dummyQuestions from '../data/dummy-Q-and-A.json'
-
 const style = css`
     .bio-box {
         display: flex;
@@ -74,25 +72,28 @@ class CandidatePage extends Component {
         const {
             urlKey,
             Name,
-            Race,
+            District,
             Party,
-            SummaryLine,
-            LongSummary,
+            // SummaryLine,
+            // LongSummary,
             CampaignWebsiteUrl,
             CampaignFBPageUrl,
             CampaignTwitterUrl,
             CampaignInstagramUrl,
             CampaignYoutubeUrl,
-            race, // raceInfo
-            finances,
+            // race, // raceInfo
+            // finances,
             articles,
-            partyLabel,
+            // partyLabel,
+            // } = data
         } = data
 
         const color = partyColor(Party)
-        const opponents = race.opponents
-            .sort((a, b) => a.Name.localeCompare(b.Name))
-            .sort((a, b) => ['R', 'D', 'L'].indexOf(a.Party) - ['R', 'D', 'L'].indexOf(b.Party))
+        // const opponents = race.opponents
+        //     .sort((a, b) => a.Name.localeCompare(b.Name))
+        //     .sort((a, b) => ['R', 'D', 'L'].indexOf(a.Party) - ['R', 'D', 'L'].indexOf(b.Party))
+
+        const districtLabel = District.replace('HD', 'House District ').replace('SD', 'Senate District ')
 
         return (<div css={style}>
             <Seo
@@ -101,13 +102,13 @@ class CandidatePage extends Component {
             />
             <Layout>
                 <div className="bio-box">
-                    <div className="portrait">
+                    {/* <div className="portrait">
                         <Portrait filename={`${urlKey}.png`} barColor={color} />
-                    </div>
+                    </div> */}
                     <div className="info">
-                        <div className="label">2022 {partyLabel} for {race.label}</div>
+                        <div className="label">2022 {Party} for {districtLabel}</div>
                         <h1>{Name}</h1>
-                        <div className="short-summary">{SummaryLine}</div>
+                        {/* <div className="short-summary">{SummaryLine}</div> */}
                         <div className="social-links-label">Campaign website</div>
                         {
                             CampaignWebsiteUrl && <div className="social-links">
@@ -131,11 +132,12 @@ class CandidatePage extends Component {
 
                 </div>
 
-                <div className="competitors">
+                {/* <div className="competitors">
                     <span>Competitors: </span>
                     {opponents && opponents.map(d => <Opponent key={d.Name} {...d} />)}
-                </div>
-                <ReactMarkdown>{LongSummary}</ReactMarkdown>
+                </div> */}
+
+                {/* <ReactMarkdown>{LongSummary}</ReactMarkdown> */}
 
                 {
                     articles && (articles.length > 0) && <div>
@@ -144,22 +146,20 @@ class CandidatePage extends Component {
                     </div>
                 }
 
-                <h3>Campaign finance</h3>
+                {/* <h3>Campaign finance</h3>
                 {(race.campaignFinance === 'fec') && <CampaignFinance finances={finances} race={Race} />}
                 {(race.campaignFinance === 'copp') && <div>
                     Campaign finance reporting for this race is done through <a href="https://politicalpractices.mt.gov/">Montana's Commissioner of Political Practices.</a> That data can be accessed through the COPP's <a href="https://cers-ext.mt.gov/CampaignTracker/dashboard">Campaign Electronic Reporting System Dashboard</a>.
-                </div>}
+                </div>} */}
 
-
+                {/* 
                 {
                     race.hasQuestionnaire && <div>
                         <h3>On the issues</h3>
                         <div>DUMMY ANSWERS (Mike Cooney's answers from 2020) — ACTUAL CONTENT TK</div>
-                        {/* TODO - wire this up with actual content */}
                         <IssueQuestions content={dummyQuestions[0].responses} candidateName={Name} />
                     </div>
-                }
-
+                } */}
             </Layout >
         </div >);
     }

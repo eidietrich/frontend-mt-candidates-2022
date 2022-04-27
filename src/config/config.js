@@ -27,7 +27,9 @@ export const partyColor = (partyLetter, variant = null) => {
     return {
         'R': '#d73027',
         'D': '#4575b4',
-        'L': '#e89a0b'
+        'L': '#e89a0b',
+        'G': '#4b9441',
+        'I': '#666',
     }[partyLetter] || '#666'
 }
 

@@ -13,12 +13,14 @@
     "build": "gatsby build",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
+    "process": "node inputs/cms/fetch.js && node inputs/coverage/fetch.js && node process/main.js",
     "deploy:demo": "gatsby build --prefix-paths && aws s3 sync public s3://apps.montanafreepress.org/demo-montana-2022-voter-guide --delete",
     "decache:demo": "aws cloudfront create-invalidation --distribution-id E3LVPS3XLJHLL5 --paths \"/demo-montana-2022-voter-guide/*\""
   },
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
+    "csv": "^6.0.5",
     "d3-format": "^3.1.0",
     "d3-geo": "^3.0.1",
     "d3-time-format": "^4.1.0",
