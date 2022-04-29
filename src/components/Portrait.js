@@ -1,12 +1,11 @@
 import React from "react"
 import { css } from "@emotion/react"
 import { StaticQuery, graphql } from "gatsby"
-import Img from "gatsby-image"
-
+import { GatsbyImage } from "gatsby-plugin-image"
 
 // surprisingly complex - loads all images in image folder then renders based on prop
 // see https://noahgilmore.com/blog/easy-gatsby-image-components/
-// In future, could segment images folder into categories by directory
+// There has got to be a more elegant way to do this
 
 const style = css`
     max-width: 100;
@@ -22,9 +21,7 @@ const CandidateImage = (props) => (
                 relativePath
                 name
                 childImageSharp {
-                  fluid(maxWidth: 150) {
-                    ...GatsbyImageSharpFluid
-                  }
+                  gatsbyImageData
                 }
               }
             }
@@ -48,10 +45,11 @@ const CandidateImage = (props) => (
         if (!props.suppresswarning) console.warn('Missing portrait:', props.filename)
         image = defaultImage
       }
+      console.log(props.filename)
       return (
         <div css={[style, barStyle]}>
-          <Img
-            fluid={image.node.childImageSharp.fluid}
+          <GatsbyImage
+            image={image.node.childImageSharp.gatsbyImageData}
             alt={props.alt}
             objectFit="cover"
             objectPosition="50% 50%"
