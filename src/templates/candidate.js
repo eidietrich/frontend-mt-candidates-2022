@@ -70,7 +70,6 @@ const style = css`
 
 class CandidatePage extends Component {
     render() {
-        console.log(this.props)
         const {
             title,
             description
@@ -106,7 +105,7 @@ class CandidatePage extends Component {
             <Layout siteHed={title} siteSubhed={description}>
                 <div className="bio-box">
                     <div className="portrait">
-                        <Portrait filename={`${urlKey}.png`} barColor={color} />
+                        <Portrait filename={`${urlKey}.png`} barColor={color} alt={Name} />
                     </div>
                     <div className="info">
                         <div className="label">2022 {partyLabel} for {race.label}</div>

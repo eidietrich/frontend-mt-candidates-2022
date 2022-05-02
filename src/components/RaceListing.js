@@ -172,6 +172,7 @@ const Candidate = props => {
             <Portrait
                 filename={`${urlKey}.png`}
                 barColor={partyColor(Party)}
+                alt={Name}
             />
         </div>
         <div className="col">

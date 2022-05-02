@@ -14,12 +14,6 @@ import overview from '../data/overview.json'
 import races from '../data/races.json'
 import legislativeCandidates from '../data/legislative-candidates.json'
 
-// TODO - wire these to appropriate metadata places
-const TITLE = 'Hed TK'
-const SUBTITLE = 'Subhed TK'
-const SEO_HED = 'TK SEO hed'
-const SEO_DESCRIPTION = 'TK SEO description'
-
 const textContainerStyle = css`
   max-width: 800px;
   margin: auto;

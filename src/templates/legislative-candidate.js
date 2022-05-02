@@ -1,3 +1,5 @@
+// Defunct
+
 import React, { Component } from 'react'
 import { css } from '@emotion/react'
 import { graphql, Link } from 'gatsby'
@@ -266,13 +268,13 @@ const SocialTag = props => {
     </a>
 }
 
-export const query = graphql`
-  query LegislativeCandidatePageQuery {
-    site {
-      siteMetadata {
-        title
-        description
-      }
-    }
-  }
-`
+// export const query = graphql`
+//   query LegislativeCandidatePageQuery {
+//     site {
+//       siteMetadata {
+//         title
+//         description
+//       }
+//     }
+//   }
+// `

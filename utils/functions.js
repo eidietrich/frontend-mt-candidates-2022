@@ -20,10 +20,17 @@ module.exports.getCsv = (path) => {
 }
 module.exports.getJson = (path) => JSON.parse(fs.readFileSync(path))
 
+module.exports.writeText = (path, string) => {
+    fs.writeFile(path, string, err => {
+        if (err) throw err
+        console.log('Text written to', path)
+    })
+}
+
 module.exports.writeJson = (path, data) => {
     fs.writeFile(path, JSON.stringify(data, null, 2), err => {
         if (err) throw err
-        console.log('Written to', path)
+        console.log('JSON written to', path)
     }
     );
 }

@@ -2,6 +2,7 @@ const {
     getJson,
     getCsv,
     writeJson,
+    writeText,
     copyFile,
     copyFolderContents,
     makeUrlKey,
@@ -67,6 +68,26 @@ const cleanLegislativeCandidates = candidates => {
     })
 }
 
+const logCandidateNames = candidates => {
+    let textOut = ''
+    candidates
+        .sort((a, b) => a.Race.localeCompare(b.Race))
+        .forEach(candidate => {
+            textOut += `
+Race: ${candidate.Race}
+Name: ${candidate.Name}
+Description (e.g., "Billings State Representative"):
+${candidate.SummaryLine}
+
+Brief Biography (2-3 grafs):
+${candidate.LongSummary || ''}
+
+---
+`
+        })
+    writeText('./text.txt', textOut)
+}
+
 const main = () => {
     copyFile('inputs/cms/overview.json', 'src/data/overview.json')
     copyFile('inputs/cms/how-to-vote.json', 'src/data/how-to-vote.json')
@@ -128,6 +149,8 @@ const main = () => {
         }
     })
     writeJson('src/data/races.json', racesOutput)
+
+
 }
 
 main()

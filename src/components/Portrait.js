@@ -11,11 +11,12 @@ const style = css`
     max-width: 100;
 `
 
-const CandidateImage = (props) => (
+const Portrait = (props) => (
+
   <StaticQuery
     query={graphql`
         query {
-          images: allFile {
+          images: allFile(filter: { sourceInstanceName: { eq: "images" } }) {
             edges {
               node {
                 relativePath
@@ -30,27 +31,26 @@ const CandidateImage = (props) => (
       `}
 
     render={(data) => {
-
-      const barStyle = props.barColor ?
-        css`border-top: 8px solid ${props.barColor};`
+      const { filename, alt, barColor, suppresswarning } = props
+      const barStyle = barColor ?
+        css`border-top: 8px solid ${barColor};`
         : null
 
       const defaultImage = data.images.edges.find(n => n.node.relativePath.includes('00-placeholder.png'))
       let image = data.images.edges.find(n => {
-        const image = n.node.relativePath.includes(props.filename)
+        const image = n.node.relativePath.includes(filename)
         return image
       });
 
       if (!image) {
-        if (!props.suppresswarning) console.warn('Missing portrait:', props.filename)
+        if (!suppresswarning) console.warn('Missing portrait:', filename)
         image = defaultImage
       }
-      console.log(props.filename)
       return (
         <div css={[style, barStyle]}>
           <GatsbyImage
             image={image.node.childImageSharp.gatsbyImageData}
-            alt={props.alt}
+            alt={alt}
             objectFit="cover"
             objectPosition="50% 50%"
           />
@@ -60,4 +60,4 @@ const CandidateImage = (props) => (
   />
 )
 
-export default CandidateImage
+export default Portrait
