@@ -1,5 +1,12 @@
 // colors
 
+export const parties = [
+    { key: 'R', label: 'Republicans' },
+    { key: 'D', label: 'Democrats' },
+    { key: 'L', label: 'Libertarians' },
+    { key: 'I', label: 'Independents' },
+]
+
 export const statusColors = (billStatus) => {
     return {
         live: '#e8dc74',
@@ -43,7 +50,7 @@ export const positionColors = (positionLetter) => {
 
 // Donation URls
 export const headerDonateUrl = 'https://checkout.fundjournalism.org/memberform?org_id=montanafreepress&campaign=7014o000000JnFkAAK'
-export const footerDonateUrl = 'https://checkout.fundjournalism.org/memberform?org_id=montanafreepress&campaign=7014o000000JnFpAAK'
+export const footerDonateUrl = 'https://checkout.fundjournalism.org/memberform?org_id=montanafreepress&campaign=7013s000000UezrAAC'
 
 // Menus
 export const footerLogoUrl = 'https://montanafreepress.org/wp-content/uploads/2020/05/website-footer-logo-1.png'
@@ -56,21 +63,13 @@ export const footerMenus = [
                 url: 'https://montanafreepress.org/covid-19-pandemic/',
             },
             {
-                label: 'Elections',
-                url: 'https://montanafreepress.org/election/',
-            },
-            {
-                label: 'MT Lowdown Podcast',
-                url: 'https://montanafreepress.org/mt-lowdown-podcast/',
+                label: 'Shared State',
+                url: 'https://montanafreepress.org/podcasts/shared-state/',
             },
             {
                 label: 'The Long Streets Project',
                 url: 'https://montanafreepress.org/long-streets/',
             },
-            {
-                label: 'Graying Pains',
-                url: 'https://montanafreepress.org/graying-pains/',
-            }
         ]
     },
     {
@@ -79,6 +78,10 @@ export const footerMenus = [
             {
                 label: 'About MTFP',
                 url: 'https://montanafreepress.org/about-mtfp/',
+            },
+            {
+                label: 'Jobs',
+                url: 'https://montanafreepress.org/jobs/',
             },
             {
                 label: 'Publish our work',
@@ -95,11 +98,11 @@ export const footerMenus = [
         items: [
             {
                 label: 'Subscribe',
-                url: 'https://montanafreepress.org/sign-up/',
+                url: 'https://montanafreepress.org/newsletters-sign-up/',
             },
             {
                 label: 'Donate',
-                url: footerDonateUrl,
+                url: 'footerDonateUrl',
             }
         ]
     }

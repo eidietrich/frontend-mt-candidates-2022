@@ -1,11 +1,12 @@
 import React, { Component } from 'react'
-import { Link } from 'gatsby'
 import { css } from '@emotion/react'
 
-import { cleanPhoneString } from '../config/utils'
+import { SocialTagUnLabeled } from '../library/SocialTag'
 
 import DistrictMatcher from '../js/DistrictMatcher'
-import { partyColor } from '../config/config'
+import { partyColor, parties } from '../config/config'
+
+import LegDistrictMap from './LegDistrictMap'
 
 const addressForm = css`
     display: flex;
@@ -41,20 +42,6 @@ const placeholderCss = css`
     justify-content: center;
     align-items: center;
 `
-const resultItem = css`
-    flex: 1 1 190px;
-    margin: 0.5em;
-    border: 1px solid #806F47;
-    background-color: #eae3d4;
-    padding: 0.5em;
-`
-const resultLabel = css`
-    font-weight: bold;
-`
-const resultName = css`
-    font-size: 1.3em;
-    font-weight: bold;
-`
 
 const labelCss = css`margin-bottom: 0.2em;`
 
@@ -64,16 +51,20 @@ const messageLineCss = css`
     font-style: italic;
 `
 
-const defaultAddress = 'Enter address, e.g., 1301 E 6th Ave, Helena'
+const defaultAddress = 'Enter address, e.g., "1301 E 6th Ave, Helena" or "Libby"'
 class DistrictLookup extends Component {
     constructor(props) {
         super(props)
         this.state = {
             value: '',
             errorMessage: null,
+
+            // testing
             // matchedAddress: 'xx', // null
-            // hd: 'HD01', // testing; null
-            // sd: 'SD01', // testing; null
+            // hd: 'HD5', // testing; null
+            // sd: 'SD11', // testing; null
+
+            // production
             matchedAddress: null,
             hd: null,
             sd: null,
@@ -143,7 +134,7 @@ class DistrictLookup extends Component {
 }
 
 const cleanDistrict = string => string.replace(/\s/g, '').replace('-', '')
-    .replace(/0(?=\d)/, '')
+    .replace(/0(?=[1-9])/, '')
 
 const resultStyle = css`
     display: flex;
@@ -152,13 +143,37 @@ const resultStyle = css`
     .col {
         flex: 1 0 200px;
         border: 1px solid var(--tan3);
-        background: var(--tan1);
+        background: white;
         margin: 0.5em;
         padding: 0.5em;
 
         .district {
             font-weight: bold;
             margin-bottom: 0.2em;
+        }
+        .label {
+            margin: 0.5em 0;
+            font-style: italic;
+        }
+
+        .party-field {
+            margin: 1em 0;
+        }
+        .candidate {
+            border: 1px solid var(--gray3);
+            padding: 0.25em;
+            margin: 0.25em 0;
+            background: var(--tan1);
+            min-height: 2.75em;
+        }
+        .out-of-cycle {
+            color: var(--gray4);
+            font-style: italic;
+            display: flex;
+            height: 100px;
+            justify-content: center;
+            align-items: center;
+
         }
     }
 `
@@ -169,28 +184,39 @@ const Results = ({ candidates, hd, sd }) => {
     const senateCandidates = candidates.filter(d => cleanDistrict(d.District) === cleanDistrict(sd))
     return <div css={resultStyle}>
         <div className="col">
-            <div className="district">{hd.replace('HD', 'House District ')}</div>
-            <div>District map TK</div>
-            {
-                houseCandidates.map(d => <Candidate key={d.Name} {...d} />)
-            }
+            <div className="district">Montana Legislature {hd.replace('HD', 'House District ')}</div>
+            <LegDistrictMap filename={hd} alt={hd} />
+            <div className="label">2022 Candidates</div>
+            <div>
+                {
+                    parties.map(party => <PartyField key={party.key}
+                        candidates={houseCandidates.filter(d => d.Party === party.key)}
+                    />)
+                }
+            </div>
 
         </div>
         {
             (senateCandidates.length > 0) && <div className="col">
-                <div className="district">{sd.replace('SD', 'Senate District ')}</div>
-                <div>District map TK</div>
-                {
-                    senateCandidates.map(d => <Candidate key={d.Name} {...d} />)
-                }
+                <div className="district">Montana Legislature {sd.replace('SD', 'Senate District ')}</div>
+                <LegDistrictMap filename={sd} alt={sd} />
+                <div className="label">2022 Candidates</div>
+                <div>
+                    {
+                        parties.map(party => <PartyField key={party.key}
+                            candidates={senateCandidates.filter(d => d.Party === party.key)}
+                        />)
+                    }
+                </div>
 
             </div>
         }
         {
             (senateCandidates.length === 0) && <div className="col">
-                <div className="district">{sd.replace('SD', 'Senate District ')}</div>
-                <div>District map TK</div>
-                <div class="out-of-cycle">Out of cycle</div>
+                <div className="district">Montana Legislature {sd.replace('SD', 'Senate District ')}</div>
+                <LegDistrictMap filename={sd} alt={sd} />
+
+                <div className="out-of-cycle">Out of cycle in 2022</div>
 
             </div>
         }
@@ -198,27 +224,30 @@ const Results = ({ candidates, hd, sd }) => {
 
 }
 
-const Candidate = ({ Name, Party, status, urlKey }) => {
-    return <div>
-        <div>
-            <span style={{ color: partyColor(Party) }}>{Party}</span> —
-            <Link to={`/legislative-candidates/${urlKey}`}> {Name}</Link>
-            {status === 'incumbent' ? '(Incumbent)' : ''}
-        </div>
+const PartyField = ({ candidates }) => {
+    if (!candidates.length > 0) return null
+    return <div className="party-field">
+        {
+            candidates.map(d => <Candidate key={d.Name} {...d} />)
+        }
     </div>
 }
 
-const LawmakerEntry = ({ lawmaker, subtitle }) => {
-    const { key, title, name, party, district, locale, phone, email } = lawmaker
-    const districtKey = district.key
-    return <div css={resultItem}>
-        <div>{subtitle}</div>
-        <div css={resultLabel}>{districtKey}</div>
-        <div css={resultName}>
-            <Link to={`/lawmakers/${key}`}>{title} {name}</Link>
+const Candidate = ({ Name, Party, City, Status,
+    CampaignWebsiteUrl, CampaignFBPageUrl, CampaignInstagramUrl, CampaignTwitterUrl, CampaignYoutubeUrl }) => {
+    const color = partyColor(Party)
+    return <div className="candidate" style={{ borderTop: `3px solid ${color}` }}>
+        <span style={{ color }}>{Party}</span> —
+        {Name} ({City})
+        {Status === 'incumbent' ? <strong> – Incumbent</strong> : ''}
+        <div>
+            <SocialTagUnLabeled type="web" url={CampaignWebsiteUrl} />
+            <SocialTagUnLabeled type="fb" url={CampaignFBPageUrl} />
+            <SocialTagUnLabeled type="ig" url={CampaignInstagramUrl} />
+            <SocialTagUnLabeled type="tw" url={CampaignTwitterUrl} />
+            <SocialTagUnLabeled type="yt" url={CampaignYoutubeUrl} />
         </div>
-        <div>({party}-{locale.short})</div>
-        <div><a href={`tel:${cleanPhoneString(phone)}`}>{phone}</a> | <a href={`mailto:${email}`}>{email}</a></div>
+
     </div>
 }
 

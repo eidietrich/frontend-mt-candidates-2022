@@ -4,15 +4,17 @@ import { graphql, Link } from 'gatsby'
 
 import ReactMarkdown from 'react-markdown'
 
+import Seo from '../library/Seo'
+import { SocialTagLabeled } from '../library/SocialTag'
 import Layout from "../components/Layout"
-import Seo from '../components/Seo'
+
 import Portrait from '../components/Portrait'
 import IssueQuestions from '../components/IssueQuestions'
 import CampaignFinance from '../components/CampaignFinance'
 import Coverage from '../components/Coverage'
 
 import { partyColor } from '../config/config'
-import { web, facebook, twitter, instagram, youtube } from '../library/icons'
+
 
 import dummyQuestions from '../data/dummy-Q-and-A.json'
 
@@ -67,12 +69,15 @@ const style = css`
     
 `
 
+const pageDescription = name => `Learn more about ${name}, including background, campaign developments and issue stances in Montana’s 2022 elections.`
+
 
 class CandidatePage extends Component {
     render() {
         const {
             title,
-            description
+            description,
+            seoTitle
         } = this.props.data.site.siteMetadata
         const {
             urlKey,
@@ -99,8 +104,10 @@ class CandidatePage extends Component {
 
         return (<div css={style}>
             <Seo
-                title={`${Name} | ${title}`}
-                description={description}
+                seoTitle={`${Name} | ${seoTitle}`}
+                seoDescription={pageDescription(Name)}
+                socialTitle={`${Name} – ${seoTitle}`}
+                socialDescription={pageDescription(Name)}
             />
             <Layout siteHed={title} siteSubhed={description}>
                 <div className="bio-box">
@@ -114,7 +121,7 @@ class CandidatePage extends Component {
                         <div className="social-links-label">Campaign website</div>
                         {
                             CampaignWebsiteUrl && <div className="social-links">
-                                <SocialTag type="web" url={CampaignWebsiteUrl} />
+                                <SocialTagLabeled type="web" url={CampaignWebsiteUrl} />
                             </div>
                         }
                         {
@@ -123,10 +130,10 @@ class CandidatePage extends Component {
 
                         <div className="social-links-label">Campaign social media</div>
                         <div className="social-links">
-                            <SocialTag type="fb" url={CampaignFBPageUrl} />
-                            <SocialTag type="ig" url={CampaignInstagramUrl} />
-                            <SocialTag type="tw" url={CampaignTwitterUrl} />
-                            <SocialTag type="yt" url={CampaignYoutubeUrl} />
+                            <SocialTagLabeled type="fb" url={CampaignFBPageUrl} />
+                            <SocialTagLabeled type="ig" url={CampaignInstagramUrl} />
+                            <SocialTagLabeled type="tw" url={CampaignTwitterUrl} />
+                            <SocialTagLabeled type="yt" url={CampaignYoutubeUrl} />
                         </div>
                     </div>
 
@@ -184,93 +191,14 @@ const Opponent = props => {
     </span >
 }
 
-const socialTagStyle = css`
-    display: inline-block;
-    margin: 0.25em;
-    font-size: 0.9em;
 
-    background-color: var(--gray5);
-    color: white;
-    padding: 0.3em 0.6em;
-    position: relative;
-
-    .icon svg {
-        width: 16px;
-        fill: white;
-        color: white; // redundant for text stuff
-        margin-right: 0.5em;
-        position: relative;
-        top: 2px;
-    }
-    :hover {
-        color: var(--link);
-        svg {
-            fill: var(--link);
-        }
-    }
-}
-`
-
-const SOCIAL_SCHEMAS = [
-    {
-        key: 'web',
-        icon: web,
-    },
-    {
-        key: 'fb',
-        icon: facebook,
-        replace: 'facebook.com/',
-    },
-    {
-        key: 'tw',
-        icon: twitter,
-        replace: 'twitter.com/'
-    },
-    {
-        key: 'ig',
-        icon: instagram,
-        replace: 'instagram.com/'
-    },
-    {
-        key: 'yt',
-        icon: youtube,
-        replace: 'youtube.com/user/'
-    }
-]
-
-const SocialTag = props => {
-    const { type, url } = props
-    if (!url) return null
-
-    const schema = SOCIAL_SCHEMAS.find(d => d.key === type)
-    if (!schema) console.warn('Missing social icon', type)
-
-    let label = url
-        .replace('http://', '').replace('https://', '').replace('www.', '')
-        .replace(schema.replace, '')
-        .replace(/\/$/g, '')
-
-    // FB overrides
-    if (type === 'fb') {
-        label = label.replace(/\-\d+$/, '') // trailing numbers
-        if (label.match(/profile.php\?id=\d+/)) label = 'Facebook'
-    }
-    if (type === 'yt') {
-        label = 'YouTube'
-    }
-
-
-    return <a css={socialTagStyle} href={url}>
-        <span className="icon">{schema.icon}</span>
-        <span className="icon-label">{label}</span>
-    </a>
-}
 
 export const query = graphql`
   query CandidatePageQuery {
     site {
       siteMetadata {
         title
+        seoTitle
         description
       }
     }

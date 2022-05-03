@@ -18,6 +18,7 @@
     "decache:demo": "aws cloudfront create-invalidation --distribution-id E3LVPS3XLJHLL5 --paths \"/demo-montana-2022-voter-guide/*\""
   },
   "dependencies": {
+    "@alex.garcia/observable-prerender": "^0.4.3",
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
     "csv": "^6.0.5",

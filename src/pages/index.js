@@ -3,7 +3,7 @@ import ReactMarkdown from 'react-markdown'
 import { graphql } from 'gatsby'
 import { css } from '@emotion/react'
 
-import SEO from '../components/Seo'
+import Seo from '../library/Seo'
 import Layout from '../components/Layout'
 
 import RaceListing from '../components/RaceListing'
@@ -19,10 +19,17 @@ const textContainerStyle = css`
   margin: auto;
 `
 
+const pageDescription = `Find information on state-level candidates, legislative races, your district and how to vote in Montana's 2022 elections`
+
 const IndexPage = ({ data }) => {
-  const { title, description } = data.site.siteMetadata
+  const { title, seoTitle, description } = data.site.siteMetadata
   return <div>
-    <SEO title={title} description={description} />
+    <Seo
+      seoTitle={seoTitle}
+      seoDescription={pageDescription}
+      socialTitle={title}
+      socialDescription={pageDescription}
+    />
     <Layout maxWidth={1000} siteHed={title} siteSubhed={description}>
       <div css={textContainerStyle}>
         <ReactMarkdown>{overview.LedeIn}</ReactMarkdown>
@@ -78,6 +85,7 @@ export const query = graphql`
       siteMetadata {
         title
         description
+        seoTitle
       }
     }
   }

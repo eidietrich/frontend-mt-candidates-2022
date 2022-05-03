@@ -59,6 +59,7 @@ const cleanLegislativeCandidates = candidates => {
             District: c.District,
             Party: c.Party,
             Status: c.Status,
+            City: c.City,
             CampaignWebsiteUrl: c.website_url === 'n/a' ? null : c.website_url,
             CampaignFBPageUrl: c.fb_url === 'n/a' ? null : c.fb_url,
             CampaignTwitterUrl: c.twitter_url === 'n/a' ? null : c.twitter_url,
@@ -93,6 +94,7 @@ const main = () => {
     copyFile('inputs/cms/how-to-vote.json', 'src/data/how-to-vote.json')
 
     copyFolderContents('inputs/portraits/processed/', 'src/images/candidates/')
+    copyFolderContents('inputs/maps/png/', 'src/images/maps/')
 
     const races = getJson('inputs/races.json')
     const candidates = getJson('inputs/cms/candidates.json')

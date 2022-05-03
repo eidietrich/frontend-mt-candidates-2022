@@ -25,7 +25,7 @@ export const dollarFormatResponsive = num => {
 // Routing
 export const billUrl = identifier => identifier.substring(0, 2).toLowerCase() + '-' + identifier.substring(3,)
 export const lawmakerUrl = name => name.replace(/\s/g, '-')
-export const committeeUrl = name => name.replace(/\s/g, '-').replace(/\,/g, '')
+export const committeeUrl = name => name.replace(/\s/g, '-').replace(/,/g, '')
 
 // Misc
 export const parseDate = timeParse('%Y-%m-%d')
@@ -33,7 +33,7 @@ export const capitalize = string => `${string[0].toUpperCase()}${string.slice(1)
 // Adapted from https://stackoverflow.com/questions/196972/convert-string-to-title-case-with-javascript
 export const titleCase = string => string.replace(/\w\S*/g, txt => txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase())
   .replace('Mt', 'MT') // for addresses
-export const cleanPhoneString = string => string.replace(/\s|\-|\(|\)/g, '')
+export const cleanPhoneString = string => string.replace(/\s|-|\(|\)/g, '')
 export const cleanNameString = string => string.toUpperCase().replace(' ', '').replace('-', '')
 
 // Adapted from https://stackoverflow.com/questions/14763997/javascript-array-to-sentence

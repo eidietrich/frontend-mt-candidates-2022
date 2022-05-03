@@ -13,7 +13,7 @@ import { useStaticQuery, graphql } from "gatsby"
 // TODO - elegantize this
 const appUrl = 'https://apps.montanafreepress.org/montana-legislature-lawsuit-tracker/'
 
-function SEO({ description, lang, meta, title, image }) {
+function SEO(props) {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -22,6 +22,9 @@ function SEO({ description, lang, meta, title, image }) {
             title
             description
             author
+            seoTitle
+            siteUrl
+            keywords
             image
           }
         }
@@ -29,26 +32,34 @@ function SEO({ description, lang, meta, title, image }) {
     `
   )
 
-  const metaDescription = description || site.siteMetadata.description
-  const metaImage = image || site.siteMetadata.image
-  // const metaTitle = title ? `${title} | ${site.siteMetadata.title}` : site.siteMetadata.title
-  const metaTitle = title ? `${title}` : site.siteMetadata.title
+  const { seoTitle, seoDescription, socialTitle, socialDescription, lang, image, author, meta, siteUrl } = Object.assign({
+    // defaults
+    seoTitle: site.siteMetadata.seoTitle,
+    seoDescription: site.siteMetadata.description,
+    socialTitle: site.siteMetadata.title,
+    socialDescription: site.siteMetadata.description,
+    lang: 'en',
+    image: site.siteMetadata.image,
+    author: site.siteMetadata.author,
+    siteUrl: site.siteMetadata.siteUrl,
+    meta: {},
+  }, props)
 
   return (
     <Helmet
       htmlAttributes={{
         lang,
       }}
-      title={title}
+      title={seoTitle}
       // titleTemplate={`%s | ${site.siteMetadata.title}`}
       meta={[
         {
           name: `description`,
-          content: metaDescription,
+          content: seoDescription,
         },
         {
           property: `og:image`,
-          content: metaImage,
+          content: image,
         },
         {
           property: `og:image:width`,
@@ -60,11 +71,11 @@ function SEO({ description, lang, meta, title, image }) {
         },
         {
           property: `og:title`,
-          content: metaTitle,
+          content: socialTitle,
         },
         {
           property: `og:description`,
-          content: metaDescription,
+          content: socialDescription,
         },
         {
           property: `og:type`,
@@ -76,19 +87,19 @@ function SEO({ description, lang, meta, title, image }) {
         },
         {
           name: `twitter:creator`,
-          content: site.siteMetadata.author,
+          content: author,
         },
         {
           name: `twitter:image`,
-          content: metaImage,
+          content: image,
         },
         {
           name: `twitter:title`,
-          content: metaTitle,
+          content: socialTitle,
         },
         {
           name: `twitter:description`,
-          content: metaDescription,
+          content: socialDescription,
         },
       ].concat(meta)}
     >
@@ -98,9 +109,9 @@ function SEO({ description, lang, meta, title, image }) {
           {
             "@context": "http://schema.org",
             "@type": "NewsArticle",
-            "name": "${metaTitle}",
-            "url": "${appUrl}",
-            "thumbnailUrl": "${metaImage}",
+            "name": "${seoTitle}",
+            "url": "${siteUrl}",
+            "thumbnailUrl": "${image}",
             "datePublished": "${new Date().toISOString()}",
             "articleSection": "News apps",
             "creator": "Eric Dietrich"
@@ -111,17 +122,17 @@ function SEO({ description, lang, meta, title, image }) {
   )
 }
 
-SEO.defaultProps = {
-  lang: `en`,
-  meta: [],
-  description: ``,
-}
+// SEO.defaultProps = {
+//   lang: `en`,
+//   meta: [],
+//   description: ``,
+// }
 
-SEO.propTypes = {
-  description: PropTypes.string,
-  lang: PropTypes.string,
-  meta: PropTypes.arrayOf(PropTypes.object),
-  title: PropTypes.string.isRequired,
-}
+// SEO.propTypes = {
+//   description: PropTypes.string,
+//   lang: PropTypes.string,
+//   meta: PropTypes.arrayOf(PropTypes.object),
+//   title: PropTypes.string.isRequired,
+// }
 
 export default SEO

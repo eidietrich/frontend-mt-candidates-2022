@@ -3,6 +3,8 @@ NOTES.md
 
 inputs/portraits/raw/*
 inputs/portraits/processing.psd
+imputs/maps/png/*
+imputs/maps/svg/*
 
 .env
 node_modules/

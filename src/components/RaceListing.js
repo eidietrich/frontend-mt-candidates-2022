@@ -7,7 +7,8 @@ import { raceMaps } from '../config/map-config'
 import Portrait from './Portrait'
 
 import {
-    partyColor
+    partyColor,
+    parties,
 } from '../config/config'
 
 const surname = fullName => {
@@ -116,13 +117,6 @@ const RaceListing = props => {
 
 export default RaceListing
 
-const PARTIES = [
-    { key: 'R', label: 'Republicans' },
-    { key: 'D', label: 'Democrats' },
-    { key: 'L', label: 'Libertarians' },
-    { key: 'I', label: 'Independents' },
-]
-
 const Race = props => {
     const { slug, label, description, note, candidates, isNonpartisan, districtMap } = props
     return <div className="Race" id={slug}>
@@ -134,7 +128,7 @@ const Race = props => {
                 isNonpartisan && <PartySlate party="Nonpartisan" candidates={candidates} color="#666" />
             }
             {
-                !isNonpartisan && PARTIES.map(p => {
+                !isNonpartisan && parties.map(p => {
                     const candidatesInParty = candidates.filter(d => d.Party === p.key)
                     if (candidatesInParty.length === 0) return null
                     const color = partyColor(p.key)

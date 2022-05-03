@@ -1,10 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `[DRAFT] Campaign tracker '22`,
+    title: `Election Guide '22`,
     description: `The candidates and issues on Montana's 2022 ballot`,
     author: `Eric Dietrich / Montana Free Press`,
+    seoTitle: '2022 Montana election guide',
     siteUrl: `https://www.tk.tld`,
-    keywords: ['Montana', 'elections', 'voters', 'candidates', 'politicians', '2022'],
+    keywords: ['Montana', '2022 election', 'campaign', 'candidates', 'politics', 'vote'],
     // hacky as hell
     image: "https://apps.montanafreepress.org/montana-legislature-lawsuit-tracker/images/lawsuit-tracker.png"
   },
@@ -15,8 +16,15 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `images`,
-        path: `${__dirname}/src/images`,
+        name: `portraits`,
+        path: `${__dirname}/src/images/candidates`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `maps`,
+        path: `${__dirname}/src/images/maps`,
       },
     },
     `gatsby-plugin-image`,

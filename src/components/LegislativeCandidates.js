@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import { css } from '@emotion/react'
-import { Link } from 'gatsby'
+
+import { SocialTagUnLabeled } from '../library/SocialTag'
 
 import { partyColor } from '../config/config'
 import { cleanNameString } from '../config/utils'
@@ -45,10 +46,6 @@ const tableStyle = css`
     }
 `
 
-const tableLinkStyle = css`
-    font-weight: bold;
-`
-
 const col1 = css`
     min-width: 3em;
     text-align: center;
@@ -59,41 +56,46 @@ const col2 = css`
     text-align: center;
 `
 const col3 = css`
-    min-width: 4.5em;
+    min-width: 4em;
     /* padding: 0.5em 0 !important; */
     /* text-align: right; */
 `
-const clickableCol = css`
-    cursor: pointer;
-    :hover {
-        color: var(--link);
-    }
-    :before {
-        font-style: normal;
-        content: '⇅'
-    }
+const col4 = css`
+    min-width: 4em;
+    /* padding: 0.5em 0 !important; */
+    /* text-align: right; */
 `
-const activeCol = css`
-    cursor: pointer;
-    color: var(--link);
-`
-const sortNotReversed = css`
-    :before {
-        font-style: normal;
-        content: '↑'
-    }
-`
-const sortReversed = css`
-    :before {
-        font-style: normal;
-        content: '↓'
-    }
-`
+// const clickableCol = css`
+//     cursor: pointer;
+//     :hover {
+//         color: var(--link);
+//     }
+//     :before {
+//         font-style: normal;
+//         content: '⇅'
+//     }
+// `
+// const activeCol = css`
+//     cursor: pointer;
+//     color: var(--link);
+// `
+// const sortNotReversed = css`
+//     :before {
+//         font-style: normal;
+//         content: '↑'
+//     }
+// `
+// const sortReversed = css`
+//     :before {
+//         font-style: normal;
+//         content: '↓'
+//     }
+// `
 
 const partyOrder = ['R', 'D', 'L', 'G', 'I']
 const sortFunctions = {
     district: (a, b) => {
-        if (a.District[0] != b.District[0]) {
+        if (a.District[0] !== b.District[0]) {
             return a.District[0].localeCompare(b.District[0])
         } else {
             return +a.District.substring(2,) - +b.District.substring(2,)
@@ -105,15 +107,15 @@ const sortFunctions = {
 }
 
 const LegislativeCandidates = ({ candidates }) => {
-    const [displayCandidates, setSetDisplayCandidates] = useState(candidates)
+    const [displayCandidates, setDisplayCandidates] = useState(candidates)
 
     const searchByName = input => {
         if (input.length < 3) {
-            setSetDisplayCandidates(candidates)
+            setDisplayCandidates(candidates)
         } else {
             const filterKey = cleanNameString(input)
-            const filtered = candidates.filter(d => cleanNameString(d.name).includes(filterKey))
-            setSetDisplayCandidates(filtered)
+            const filtered = candidates.filter(d => cleanNameString(d.Name).includes(filterKey))
+            setDisplayCandidates(filtered)
         }
     }
 
@@ -133,17 +135,17 @@ const CandidateTable = ({ candidates }) => {
     const [sortFunctionKey, setSortFunctionKey] = useState('district')
     const [isSortReversed, setIsSortReversed] = useState(false)
 
-    const handleColClick = (key) => {
-        if (key !== sortFunctionKey) setSortFunctionKey(key)
-        else setIsSortReversed(!isSortReversed)
-    }
-    const getInteractionStyle = (colKey) => {
-        if (colKey === sortFunctionKey) {
-            if (!isSortReversed) return [activeCol, sortNotReversed]
-            if (isSortReversed) return [activeCol, sortReversed]
-        }
-        return [clickableCol]
-    }
+    // const handleColClick = (key) => {
+    //     if (key !== sortFunctionKey) setSortFunctionKey(key)
+    //     else setIsSortReversed(!isSortReversed)
+    // }
+    // const getInteractionStyle = (colKey) => {
+    //     if (colKey === sortFunctionKey) {
+    //         if (!isSortReversed) return [activeCol, sortNotReversed]
+    //         if (isSortReversed) return [activeCol, sortReversed]
+    //     }
+    //     return [clickableCol]
+    // }
 
     const rowSort = isSortReversed ?
         (a, b) => sortFunctions[sortFunctionKey](b, a) // reverse sort direction
@@ -163,6 +165,9 @@ const CandidateTable = ({ candidates }) => {
                     <th css={[col1]}>District</th>
                     <th css={[col2]}>Party</th>
                     <th css={[col3]}>Candidate</th>
+                    <th css={[col4]}>Campaign links</th>
+
+
                 </tr>
             </thead>
             <tbody>{rows}</tbody>
@@ -172,6 +177,7 @@ const CandidateTable = ({ candidates }) => {
 
 const Row = ({
     Name, Party, District, Status, urlKey,
+    CampaignWebsiteUrl, CampaignFBPageUrl, CampaignInstagramUrl, CampaignTwitterUrl, CampaignYoutubeUrl
 }) => {
     return (<tr key={Name}>
         <td css={[col1]}>
@@ -180,8 +186,17 @@ const Row = ({
         </td>
         <td css={[col2]}><span style={{ color: partyColor(Party) }}>{Party}</span>
         </td>
-        <td css={col3}><Link to={`/legislative-candidates/${urlKey}`}>{Name}</Link></td>
-        <td css={col2}><Link to={`/legislative-candidates/${urlKey}`}>See more »</Link></td>
+        <td css={col3}>
+            {Name}
+            {(Status === 'incumbent') ? ' (Incumbent)' : ''}
+        </td>
+        <td css={col4}>
+            <SocialTagUnLabeled type="web" url={CampaignWebsiteUrl} />
+            <SocialTagUnLabeled type="fb" url={CampaignFBPageUrl} />
+            <SocialTagUnLabeled type="ig" url={CampaignInstagramUrl} />
+            <SocialTagUnLabeled type="tw" url={CampaignTwitterUrl} />
+            <SocialTagUnLabeled type="yt" url={CampaignYoutubeUrl} />
+        </td>
 
     </tr >)
 }
