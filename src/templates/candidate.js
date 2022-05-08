@@ -15,6 +15,7 @@ import Coverage from '../components/Coverage'
 
 import { partyColor } from '../config/config'
 
+import NewsletterSignup from '../library/NewsletterSignup'
 
 import dummyQuestions from '../data/dummy-Q-and-A.json'
 
@@ -66,6 +67,10 @@ const style = css`
 
         
     }
+    .ledein {
+        margin: 0.5em 0;
+        margin-bottom: 1em;
+    }
     
 `
 
@@ -95,6 +100,7 @@ class CandidatePage extends Component {
             finances,
             articles,
             partyLabel,
+            issueAnswers
         } = this.props.pageContext
 
         const color = partyColor(Party)
@@ -154,6 +160,8 @@ class CandidatePage extends Component {
                     </div>
                 }
 
+                <NewsletterSignup />
+
                 <h3>Campaign finance</h3>
                 {(race.campaignFinance === 'fec') && <CampaignFinance finances={finances} race={Race} />}
                 {(race.campaignFinance === 'copp') && <div>
@@ -161,12 +169,24 @@ class CandidatePage extends Component {
                 </div>}
 
 
+                <h3>On the issues</h3>
                 {
                     race.hasQuestionnaire && <div>
-                        <h3>On the issues</h3>
-                        <div>DUMMY ANSWERS (Mike Cooney's answers from 2020) — ACTUAL CONTENT TK</div>
-                        {/* TODO - wire this up with actual content */}
-                        <IssueQuestions content={dummyQuestions[0].responses} candidateName={Name} />
+
+                        {
+                            !issueAnswers && <div className="ledein">{Name} didn't respond to MTFP's efforts to collect solicit reponses to issue questions provided to U.S. House candidates via an emailed questionnaire in May 2022.</div>
+                        }
+                        {
+                            issueAnswers && <div>
+                                <div className="ledein">The material shown below was solicted from candidates via a written questionnaire in May 2022. Responses were limited to 1,000 characters and edited lightly for punctuation and spelling.</div>
+                                <IssueQuestions content={issueAnswers} candidateName={Name} />
+                            </div>
+                        }
+                    </div>
+                }
+                {
+                    !race.hasQuestionnaire && <div>
+                        <div className="ledein">MTFP hasn't had a chance to put a formal issue questionnaire before candidates in this race.</div>
                     </div>
                 }
 

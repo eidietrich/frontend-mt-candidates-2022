@@ -86,7 +86,7 @@ const Layout = ({ children, siteHed, siteSubhed, maxWidth }) => {
                         <h1 className="title">{siteHed}</h1>
                         <h2 className="subtitle">{siteSubhed}</h2>
                         <div className="blurb">
-                            A digital guide by <MTFPLogo />| <a href={headerDonateUrl}>Support this work</a>
+                            A digital project by <MTFPLogo />| <a href={headerDonateUrl}>Support this work</a>
                         </div>
                     </div>
                     <Nav schema={NAV_SCHEMA} />

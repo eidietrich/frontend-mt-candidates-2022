@@ -4,6 +4,7 @@ import { graphql } from 'gatsby'
 import { css } from '@emotion/react'
 
 import Seo from '../library/Seo'
+import NewsletterSignup from '../library/NewsletterSignup'
 import Layout from '../components/Layout'
 
 import RaceListing from '../components/RaceListing'
@@ -51,6 +52,7 @@ const IndexPage = ({ data }) => {
         <LegislativeCandidates candidates={legislativeCandidates} />
       </div>
 
+      <NewsletterSignup />
 
       <div css={textContainerStyle}>
         <hr />
@@ -59,18 +61,7 @@ const IndexPage = ({ data }) => {
 
 
 
-      {/* TODO: Shift this over to CMS
-      <h2>TK Credit + information</h2>
 
-      This guide was produced by Montana Free Press reporter Eric Dietrich, with assistance from TK TK TK. Montana Free Press is a 501(c)(3) nonprofit, nonpartisan, reader-supported news organization serving Montana.
-
-      TK TK TK TK support us information.
-
-      Contact Eric Dietrich with questions, corrections or suggestions at edietrich@montanafreepress.org.
-
-      <h2>Republish this guide</h2>
-      <div>This material is available for republication under Montana Free Press' <a href="https://montanafreepress.org/publish-our-stories/">standard distribution terms</a>.</div>
-      <div>A text-only version of this guide, intended to make it easier for print publications to republish this material, is available AT LINK TK. </div> */}
     </Layout >
 
   </div >

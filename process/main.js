@@ -32,6 +32,9 @@ const candidateFinanceInfo = (candidateName, candidatesInRace, rawResults) => {
             cash_on_hand_end_period: 0,
             coverage_end_date: null,
         }
+        // if (!fecMatch.candidate_id) {
+        //     console.warn('Missing FEC Canddiate', c.Name, c.FECCandidateName)
+        // }
         return {
             isThisCandidate: (c.Name === candidateName),
             displayName: c.Name,
@@ -100,7 +103,8 @@ const main = () => {
     const candidates = getJson('inputs/cms/candidates.json')
     const financeByRace = getJson('inputs/fec/finance.json')
     const articles = getJson('inputs/coverage/articles.json')
-    const rawLegislativeCandidates = getCsv('inputs/legislative/raw-legislative-filings-4-26.csv')
+    const issueAnswers = getJson('inputs/issues/candidate-answers.json')
+    const rawLegislativeCandidates = getCsv('inputs/legislative/edited-legislative-filings-5-4-2022.csv')
 
     const legislativeCandidates = cleanLegislativeCandidates(rawLegislativeCandidates)
     writeJson('src/data/legislative-candidates.json', legislativeCandidates)
@@ -129,9 +133,29 @@ const main = () => {
             financeByRace.find(d => d.district === candidate.Race),
         )
 
+        if (race.hasQuestionnaire) {
+            const candidateIssueAnswers = issueAnswers.find(d => d.name === candidate.Name)
+            if (!candidateIssueAnswers) {
+                console.warn('No issue answer found for', candidate.Name)
+                candidate.issueAnswers = null
+            } else {
+                candidate.issueAnswers = candidateIssueAnswers.responses
+                    .slice(0, 11) // limits to 11 questions for publication
+
+            }
+        } else {
+            candidate.issueAnswers = null
+        }
+
+
         // Using makeUrlKey here as a string cleaner
         candidate.articles = articles
             .filter(d => d.tags.nodes.map(t => makeUrlKey(t.name)).includes(makeUrlKey(candidate.Name)))
+            .map(d => ({
+                title: d.title,
+                date: d.date,
+                link: d.link,
+            }))
 
         candidate.race = {
             label: race.label,

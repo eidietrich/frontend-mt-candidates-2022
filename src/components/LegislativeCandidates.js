@@ -28,7 +28,7 @@ const tableStyle = css`
     }
     tr {
         /* border-bottom: 1px solid #ddd; */
-        border-bottom: 1px solid #473d29;
+        /* border-bottom: 1px solid #473d29; */
         margin: 0 0.2em;
 
         :first-of-type {
@@ -132,8 +132,8 @@ const LegislativeCandidates = ({ candidates }) => {
 }
 
 const CandidateTable = ({ candidates }) => {
-    const [sortFunctionKey, setSortFunctionKey] = useState('district')
-    const [isSortReversed, setIsSortReversed] = useState(false)
+    // const [sortFunctionKey, setSortFunctionKey] = useState('district')
+    // const [isSortReversed, setIsSortReversed] = useState(false)
 
     // const handleColClick = (key) => {
     //     if (key !== sortFunctionKey) setSortFunctionKey(key)
@@ -147,18 +147,23 @@ const CandidateTable = ({ candidates }) => {
     //     return [clickableCol]
     // }
 
-    const rowSort = isSortReversed ?
-        (a, b) => sortFunctions[sortFunctionKey](b, a) // reverse sort direction
-        : sortFunctions[sortFunctionKey]
+    // const rowSort = isSortReversed ?
+    //     (a, b) => sortFunctions[sortFunctionKey](b, a) // reverse sort direction
+    //     : sortFunctions[sortFunctionKey]
 
     const rows = candidates
-        .sort(rowSort)
-        .map(candidate => <Row key={candidate.urlKey} {...candidate} />)
+        .sort(sortFunctions.district)
+        .map((candidate, i) => <Row key={candidate.urlKey}
+            // showDistrict={true}
+            showDistrict={i === 0 || candidate.District !== candidates[i - 1].District}
+            {...candidate}
+        />)
 
     return <div>
         <table css={tableStyle}>
             <thead>
                 <tr>
+                    {/* Sortable columns  */}
                     {/* <th css={[col1, ...getInteractionStyle('district')]} onClick={() => handleColClick('district')}>District</th>
                     <th css={[col1, ...getInteractionStyle('district')]} onClick={() => handleColClick('party')}>Party</th>
                     <th css={[col1, ...getInteractionStyle('district')]} onClick={() => handleColClick('name')}>Name</th> */}
@@ -175,14 +180,18 @@ const CandidateTable = ({ candidates }) => {
     </div >
 };
 
-const Row = ({
+const Row = ({ showDistrict,
     Name, Party, District, Status, urlKey,
     CampaignWebsiteUrl, CampaignFBPageUrl, CampaignInstagramUrl, CampaignTwitterUrl, CampaignYoutubeUrl
 }) => {
-    return (<tr key={Name}>
+    return (<tr key={Name} style={{ borderTop: showDistrict ? '1px solid black' : 'none' }}>
         <td css={[col1]}>
-            <div>{District.slice(0, 2)}</div>
-            <div>{District.slice(3,)}</div>
+            {
+                showDistrict && <div>
+                    {District}
+                </div>
+            }
+
         </td>
         <td css={[col2]}><span style={{ color: partyColor(Party) }}>{Party}</span>
         </td>

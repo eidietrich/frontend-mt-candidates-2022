@@ -91,7 +91,7 @@ export const SocialTagLabeled = props => {
     }
 
 
-    return <a css={socialTagStyle} href={url}>
+    return <a css={socialTagStyle} href={url} target="_blank" rel="noopener noreferrer">
         <span className="icon">{schema.icon}</span>
         <span className="icon-label">{label}</span>
     </a>
@@ -104,7 +104,7 @@ export const SocialTagUnLabeled = props => {
     const schema = SOCIAL_SCHEMAS.find(d => d.key === type)
     if (!schema) console.warn('Missing social icon', type)
 
-    return <a css={[unlabeledStyle]} href={url}>
+    return <a css={[unlabeledStyle]} href={url} target="_blank" rel="oopener noreferrer">
         <span className="icon">{schema.icon}</span>
     </a>
 }

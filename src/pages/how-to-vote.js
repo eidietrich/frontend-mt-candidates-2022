@@ -6,6 +6,8 @@ import Layout from '../components/Layout'
 
 import content from '../data/how-to-vote.json'
 
+import NewsletterSignup from '../library/NewsletterSignup'
+
 const pageDescription = `Not sure where or how to vote in Montana’s 2022 elections? Find your district, key dates, requirements and candidate details in preparation for hitting the ballot box on June 7 and November 8.`
 
 const HowToVotePage = ({ data }) => {
@@ -21,7 +23,7 @@ const HowToVotePage = ({ data }) => {
       <h1>How to Vote</h1>
       <h2>What you need to know about voting in Montana in 2022</h2>
       <ReactMarkdown>{content.Content}</ReactMarkdown>
-
+      <NewsletterSignup />
     </Layout>
 
   </div>

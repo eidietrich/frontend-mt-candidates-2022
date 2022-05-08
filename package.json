@@ -21,6 +21,7 @@
     "@alex.garcia/observable-prerender": "^0.4.3",
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
+    "@newswire/doc-to-archieml": "^1.0.0",
     "csv": "^6.0.5",
     "d3-format": "^3.1.0",
     "d3-geo": "^3.0.1",

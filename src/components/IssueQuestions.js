@@ -2,21 +2,15 @@ import React from 'react'
 import { css } from '@emotion/react'
 
 const style = css`
-    .ledein {
-        margin: 0.5em 0;
-        margin-bottom: 1em;
-    }
+    
 `
 
 const IssueQuestions = (props) => {
     const { content, candidateName } = props
     return <div css={style}>
-        <div className="ledein">The material shown here were solicted from candidates via a written questionnaire in May 2022. Responses were edited lightly for punctuation and spelling.</div>
-        <div>
-            {
-                content.map((d, i) => <Question key={String(i)} question={d.question} answer={d.answer} candidateName={candidateName} />)
-            }
-        </div>
+        {
+            content.map((d, i) => <Question key={String(i)} question={d.question} answer={d.answer} candidateName={candidateName} />)
+        }
     </div>
 }
 

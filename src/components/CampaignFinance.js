@@ -64,7 +64,7 @@ const CampaignFinance = (props) => {
     if (!fecRaceSummaryUrl) console.warn('Missing FEC race page for:', race)
 
     return <div css={style}>
-        <div className="ledein">Based on reporting required by the U.S. Federal Election Commission. See individual candidate pages on the FEC website or the FEC's <a href={fecRaceSummaryUrl}>race summary page</a> for more information.</div>
+        <div className="ledein">Based on reporting required by the U.S. Federal Election Commission. See individual candidate pages on the FEC website or the FEC's <a href={fecRaceSummaryUrl} target="_blank" rel="noopener noreferrer">race summary page</a> for more information. The FEC summary page may include candidates who haven't filed for the ballot in this race with the Montana Secretary of State.</div>
         <div className="table">
             <div className="row thead">
                 <div className="label-cell">Candidate</div>

@@ -117,7 +117,7 @@ class DistrictLookup extends Component {
                 <button css={searchButton} onClick={this.handleSubmit}>Look up</button>
             </div>
             {errorMessage && <div css={messageLineCss}>{errorMessage}</div>}
-            {matchedAddress && <div css={messageLineCss}>Districts for {matchedAddress}</div>}
+            {matchedAddress && <div css={messageLineCss}>Districts for {matchedAddress}. Each senate district consists of two house districts.</div>}
             <div css={resultContainer}>
                 {
                     matchedAddress && <Results candidates={candidates} hd={hd} sd={sd} />

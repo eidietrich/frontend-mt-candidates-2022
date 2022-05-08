@@ -6,7 +6,7 @@ const { load } = require("@alex.garcia/observable-prerender");
 (async () => {
     const format = await import('d3-format')
 
-    const pad = format.format("02d")
+    // const pad = format.format("02d")
     const OUT_PATH = './inputs/maps'
     const notebook = await load(
         "@eidietrich/montana-legislative-district-maps",
@@ -22,7 +22,7 @@ const { load } = require("@alex.garcia/observable-prerender");
     for await (let district of houseDistricts) {
         await notebook.redefine("curDistrict", district)
         await notebook.screenshot("districtMapRendered", `${OUT_PATH}/png/HD${district}.png`)
-        await notebook.svg("districtMapRendered", `${OUT_PATH}/svg/HD${district}.svg`)
+        // await notebook.svg("districtMapRendered", `${OUT_PATH}/svg/HD${district}.svg`)
         console.log(`Written ${OUT_PATH}/HD${district}`)
     }
 
@@ -30,7 +30,7 @@ const { load } = require("@alex.garcia/observable-prerender");
     for await (let district of senateDistricts) {
         await notebook.redefine("curDistrict", district)
         await notebook.screenshot("districtMapRendered", `${OUT_PATH}/png/SD${district}.png`)
-        await notebook.svg("districtMapRendered", `${OUT_PATH}/svg/SD${district}.svg`)
+        // await notebook.svg("districtMapRendered", `${OUT_PATH}/svg/SD${district}.svg`)
         console.log(`Written ${OUT_PATH}/SD${district}`)
     }
 

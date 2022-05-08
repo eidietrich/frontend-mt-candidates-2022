@@ -15,6 +15,8 @@ const style = css`
     }
 `
 
+const UTM_STRING = `?utm_source=ct-22&utm_medium=app&utm_id=ct-22`
+
 const Coverage = (props) => {
     const { articles } = props
     return <div css={style}>
@@ -59,7 +61,7 @@ const articleStyle = css`
 
 const Article = props => {
     const { title, link, date } = props
-    return <div css={articleStyle}><a href={link}>
+    return <div css={articleStyle}><a href={`${link}${UTM_STRING}`} target="_blank" rel="noopener noreferrer">
         <div className='hed'>{title}</div>
         <div className='date'>{dateFormat(new Date(date))}</div>
     </a>
