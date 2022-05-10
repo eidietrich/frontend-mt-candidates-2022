@@ -14,7 +14,9 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "process": "node inputs/cms/fetch.js && node inputs/coverage/fetch.js && node process/main.js",
-    "deploy:demo": "gatsby build --prefix-paths && aws s3 sync public s3://apps.montanafreepress.org/demo-montana-2022-voter-guide --delete",
+    "deploy": "gatsby build --prefix-paths && aws s3 sync public s3://apps.montanafreepress.org/election-guide-2022 --delete && npm run decache",
+    "decache": "aws cloudfront create-invalidation --distribution-id E3LVPS3XLJHLL5 --paths \"/election-guide-2022/*\"",
+    "deploy:demo": "gatsby build --prefix-paths && aws s3 sync public s3://apps.montanafreepress.org/demo-montana-2022-voter-guide --delete && npm run decache:demo",
     "decache:demo": "aws cloudfront create-invalidation --distribution-id E3LVPS3XLJHLL5 --paths \"/demo-montana-2022-voter-guide/*\""
   },
   "dependencies": {
@@ -34,6 +36,7 @@
     "gatsby-plugin-emotion": "^7.12.1",
     "gatsby-plugin-google-analytics": "^4.12.1",
     "gatsby-plugin-image": "^2.12.1",
+    "gatsby-plugin-manifest": "^4.13.0",
     "gatsby-plugin-parsely-analytics": "^1.1.0",
     "gatsby-plugin-react-helmet": "^5.12.1",
     "gatsby-plugin-sharp": "^4.12.1",

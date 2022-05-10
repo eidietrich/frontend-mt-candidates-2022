@@ -158,7 +158,7 @@ const PartySlate = props => {
 
 const Candidate = props => {
     const { Name, SummaryLine, Party, urlKey, portrait } = props
-    return <div className="Candidate"><Link to={`/candidates/${urlKey}`}>
+    return <div className="Candidate"><Link to={`/${urlKey}`}>
         <div className="portrait">
             <Portrait
                 image={portrait}

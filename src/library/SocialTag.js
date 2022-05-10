@@ -83,7 +83,7 @@ export const SocialTagLabeled = props => {
 
     // FB overrides
     if (type === 'fb') {
-        label = label.replace(/\-\d+$/, '') // trailing numbers
+        label = label.replace(/-\d+$/, '') // trailing numbers
         if (label.match(/profile.php\?id=\d+/)) label = 'Facebook'
     }
     if (type === 'yt') {

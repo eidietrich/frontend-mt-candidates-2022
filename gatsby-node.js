@@ -11,7 +11,7 @@ exports.createPages = async ({
     // Create pages
     candidates.forEach(candidate => {
         createPage({
-            path: `/candidates/${candidate.urlKey}`,
+            path: `/${candidate.urlKey}`,
             component: require.resolve('./src/templates/candidate.js'),
             context: {
                 ...candidate,

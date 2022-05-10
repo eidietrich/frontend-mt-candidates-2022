@@ -10,7 +10,7 @@ import reservations from '../data/geo-reservations.json'
 
 // District layers
 import psc from '../data/geo-psc-districts.json'
-import congressional from '../data/geo-congressional-rw2.json'
+import congressional from '../data/geo-congressional.json'
 
 const BASE_MAP_CONFIG = {
     width: 600,

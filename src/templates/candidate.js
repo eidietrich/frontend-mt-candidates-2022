@@ -109,12 +109,15 @@ class CandidatePage extends Component {
             .sort((a, b) => a.Name.localeCompare(b.Name))
             .sort((a, b) => ['R', 'D', 'L'].indexOf(a.Party) - ['R', 'D', 'L'].indexOf(b.Party))
 
+        const hasWebLinks = CampaignWebsiteUrl || CampaignFBPageUrl || CampaignTwitterUrl || CampaignInstagramUrl || CampaignYoutubeUrl
+
         return (<div css={style}>
             <Seo
                 seoTitle={`${Name} | ${seoTitle}`}
                 seoDescription={pageDescription(Name)}
                 socialTitle={`${Name} – ${seoTitle}`}
                 socialDescription={pageDescription(Name)}
+                pageRelativeUrl={`/${urlKey}`}
             />
             <Layout siteHed={title} siteSubhed={description}>
                 <div className="bio-box">
@@ -125,23 +128,20 @@ class CandidatePage extends Component {
                         <div className="label">2022 {partyLabel} for {race.label}</div>
                         <h1>{Name}</h1>
                         <div className="short-summary">{SummaryLine}</div>
-                        <div className="social-links-label">Campaign website</div>
+                        <div className="social-links-label">Campaign web links</div>
                         {
-                            CampaignWebsiteUrl && <div className="social-links">
+                            hasWebLinks && <div className="social-links">
                                 <SocialTagLabeled type="web" url={CampaignWebsiteUrl} />
+                                <SocialTagLabeled type="fb" url={CampaignFBPageUrl} />
+                                <SocialTagLabeled type="ig" url={CampaignInstagramUrl} />
+                                <SocialTagLabeled type="tw" url={CampaignTwitterUrl} />
+                                <SocialTagLabeled type="yt" url={CampaignYoutubeUrl} />
                             </div>
                         }
                         {
-                            !CampaignWebsiteUrl && <div className="note">Not available</div>
+                            !hasWebLinks && <div className="note">None available</div>
                         }
 
-                        <div className="social-links-label">Campaign social media</div>
-                        <div className="social-links">
-                            <SocialTagLabeled type="fb" url={CampaignFBPageUrl} />
-                            <SocialTagLabeled type="ig" url={CampaignInstagramUrl} />
-                            <SocialTagLabeled type="tw" url={CampaignTwitterUrl} />
-                            <SocialTagLabeled type="yt" url={CampaignYoutubeUrl} />
-                        </div>
                     </div>
 
 
@@ -165,9 +165,11 @@ class CandidatePage extends Component {
 
                 <h3>Campaign finance</h3>
                 {(race.campaignFinance === 'fec') && <CampaignFinance finances={finances} race={Race} />}
-                {(race.campaignFinance === 'copp') && <div>
-                    Campaign finance reporting for this race is done through <a href="https://politicalpractices.mt.gov/">Montana's Commissioner of Political Practices.</a> That data can be accessed through the COPP's <a href="https://cers-ext.mt.gov/CampaignTracker/dashboard">Campaign Electronic Reporting System Dashboard</a>.
-                </div>}
+                {
+                    (race.campaignFinance === 'copp') && <div>
+                        Campaign finance reporting for this race is done through <a href="https://politicalpractices.mt.gov/">Montana's Commissioner of Political Practices.</a> That data can be accessed through the COPP's <a href="https://cers-ext.mt.gov/CampaignTracker/dashboard">Campaign Electronic Reporting System Dashboard</a>.
+                    </div>
+                }
 
 
                 <h3>On the issues</h3>
@@ -175,11 +177,11 @@ class CandidatePage extends Component {
                     race.hasQuestionnaire && <div>
 
                         {
-                            !issueAnswers && <div className="ledein">{Name} didn't respond to MTFP's efforts to collect solicit reponses to issue questions provided to U.S. House candidates via an emailed questionnaire in May 2022.</div>
+                            !issueAnswers && <div className="ledein">{Name} didn't respond to MTFP's efforts to collect reponses to issue questions provided to U.S. House candidates via an emailed questionnaire in May 2022.</div>
                         }
                         {
                             issueAnswers && <div>
-                                <div className="ledein">The material shown below was solicted from candidates via a written questionnaire in May 2022. Responses were limited to 1,000 characters and edited lightly for punctuation and spelling.</div>
+                                <div className="ledein">The material shown below was solicted from candidates via a written questionnaire in May 2022. Responses were limited to 1,000 characters and edited lightly for punctuation and spelling. Responses have not been exhaustively fact-checked. Send questions to Eric Dietrich at edietrich@montanafreepress.org.</div>
                                 <IssueQuestions content={issueAnswers} candidateName={Name} />
                             </div>
                         }
@@ -187,7 +189,7 @@ class CandidatePage extends Component {
                 }
                 {
                     !race.hasQuestionnaire && <div>
-                        <div className="ledein">MTFP hasn't had a chance to put a formal issue questionnaire before candidates in this race.</div>
+                        <div className="ledein">MTFP hasn't put a formal issue questionnaire before candidates in this race.</div>
                     </div>
                 }
 
@@ -208,7 +210,7 @@ const opponentStyle = css`
 const Opponent = props => {
     const { Name, Party, urlKey } = props
     return <span css={opponentStyle}>
-        <Link to={`/candidates/${urlKey}`}>{Name} ({Party})</Link>
+        <Link to={`/${urlKey}`}>{Name} ({Party})</Link>
     </span >
 }
 

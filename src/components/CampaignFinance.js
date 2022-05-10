@@ -16,7 +16,7 @@ const style = css`
     }
 
     .table {
-        max-width: 600px;
+        /* max-width: 600px; */
     }
 
     .row {
@@ -34,11 +34,11 @@ const style = css`
         color: var(--gray5);
     }
     .label-cell {
-        flex: 0 0 8em;
+        flex: 1 0 8em;
         
     }
     .num-cell {
-        flex: 1 0 auto;
+        flex: 1 0 2em;
         padding: 0.2em;
         font-weight: bold;
         display: flex;
@@ -64,7 +64,7 @@ const CampaignFinance = (props) => {
     if (!fecRaceSummaryUrl) console.warn('Missing FEC race page for:', race)
 
     return <div css={style}>
-        <div className="ledein">Based on reporting required by the U.S. Federal Election Commission. See individual candidate pages on the FEC website or the FEC's <a href={fecRaceSummaryUrl} target="_blank" rel="noopener noreferrer">race summary page</a> for more information. The FEC summary page may include candidates who haven't filed for the ballot in this race with the Montana Secretary of State.</div>
+        <div className="ledein">Based on reporting required by the U.S. Federal Election Commission. See individual candidate pages on the FEC website or the FEC's <a href={fecRaceSummaryUrl} target="_blank" rel="noopener noreferrer">race summary page</a> for more information. The FEC summary page may include candidates who haven't filed for the ballot in this race with the Montana secretary of state.</div>
         <div className="table">
             <div className="row thead">
                 <div className="label-cell">Candidate</div>

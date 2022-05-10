@@ -28,9 +28,9 @@ const navRowStyle = css`
     flex-wrap: wrap;
     align-items: center;
 `
-const navRowPrimary = css`
-    margin: 0 -0.25em; /* Aligns items to edges*/
-`
+// const navRowPrimary = css`
+//     margin: 0 -0.25em; /* Aligns items to edges*/
+// `
 const navRowSecondary = css`
     justify-content: space-between;
     margin-left: -0.5em;

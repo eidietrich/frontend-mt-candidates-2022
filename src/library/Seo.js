@@ -6,12 +6,9 @@
  */
 
 import React from "react"
-import PropTypes from "prop-types"
+// import PropTypes from "prop-types"
 import Helmet from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
-
-// TODO - elegantize this
-const appUrl = 'https://apps.montanafreepress.org/montana-legislature-lawsuit-tracker/'
 
 function SEO(props) {
   const { site } = useStaticQuery(
@@ -32,7 +29,7 @@ function SEO(props) {
     `
   )
 
-  const { seoTitle, seoDescription, socialTitle, socialDescription, lang, image, author, meta, siteUrl } = Object.assign({
+  const { seoTitle, seoDescription, socialTitle, socialDescription, lang, image, author, meta, siteUrl, pageRelativeUrl } = Object.assign({
     // defaults
     seoTitle: site.siteMetadata.seoTitle,
     seoDescription: site.siteMetadata.description,
@@ -42,6 +39,7 @@ function SEO(props) {
     image: site.siteMetadata.image,
     author: site.siteMetadata.author,
     siteUrl: site.siteMetadata.siteUrl,
+    pageRelativeUrl: null,
     meta: {},
   }, props)
 
@@ -103,6 +101,16 @@ function SEO(props) {
         },
       ].concat(meta)}
     >
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-HR48DWWFW3"></script>
+      <script>
+        {`
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){window.dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-HR48DWWFW3');
+      `}
+      </script>
       <script type="application/ld+json">
         {/* Parsely information */}
         {`
@@ -110,7 +118,7 @@ function SEO(props) {
             "@context": "http://schema.org",
             "@type": "NewsArticle",
             "name": "${seoTitle}",
-            "url": "${siteUrl}",
+            "url": "${siteUrl}${pageRelativeUrl}",
             "thumbnailUrl": "${image}",
             "datePublished": "${new Date().toISOString()}",
             "articleSection": "News apps",
