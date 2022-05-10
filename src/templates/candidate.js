@@ -17,8 +17,6 @@ import { partyColor } from '../config/config'
 
 import NewsletterSignup from '../library/NewsletterSignup'
 
-import dummyQuestions from '../data/dummy-Q-and-A.json'
-
 const style = css`
     .bio-box {
         display: flex;
@@ -85,6 +83,9 @@ class CandidatePage extends Component {
             seoTitle
         } = this.props.data.site.siteMetadata
         const {
+            portrait
+        } = this.props.data
+        const {
             urlKey,
             Name,
             Race,
@@ -100,7 +101,7 @@ class CandidatePage extends Component {
             finances,
             articles,
             partyLabel,
-            issueAnswers
+            issueAnswers,
         } = this.props.pageContext
 
         const color = partyColor(Party)
@@ -118,7 +119,7 @@ class CandidatePage extends Component {
             <Layout siteHed={title} siteSubhed={description}>
                 <div className="bio-box">
                     <div className="portrait">
-                        <Portrait filename={`${urlKey}.png`} barColor={color} alt={Name} />
+                        <Portrait image={portrait} filename={`${urlKey}.png`} barColor={color} alt={Name} />
                     </div>
                     <div className="info">
                         <div className="label">2022 {partyLabel} for {race.label}</div>
@@ -212,15 +213,22 @@ const Opponent = props => {
 }
 
 
-
+// 
 export const query = graphql`
-  query CandidatePageQuery {
+  query CandidatePageQuery($imagePath: String) {
     site {
       siteMetadata {
         title
         seoTitle
         description
       }
+    }
+    portrait: file(sourceInstanceName: {eq: "portraits"}, relativePath: {eq: $imagePath}) {
+        relativePath
+        name
+        childImageSharp {
+        gatsbyImageData
+        }
     }
   }
 `

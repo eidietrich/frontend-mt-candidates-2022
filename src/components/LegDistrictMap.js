@@ -1,6 +1,6 @@
 import React from "react"
 import { css } from "@emotion/react"
-import { StaticQuery, graphql } from "gatsby"
+// import { StaticQuery, graphql } from "gatsby"
 import { GatsbyImage } from "gatsby-plugin-image"
 
 // surprisingly complex - loads all images in image folder then renders based on prop
@@ -17,56 +17,21 @@ const style = css`
 // hacky
 // const fileNameTransform = key => key.replace('SD', 'sd-').replace('HD', 'hd-')
 
-const LegDistrictMap = (props) => (
-
-  <StaticQuery
-    query={graphql`
-        query {
-          images: allFile(filter: { sourceInstanceName: { eq: "maps" } }) {
-            edges {
-              node {
-                relativePath
-                name
-                childImageSharp {
-                  gatsbyImageData
-                }
-              }
-            }
-          }
-        }
-      `}
-
-    render={(data) => {
-      const { filename, alt, suppresswarning } = props
-      //   const barStyle = barColor ?
-      //     css`border-top: 8px solid ${barColor};`
-      //     : null
-
-      // const defaultImage = data.images.edges.find(n => n.node.relativePath.includes('00-placeholder.png'))
-      // const path = fileNameTransform(filename)
-      let image = data.images.edges.find(n => {
-        // console.log(filename, n.node.relativePath)
-        const image = n.node.relativePath === `${filename}.png`
-        return image
-      });
-
-      if (!image) {
-        if (!suppresswarning) console.warn('Missing leg district map:', filename)
-        // image = defaultImage
-        return <div>Missing map</div>
-      }
-      return (
-        <div css={[style]}>
-          <GatsbyImage
-            image={image.node.childImageSharp.gatsbyImageData}
-            alt={alt}
-            objectFit="cover"
-            objectPosition="50% 50%"
-          />
-        </div>
-      );
-    }}
-  />
-)
+const LegDistrictMap = (props) => {
+  const { image, alt, suppresswarning } = props
+  if (!image) {
+    if (!suppresswarning) console.warn('Missing leg district map:', alt)
+    // image = defaultImage
+    return <div>Missing map</div>
+  }
+  return <div css={[style]}>
+    <GatsbyImage
+      image={image.childImageSharp.gatsbyImageData}
+      alt={alt}
+      objectFit="cover"
+      objectPosition="50% 50%"
+    />
+  </div>
+}
 
 export default LegDistrictMap

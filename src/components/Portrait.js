@@ -5,51 +5,43 @@ import { GatsbyImage } from "gatsby-plugin-image"
 
 // surprisingly complex - loads all images in image folder then renders based on prop
 // see https://noahgilmore.com/blog/easy-gatsby-image-components/
+// ... and https://www.gatsbyjs.com/docs/tutorial/part-7/
 // There has got to be a more elegant way to do this
 
 const style = css`
     max-width: 100;
 `
 
-const Portrait = (props) => (
-
-  <StaticQuery
+const Portrait = (props) => {
+  return <StaticQuery
     query={graphql`
         query {
-          images: allFile(filter: { sourceInstanceName: { eq: "portraits" } }) {
-            edges {
-              node {
-                relativePath
-                name
-                childImageSharp {
-                  gatsbyImageData
-                }
+          defaultImage: file(sourceInstanceName: {eq: "portraits"}, relativePath: {eq: "00-placeholder.png"}) {
+              relativePath
+              name
+              childImageSharp {
+              gatsbyImageData
               }
-            }
           }
         }
       `}
 
     render={(data) => {
-      const { filename, alt, barColor, suppresswarning } = props
+      const { image, alt, barColor, suppresswarning } = props
       const barStyle = barColor ?
         css`border-top: 8px solid ${barColor};`
         : null
 
-      const defaultImage = data.images.edges.find(n => n.node.relativePath.includes('00-placeholder.png'))
-      let image = data.images.edges.find(n => {
-        const image = n.node.relativePath.includes(filename)
-        return image
-      });
+      let renderImage = image
 
       if (!image) {
-        if (!suppresswarning) console.warn('Missing portrait:', filename)
-        image = defaultImage
+        if (!suppresswarning) console.warn('Missing portrait:', alt)
+        renderImage = data.defaultImage
       }
       return (
         <div css={[style, barStyle]}>
           <GatsbyImage
-            image={image.node.childImageSharp.gatsbyImageData}
+            image={renderImage.childImageSharp.gatsbyImageData}
             alt={alt}
             objectFit="cover"
             objectPosition="50% 50%"
@@ -58,6 +50,6 @@ const Portrait = (props) => (
       );
     }}
   />
-)
+}
 
 export default Portrait

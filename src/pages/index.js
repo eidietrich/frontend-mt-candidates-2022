@@ -24,6 +24,18 @@ const pageDescription = `Find information on state-level candidates, legislative
 
 const IndexPage = ({ data }) => {
   const { title, seoTitle, description } = data.site.siteMetadata
+  const portraits = data.portraits.edges.map(d => d.node)
+  const maps = data.maps.edges.map(d => d.node)
+
+  // merge in results of portrait image query
+  races.forEach(race => {
+    race.candidates.forEach(candidate => {
+      const portrait = portraits.find(d => d.relativePath === `${candidate.urlKey}.png`)
+      candidate.portrait = portrait
+    })
+  })
+
+
   return <div>
     <Seo
       seoTitle={seoTitle}
@@ -48,7 +60,7 @@ const IndexPage = ({ data }) => {
         <h2 id="Montana-Legislature">Montana Legislature</h2>
         <ReactMarkdown>{overview.LegislativeIntro}</ReactMarkdown>
 
-        <LegislativeLookup candidates={legislativeCandidates} />
+        <LegislativeLookup candidates={legislativeCandidates} maps={maps} />
         <LegislativeCandidates candidates={legislativeCandidates} />
       </div>
 
@@ -77,6 +89,28 @@ export const query = graphql`
         title
         description
         seoTitle
+      }
+    }
+    portraits: allFile(filter: { sourceInstanceName: { eq: "portraits" } }) {
+      edges {
+        node {
+          relativePath
+          name
+          childImageSharp {
+            gatsbyImageData
+          }
+        }
+      }
+    }
+    maps: allFile(filter: { sourceInstanceName: { eq: "maps" } }) {
+      edges {
+        node {
+          relativePath
+          name
+          childImageSharp {
+            gatsbyImageData
+          }
+        }
       }
     }
   }

@@ -106,7 +106,7 @@ class DistrictLookup extends Component {
     }
 
     render() {
-        const { candidates } = this.props
+        const { candidates, maps } = this.props
         const { hd, sd, errorMessage, matchedAddress } = this.state
         return <div>
             <h3 css={labelCss}>Your district's candidates</h3>
@@ -120,7 +120,10 @@ class DistrictLookup extends Component {
             {matchedAddress && <div css={messageLineCss}>Districts for {matchedAddress}. Each senate district consists of two house districts.</div>}
             <div css={resultContainer}>
                 {
-                    matchedAddress && <Results candidates={candidates} hd={hd} sd={sd} />
+                    matchedAddress && <Results candidates={candidates}
+                        hd={hd} hdMap={maps.find(d => d.relativePath === `${hd}.png`)}
+                        sd={sd} sdMap={maps.find(d => d.relativePath === `${sd}.png`)}
+                    />
                 }
                 {
                     (!matchedAddress) && <div css={placeholderCss}>Search results</div>
@@ -178,14 +181,15 @@ const resultStyle = css`
     }
 `
 
-const Results = ({ candidates, hd, sd }) => {
+const Results = ({ candidates, hd, sd, hdMap, sdMap }) => {
+    console.log(hd, sd, hdMap, sdMap)
 
     const houseCandidates = candidates.filter(d => cleanDistrict(d.District) === cleanDistrict(hd))
     const senateCandidates = candidates.filter(d => cleanDistrict(d.District) === cleanDistrict(sd))
     return <div css={resultStyle}>
         <div className="col">
             <div className="district">Montana Legislature {hd.replace('HD', 'House District ')}</div>
-            <LegDistrictMap filename={hd} alt={hd} />
+            <LegDistrictMap image={hdMap} alt={hd} />
             <div className="label">2022 Candidates</div>
             <div>
                 {
@@ -199,7 +203,7 @@ const Results = ({ candidates, hd, sd }) => {
         {
             (senateCandidates.length > 0) && <div className="col">
                 <div className="district">Montana Legislature {sd.replace('SD', 'Senate District ')}</div>
-                <LegDistrictMap filename={sd} alt={sd} />
+                <LegDistrictMap image={sdMap} alt={sd} />
                 <div className="label">2022 Candidates</div>
                 <div>
                     {
@@ -214,7 +218,7 @@ const Results = ({ candidates, hd, sd }) => {
         {
             (senateCandidates.length === 0) && <div className="col">
                 <div className="district">Montana Legislature {sd.replace('SD', 'Senate District ')}</div>
-                <LegDistrictMap filename={sd} alt={sd} />
+                <LegDistrictMap image={sdMap} alt={sd} />
 
                 <div className="out-of-cycle">Out of cycle in 2022</div>
 

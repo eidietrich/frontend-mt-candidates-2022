@@ -3,8 +3,6 @@ const {
 } = require('./utils/functions.js')
 
 const candidates = getJson('./src/data/candidates.json')
-// const legislativeCandidates = getJson('./src/data/legislative-candidates.json')
-// const races = getJson('./src/data/races.json')
 
 exports.createPages = async ({
     actions: { createPage },
@@ -17,6 +15,7 @@ exports.createPages = async ({
             component: require.resolve('./src/templates/candidate.js'),
             context: {
                 ...candidate,
+                imagePath: `${candidate.urlKey}.png`
             }
         })
     })

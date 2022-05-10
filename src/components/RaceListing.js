@@ -157,14 +157,11 @@ const PartySlate = props => {
 }
 
 const Candidate = props => {
-    const { Name, SummaryLine, Party, urlKey } = props
-    // const color = partyColor(Party)
-    // const portraitBarCss = css`border-top: 8px solid ${color};`
+    const { Name, SummaryLine, Party, urlKey, portrait } = props
     return <div className="Candidate"><Link to={`/candidates/${urlKey}`}>
-        {/* <div className="portrait" css={portraitBarCss}></div> */}
         <div className="portrait">
             <Portrait
-                filename={`${urlKey}.png`}
+                image={portrait}
                 barColor={partyColor(Party)}
                 alt={Name}
             />
