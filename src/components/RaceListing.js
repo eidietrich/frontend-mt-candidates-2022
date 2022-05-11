@@ -149,7 +149,7 @@ const PartySlate = props => {
         <div className="candidates">
             {candidates
                 .sort((a, b) => surname(a.Name).localeCompare(surname(b.Name)))
-                .sort((a, b) => a.isIncumbent ? -1 : 0)
+                // .sort((a, b) => a.isIncumbent ? -1 : 0) // Broke Firefox
                 .map(candidate => <Candidate key={candidate.urlKey} {...candidate} />)
             }
         </div>

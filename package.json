@@ -13,6 +13,7 @@
     "build": "gatsby build",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
+    "update": "npm run process && npm run deploy",
     "process": "node inputs/cms/fetch.js && node inputs/coverage/fetch.js && node process/main.js",
     "deploy": "gatsby build --prefix-paths && aws s3 sync public s3://apps.montanafreepress.org/election-guide-2022 --delete && npm run decache",
     "decache": "aws cloudfront create-invalidation --distribution-id E3LVPS3XLJHLL5 --paths \"/election-guide-2022/*\"",
