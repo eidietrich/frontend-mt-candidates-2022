@@ -32,10 +32,10 @@
             "party": "R",
             "candidateId": "H4MT01041",
             "candidateCommitteeName": "ZINKE FOR CONGRESS",
-            "totalReceipts": 2484819.24,
-            "totalDisbursments": 1272320.57,
-            "cashOnHand": 1212498.67,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 2947291.52,
+            "totalDisbursments": 2068614.47,
+            "cashOnHand": 878677.05,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -43,21 +43,10 @@
             "party": "D",
             "candidateId": "H2MT02100",
             "candidateCommitteeName": "CORA FOR MONTANA",
-            "totalReceipts": 1172109.15,
-            "totalDisbursments": 388093.28,
-            "cashOnHand": 877958.24,
-            "coverageEndDate": "2022-03-31T00:00:00"
-          },
-          {
-            "isThisCandidate": false,
-            "displayName": "Al Olszewski",
-            "party": "R",
-            "candidateId": "H2MT02084",
-            "candidateCommitteeName": "AL FOR MONTANA",
-            "totalReceipts": 678063.92,
-            "totalDisbursments": 313268.1,
-            "cashOnHand": 364795.82,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 1334441.2,
+            "totalDisbursments": 1050711.14,
+            "cashOnHand": 377672.43,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -65,10 +54,21 @@
             "party": "D",
             "candidateId": "H2MT02092",
             "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
-            "totalReceipts": 675152.88,
-            "totalDisbursments": 408992.4,
-            "cashOnHand": 266160.48,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 882230.86,
+            "totalDisbursments": 784041.8,
+            "cashOnHand": 98189.06,
+            "coverageEndDate": "2022-05-18T00:00:00"
+          },
+          {
+            "isThisCandidate": false,
+            "displayName": "Al Olszewski",
+            "party": "R",
+            "candidateId": "H2MT02084",
+            "candidateCommitteeName": "AL FOR MONTANA",
+            "totalReceipts": 709784.68,
+            "totalDisbursments": 533111.36,
+            "cashOnHand": 176673.32,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -76,10 +76,10 @@
             "party": "R",
             "candidateId": "H2MT00112",
             "candidateCommitteeName": "MARY TODD FOR MONTANA",
-            "totalReceipts": 167779.17,
-            "totalDisbursments": 60767.2,
-            "cashOnHand": 107011.97,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 448284.17,
+            "totalDisbursments": 396985.74,
+            "cashOnHand": 51298.43,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -87,10 +87,10 @@
             "party": "D",
             "candidateId": "H0MT00090",
             "candidateCommitteeName": "WINTER FOR MONTANA",
-            "totalReceipts": 94918.19,
-            "totalDisbursments": 78882.81,
-            "cashOnHand": 16035.38,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 98545.2,
+            "totalDisbursments": 92343.29,
+            "cashOnHand": 6201.91,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": true,
@@ -237,6 +237,11 @@
         ],
         "articles": [
           {
+            "title": "Who holds the keys to Montana’s Western congressional seat?",
+            "date": "2022-05-19T15:40:04",
+            "link": "https://montanafreepress.org/2022/05/19/how-will-voters-define-montanas-western-congressional-district/"
+          },
+          {
             "title": "Congressional races up and running",
             "date": "2022-03-14T18:50:03",
             "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/"
@@ -331,10 +336,10 @@
             "party": "R",
             "candidateId": "H4MT01041",
             "candidateCommitteeName": "ZINKE FOR CONGRESS",
-            "totalReceipts": 2484819.24,
-            "totalDisbursments": 1272320.57,
-            "cashOnHand": 1212498.67,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 2947291.52,
+            "totalDisbursments": 2068614.47,
+            "cashOnHand": 878677.05,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -342,21 +347,10 @@
             "party": "D",
             "candidateId": "H2MT02100",
             "candidateCommitteeName": "CORA FOR MONTANA",
-            "totalReceipts": 1172109.15,
-            "totalDisbursments": 388093.28,
-            "cashOnHand": 877958.24,
-            "coverageEndDate": "2022-03-31T00:00:00"
-          },
-          {
-            "isThisCandidate": false,
-            "displayName": "Al Olszewski",
-            "party": "R",
-            "candidateId": "H2MT02084",
-            "candidateCommitteeName": "AL FOR MONTANA",
-            "totalReceipts": 678063.92,
-            "totalDisbursments": 313268.1,
-            "cashOnHand": 364795.82,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 1334441.2,
+            "totalDisbursments": 1050711.14,
+            "cashOnHand": 377672.43,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -364,10 +358,21 @@
             "party": "D",
             "candidateId": "H2MT02092",
             "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
-            "totalReceipts": 675152.88,
-            "totalDisbursments": 408992.4,
-            "cashOnHand": 266160.48,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 882230.86,
+            "totalDisbursments": 784041.8,
+            "cashOnHand": 98189.06,
+            "coverageEndDate": "2022-05-18T00:00:00"
+          },
+          {
+            "isThisCandidate": false,
+            "displayName": "Al Olszewski",
+            "party": "R",
+            "candidateId": "H2MT02084",
+            "candidateCommitteeName": "AL FOR MONTANA",
+            "totalReceipts": 709784.68,
+            "totalDisbursments": 533111.36,
+            "cashOnHand": 176673.32,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -375,10 +380,10 @@
             "party": "R",
             "candidateId": "H2MT00112",
             "candidateCommitteeName": "MARY TODD FOR MONTANA",
-            "totalReceipts": 167779.17,
-            "totalDisbursments": 60767.2,
-            "cashOnHand": 107011.97,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 448284.17,
+            "totalDisbursments": 396985.74,
+            "cashOnHand": 51298.43,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -386,10 +391,10 @@
             "party": "D",
             "candidateId": "H0MT00090",
             "candidateCommitteeName": "WINTER FOR MONTANA",
-            "totalReceipts": 94918.19,
-            "totalDisbursments": 78882.81,
-            "cashOnHand": 16035.38,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 98545.2,
+            "totalDisbursments": 92343.29,
+            "cashOnHand": 6201.91,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -528,6 +533,11 @@
         ],
         "articles": [
           {
+            "title": "Who holds the keys to Montana’s Western congressional seat?",
+            "date": "2022-05-19T15:40:04",
+            "link": "https://montanafreepress.org/2022/05/19/how-will-voters-define-montanas-western-congressional-district/"
+          },
+          {
             "title": "Congressional races up and running",
             "date": "2022-03-14T18:50:03",
             "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/"
@@ -622,10 +632,10 @@
             "party": "R",
             "candidateId": "H4MT01041",
             "candidateCommitteeName": "ZINKE FOR CONGRESS",
-            "totalReceipts": 2484819.24,
-            "totalDisbursments": 1272320.57,
-            "cashOnHand": 1212498.67,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 2947291.52,
+            "totalDisbursments": 2068614.47,
+            "cashOnHand": 878677.05,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -633,21 +643,10 @@
             "party": "D",
             "candidateId": "H2MT02100",
             "candidateCommitteeName": "CORA FOR MONTANA",
-            "totalReceipts": 1172109.15,
-            "totalDisbursments": 388093.28,
-            "cashOnHand": 877958.24,
-            "coverageEndDate": "2022-03-31T00:00:00"
-          },
-          {
-            "isThisCandidate": false,
-            "displayName": "Al Olszewski",
-            "party": "R",
-            "candidateId": "H2MT02084",
-            "candidateCommitteeName": "AL FOR MONTANA",
-            "totalReceipts": 678063.92,
-            "totalDisbursments": 313268.1,
-            "cashOnHand": 364795.82,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 1334441.2,
+            "totalDisbursments": 1050711.14,
+            "cashOnHand": 377672.43,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -655,10 +654,21 @@
             "party": "D",
             "candidateId": "H2MT02092",
             "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
-            "totalReceipts": 675152.88,
-            "totalDisbursments": 408992.4,
-            "cashOnHand": 266160.48,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 882230.86,
+            "totalDisbursments": 784041.8,
+            "cashOnHand": 98189.06,
+            "coverageEndDate": "2022-05-18T00:00:00"
+          },
+          {
+            "isThisCandidate": false,
+            "displayName": "Al Olszewski",
+            "party": "R",
+            "candidateId": "H2MT02084",
+            "candidateCommitteeName": "AL FOR MONTANA",
+            "totalReceipts": 709784.68,
+            "totalDisbursments": 533111.36,
+            "cashOnHand": 176673.32,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -666,10 +676,10 @@
             "party": "R",
             "candidateId": "H2MT00112",
             "candidateCommitteeName": "MARY TODD FOR MONTANA",
-            "totalReceipts": 167779.17,
-            "totalDisbursments": 60767.2,
-            "cashOnHand": 107011.97,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 448284.17,
+            "totalDisbursments": 396985.74,
+            "cashOnHand": 51298.43,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -677,10 +687,10 @@
             "party": "D",
             "candidateId": "H0MT00090",
             "candidateCommitteeName": "WINTER FOR MONTANA",
-            "totalReceipts": 94918.19,
-            "totalDisbursments": 78882.81,
-            "cashOnHand": 16035.38,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 98545.2,
+            "totalDisbursments": 92343.29,
+            "cashOnHand": 6201.91,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -718,6 +728,11 @@
         ],
         "issueAnswers": null,
         "articles": [
+          {
+            "title": "Who holds the keys to Montana’s Western congressional seat?",
+            "date": "2022-05-19T15:40:04",
+            "link": "https://montanafreepress.org/2022/05/19/how-will-voters-define-montanas-western-congressional-district/"
+          },
           {
             "title": "Congressional races up and running",
             "date": "2022-03-14T18:50:03",
@@ -813,10 +828,10 @@
             "party": "R",
             "candidateId": "H4MT01041",
             "candidateCommitteeName": "ZINKE FOR CONGRESS",
-            "totalReceipts": 2484819.24,
-            "totalDisbursments": 1272320.57,
-            "cashOnHand": 1212498.67,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 2947291.52,
+            "totalDisbursments": 2068614.47,
+            "cashOnHand": 878677.05,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -824,21 +839,10 @@
             "party": "D",
             "candidateId": "H2MT02100",
             "candidateCommitteeName": "CORA FOR MONTANA",
-            "totalReceipts": 1172109.15,
-            "totalDisbursments": 388093.28,
-            "cashOnHand": 877958.24,
-            "coverageEndDate": "2022-03-31T00:00:00"
-          },
-          {
-            "isThisCandidate": true,
-            "displayName": "Al Olszewski",
-            "party": "R",
-            "candidateId": "H2MT02084",
-            "candidateCommitteeName": "AL FOR MONTANA",
-            "totalReceipts": 678063.92,
-            "totalDisbursments": 313268.1,
-            "cashOnHand": 364795.82,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 1334441.2,
+            "totalDisbursments": 1050711.14,
+            "cashOnHand": 377672.43,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -846,10 +850,21 @@
             "party": "D",
             "candidateId": "H2MT02092",
             "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
-            "totalReceipts": 675152.88,
-            "totalDisbursments": 408992.4,
-            "cashOnHand": 266160.48,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 882230.86,
+            "totalDisbursments": 784041.8,
+            "cashOnHand": 98189.06,
+            "coverageEndDate": "2022-05-18T00:00:00"
+          },
+          {
+            "isThisCandidate": true,
+            "displayName": "Al Olszewski",
+            "party": "R",
+            "candidateId": "H2MT02084",
+            "candidateCommitteeName": "AL FOR MONTANA",
+            "totalReceipts": 709784.68,
+            "totalDisbursments": 533111.36,
+            "cashOnHand": 176673.32,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -857,10 +872,10 @@
             "party": "R",
             "candidateId": "H2MT00112",
             "candidateCommitteeName": "MARY TODD FOR MONTANA",
-            "totalReceipts": 167779.17,
-            "totalDisbursments": 60767.2,
-            "cashOnHand": 107011.97,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 448284.17,
+            "totalDisbursments": 396985.74,
+            "cashOnHand": 51298.43,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -868,10 +883,10 @@
             "party": "D",
             "candidateId": "H0MT00090",
             "candidateCommitteeName": "WINTER FOR MONTANA",
-            "totalReceipts": 94918.19,
-            "totalDisbursments": 78882.81,
-            "cashOnHand": 16035.38,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 98545.2,
+            "totalDisbursments": 92343.29,
+            "cashOnHand": 6201.91,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -1034,6 +1049,11 @@
         ],
         "articles": [
           {
+            "title": "Who holds the keys to Montana’s Western congressional seat?",
+            "date": "2022-05-19T15:40:04",
+            "link": "https://montanafreepress.org/2022/05/19/how-will-voters-define-montanas-western-congressional-district/"
+          },
+          {
             "title": "Congressional races up and running",
             "date": "2022-03-14T18:50:03",
             "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/"
@@ -1128,10 +1148,10 @@
             "party": "R",
             "candidateId": "H4MT01041",
             "candidateCommitteeName": "ZINKE FOR CONGRESS",
-            "totalReceipts": 2484819.24,
-            "totalDisbursments": 1272320.57,
-            "cashOnHand": 1212498.67,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 2947291.52,
+            "totalDisbursments": 2068614.47,
+            "cashOnHand": 878677.05,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -1139,21 +1159,10 @@
             "party": "D",
             "candidateId": "H2MT02100",
             "candidateCommitteeName": "CORA FOR MONTANA",
-            "totalReceipts": 1172109.15,
-            "totalDisbursments": 388093.28,
-            "cashOnHand": 877958.24,
-            "coverageEndDate": "2022-03-31T00:00:00"
-          },
-          {
-            "isThisCandidate": false,
-            "displayName": "Al Olszewski",
-            "party": "R",
-            "candidateId": "H2MT02084",
-            "candidateCommitteeName": "AL FOR MONTANA",
-            "totalReceipts": 678063.92,
-            "totalDisbursments": 313268.1,
-            "cashOnHand": 364795.82,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 1334441.2,
+            "totalDisbursments": 1050711.14,
+            "cashOnHand": 377672.43,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": true,
@@ -1161,10 +1170,21 @@
             "party": "D",
             "candidateId": "H2MT02092",
             "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
-            "totalReceipts": 675152.88,
-            "totalDisbursments": 408992.4,
-            "cashOnHand": 266160.48,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 882230.86,
+            "totalDisbursments": 784041.8,
+            "cashOnHand": 98189.06,
+            "coverageEndDate": "2022-05-18T00:00:00"
+          },
+          {
+            "isThisCandidate": false,
+            "displayName": "Al Olszewski",
+            "party": "R",
+            "candidateId": "H2MT02084",
+            "candidateCommitteeName": "AL FOR MONTANA",
+            "totalReceipts": 709784.68,
+            "totalDisbursments": 533111.36,
+            "cashOnHand": 176673.32,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -1172,10 +1192,10 @@
             "party": "R",
             "candidateId": "H2MT00112",
             "candidateCommitteeName": "MARY TODD FOR MONTANA",
-            "totalReceipts": 167779.17,
-            "totalDisbursments": 60767.2,
-            "cashOnHand": 107011.97,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 448284.17,
+            "totalDisbursments": 396985.74,
+            "cashOnHand": 51298.43,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -1183,10 +1203,10 @@
             "party": "D",
             "candidateId": "H0MT00090",
             "candidateCommitteeName": "WINTER FOR MONTANA",
-            "totalReceipts": 94918.19,
-            "totalDisbursments": 78882.81,
-            "cashOnHand": 16035.38,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 98545.2,
+            "totalDisbursments": 92343.29,
+            "cashOnHand": 6201.91,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -1393,6 +1413,11 @@
         ],
         "articles": [
           {
+            "title": "Who holds the keys to Montana’s Western congressional seat?",
+            "date": "2022-05-19T15:40:04",
+            "link": "https://montanafreepress.org/2022/05/19/how-will-voters-define-montanas-western-congressional-district/"
+          },
+          {
             "title": "Congressional races up and running",
             "date": "2022-03-14T18:50:03",
             "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/"
@@ -1487,10 +1512,10 @@
             "party": "R",
             "candidateId": "H4MT01041",
             "candidateCommitteeName": "ZINKE FOR CONGRESS",
-            "totalReceipts": 2484819.24,
-            "totalDisbursments": 1272320.57,
-            "cashOnHand": 1212498.67,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 2947291.52,
+            "totalDisbursments": 2068614.47,
+            "cashOnHand": 878677.05,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -1498,21 +1523,10 @@
             "party": "D",
             "candidateId": "H2MT02100",
             "candidateCommitteeName": "CORA FOR MONTANA",
-            "totalReceipts": 1172109.15,
-            "totalDisbursments": 388093.28,
-            "cashOnHand": 877958.24,
-            "coverageEndDate": "2022-03-31T00:00:00"
-          },
-          {
-            "isThisCandidate": false,
-            "displayName": "Al Olszewski",
-            "party": "R",
-            "candidateId": "H2MT02084",
-            "candidateCommitteeName": "AL FOR MONTANA",
-            "totalReceipts": 678063.92,
-            "totalDisbursments": 313268.1,
-            "cashOnHand": 364795.82,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 1334441.2,
+            "totalDisbursments": 1050711.14,
+            "cashOnHand": 377672.43,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -1520,10 +1534,21 @@
             "party": "D",
             "candidateId": "H2MT02092",
             "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
-            "totalReceipts": 675152.88,
-            "totalDisbursments": 408992.4,
-            "cashOnHand": 266160.48,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 882230.86,
+            "totalDisbursments": 784041.8,
+            "cashOnHand": 98189.06,
+            "coverageEndDate": "2022-05-18T00:00:00"
+          },
+          {
+            "isThisCandidate": false,
+            "displayName": "Al Olszewski",
+            "party": "R",
+            "candidateId": "H2MT02084",
+            "candidateCommitteeName": "AL FOR MONTANA",
+            "totalReceipts": 709784.68,
+            "totalDisbursments": 533111.36,
+            "cashOnHand": 176673.32,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -1531,10 +1556,10 @@
             "party": "R",
             "candidateId": "H2MT00112",
             "candidateCommitteeName": "MARY TODD FOR MONTANA",
-            "totalReceipts": 167779.17,
-            "totalDisbursments": 60767.2,
-            "cashOnHand": 107011.97,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 448284.17,
+            "totalDisbursments": 396985.74,
+            "cashOnHand": 51298.43,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": true,
@@ -1542,10 +1567,10 @@
             "party": "D",
             "candidateId": "H0MT00090",
             "candidateCommitteeName": "WINTER FOR MONTANA",
-            "totalReceipts": 94918.19,
-            "totalDisbursments": 78882.81,
-            "cashOnHand": 16035.38,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 98545.2,
+            "totalDisbursments": 92343.29,
+            "cashOnHand": 6201.91,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -1716,6 +1741,11 @@
         ],
         "articles": [
           {
+            "title": "Who holds the keys to Montana’s Western congressional seat?",
+            "date": "2022-05-19T15:40:04",
+            "link": "https://montanafreepress.org/2022/05/19/how-will-voters-define-montanas-western-congressional-district/"
+          },
+          {
             "title": "Congressional races up and running",
             "date": "2022-03-14T18:50:03",
             "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/"
@@ -1810,10 +1840,10 @@
             "party": "R",
             "candidateId": "H4MT01041",
             "candidateCommitteeName": "ZINKE FOR CONGRESS",
-            "totalReceipts": 2484819.24,
-            "totalDisbursments": 1272320.57,
-            "cashOnHand": 1212498.67,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 2947291.52,
+            "totalDisbursments": 2068614.47,
+            "cashOnHand": 878677.05,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -1821,21 +1851,10 @@
             "party": "D",
             "candidateId": "H2MT02100",
             "candidateCommitteeName": "CORA FOR MONTANA",
-            "totalReceipts": 1172109.15,
-            "totalDisbursments": 388093.28,
-            "cashOnHand": 877958.24,
-            "coverageEndDate": "2022-03-31T00:00:00"
-          },
-          {
-            "isThisCandidate": false,
-            "displayName": "Al Olszewski",
-            "party": "R",
-            "candidateId": "H2MT02084",
-            "candidateCommitteeName": "AL FOR MONTANA",
-            "totalReceipts": 678063.92,
-            "totalDisbursments": 313268.1,
-            "cashOnHand": 364795.82,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 1334441.2,
+            "totalDisbursments": 1050711.14,
+            "cashOnHand": 377672.43,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -1843,10 +1862,21 @@
             "party": "D",
             "candidateId": "H2MT02092",
             "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
-            "totalReceipts": 675152.88,
-            "totalDisbursments": 408992.4,
-            "cashOnHand": 266160.48,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 882230.86,
+            "totalDisbursments": 784041.8,
+            "cashOnHand": 98189.06,
+            "coverageEndDate": "2022-05-18T00:00:00"
+          },
+          {
+            "isThisCandidate": false,
+            "displayName": "Al Olszewski",
+            "party": "R",
+            "candidateId": "H2MT02084",
+            "candidateCommitteeName": "AL FOR MONTANA",
+            "totalReceipts": 709784.68,
+            "totalDisbursments": 533111.36,
+            "cashOnHand": 176673.32,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -1854,10 +1884,10 @@
             "party": "R",
             "candidateId": "H2MT00112",
             "candidateCommitteeName": "MARY TODD FOR MONTANA",
-            "totalReceipts": 167779.17,
-            "totalDisbursments": 60767.2,
-            "cashOnHand": 107011.97,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 448284.17,
+            "totalDisbursments": 396985.74,
+            "cashOnHand": 51298.43,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -1865,10 +1895,10 @@
             "party": "D",
             "candidateId": "H0MT00090",
             "candidateCommitteeName": "WINTER FOR MONTANA",
-            "totalReceipts": 94918.19,
-            "totalDisbursments": 78882.81,
-            "cashOnHand": 16035.38,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 98545.2,
+            "totalDisbursments": 92343.29,
+            "cashOnHand": 6201.91,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -2007,6 +2037,11 @@
         ],
         "articles": [
           {
+            "title": "Who holds the keys to Montana’s Western congressional seat?",
+            "date": "2022-05-19T15:40:04",
+            "link": "https://montanafreepress.org/2022/05/19/how-will-voters-define-montanas-western-congressional-district/"
+          },
+          {
             "title": "Congressional races up and running",
             "date": "2022-03-14T18:50:03",
             "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/"
@@ -2079,7 +2114,7 @@
       {
         "Name": "Cora Neumann",
         "SummaryLine": "Public health and public lands advocate",
-        "LongSummary": "Neumann, 47, was raised in Bozeman. After spending much of her professional career living across the U.S. and abroad, Neumann returned to live in Bozeman full-time in 2019. \n\nNeumann, who has a PhD in public health from Oxford University, spent the last two decades working in international health, economic development and public lands advocacy. She founded the Global First Ladies Alliance and has been an adviser for the U.S. State Department and the George W. Bush Presidential Center, among other professional positions. \n\nNeumann launched a campaign for one of Montana’s U.S. Senate seats in 2019 but dropped out when former Gov. Steve Bullock entered the race.\n\nThis biography was compiled with information from a candidate interview and Neumann’s LinkedIn page.",
+        "LongSummary": "Neumann, 47, was raised in Bozeman. After spending much of her professional career living across the U.S. and abroad, Neumann returned to live in Bozeman full-time in 2019, where she and her husband are raising their two kids.\n\nNeumann, who has a PhD in public health from Oxford University, spent the last two decades working in international health, economic development and public lands advocacy. She founded the Global First Ladies Alliance and has been an adviser for the U.S. State Department and the George W. Bush Presidential Center, among other professional positions. \n\nNeumann launched a campaign for one of Montana’s U.S. Senate seats in 2019 but dropped out when former Gov. Steve Bullock entered the race.\n\nThis biography was compiled with information from a candidate interview and Neumann’s LinkedIn page.",
         "Race": "US-House-1-West",
         "CampaignWebsiteUrl": "https://coraformontana.com/",
         "CampaignFBPageUrl": "https://www.facebook.com/CoraForMontana",
@@ -2087,7 +2122,7 @@
         "CampaignInstagramUrl": "https://www.instagram.com/coraformontana",
         "MtfpCoverageTag": null,
         "createdAt": "2022-04-19T19:29:22.619Z",
-        "updatedAt": "2022-05-11T15:10:41.413Z",
+        "updatedAt": "2022-05-13T17:44:09.338Z",
         "Party": "D",
         "CampaignYoutubeUrl": null,
         "isIncumbent": false,
@@ -2101,10 +2136,10 @@
             "party": "R",
             "candidateId": "H4MT01041",
             "candidateCommitteeName": "ZINKE FOR CONGRESS",
-            "totalReceipts": 2484819.24,
-            "totalDisbursments": 1272320.57,
-            "cashOnHand": 1212498.67,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 2947291.52,
+            "totalDisbursments": 2068614.47,
+            "cashOnHand": 878677.05,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": true,
@@ -2112,21 +2147,10 @@
             "party": "D",
             "candidateId": "H2MT02100",
             "candidateCommitteeName": "CORA FOR MONTANA",
-            "totalReceipts": 1172109.15,
-            "totalDisbursments": 388093.28,
-            "cashOnHand": 877958.24,
-            "coverageEndDate": "2022-03-31T00:00:00"
-          },
-          {
-            "isThisCandidate": false,
-            "displayName": "Al Olszewski",
-            "party": "R",
-            "candidateId": "H2MT02084",
-            "candidateCommitteeName": "AL FOR MONTANA",
-            "totalReceipts": 678063.92,
-            "totalDisbursments": 313268.1,
-            "cashOnHand": 364795.82,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 1334441.2,
+            "totalDisbursments": 1050711.14,
+            "cashOnHand": 377672.43,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -2134,10 +2158,21 @@
             "party": "D",
             "candidateId": "H2MT02092",
             "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
-            "totalReceipts": 675152.88,
-            "totalDisbursments": 408992.4,
-            "cashOnHand": 266160.48,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 882230.86,
+            "totalDisbursments": 784041.8,
+            "cashOnHand": 98189.06,
+            "coverageEndDate": "2022-05-18T00:00:00"
+          },
+          {
+            "isThisCandidate": false,
+            "displayName": "Al Olszewski",
+            "party": "R",
+            "candidateId": "H2MT02084",
+            "candidateCommitteeName": "AL FOR MONTANA",
+            "totalReceipts": 709784.68,
+            "totalDisbursments": 533111.36,
+            "cashOnHand": 176673.32,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -2145,10 +2180,10 @@
             "party": "R",
             "candidateId": "H2MT00112",
             "candidateCommitteeName": "MARY TODD FOR MONTANA",
-            "totalReceipts": 167779.17,
-            "totalDisbursments": 60767.2,
-            "cashOnHand": 107011.97,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 448284.17,
+            "totalDisbursments": 396985.74,
+            "cashOnHand": 51298.43,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -2156,10 +2191,10 @@
             "party": "D",
             "candidateId": "H0MT00090",
             "candidateCommitteeName": "WINTER FOR MONTANA",
-            "totalReceipts": 94918.19,
-            "totalDisbursments": 78882.81,
-            "cashOnHand": 16035.38,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 98545.2,
+            "totalDisbursments": 92343.29,
+            "cashOnHand": 6201.91,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -2374,6 +2409,11 @@
         ],
         "articles": [
           {
+            "title": "Who holds the keys to Montana’s Western congressional seat?",
+            "date": "2022-05-19T15:40:04",
+            "link": "https://montanafreepress.org/2022/05/19/how-will-voters-define-montanas-western-congressional-district/"
+          },
+          {
             "title": "Congressional races up and running",
             "date": "2022-03-14T18:50:03",
             "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/"
@@ -2468,10 +2508,10 @@
             "party": "R",
             "candidateId": "H4MT01041",
             "candidateCommitteeName": "ZINKE FOR CONGRESS",
-            "totalReceipts": 2484819.24,
-            "totalDisbursments": 1272320.57,
-            "cashOnHand": 1212498.67,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 2947291.52,
+            "totalDisbursments": 2068614.47,
+            "cashOnHand": 878677.05,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -2479,21 +2519,10 @@
             "party": "D",
             "candidateId": "H2MT02100",
             "candidateCommitteeName": "CORA FOR MONTANA",
-            "totalReceipts": 1172109.15,
-            "totalDisbursments": 388093.28,
-            "cashOnHand": 877958.24,
-            "coverageEndDate": "2022-03-31T00:00:00"
-          },
-          {
-            "isThisCandidate": false,
-            "displayName": "Al Olszewski",
-            "party": "R",
-            "candidateId": "H2MT02084",
-            "candidateCommitteeName": "AL FOR MONTANA",
-            "totalReceipts": 678063.92,
-            "totalDisbursments": 313268.1,
-            "cashOnHand": 364795.82,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 1334441.2,
+            "totalDisbursments": 1050711.14,
+            "cashOnHand": 377672.43,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -2501,10 +2530,21 @@
             "party": "D",
             "candidateId": "H2MT02092",
             "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
-            "totalReceipts": 675152.88,
-            "totalDisbursments": 408992.4,
-            "cashOnHand": 266160.48,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 882230.86,
+            "totalDisbursments": 784041.8,
+            "cashOnHand": 98189.06,
+            "coverageEndDate": "2022-05-18T00:00:00"
+          },
+          {
+            "isThisCandidate": false,
+            "displayName": "Al Olszewski",
+            "party": "R",
+            "candidateId": "H2MT02084",
+            "candidateCommitteeName": "AL FOR MONTANA",
+            "totalReceipts": 709784.68,
+            "totalDisbursments": 533111.36,
+            "cashOnHand": 176673.32,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": true,
@@ -2512,10 +2552,10 @@
             "party": "R",
             "candidateId": "H2MT00112",
             "candidateCommitteeName": "MARY TODD FOR MONTANA",
-            "totalReceipts": 167779.17,
-            "totalDisbursments": 60767.2,
-            "cashOnHand": 107011.97,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 448284.17,
+            "totalDisbursments": 396985.74,
+            "cashOnHand": 51298.43,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -2523,10 +2563,10 @@
             "party": "D",
             "candidateId": "H0MT00090",
             "candidateCommitteeName": "WINTER FOR MONTANA",
-            "totalReceipts": 94918.19,
-            "totalDisbursments": 78882.81,
-            "cashOnHand": 16035.38,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 98545.2,
+            "totalDisbursments": 92343.29,
+            "cashOnHand": 6201.91,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -2564,6 +2604,11 @@
         ],
         "issueAnswers": null,
         "articles": [
+          {
+            "title": "Who holds the keys to Montana’s Western congressional seat?",
+            "date": "2022-05-19T15:40:04",
+            "link": "https://montanafreepress.org/2022/05/19/how-will-voters-define-montanas-western-congressional-district/"
+          },
           {
             "title": "Congressional races up and running",
             "date": "2022-03-14T18:50:03",
@@ -2669,10 +2714,10 @@
             "party": "R",
             "candidateId": "H4MT00050",
             "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
-            "totalReceipts": 1368829.3,
-            "totalDisbursments": 595522.1,
-            "cashOnHand": 1036146.24,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 1601902.31,
+            "totalDisbursments": 727497.34,
+            "cashOnHand": 1137244.01,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -2680,10 +2725,10 @@
             "party": "D",
             "candidateId": "H2MT02159",
             "candidateCommitteeName": "SWEENEY FOR MONTANA",
-            "totalReceipts": 82448,
+            "totalReceipts": 95968,
             "totalDisbursments": 27334.12,
-            "cashOnHand": 55113.88,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "cashOnHand": 68633.88,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -2691,10 +2736,10 @@
             "party": "I",
             "candidateId": "H2MT02167",
             "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
-            "totalReceipts": 40573,
-            "totalDisbursments": 2838.66,
-            "cashOnHand": 37734.34,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 86323,
+            "totalDisbursments": 34894.51,
+            "cashOnHand": 51428.49,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -2702,10 +2747,10 @@
             "party": "D",
             "candidateId": "H2MT02134",
             "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
-            "totalReceipts": 39021.45,
-            "totalDisbursments": 27211.84,
-            "cashOnHand": 11809.61,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 47320.45,
+            "totalDisbursments": 42660.73,
+            "cashOnHand": 4659.72,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -2713,10 +2758,10 @@
             "party": "D",
             "candidateId": "H2MT02118",
             "candidateCommitteeName": "SKYLARFORUSCONGRESS",
-            "totalReceipts": 3213.51,
-            "totalDisbursments": 3054.42,
-            "cashOnHand": 159.09,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 4085.17,
+            "totalDisbursments": 4037.04,
+            "cashOnHand": 48.13,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -2725,9 +2770,9 @@
             "candidateId": "H2MT02142",
             "candidateCommitteeName": "JAMES BOYETTE",
             "totalReceipts": 2250,
-            "totalDisbursments": 4468.07,
-            "cashOnHand": -2218.07,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalDisbursments": 5535.07,
+            "cashOnHand": -3221.07,
+            "coverageEndDate": "2022-05-25T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -2888,6 +2933,11 @@
         ],
         "articles": [
           {
+            "title": "In Eastern district U.S. House race, it’s Rosendale versus the idealists",
+            "date": "2022-05-24T14:10:31",
+            "link": "https://montanafreepress.org/2022/05/24/matt-rosendale-challengers-montana-eastern-us-house/"
+          },
+          {
             "title": "Bipartisan old guard lines up behind independent U.S. House candidate",
             "date": "2022-04-08T16:41:14",
             "link": "https://montanafreepress.org/2022/04/08/bipartisan-old-guard-backs-gary-buchanan-us-house/"
@@ -2979,7 +3029,7 @@
       {
         "Name": "Kyle Austin",
         "SummaryLine": "Billings pharmacist",
-        "LongSummary": "Austin, 29, describes himself as a pharmacist, farmer and pilot. He was raised near Havre and holds a pharmacy degree from the University of Montana. He lives in Billings, where he operates a retail pharmacy and a mobile vaccine clinic.\n\nHe says he is running because he believes current elected leaders have failed the state, citing challenges around health care, agriculture and population growth.\n\nThis biography is based on information provided by Austin and materials available on his campaign website, verified against news reports about [his work as a traveling pharmacist](https://montanafreepress.org/2021/08/17/traveling-covid-vaccines-virginia-city-montana/) during the COVID-19 pandemic.\n",
+        "LongSummary": "Austin, 39, describes himself as a pharmacist, farmer and pilot. He was raised near Havre and holds a pharmacy degree from the University of Montana. He lives in Billings, where he operates a retail pharmacy and a mobile vaccine clinic.\n\nHe says he is running because he believes current elected leaders have failed the state, citing challenges around health care, agriculture and population growth.\n\nThis biography is based on information provided by Austin and materials available on his campaign website, verified against news reports about [his work as a traveling pharmacist](https://montanafreepress.org/2021/08/17/traveling-covid-vaccines-virginia-city-montana/) during the COVID-19 pandemic.\n",
         "Race": "US-House-2-East",
         "CampaignWebsiteUrl": "https://pharm406.com/congress/",
         "CampaignFBPageUrl": null,
@@ -2987,7 +3037,7 @@
         "CampaignInstagramUrl": null,
         "MtfpCoverageTag": null,
         "createdAt": "2022-04-19T19:10:46.697Z",
-        "updatedAt": "2022-05-10T18:27:12.226Z",
+        "updatedAt": "2022-05-20T16:07:38.135Z",
         "Party": "R",
         "CampaignYoutubeUrl": null,
         "isIncumbent": false,
@@ -3001,10 +3051,10 @@
             "party": "R",
             "candidateId": "H4MT00050",
             "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
-            "totalReceipts": 1368829.3,
-            "totalDisbursments": 595522.1,
-            "cashOnHand": 1036146.24,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 1601902.31,
+            "totalDisbursments": 727497.34,
+            "cashOnHand": 1137244.01,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -3012,10 +3062,10 @@
             "party": "D",
             "candidateId": "H2MT02159",
             "candidateCommitteeName": "SWEENEY FOR MONTANA",
-            "totalReceipts": 82448,
+            "totalReceipts": 95968,
             "totalDisbursments": 27334.12,
-            "cashOnHand": 55113.88,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "cashOnHand": 68633.88,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -3023,10 +3073,10 @@
             "party": "I",
             "candidateId": "H2MT02167",
             "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
-            "totalReceipts": 40573,
-            "totalDisbursments": 2838.66,
-            "cashOnHand": 37734.34,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 86323,
+            "totalDisbursments": 34894.51,
+            "cashOnHand": 51428.49,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -3034,10 +3084,10 @@
             "party": "D",
             "candidateId": "H2MT02134",
             "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
-            "totalReceipts": 39021.45,
-            "totalDisbursments": 27211.84,
-            "cashOnHand": 11809.61,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 47320.45,
+            "totalDisbursments": 42660.73,
+            "cashOnHand": 4659.72,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -3045,10 +3095,10 @@
             "party": "D",
             "candidateId": "H2MT02118",
             "candidateCommitteeName": "SKYLARFORUSCONGRESS",
-            "totalReceipts": 3213.51,
-            "totalDisbursments": 3054.42,
-            "cashOnHand": 159.09,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 4085.17,
+            "totalDisbursments": 4037.04,
+            "cashOnHand": 48.13,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -3057,9 +3107,9 @@
             "candidateId": "H2MT02142",
             "candidateCommitteeName": "JAMES BOYETTE",
             "totalReceipts": 2250,
-            "totalDisbursments": 4468.07,
-            "cashOnHand": -2218.07,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalDisbursments": 5535.07,
+            "cashOnHand": -3221.07,
+            "coverageEndDate": "2022-05-25T00:00:00"
           },
           {
             "isThisCandidate": true,
@@ -3220,6 +3270,11 @@
         ],
         "articles": [
           {
+            "title": "In Eastern district U.S. House race, it’s Rosendale versus the idealists",
+            "date": "2022-05-24T14:10:31",
+            "link": "https://montanafreepress.org/2022/05/24/matt-rosendale-challengers-montana-eastern-us-house/"
+          },
+          {
             "title": "Congressional races up and running",
             "date": "2022-03-14T18:50:03",
             "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/"
@@ -3328,10 +3383,10 @@
             "party": "R",
             "candidateId": "H4MT00050",
             "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
-            "totalReceipts": 1368829.3,
-            "totalDisbursments": 595522.1,
-            "cashOnHand": 1036146.24,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 1601902.31,
+            "totalDisbursments": 727497.34,
+            "cashOnHand": 1137244.01,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -3339,10 +3394,10 @@
             "party": "D",
             "candidateId": "H2MT02159",
             "candidateCommitteeName": "SWEENEY FOR MONTANA",
-            "totalReceipts": 82448,
+            "totalReceipts": 95968,
             "totalDisbursments": 27334.12,
-            "cashOnHand": 55113.88,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "cashOnHand": 68633.88,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -3350,10 +3405,10 @@
             "party": "I",
             "candidateId": "H2MT02167",
             "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
-            "totalReceipts": 40573,
-            "totalDisbursments": 2838.66,
-            "cashOnHand": 37734.34,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 86323,
+            "totalDisbursments": 34894.51,
+            "cashOnHand": 51428.49,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -3361,10 +3416,10 @@
             "party": "D",
             "candidateId": "H2MT02134",
             "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
-            "totalReceipts": 39021.45,
-            "totalDisbursments": 27211.84,
-            "cashOnHand": 11809.61,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 47320.45,
+            "totalDisbursments": 42660.73,
+            "cashOnHand": 4659.72,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -3372,10 +3427,10 @@
             "party": "D",
             "candidateId": "H2MT02118",
             "candidateCommitteeName": "SKYLARFORUSCONGRESS",
-            "totalReceipts": 3213.51,
-            "totalDisbursments": 3054.42,
-            "cashOnHand": 159.09,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 4085.17,
+            "totalDisbursments": 4037.04,
+            "cashOnHand": 48.13,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": true,
@@ -3384,9 +3439,9 @@
             "candidateId": "H2MT02142",
             "candidateCommitteeName": "JAMES BOYETTE",
             "totalReceipts": 2250,
-            "totalDisbursments": 4468.07,
-            "cashOnHand": -2218.07,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalDisbursments": 5535.07,
+            "cashOnHand": -3221.07,
+            "coverageEndDate": "2022-05-25T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -3651,6 +3706,11 @@
         ],
         "articles": [
           {
+            "title": "In Eastern district U.S. House race, it’s Rosendale versus the idealists",
+            "date": "2022-05-24T14:10:31",
+            "link": "https://montanafreepress.org/2022/05/24/matt-rosendale-challengers-montana-eastern-us-house/"
+          },
+          {
             "title": "Congressional races up and running",
             "date": "2022-03-14T18:50:03",
             "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/"
@@ -3759,10 +3819,10 @@
             "party": "R",
             "candidateId": "H4MT00050",
             "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
-            "totalReceipts": 1368829.3,
-            "totalDisbursments": 595522.1,
-            "cashOnHand": 1036146.24,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 1601902.31,
+            "totalDisbursments": 727497.34,
+            "cashOnHand": 1137244.01,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -3770,10 +3830,10 @@
             "party": "D",
             "candidateId": "H2MT02159",
             "candidateCommitteeName": "SWEENEY FOR MONTANA",
-            "totalReceipts": 82448,
+            "totalReceipts": 95968,
             "totalDisbursments": 27334.12,
-            "cashOnHand": 55113.88,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "cashOnHand": 68633.88,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": true,
@@ -3781,10 +3841,10 @@
             "party": "I",
             "candidateId": "H2MT02167",
             "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
-            "totalReceipts": 40573,
-            "totalDisbursments": 2838.66,
-            "cashOnHand": 37734.34,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 86323,
+            "totalDisbursments": 34894.51,
+            "cashOnHand": 51428.49,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -3792,10 +3852,10 @@
             "party": "D",
             "candidateId": "H2MT02134",
             "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
-            "totalReceipts": 39021.45,
-            "totalDisbursments": 27211.84,
-            "cashOnHand": 11809.61,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 47320.45,
+            "totalDisbursments": 42660.73,
+            "cashOnHand": 4659.72,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -3803,10 +3863,10 @@
             "party": "D",
             "candidateId": "H2MT02118",
             "candidateCommitteeName": "SKYLARFORUSCONGRESS",
-            "totalReceipts": 3213.51,
-            "totalDisbursments": 3054.42,
-            "cashOnHand": 159.09,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 4085.17,
+            "totalDisbursments": 4037.04,
+            "cashOnHand": 48.13,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -3815,9 +3875,9 @@
             "candidateId": "H2MT02142",
             "candidateCommitteeName": "JAMES BOYETTE",
             "totalReceipts": 2250,
-            "totalDisbursments": 4468.07,
-            "cashOnHand": -2218.07,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalDisbursments": 5535.07,
+            "cashOnHand": -3221.07,
+            "coverageEndDate": "2022-05-25T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -3978,6 +4038,11 @@
         ],
         "articles": [
           {
+            "title": "In Eastern district U.S. House race, it’s Rosendale versus the idealists",
+            "date": "2022-05-24T14:10:31",
+            "link": "https://montanafreepress.org/2022/05/24/matt-rosendale-challengers-montana-eastern-us-house/"
+          },
+          {
             "title": "Bipartisan old guard lines up behind independent U.S. House candidate",
             "date": "2022-04-08T16:41:14",
             "link": "https://montanafreepress.org/2022/04/08/bipartisan-old-guard-backs-gary-buchanan-us-house/"
@@ -4091,10 +4156,10 @@
             "party": "R",
             "candidateId": "H4MT00050",
             "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
-            "totalReceipts": 1368829.3,
-            "totalDisbursments": 595522.1,
-            "cashOnHand": 1036146.24,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 1601902.31,
+            "totalDisbursments": 727497.34,
+            "cashOnHand": 1137244.01,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -4102,10 +4167,10 @@
             "party": "D",
             "candidateId": "H2MT02159",
             "candidateCommitteeName": "SWEENEY FOR MONTANA",
-            "totalReceipts": 82448,
+            "totalReceipts": 95968,
             "totalDisbursments": 27334.12,
-            "cashOnHand": 55113.88,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "cashOnHand": 68633.88,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -4113,10 +4178,10 @@
             "party": "I",
             "candidateId": "H2MT02167",
             "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
-            "totalReceipts": 40573,
-            "totalDisbursments": 2838.66,
-            "cashOnHand": 37734.34,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 86323,
+            "totalDisbursments": 34894.51,
+            "cashOnHand": 51428.49,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -4124,10 +4189,10 @@
             "party": "D",
             "candidateId": "H2MT02134",
             "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
-            "totalReceipts": 39021.45,
-            "totalDisbursments": 27211.84,
-            "cashOnHand": 11809.61,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 47320.45,
+            "totalDisbursments": 42660.73,
+            "cashOnHand": 4659.72,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -4135,10 +4200,10 @@
             "party": "D",
             "candidateId": "H2MT02118",
             "candidateCommitteeName": "SKYLARFORUSCONGRESS",
-            "totalReceipts": 3213.51,
-            "totalDisbursments": 3054.42,
-            "cashOnHand": 159.09,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 4085.17,
+            "totalDisbursments": 4037.04,
+            "cashOnHand": 48.13,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -4147,9 +4212,9 @@
             "candidateId": "H2MT02142",
             "candidateCommitteeName": "JAMES BOYETTE",
             "totalReceipts": 2250,
-            "totalDisbursments": 4468.07,
-            "cashOnHand": -2218.07,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalDisbursments": 5535.07,
+            "cashOnHand": -3221.07,
+            "coverageEndDate": "2022-05-25T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -4314,6 +4379,11 @@
         ],
         "articles": [
           {
+            "title": "In Eastern district U.S. House race, it’s Rosendale versus the idealists",
+            "date": "2022-05-24T14:10:31",
+            "link": "https://montanafreepress.org/2022/05/24/matt-rosendale-challengers-montana-eastern-us-house/"
+          },
+          {
             "title": "Congressional races up and running",
             "date": "2022-03-14T18:50:03",
             "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/"
@@ -4400,7 +4470,7 @@
       {
         "Name": "Penny Ronning",
         "SummaryLine": "Former Billings Councilwoman",
-        "LongSummary": "Ronning, 41, served on the Billings City Council from 2018 to 2021. She says she has worked as a business owner, photographer and filmmaker, and co-founded the Yellowstone County Area Human Trafficking Task Force. According to her LinkedIn resume, she helped found the Hatchfest Audio Visual Arts Festival in Bozeman and served as president of the Livingston Downtown Association.\n\nShe said at a May 8 candidate forum that she decided to run for the U.S. House after attending a portion of former president Donald Trump’s first impeachment trial in 2020 and being disappointed that some U.S. senators, who served as jurors in the trial, weren’t present for the proceedings.\n\nThis biography is based on material provided by Ronning and information on her website and social media accounts, verified where possible against public records and archival newspaper accounts.",
+        "LongSummary": "Ronning, 59, served on the Billings City Council from 2018 to 2021. She says she has worked as a business owner, photographer and filmmaker, and co-founded the Yellowstone County Area Human Trafficking Task Force. According to her LinkedIn resume, she helped found the Hatchfest Audio Visual Arts Festival in Bozeman and served as president of the Livingston Downtown Association.\n\nShe said at a May 8 candidate forum that she decided to run for the U.S. House after attending a portion of former president Donald Trump’s first impeachment trial in 2020 and being disappointed that some U.S. senators, who served as jurors in the trial, weren’t present for the proceedings.\n\nThis biography is based on material provided by Ronning and information on her website and social media accounts, verified where possible against public records and archival newspaper accounts.",
         "Race": "US-House-2-East",
         "CampaignWebsiteUrl": "https://www.pennyronning.com/",
         "CampaignFBPageUrl": "https://www.facebook.com/Penny4Congress",
@@ -4408,7 +4478,7 @@
         "CampaignInstagramUrl": null,
         "MtfpCoverageTag": null,
         "createdAt": "2022-04-19T19:12:16.334Z",
-        "updatedAt": "2022-05-10T18:28:23.285Z",
+        "updatedAt": "2022-05-13T15:16:05.188Z",
         "Party": "D",
         "CampaignYoutubeUrl": null,
         "isIncumbent": false,
@@ -4422,10 +4492,10 @@
             "party": "R",
             "candidateId": "H4MT00050",
             "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
-            "totalReceipts": 1368829.3,
-            "totalDisbursments": 595522.1,
-            "cashOnHand": 1036146.24,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 1601902.31,
+            "totalDisbursments": 727497.34,
+            "cashOnHand": 1137244.01,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -4433,10 +4503,10 @@
             "party": "D",
             "candidateId": "H2MT02159",
             "candidateCommitteeName": "SWEENEY FOR MONTANA",
-            "totalReceipts": 82448,
+            "totalReceipts": 95968,
             "totalDisbursments": 27334.12,
-            "cashOnHand": 55113.88,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "cashOnHand": 68633.88,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -4444,10 +4514,10 @@
             "party": "I",
             "candidateId": "H2MT02167",
             "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
-            "totalReceipts": 40573,
-            "totalDisbursments": 2838.66,
-            "cashOnHand": 37734.34,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 86323,
+            "totalDisbursments": 34894.51,
+            "cashOnHand": 51428.49,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": true,
@@ -4455,10 +4525,10 @@
             "party": "D",
             "candidateId": "H2MT02134",
             "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
-            "totalReceipts": 39021.45,
-            "totalDisbursments": 27211.84,
-            "cashOnHand": 11809.61,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 47320.45,
+            "totalDisbursments": 42660.73,
+            "cashOnHand": 4659.72,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -4466,10 +4536,10 @@
             "party": "D",
             "candidateId": "H2MT02118",
             "candidateCommitteeName": "SKYLARFORUSCONGRESS",
-            "totalReceipts": 3213.51,
-            "totalDisbursments": 3054.42,
-            "cashOnHand": 159.09,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 4085.17,
+            "totalDisbursments": 4037.04,
+            "cashOnHand": 48.13,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -4478,9 +4548,9 @@
             "candidateId": "H2MT02142",
             "candidateCommitteeName": "JAMES BOYETTE",
             "totalReceipts": 2250,
-            "totalDisbursments": 4468.07,
-            "cashOnHand": -2218.07,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalDisbursments": 5535.07,
+            "cashOnHand": -3221.07,
+            "coverageEndDate": "2022-05-25T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -4641,6 +4711,11 @@
         ],
         "articles": [
           {
+            "title": "In Eastern district U.S. House race, it’s Rosendale versus the idealists",
+            "date": "2022-05-24T14:10:31",
+            "link": "https://montanafreepress.org/2022/05/24/matt-rosendale-challengers-montana-eastern-us-house/"
+          },
+          {
             "title": "Congressional races up and running",
             "date": "2022-03-14T18:50:03",
             "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/"
@@ -4749,10 +4824,10 @@
             "party": "R",
             "candidateId": "H4MT00050",
             "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
-            "totalReceipts": 1368829.3,
-            "totalDisbursments": 595522.1,
-            "cashOnHand": 1036146.24,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 1601902.31,
+            "totalDisbursments": 727497.34,
+            "cashOnHand": 1137244.01,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -4760,10 +4835,10 @@
             "party": "D",
             "candidateId": "H2MT02159",
             "candidateCommitteeName": "SWEENEY FOR MONTANA",
-            "totalReceipts": 82448,
+            "totalReceipts": 95968,
             "totalDisbursments": 27334.12,
-            "cashOnHand": 55113.88,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "cashOnHand": 68633.88,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -4771,10 +4846,10 @@
             "party": "I",
             "candidateId": "H2MT02167",
             "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
-            "totalReceipts": 40573,
-            "totalDisbursments": 2838.66,
-            "cashOnHand": 37734.34,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 86323,
+            "totalDisbursments": 34894.51,
+            "cashOnHand": 51428.49,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -4782,10 +4857,10 @@
             "party": "D",
             "candidateId": "H2MT02134",
             "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
-            "totalReceipts": 39021.45,
-            "totalDisbursments": 27211.84,
-            "cashOnHand": 11809.61,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 47320.45,
+            "totalDisbursments": 42660.73,
+            "cashOnHand": 4659.72,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -4793,10 +4868,10 @@
             "party": "D",
             "candidateId": "H2MT02118",
             "candidateCommitteeName": "SKYLARFORUSCONGRESS",
-            "totalReceipts": 3213.51,
-            "totalDisbursments": 3054.42,
-            "cashOnHand": 159.09,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 4085.17,
+            "totalDisbursments": 4037.04,
+            "cashOnHand": 48.13,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -4805,9 +4880,9 @@
             "candidateId": "H2MT02142",
             "candidateCommitteeName": "JAMES BOYETTE",
             "totalReceipts": 2250,
-            "totalDisbursments": 4468.07,
-            "cashOnHand": -2218.07,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalDisbursments": 5535.07,
+            "cashOnHand": -3221.07,
+            "coverageEndDate": "2022-05-25T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -4867,6 +4942,11 @@
         ],
         "issueAnswers": null,
         "articles": [
+          {
+            "title": "In Eastern district U.S. House race, it’s Rosendale versus the idealists",
+            "date": "2022-05-24T14:10:31",
+            "link": "https://montanafreepress.org/2022/05/24/matt-rosendale-challengers-montana-eastern-us-house/"
+          },
           {
             "title": "Congressional races up and running",
             "date": "2022-03-14T18:50:03",
@@ -4954,7 +5034,7 @@
       {
         "Name": "Mark Sweeney",
         "SummaryLine": "(Deceased) State senator from Philipsburg",
-        "LongSummary": "Sweeney, 62, [died unexpectedly May 6](https://montanafreepress.org/2022/05/09/montana-us-house-candidate-sweeney-on-ballot-despite-death/), after primary ballots had been finalized. If he wins the Democratic primary posthumously, state law and party rules require the Montana Democratic Party to hold a nominating convention to select a new general election candidate.\n\nSweeney had served in the Montana Legislature since 2019 and had previously been an Anaconda-Deer Lodge county commissioner. He had said he was running this year to give Montana voters an alternative to incumbent Rep. Matt Rosendale.\n\nThis biography is based on public records and MTFP coverage following Sweeney’s death.\n",
+        "LongSummary": "Sweeney, 62, [died unexpectedly May 6](https://montanafreepress.org/2022/05/09/montana-us-house-candidate-sweeney-on-ballot-despite-death/), after primary ballots had been finalized. If he wins the Democratic primary posthumously, state law and party rules require the Montana Democratic Party to hold a nominating convention to select a new general election candidate.\n\nSweeney had served in the Montana Legislature since 2019 and had previously been an Anaconda-Deer Lodge county commissioner. He had said he was running this year to give Montana voters an alternative to incumbent Rep. Matt Rosendale.\n\nThis biography is based on public records and MTFP coverage following Sweeney’s death. Sweeney is unpictured here at the request of his family.\n",
         "Race": "US-House-2-East",
         "CampaignWebsiteUrl": "",
         "CampaignFBPageUrl": "",
@@ -4962,7 +5042,7 @@
         "CampaignInstagramUrl": "",
         "MtfpCoverageTag": null,
         "createdAt": "2022-04-19T19:12:44.107Z",
-        "updatedAt": "2022-05-10T18:30:08.089Z",
+        "updatedAt": "2022-05-11T22:19:08.346Z",
         "Party": "D",
         "CampaignYoutubeUrl": null,
         "isIncumbent": false,
@@ -4976,10 +5056,10 @@
             "party": "R",
             "candidateId": "H4MT00050",
             "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
-            "totalReceipts": 1368829.3,
-            "totalDisbursments": 595522.1,
-            "cashOnHand": 1036146.24,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 1601902.31,
+            "totalDisbursments": 727497.34,
+            "cashOnHand": 1137244.01,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": true,
@@ -4987,10 +5067,10 @@
             "party": "D",
             "candidateId": "H2MT02159",
             "candidateCommitteeName": "SWEENEY FOR MONTANA",
-            "totalReceipts": 82448,
+            "totalReceipts": 95968,
             "totalDisbursments": 27334.12,
-            "cashOnHand": 55113.88,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "cashOnHand": 68633.88,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -4998,10 +5078,10 @@
             "party": "I",
             "candidateId": "H2MT02167",
             "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
-            "totalReceipts": 40573,
-            "totalDisbursments": 2838.66,
-            "cashOnHand": 37734.34,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 86323,
+            "totalDisbursments": 34894.51,
+            "cashOnHand": 51428.49,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -5009,10 +5089,10 @@
             "party": "D",
             "candidateId": "H2MT02134",
             "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
-            "totalReceipts": 39021.45,
-            "totalDisbursments": 27211.84,
-            "cashOnHand": 11809.61,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 47320.45,
+            "totalDisbursments": 42660.73,
+            "cashOnHand": 4659.72,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -5020,10 +5100,10 @@
             "party": "D",
             "candidateId": "H2MT02118",
             "candidateCommitteeName": "SKYLARFORUSCONGRESS",
-            "totalReceipts": 3213.51,
-            "totalDisbursments": 3054.42,
-            "cashOnHand": 159.09,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 4085.17,
+            "totalDisbursments": 4037.04,
+            "cashOnHand": 48.13,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -5032,9 +5112,9 @@
             "candidateId": "H2MT02142",
             "candidateCommitteeName": "JAMES BOYETTE",
             "totalReceipts": 2250,
-            "totalDisbursments": 4468.07,
-            "cashOnHand": -2218.07,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalDisbursments": 5535.07,
+            "cashOnHand": -3221.07,
+            "coverageEndDate": "2022-05-25T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -5255,6 +5335,11 @@
         ],
         "articles": [
           {
+            "title": "U.S. House candidate Sweeney will remain on ballot despite recent death",
+            "date": "2022-05-09T15:37:27",
+            "link": "https://montanafreepress.org/2022/05/09/montana-us-house-candidate-sweeney-on-ballot-despite-death/"
+          },
+          {
             "title": "Congressional races up and running",
             "date": "2022-03-14T18:50:03",
             "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/"
@@ -5363,10 +5448,10 @@
             "party": "R",
             "candidateId": "H4MT00050",
             "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
-            "totalReceipts": 1368829.3,
-            "totalDisbursments": 595522.1,
-            "cashOnHand": 1036146.24,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 1601902.31,
+            "totalDisbursments": 727497.34,
+            "cashOnHand": 1137244.01,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -5374,10 +5459,10 @@
             "party": "D",
             "candidateId": "H2MT02159",
             "candidateCommitteeName": "SWEENEY FOR MONTANA",
-            "totalReceipts": 82448,
+            "totalReceipts": 95968,
             "totalDisbursments": 27334.12,
-            "cashOnHand": 55113.88,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "cashOnHand": 68633.88,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -5385,10 +5470,10 @@
             "party": "I",
             "candidateId": "H2MT02167",
             "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
-            "totalReceipts": 40573,
-            "totalDisbursments": 2838.66,
-            "cashOnHand": 37734.34,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 86323,
+            "totalDisbursments": 34894.51,
+            "cashOnHand": 51428.49,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -5396,10 +5481,10 @@
             "party": "D",
             "candidateId": "H2MT02134",
             "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
-            "totalReceipts": 39021.45,
-            "totalDisbursments": 27211.84,
-            "cashOnHand": 11809.61,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 47320.45,
+            "totalDisbursments": 42660.73,
+            "cashOnHand": 4659.72,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -5407,10 +5492,10 @@
             "party": "D",
             "candidateId": "H2MT02118",
             "candidateCommitteeName": "SKYLARFORUSCONGRESS",
-            "totalReceipts": 3213.51,
-            "totalDisbursments": 3054.42,
-            "cashOnHand": 159.09,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 4085.17,
+            "totalDisbursments": 4037.04,
+            "cashOnHand": 48.13,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -5419,9 +5504,9 @@
             "candidateId": "H2MT02142",
             "candidateCommitteeName": "JAMES BOYETTE",
             "totalReceipts": 2250,
-            "totalDisbursments": 4468.07,
-            "cashOnHand": -2218.07,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalDisbursments": 5535.07,
+            "cashOnHand": -3221.07,
+            "coverageEndDate": "2022-05-25T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -5582,6 +5667,11 @@
         ],
         "articles": [
           {
+            "title": "In Eastern district U.S. House race, it’s Rosendale versus the idealists",
+            "date": "2022-05-24T14:10:31",
+            "link": "https://montanafreepress.org/2022/05/24/matt-rosendale-challengers-montana-eastern-us-house/"
+          },
+          {
             "title": "Congressional races up and running",
             "date": "2022-03-14T18:50:03",
             "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/"
@@ -5690,10 +5780,10 @@
             "party": "R",
             "candidateId": "H4MT00050",
             "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
-            "totalReceipts": 1368829.3,
-            "totalDisbursments": 595522.1,
-            "cashOnHand": 1036146.24,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 1601902.31,
+            "totalDisbursments": 727497.34,
+            "cashOnHand": 1137244.01,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -5701,10 +5791,10 @@
             "party": "D",
             "candidateId": "H2MT02159",
             "candidateCommitteeName": "SWEENEY FOR MONTANA",
-            "totalReceipts": 82448,
+            "totalReceipts": 95968,
             "totalDisbursments": 27334.12,
-            "cashOnHand": 55113.88,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "cashOnHand": 68633.88,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -5712,10 +5802,10 @@
             "party": "I",
             "candidateId": "H2MT02167",
             "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
-            "totalReceipts": 40573,
-            "totalDisbursments": 2838.66,
-            "cashOnHand": 37734.34,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 86323,
+            "totalDisbursments": 34894.51,
+            "cashOnHand": 51428.49,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -5723,10 +5813,10 @@
             "party": "D",
             "candidateId": "H2MT02134",
             "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
-            "totalReceipts": 39021.45,
-            "totalDisbursments": 27211.84,
-            "cashOnHand": 11809.61,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 47320.45,
+            "totalDisbursments": 42660.73,
+            "cashOnHand": 4659.72,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -5734,10 +5824,10 @@
             "party": "D",
             "candidateId": "H2MT02118",
             "candidateCommitteeName": "SKYLARFORUSCONGRESS",
-            "totalReceipts": 3213.51,
-            "totalDisbursments": 3054.42,
-            "cashOnHand": 159.09,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 4085.17,
+            "totalDisbursments": 4037.04,
+            "cashOnHand": 48.13,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -5746,9 +5836,9 @@
             "candidateId": "H2MT02142",
             "candidateCommitteeName": "JAMES BOYETTE",
             "totalReceipts": 2250,
-            "totalDisbursments": 4468.07,
-            "cashOnHand": -2218.07,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalDisbursments": 5535.07,
+            "cashOnHand": -3221.07,
+            "coverageEndDate": "2022-05-25T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -5808,6 +5898,11 @@
         ],
         "issueAnswers": null,
         "articles": [
+          {
+            "title": "In Eastern district U.S. House race, it’s Rosendale versus the idealists",
+            "date": "2022-05-24T14:10:31",
+            "link": "https://montanafreepress.org/2022/05/24/matt-rosendale-challengers-montana-eastern-us-house/"
+          },
           {
             "title": "Congressional races up and running",
             "date": "2022-03-14T18:50:03",
@@ -5917,10 +6012,10 @@
             "party": "R",
             "candidateId": "H4MT00050",
             "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
-            "totalReceipts": 1368829.3,
-            "totalDisbursments": 595522.1,
-            "cashOnHand": 1036146.24,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 1601902.31,
+            "totalDisbursments": 727497.34,
+            "cashOnHand": 1137244.01,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -5928,10 +6023,10 @@
             "party": "D",
             "candidateId": "H2MT02159",
             "candidateCommitteeName": "SWEENEY FOR MONTANA",
-            "totalReceipts": 82448,
+            "totalReceipts": 95968,
             "totalDisbursments": 27334.12,
-            "cashOnHand": 55113.88,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "cashOnHand": 68633.88,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -5939,10 +6034,10 @@
             "party": "I",
             "candidateId": "H2MT02167",
             "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
-            "totalReceipts": 40573,
-            "totalDisbursments": 2838.66,
-            "cashOnHand": 37734.34,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 86323,
+            "totalDisbursments": 34894.51,
+            "cashOnHand": 51428.49,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -5950,10 +6045,10 @@
             "party": "D",
             "candidateId": "H2MT02134",
             "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
-            "totalReceipts": 39021.45,
-            "totalDisbursments": 27211.84,
-            "cashOnHand": 11809.61,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 47320.45,
+            "totalDisbursments": 42660.73,
+            "cashOnHand": 4659.72,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": true,
@@ -5961,10 +6056,10 @@
             "party": "D",
             "candidateId": "H2MT02118",
             "candidateCommitteeName": "SKYLARFORUSCONGRESS",
-            "totalReceipts": 3213.51,
-            "totalDisbursments": 3054.42,
-            "cashOnHand": 159.09,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalReceipts": 4085.17,
+            "totalDisbursments": 4037.04,
+            "cashOnHand": 48.13,
+            "coverageEndDate": "2022-05-18T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -5973,9 +6068,9 @@
             "candidateId": "H2MT02142",
             "candidateCommitteeName": "JAMES BOYETTE",
             "totalReceipts": 2250,
-            "totalDisbursments": 4468.07,
-            "cashOnHand": -2218.07,
-            "coverageEndDate": "2022-03-31T00:00:00"
+            "totalDisbursments": 5535.07,
+            "cashOnHand": -3221.07,
+            "coverageEndDate": "2022-05-25T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -6136,6 +6231,11 @@
         ],
         "articles": [
           {
+            "title": "In Eastern district U.S. House race, it’s Rosendale versus the idealists",
+            "date": "2022-05-24T14:10:31",
+            "link": "https://montanafreepress.org/2022/05/24/matt-rosendale-challengers-montana-eastern-us-house/"
+          },
+          {
             "title": "Congressional races up and running",
             "date": "2022-03-14T18:50:03",
             "link": "https://montanafreepress.org/2022/03/14/montana-congressional-candidates-file-to-run-for-office/"
@@ -6250,6 +6350,11 @@
         "issueAnswers": null,
         "articles": [
           {
+            "title": "Meet the PSC candidates who want to regulate your rates",
+            "date": "2022-05-26T13:45:03",
+            "link": "https://montanafreepress.org/2022/05/26/montana-public-service-commission-role-2022-election/"
+          },
+          {
             "title": "Seven Republicans, two Democrats running for two Public Service Commission seats",
             "date": "2022-03-15T17:19:34",
             "link": "https://montanafreepress.org/2022/03/15/public-service-commission-candidate-filing-2022/"
@@ -6272,7 +6377,7 @@
       {
         "Name": "Randy Pinocci",
         "SummaryLine": "Incumbent utility commissioner",
-        "LongSummary": "Randy Pinocci was elected to the Public Service Commission in 2018. Prior to joining the commission, Pinocci ran a Great Falls printing service where he specialized in political direct mail.\n\nPinocci served a term in the Montana House of Representatives, where he sat on the Fish, Wildlife and Parks; Judiciary; and Federal Relations, Energy and Telecommunications committees. He has served on the Montana Shooting Sports Association board and chaired the Second Amendment Committee for the Republican Party.\n\nPinocci lives in Sun River with his wife and three children.\n\nThis biography is based on material from the Public Service Commission and Montana Legislature websites.",
+        "LongSummary": "Randy Pinocci, 57, was elected to the Public Service Commission in 2018. Prior to joining the commission, Pinocci ran a Great Falls printing service where he specialized in political direct mail.\n\nPinocci served a term in the Montana House of Representatives, where he sat on the Fish, Wildlife and Parks; Judiciary; and Federal Relations, Energy and Telecommunications committees. He has served on the Montana Shooting Sports Association board and chaired the Second Amendment Committee for the Republican Party.\n\nPinocci lives in Sun River with his wife and three children.\n\nThis biography is based on material from the Public Service Commission and Montana Legislature websites.",
         "Race": "PSC-District-1",
         "CampaignWebsiteUrl": null,
         "CampaignFBPageUrl": "https://www.facebook.com/randyformontana",
@@ -6280,7 +6385,7 @@
         "CampaignInstagramUrl": null,
         "MtfpCoverageTag": null,
         "createdAt": "2022-04-19T19:14:39.307Z",
-        "updatedAt": "2022-05-10T18:46:42.647Z",
+        "updatedAt": "2022-05-16T17:46:07.665Z",
         "Party": "R",
         "CampaignYoutubeUrl": null,
         "isIncumbent": true,
@@ -6290,6 +6395,11 @@
         "finances": null,
         "issueAnswers": null,
         "articles": [
+          {
+            "title": "Meet the PSC candidates who want to regulate your rates",
+            "date": "2022-05-26T13:45:03",
+            "link": "https://montanafreepress.org/2022/05/26/montana-public-service-commission-role-2022-election/"
+          },
           {
             "title": "Seven Republicans, two Democrats running for two Public Service Commission seats",
             "date": "2022-03-15T17:19:34",
@@ -6340,6 +6450,11 @@
         "finances": null,
         "issueAnswers": null,
         "articles": [
+          {
+            "title": "Meet the PSC candidates who want to regulate your rates",
+            "date": "2022-05-26T13:45:03",
+            "link": "https://montanafreepress.org/2022/05/26/montana-public-service-commission-role-2022-election/"
+          },
           {
             "title": "Seven Republicans, two Democrats running for two Public Service Commission seats",
             "date": "2022-03-15T17:19:34",
@@ -6410,6 +6525,11 @@
         "issueAnswers": null,
         "articles": [
           {
+            "title": "Meet the PSC candidates who want to regulate your rates",
+            "date": "2022-05-26T13:45:03",
+            "link": "https://montanafreepress.org/2022/05/26/montana-public-service-commission-role-2022-election/"
+          },
+          {
             "title": "Seven Republicans, two Democrats running for two Public Service Commission seats",
             "date": "2022-03-15T17:19:34",
             "link": "https://montanafreepress.org/2022/03/15/public-service-commission-candidate-filing-2022/"
@@ -6478,6 +6598,11 @@
         "finances": null,
         "issueAnswers": null,
         "articles": [
+          {
+            "title": "Meet the PSC candidates who want to regulate your rates",
+            "date": "2022-05-26T13:45:03",
+            "link": "https://montanafreepress.org/2022/05/26/montana-public-service-commission-role-2022-election/"
+          },
           {
             "title": "Seven Republicans, two Democrats running for two Public Service Commission seats",
             "date": "2022-03-15T17:19:34",
@@ -6548,6 +6673,11 @@
         "issueAnswers": null,
         "articles": [
           {
+            "title": "Meet the PSC candidates who want to regulate your rates",
+            "date": "2022-05-26T13:45:03",
+            "link": "https://montanafreepress.org/2022/05/26/montana-public-service-commission-role-2022-election/"
+          },
+          {
             "title": "Seven Republicans, two Democrats running for two Public Service Commission seats",
             "date": "2022-03-15T17:19:34",
             "link": "https://montanafreepress.org/2022/03/15/public-service-commission-candidate-filing-2022/"
@@ -6598,7 +6728,7 @@
       {
         "Name": "John Repke",
         "SummaryLine": "Retired executive",
-        "LongSummary": "Repke studied finance at Ohio State University and the University of Denver, where he earned an MBA. His professional experience includes nine years with Waste Management and nine years with Havi Group, LLP, a supply chain management company. Most recently, he was the chief financial officer of a sustainable wood products manufacturer in Columbia Falls. He retired from SmartLam, LLC, in 2021.\n\nRepke and his wife, Beth, moved to Whitefish full-time in 2014. He’s taught business classes for local organizations including Flathead Valley Community College, Confederated Salish and Kootenai Tribes’ Economic Development Office and Lake County Community Development Corporation.\n\nThis biography is based on an MTFP interview with the candidate and material on Repke’s campaign website. ",
+        "LongSummary": "Repke, 64, studied finance at Ohio State University and the University of Denver, where he earned an MBA. His professional experience includes nine years with Waste Management and nine years with Havi Group, LLP, a supply chain management company. Most recently, he was the chief financial officer of a sustainable wood products manufacturer in Columbia Falls. He retired from SmartLam, LLC, in 2021.\n\nRepke and his wife, Beth, moved to Whitefish full-time in 2014. He’s taught business classes for local organizations including Flathead Valley Community College, Confederated Salish and Kootenai Tribes’ Economic Development Office and Lake County Community Development Corporation.\n\nRepke is married with three children and two grandchildren.\n\nThis biography is based on an MTFP interview with the candidate and material on Repke’s campaign website. ",
         "Race": "PSC-District-5",
         "CampaignWebsiteUrl": "https://repke4psc5.com/",
         "CampaignFBPageUrl": null,
@@ -6606,7 +6736,7 @@
         "CampaignInstagramUrl": "https://www.instagram.com/repke4psc5/",
         "MtfpCoverageTag": null,
         "createdAt": "2022-04-19T19:18:50.984Z",
-        "updatedAt": "2022-05-10T18:51:34.427Z",
+        "updatedAt": "2022-05-12T15:36:31.104Z",
         "Party": "D",
         "CampaignYoutubeUrl": null,
         "isIncumbent": false,
@@ -6616,6 +6746,11 @@
         "finances": null,
         "issueAnswers": null,
         "articles": [
+          {
+            "title": "Meet the PSC candidates who want to regulate your rates",
+            "date": "2022-05-26T13:45:03",
+            "link": "https://montanafreepress.org/2022/05/26/montana-public-service-commission-role-2022-election/"
+          },
           {
             "title": "Seven Republicans, two Democrats running for two Public Service Commission seats",
             "date": "2022-03-15T17:19:34",
@@ -6685,6 +6820,11 @@
         "finances": null,
         "issueAnswers": null,
         "articles": [
+          {
+            "title": "Meet the PSC candidates who want to regulate your rates",
+            "date": "2022-05-26T13:45:03",
+            "link": "https://montanafreepress.org/2022/05/26/montana-public-service-commission-role-2022-election/"
+          },
           {
             "title": "Seven Republicans, two Democrats running for two Public Service Commission seats",
             "date": "2022-03-15T17:19:34",
@@ -6866,6 +7006,11 @@
         "finances": null,
         "issueAnswers": null,
         "articles": [
+          {
+            "title": "Republican support colors Montana Supreme Court race",
+            "date": "2022-05-25T17:00:00",
+            "link": "https://montanafreepress.org/2022/05/25/republican-support-stacks-up-in-montana-supreme-court-race/"
+          },
           {
             "title": "The politics driving the Montana Supreme Court races",
             "date": "2022-03-28T16:50:18",

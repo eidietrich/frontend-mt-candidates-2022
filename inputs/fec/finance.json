@@ -3,175 +3,175 @@
     "district": "US-House-1-West",
     "finances": {
       "api_version": "1.0",
-      "pagination": {
-        "count": 10,
-        "per_page": 100,
-        "pages": 1,
-        "page": 1
-      },
       "results": [
         {
-          "cash_on_hand_end_period": 1212498.67,
-          "candidate_name": "ZINKE, RYAN K",
-          "total_disbursements": 1272320.57,
-          "candidate_id": "H4MT01041",
+          "incumbent_challenge_full": "Open seat",
+          "party_full": "UNKNOWN",
+          "candidate_pcc_id": "C00778159",
           "candidate_election_year": 2022,
+          "candidate_id": "H4MT01041",
+          "total_receipts": 2947291.52,
+          "candidate_name": "ZINKE, RYAN K",
+          "total_disbursements": 2068614.47,
+          "cash_on_hand_end_period": 878677.05,
+          "candidate_pcc_name": "ZINKE FOR CONGRESS",
+          "coverage_end_date": "2022-05-18T00:00:00",
           "committee_ids": [
             "C00778159"
-          ],
-          "party_full": "UNKNOWN",
-          "incumbent_challenge_full": "Open seat",
-          "coverage_end_date": "2022-03-31T00:00:00",
-          "candidate_pcc_id": "C00778159",
-          "total_receipts": 2484819.24,
-          "candidate_pcc_name": "ZINKE FOR CONGRESS"
+          ]
         },
         {
-          "cash_on_hand_end_period": 877958.24,
-          "candidate_name": "NEUMANN, CORA",
-          "total_disbursements": 388093.28,
-          "candidate_id": "H2MT02100",
+          "incumbent_challenge_full": "Challenger",
+          "party_full": "DEMOCRATIC PARTY",
+          "candidate_pcc_id": "C00721019",
           "candidate_election_year": 2022,
+          "candidate_id": "H2MT02100",
+          "total_receipts": 1334441.2,
+          "candidate_name": "NEUMANN, CORA",
+          "total_disbursements": 1050711.14,
+          "cash_on_hand_end_period": 377672.43,
+          "candidate_pcc_name": "CORA FOR MONTANA",
+          "coverage_end_date": "2022-05-18T00:00:00",
           "committee_ids": [
             "C00721019"
-          ],
+          ]
+        },
+        {
+          "incumbent_challenge_full": "Challenger",
           "party_full": "DEMOCRATIC PARTY",
-          "incumbent_challenge_full": "Challenger",
-          "coverage_end_date": "2022-03-31T00:00:00",
-          "candidate_pcc_id": "C00721019",
-          "total_receipts": 1172109.15,
-          "candidate_pcc_name": "CORA FOR MONTANA"
-        },
-        {
-          "cash_on_hand_end_period": 364795.82,
-          "candidate_name": "OLSZEWSKI, AL",
-          "total_disbursements": 313268.1,
-          "candidate_id": "H2MT02084",
+          "candidate_pcc_id": "C00783696",
           "candidate_election_year": 2022,
-          "committee_ids": [
-            "C00783381"
-          ],
-          "party_full": "REPUBLICAN PARTY",
-          "incumbent_challenge_full": "Challenger",
-          "coverage_end_date": "2022-03-31T00:00:00",
-          "candidate_pcc_id": "C00783381",
-          "total_receipts": 678063.92,
-          "candidate_pcc_name": "AL FOR MONTANA"
-        },
-        {
-          "cash_on_hand_end_period": 266160.48,
-          "candidate_name": "TRANEL, MONICA",
-          "total_disbursements": 408992.4,
           "candidate_id": "H2MT02092",
-          "candidate_election_year": 2022,
+          "total_receipts": 882230.86,
+          "candidate_name": "TRANEL, MONICA",
+          "total_disbursements": 784041.8,
+          "cash_on_hand_end_period": 98189.06,
+          "candidate_pcc_name": "MONICA TRANEL FOR MONTANA",
+          "coverage_end_date": "2022-05-18T00:00:00",
           "committee_ids": [
             "C00783696"
-          ],
-          "party_full": "DEMOCRATIC PARTY",
-          "incumbent_challenge_full": "Challenger",
-          "coverage_end_date": "2022-03-31T00:00:00",
-          "candidate_pcc_id": "C00783696",
-          "total_receipts": 675152.88,
-          "candidate_pcc_name": "MONICA TRANEL FOR MONTANA"
+          ]
         },
         {
-          "cash_on_hand_end_period": 107011.97,
-          "candidate_name": "TODD, MARY BROOKS",
-          "total_disbursements": 60767.2,
-          "candidate_id": "H2MT00112",
+          "incumbent_challenge_full": "Challenger",
+          "party_full": "REPUBLICAN PARTY",
+          "candidate_pcc_id": "C00783381",
           "candidate_election_year": 2022,
+          "candidate_id": "H2MT02084",
+          "total_receipts": 709784.68,
+          "candidate_name": "OLSZEWSKI, AL",
+          "total_disbursements": 533111.36,
+          "cash_on_hand_end_period": 176673.32,
+          "candidate_pcc_name": "AL FOR MONTANA",
+          "coverage_end_date": "2022-05-18T00:00:00",
+          "committee_ids": [
+            "C00783381"
+          ]
+        },
+        {
+          "incumbent_challenge_full": "Challenger",
+          "party_full": "REPUBLICAN PARTY",
+          "candidate_pcc_id": "C00792051",
+          "candidate_election_year": 2022,
+          "candidate_id": "H2MT00112",
+          "total_receipts": 448284.17,
+          "candidate_name": "TODD, MARY BROOKS",
+          "total_disbursements": 396985.74,
+          "cash_on_hand_end_period": 51298.43,
+          "candidate_pcc_name": "MARY TODD FOR MONTANA",
+          "coverage_end_date": "2022-05-18T00:00:00",
           "committee_ids": [
             "C00792051"
-          ],
-          "party_full": "REPUBLICAN PARTY",
-          "incumbent_challenge_full": "Challenger",
-          "coverage_end_date": "2022-03-31T00:00:00",
-          "candidate_pcc_id": "C00792051",
-          "total_receipts": 167779.17,
-          "candidate_pcc_name": "MARY TODD FOR MONTANA"
+          ]
         },
         {
-          "cash_on_hand_end_period": 16035.38,
-          "candidate_name": "WINTER, THOMAS",
-          "total_disbursements": 78882.81,
-          "candidate_id": "H0MT00090",
+          "incumbent_challenge_full": "Challenger",
+          "party_full": "DEMOCRATIC PARTY",
+          "candidate_pcc_id": "C00793182",
           "candidate_election_year": 2022,
+          "candidate_id": "H0MT00090",
+          "total_receipts": 98545.2,
+          "candidate_name": "WINTER, THOMAS",
+          "total_disbursements": 92343.29,
+          "cash_on_hand_end_period": 6201.91,
+          "candidate_pcc_name": "WINTER FOR MONTANA",
+          "coverage_end_date": "2022-05-18T00:00:00",
           "committee_ids": [
             "C00700963",
             "C00793182"
-          ],
-          "party_full": "DEMOCRATIC PARTY",
-          "incumbent_challenge_full": "Challenger",
-          "coverage_end_date": "2022-03-31T00:00:00",
-          "candidate_pcc_id": "C00793182",
-          "total_receipts": 94918.19,
-          "candidate_pcc_name": "WINTER FOR MONTANA"
+          ]
         },
         {
-          "cash_on_hand_end_period": 0,
+          "incumbent_challenge_full": "Challenger",
+          "party_full": "REPUBLICAN PARTY",
+          "candidate_pcc_id": "C00791939",
+          "candidate_election_year": 2022,
+          "candidate_id": "H2MT01102",
+          "total_receipts": 0,
           "candidate_name": "WALKING CHILD, CHARLES A",
           "total_disbursements": 0,
-          "candidate_id": "H2MT01102",
-          "candidate_election_year": 2022,
+          "cash_on_hand_end_period": 0,
+          "candidate_pcc_name": "WALKINGCHILD FOR CONGRESS",
+          "coverage_end_date": null,
           "committee_ids": [
             "C00791939"
-          ],
-          "party_full": "REPUBLICAN PARTY",
-          "incumbent_challenge_full": "Challenger",
-          "coverage_end_date": null,
-          "candidate_pcc_id": "C00791939",
-          "total_receipts": 0,
-          "candidate_pcc_name": "WALKINGCHILD FOR CONGRESS"
+          ]
         },
         {
-          "cash_on_hand_end_period": 0,
+          "incumbent_challenge_full": "Challenger",
+          "party_full": "REPUBLICAN PARTY",
+          "candidate_pcc_id": "C00794511",
+          "candidate_election_year": 2022,
+          "candidate_id": "H2MT01110",
+          "total_receipts": 0,
           "candidate_name": "JETTE, MATTHEW DR.",
           "total_disbursements": 0,
-          "candidate_id": "H2MT01110",
-          "candidate_election_year": 2022,
+          "cash_on_hand_end_period": 0,
+          "candidate_pcc_name": "JETTE 4 MONTANA",
+          "coverage_end_date": null,
           "committee_ids": [
             "C00794511"
-          ],
-          "party_full": "REPUBLICAN PARTY",
-          "incumbent_challenge_full": "Challenger",
-          "coverage_end_date": null,
-          "candidate_pcc_id": "C00794511",
-          "total_receipts": 0,
-          "candidate_pcc_name": "JETTE 4 MONTANA"
+          ]
         },
         {
-          "cash_on_hand_end_period": 0,
+          "incumbent_challenge_full": "Challenger",
+          "party_full": "REPUBLICAN PARTY",
+          "candidate_pcc_id": "C00803619",
+          "candidate_election_year": 2022,
+          "candidate_id": "H2MT01128",
+          "total_receipts": 0,
           "candidate_name": "MCKIBBEN, ALLEN HARLEY II",
           "total_disbursements": 0,
-          "candidate_id": "H2MT01128",
-          "candidate_election_year": 2022,
+          "cash_on_hand_end_period": 0,
+          "candidate_pcc_name": "ALLEN MCKIBBEN FOR CONGRESS",
+          "coverage_end_date": null,
           "committee_ids": [
             "C00803619"
-          ],
-          "party_full": "REPUBLICAN PARTY",
-          "incumbent_challenge_full": "Challenger",
-          "coverage_end_date": null,
-          "candidate_pcc_id": "C00803619",
-          "total_receipts": 0,
-          "candidate_pcc_name": "ALLEN MCKIBBEN FOR CONGRESS"
+          ]
         },
         {
-          "cash_on_hand_end_period": 0,
+          "incumbent_challenge_full": "Open seat",
+          "party_full": "REPUBLICAN PARTY",
+          "candidate_pcc_id": "C00812768",
+          "candidate_election_year": 2022,
+          "candidate_id": "H2MT01136",
+          "total_receipts": 0,
           "candidate_name": "HEUER, MITCH MR.",
           "total_disbursements": 0,
-          "candidate_id": "H2MT01136",
-          "candidate_election_year": 2022,
+          "cash_on_hand_end_period": 0,
+          "candidate_pcc_name": "HEUER FOR CONGRESS",
+          "coverage_end_date": null,
           "committee_ids": [
             "C00812768"
-          ],
-          "party_full": "REPUBLICAN PARTY",
-          "incumbent_challenge_full": null,
-          "coverage_end_date": null,
-          "candidate_pcc_id": "C00812768",
-          "total_receipts": 0,
-          "candidate_pcc_name": "HEUER FOR CONGRESS"
+          ]
         }
-      ]
+      ],
+      "pagination": {
+        "count": 10,
+        "pages": 1,
+        "page": 1,
+        "per_page": 100
+      }
     }
   },
   {
@@ -180,171 +180,187 @@
       "api_version": "1.0",
       "results": [
         {
+          "total_disbursements": 727497.34,
           "incumbent_challenge_full": "Incumbent",
-          "party_full": "REPUBLICAN PARTY",
+          "total_receipts": 1601902.31,
           "candidate_name": "ROSENDALE, MATT MR.",
-          "candidate_id": "H4MT00050",
-          "candidate_pcc_name": "MATT ROSENDALE FOR MONTANA",
-          "total_receipts": 1368829.3,
-          "coverage_end_date": "2022-03-31T00:00:00",
-          "cash_on_hand_end_period": 1036146.24,
           "committee_ids": [
             "C00548289"
           ],
+          "candidate_pcc_name": "MATT ROSENDALE FOR MONTANA",
+          "cash_on_hand_end_period": 1137244.01,
+          "coverage_end_date": "2022-05-18T00:00:00",
+          "candidate_id": "H4MT00050",
           "candidate_election_year": 2022,
-          "total_disbursements": 595522.1,
-          "candidate_pcc_id": "C00548289"
+          "candidate_pcc_id": "C00548289",
+          "party_full": "REPUBLICAN PARTY"
         },
         {
+          "total_disbursements": 147935,
           "incumbent_challenge_full": "Open seat",
-          "party_full": "DEMOCRATIC PARTY",
-          "candidate_name": "BISHOP, LAURIE",
-          "candidate_id": "H2MT02076",
-          "candidate_pcc_name": "LAURIE BISHOP FOR MONTANA",
           "total_receipts": 147935,
-          "coverage_end_date": "2021-12-18T00:00:00",
-          "cash_on_hand_end_period": 0,
+          "candidate_name": "BISHOP, LAURIE",
           "committee_ids": [
             "C00783084"
           ],
+          "candidate_pcc_name": "LAURIE BISHOP FOR MONTANA",
+          "cash_on_hand_end_period": 0,
+          "coverage_end_date": "2021-12-18T00:00:00",
+          "candidate_id": "H2MT02076",
           "candidate_election_year": 2022,
-          "total_disbursements": 147935,
-          "candidate_pcc_id": "C00783084"
+          "candidate_pcc_id": "C00783084",
+          "party_full": "DEMOCRATIC PARTY"
         },
         {
+          "total_disbursements": 27334.12,
           "incumbent_challenge_full": "Open seat",
-          "party_full": "DEMOCRATIC PARTY",
-          "candidate_name": "BALLARD, JACK",
-          "candidate_id": "H2MT01094",
-          "candidate_pcc_name": "JACK BALLARD FOR MONTANA",
-          "total_receipts": 90484.24,
-          "coverage_end_date": "2022-03-31T00:00:00",
-          "cash_on_hand_end_period": 142.06,
-          "committee_ids": [
-            "C00714295"
-          ],
-          "candidate_election_year": 2022,
-          "total_disbursements": 90481.54,
-          "candidate_pcc_id": "C00714295"
-        },
-        {
-          "incumbent_challenge_full": "Open seat",
-          "party_full": "DEMOCRATIC PARTY",
+          "total_receipts": 95968,
           "candidate_name": "SWEENEY, MARK",
-          "candidate_id": "H2MT02159",
-          "candidate_pcc_name": "SWEENEY FOR MONTANA",
-          "total_receipts": 82448,
-          "coverage_end_date": "2022-03-31T00:00:00",
-          "cash_on_hand_end_period": 55113.88,
           "committee_ids": [
             "C00804344"
           ],
+          "candidate_pcc_name": "SWEENEY FOR MONTANA",
+          "cash_on_hand_end_period": 68633.88,
+          "coverage_end_date": "2022-05-18T00:00:00",
+          "candidate_id": "H2MT02159",
           "candidate_election_year": 2022,
-          "total_disbursements": 27334.12,
-          "candidate_pcc_id": "C00804344"
+          "candidate_pcc_id": "C00804344",
+          "party_full": "DEMOCRATIC PARTY"
         },
         {
+          "total_disbursements": 90481.54,
           "incumbent_challenge_full": "Open seat",
-          "party_full": "INDEPENDENT",
-          "candidate_name": "BUCHANAN, GARY",
-          "candidate_id": "H2MT02167",
-          "candidate_pcc_name": "GARY BUCHANAN HOUSE DISTRICT 2",
-          "total_receipts": 40573,
+          "total_receipts": 90484.24,
+          "candidate_name": "BALLARD, JACK",
+          "committee_ids": [
+            "C00714295"
+          ],
+          "candidate_pcc_name": "JACK BALLARD FOR MONTANA",
+          "cash_on_hand_end_period": 142.06,
           "coverage_end_date": "2022-03-31T00:00:00",
-          "cash_on_hand_end_period": 37734.34,
+          "candidate_id": "H2MT01094",
+          "candidate_election_year": 2022,
+          "candidate_pcc_id": "C00714295",
+          "party_full": "DEMOCRATIC PARTY"
+        },
+        {
+          "total_disbursements": 34894.51,
+          "incumbent_challenge_full": "Open seat",
+          "total_receipts": 86323,
+          "candidate_name": "BUCHANAN, GARY",
           "committee_ids": [
             "C00809491"
           ],
+          "candidate_pcc_name": "GARY BUCHANAN HOUSE DISTRICT 2",
+          "cash_on_hand_end_period": 51428.49,
+          "coverage_end_date": "2022-05-18T00:00:00",
+          "candidate_id": "H2MT02167",
           "candidate_election_year": 2022,
-          "total_disbursements": 2838.66,
-          "candidate_pcc_id": "C00809491"
+          "candidate_pcc_id": "C00809491",
+          "party_full": "INDEPENDENT"
         },
         {
+          "total_disbursements": 42660.73,
           "incumbent_challenge_full": "Open seat",
-          "party_full": "DEMOCRATIC PARTY",
+          "total_receipts": 47320.45,
           "candidate_name": "RONNING, PENNY",
-          "candidate_id": "H2MT02134",
-          "candidate_pcc_name": "PENNY RONNING FOR US CONGRESS",
-          "total_receipts": 39021.45,
-          "coverage_end_date": "2022-03-31T00:00:00",
-          "cash_on_hand_end_period": 11809.61,
           "committee_ids": [
             "C00795054"
           ],
+          "candidate_pcc_name": "PENNY RONNING FOR US CONGRESS",
+          "cash_on_hand_end_period": 4659.72,
+          "coverage_end_date": "2022-05-18T00:00:00",
+          "candidate_id": "H2MT02134",
           "candidate_election_year": 2022,
-          "total_disbursements": 27211.84,
-          "candidate_pcc_id": "C00795054"
+          "candidate_pcc_id": "C00795054",
+          "party_full": "DEMOCRATIC PARTY"
         },
         {
+          "total_disbursements": 4037.04,
           "incumbent_challenge_full": "Open seat",
-          "party_full": "DEMOCRATIC PARTY",
+          "total_receipts": 4085.17,
           "candidate_name": "WILLIAMS, SKYLAR",
-          "candidate_id": "H2MT02118",
-          "candidate_pcc_name": "SKYLARFORUSCONGRESS",
-          "total_receipts": 3213.51,
-          "coverage_end_date": "2022-03-31T00:00:00",
-          "cash_on_hand_end_period": 159.09,
           "committee_ids": [
             "C00792440"
           ],
+          "candidate_pcc_name": "SKYLARFORUSCONGRESS",
+          "cash_on_hand_end_period": 48.13,
+          "coverage_end_date": "2022-05-18T00:00:00",
+          "candidate_id": "H2MT02118",
           "candidate_election_year": 2022,
-          "total_disbursements": 3054.42,
-          "candidate_pcc_id": "C00792440"
+          "candidate_pcc_id": "C00792440",
+          "party_full": "DEMOCRATIC PARTY"
         },
         {
+          "total_disbursements": 5535.07,
           "incumbent_challenge_full": "Open seat",
-          "party_full": "REPUBLICAN PARTY",
-          "candidate_name": "BOYETTE, JAMES MATTHEW",
-          "candidate_id": "H2MT02142",
-          "candidate_pcc_name": "JAMES BOYETTE",
           "total_receipts": 2250,
-          "coverage_end_date": "2022-03-31T00:00:00",
-          "cash_on_hand_end_period": -2218.07,
+          "candidate_name": "BOYETTE, JAMES MATTHEW",
           "committee_ids": [
             "C00802777"
           ],
+          "candidate_pcc_name": "JAMES BOYETTE",
+          "cash_on_hand_end_period": -3221.07,
+          "coverage_end_date": "2022-05-25T00:00:00",
+          "candidate_id": "H2MT02142",
           "candidate_election_year": 2022,
-          "total_disbursements": 4468.07,
-          "candidate_pcc_id": "C00802777"
+          "candidate_pcc_id": "C00802777",
+          "party_full": "REPUBLICAN PARTY"
         },
         {
-          "incumbent_challenge_full": "Open seat",
-          "party_full": "INDEPENDENT",
-          "candidate_name": "ZYGMOND, CURT ANDREW MR. SR.",
-          "candidate_id": "H2MT02068",
-          "candidate_pcc_name": "CURT ANDREW ZYGMOND SR",
+          "total_disbursements": 0,
+          "incumbent_challenge_full": "Challenger",
           "total_receipts": 0,
-          "coverage_end_date": null,
+          "candidate_name": "RANKIN, SAM",
+          "committee_ids": [
+            "C00814590"
+          ],
+          "candidate_pcc_name": "RANKIN FOR CONGRESS",
           "cash_on_hand_end_period": 0,
+          "coverage_end_date": null,
+          "candidate_id": "H0MT00074",
+          "candidate_election_year": 2022,
+          "candidate_pcc_id": "C00814590",
+          "party_full": "LIBERTARIAN PARTY"
+        },
+        {
+          "total_disbursements": 0,
+          "incumbent_challenge_full": "Open seat",
+          "total_receipts": 0,
+          "candidate_name": "ZYGMOND, CURT ANDREW MR. SR.",
           "committee_ids": [
             "C00779694"
           ],
+          "candidate_pcc_name": "CURT ANDREW ZYGMOND SR",
+          "cash_on_hand_end_period": 0,
+          "coverage_end_date": null,
+          "candidate_id": "H2MT02068",
           "candidate_election_year": 2022,
-          "total_disbursements": 0,
-          "candidate_pcc_id": "C00779694"
+          "candidate_pcc_id": "C00779694",
+          "party_full": "INDEPENDENT"
         },
         {
+          "total_disbursements": 0,
           "incumbent_challenge_full": "Open seat",
-          "party_full": "REPUBLICAN PARTY",
-          "candidate_name": "AUSTIN, KYLE RAY",
-          "candidate_id": "H2MT02175",
-          "candidate_pcc_name": "AUSTIN FOR CONGRESS",
           "total_receipts": 0,
-          "coverage_end_date": null,
-          "cash_on_hand_end_period": 0,
+          "candidate_name": "AUSTIN, KYLE RAY",
           "committee_ids": [
             "C00810630"
           ],
+          "candidate_pcc_name": "AUSTIN FOR CONGRESS",
+          "cash_on_hand_end_period": 0,
+          "coverage_end_date": null,
+          "candidate_id": "H2MT02175",
           "candidate_election_year": 2022,
-          "total_disbursements": 0,
-          "candidate_pcc_id": "C00810630"
+          "candidate_pcc_id": "C00810630",
+          "party_full": "REPUBLICAN PARTY"
         }
       ],
       "pagination": {
-        "page": 1,
         "per_page": 100,
-        "count": 10,
-        "pages": 1
+        "pages": 1,
+        "page": 1,
+        "count": 11
       }
     }
   }

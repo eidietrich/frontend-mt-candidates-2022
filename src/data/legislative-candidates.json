@@ -682,8 +682,8 @@
     "Party": "D",
     "Status": "challenger",
     "City": "Missoula",
-    "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": "",
+    "CampaignWebsiteUrl": "https://www.andreaolsenmt.com/",
+    "CampaignFBPageUrl": "https://www.facebook.com/andreaolsenforsenate",
     "CampaignTwitterUrl": "https://twitter.com/andreajolsen",
     "CampaignInstagramUrl": null,
     "CampaignYoutubeUrl": null
@@ -1541,7 +1541,7 @@
     "Status": "challenger",
     "City": "Havre",
     "CampaignWebsiteUrl": "http://www.paultuss.com/",
-    "CampaignFBPageUrl": "https://www.facebook.com/tussforhouse",
+    "CampaignFBPageUrl": "https://www.facebook.com/paultussforhouse",
     "CampaignTwitterUrl": null,
     "CampaignInstagramUrl": null,
     "CampaignYoutubeUrl": null
@@ -2112,10 +2112,10 @@
     "Party": "D",
     "Status": "open seat",
     "City": "Billings",
-    "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": "https://www.facebook.com/carole.boerner.photographer/",
+    "CampaignWebsiteUrl": "http://www.caroleformt.com/",
+    "CampaignFBPageUrl": "https://www.facebook.com/CaroleForMT/",
     "CampaignTwitterUrl": "https://twitter.com/caroleb689",
-    "CampaignInstagramUrl": "https://www.instagram.com/photogcarole/",
+    "CampaignInstagramUrl": "https://www.instagram.com/caroleformt/",
     "CampaignYoutubeUrl": null
   },
   {
@@ -2294,10 +2294,10 @@
     "Party": "D",
     "Status": "challenger",
     "City": "Livingston",
-    "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": null,
-    "CampaignTwitterUrl": "https://twitter.com/ruthsweissman",
-    "CampaignInstagramUrl": null,
+    "CampaignWebsiteUrl": "https://ruthweissmanforhd59.com/",
+    "CampaignFBPageUrl": "https://www.facebook.com/RuthWeissmanforhd59/",
+    "CampaignTwitterUrl": "https://twitter.com/WeissmanforHD59",
+    "CampaignInstagramUrl": "https://www.instagram.com/weissmanforhd59/",
     "CampaignYoutubeUrl": null
   },
   {
@@ -2646,8 +2646,8 @@
     "Status": "incumbent",
     "City": "Townsend",
     "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": null,
-    "CampaignTwitterUrl": "https://twitter.com/julesjd2",
+    "CampaignFBPageUrl": "https://www.facebook.com/JulieforHouse70",
+    "CampaignTwitterUrl": "",
     "CampaignInstagramUrl": null,
     "CampaignYoutubeUrl": null
   },
@@ -2776,7 +2776,7 @@
     "Status": "challenger",
     "City": "Boulder",
     "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": null,
+    "CampaignFBPageUrl": "https://www.facebook.com/people/Tim-McKenrick-for-MT-House-District-75/100079181690752/",
     "CampaignTwitterUrl": null,
     "CampaignInstagramUrl": null,
     "CampaignYoutubeUrl": null
@@ -2789,7 +2789,7 @@
     "Status": "incumbent",
     "City": "Butte",
     "CampaignWebsiteUrl": "http://www.hawkforhouse.com/",
-    "CampaignFBPageUrl": "https://www.facebook.com/donavonhawk",
+    "CampaignFBPageUrl": "https://www.facebook.com/HawkforMontana",
     "CampaignTwitterUrl": "https://twitter.com/DonavonHawk",
     "CampaignInstagramUrl": "https://www.instagram.com/donavon.hawk/?hl=en",
     "CampaignYoutubeUrl": null

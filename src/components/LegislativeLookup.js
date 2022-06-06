@@ -182,7 +182,6 @@ const resultStyle = css`
 `
 
 const Results = ({ candidates, hd, sd, hdMap, sdMap }) => {
-    console.log(hd, sd, hdMap, sdMap)
 
     const houseCandidates = candidates.filter(d => cleanDistrict(d.District) === cleanDistrict(hd))
     const senateCandidates = candidates.filter(d => cleanDistrict(d.District) === cleanDistrict(sd))
