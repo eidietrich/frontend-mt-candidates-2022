@@ -55,8 +55,10 @@ const TruncatedContainer = (props) => {
     const truncateHeight = props.height || 500
     const openedText = props.openedText || 'See fewer'
     const closedText = props.closedText || 'See all'
+    const defaultState = props.defaultState || true
+    const buttonPlacement = props.buttonPlacement || 'below'
 
-    const [isClosed, setClosedState] = useState(true)
+    const [isClosed, setClosedState] = useState(defaultState)
     const toggleClosedState = () => isClosed ? setClosedState(false) : setClosedState(true)
 
     const truncateCss = css`
@@ -64,12 +66,21 @@ const TruncatedContainer = (props) => {
         overflow: hidden;
     `
     return <div css={style}>
+        {
+            (buttonPlacement === 'above') && <button css={[inlineButtonCss, centeredButtonCss]} onClick={toggleClosedState}>
+                {
+                    isClosed ? closedText : openedText
+                }
+            </button>
+        }
         <div css={isClosed ? [truncateCss, bottomFadeCss] : []}>{children}</div>
-        <button css={[inlineButtonCss, centeredButtonCss]} onClick={toggleClosedState}>
-            {
-                isClosed ? closedText : openedText
-            }
-        </button>
+        {
+            (buttonPlacement === 'below') && <button css={[inlineButtonCss, centeredButtonCss]} onClick={toggleClosedState}>
+                {
+                    isClosed ? closedText : openedText
+                }
+            </button>
+        }
     </div >
 }
 export default TruncatedContainer

@@ -1,10 +1,10 @@
 // colors
 
 export const parties = [
-    { key: 'R', label: 'Republicans' },
-    { key: 'D', label: 'Democrats' },
-    { key: 'L', label: 'Libertarians' },
-    { key: 'I', label: 'Independents' },
+    { key: 'R', label: 'Republican' },
+    { key: 'D', label: 'Democratic' },
+    { key: 'L', label: 'Libertarian' },
+    { key: 'I', label: 'Independent' },
 ]
 
 export const statusColors = (billStatus) => {

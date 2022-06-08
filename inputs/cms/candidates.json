@@ -10,11 +10,12 @@
     "CampaignInstagramUrl": "https://www.instagram.com/mattformontana/",
     "MtfpCoverageTag": "",
     "createdAt": "2022-04-15T21:33:58.788Z",
-    "updatedAt": "2022-05-10T20:30:26.839Z",
+    "updatedAt": "2022-06-06T19:59:54.790Z",
     "Party": "R",
     "CampaignYoutubeUrl": "https://www.youtube.com/user/MattForMontana",
     "isIncumbent": true,
-    "FECCandidateName": "ROSENDALE, MATT MR."
+    "FECCandidateName": "ROSENDALE, MATT MR.",
+    "status": "on-primary-ballot"
   },
   {
     "Name": "Mitch Heuer",
@@ -27,11 +28,12 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:08:42.864Z",
-    "updatedAt": "2022-05-10T18:31:47.450Z",
+    "updatedAt": "2022-06-06T20:04:18.650Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "FECCandidateName": "HEUER, MITCH MR."
+    "FECCandidateName": "HEUER, MITCH MR.",
+    "status": "on-primary-ballot"
   },
   {
     "Name": "Matt Jette",
@@ -44,11 +46,12 @@
     "CampaignInstagramUrl": "https://www.instagram.com/jette4montana2022/",
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:09:04.516Z",
-    "updatedAt": "2022-05-10T18:32:12.531Z",
+    "updatedAt": "2022-06-06T20:05:24.294Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "FECCandidateName": "JETTE, MATTHEW DR."
+    "FECCandidateName": "JETTE, MATTHEW DR.",
+    "status": "on-primary-ballot"
   },
   {
     "Name": "John Lamb",
@@ -61,11 +64,12 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:09:16.811Z",
-    "updatedAt": "2022-05-10T18:32:35.619Z",
+    "updatedAt": "2022-06-06T20:05:30.552Z",
     "Party": "L",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "FECCandidateName": null
+    "FECCandidateName": null,
+    "status": "on-primary-ballot"
   },
   {
     "Name": "Al Olszewski",
@@ -78,11 +82,12 @@
     "CampaignInstagramUrl": "https://www.instagram.com/alformontana/",
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:09:36.240Z",
-    "updatedAt": "2022-05-11T13:29:33.087Z",
+    "updatedAt": "2022-06-06T20:05:35.194Z",
     "Party": "R",
     "CampaignYoutubeUrl": "https://youtube.com/channel/UC24Qe5GaGGIwQD0mCSPeRcg",
     "isIncumbent": false,
-    "FECCandidateName": "OLSZEWSKI, AL"
+    "FECCandidateName": "OLSZEWSKI, AL",
+    "status": "on-primary-ballot"
   },
   {
     "Name": "Monica Tranel",
@@ -95,11 +100,12 @@
     "CampaignInstagramUrl": "https://www.instagram.com/monica.tranel/",
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:09:50.929Z",
-    "updatedAt": "2022-05-10T18:34:05.964Z",
+    "updatedAt": "2022-06-06T20:05:40.240Z",
     "Party": "D",
     "CampaignYoutubeUrl": "https://www.youtube.com/channel/UCmfHRkAFeX3WsfsRI5BMrMA",
     "isIncumbent": false,
-    "FECCandidateName": "TRANEL, MONICA"
+    "FECCandidateName": "TRANEL, MONICA",
+    "status": "on-primary-ballot"
   },
   {
     "Name": "Tom Winter",
@@ -112,11 +118,12 @@
     "CampaignInstagramUrl": "https://www.instagram.com/winterformt/",
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:09:59.802Z",
-    "updatedAt": "2022-05-10T18:34:29.941Z",
+    "updatedAt": "2022-06-06T20:05:45.633Z",
     "Party": "D",
     "CampaignYoutubeUrl": "https://www.youtube.com/channel/UCVj7DabC44Rs2r820rldMHQ",
     "isIncumbent": false,
-    "FECCandidateName": "WINTER, THOMAS"
+    "FECCandidateName": "WINTER, THOMAS",
+    "status": "on-primary-ballot"
   },
   {
     "Name": "Ryan Zinke",
@@ -129,11 +136,12 @@
     "CampaignInstagramUrl": "https://www.instagram.com/zinkeformontana/",
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:10:13.274Z",
-    "updatedAt": "2022-05-10T18:35:14.047Z",
+    "updatedAt": "2022-06-06T20:05:51.359Z",
     "Party": "R",
     "CampaignYoutubeUrl": "https://www.youtube.com/channel/UCNsXl014OUkV4CtlXFdVB3g",
     "isIncumbent": false,
-    "FECCandidateName": "ZINKE, RYAN K"
+    "FECCandidateName": "ZINKE, RYAN K",
+    "status": "on-primary-ballot"
   },
   {
     "Name": "Kyle Austin",
@@ -146,11 +154,12 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:10:46.697Z",
-    "updatedAt": "2022-05-20T16:07:38.135Z",
+    "updatedAt": "2022-06-06T19:59:09.260Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "FECCandidateName": "AUSTIN, KYLE RAY"
+    "FECCandidateName": "AUSTIN, KYLE RAY",
+    "status": "on-primary-ballot"
   },
   {
     "Name": "James Boyette",
@@ -163,11 +172,12 @@
     "CampaignInstagramUrl": "https://www.instagram.com/boyette4congress/",
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:11:06.334Z",
-    "updatedAt": "2022-05-10T18:27:30.601Z",
+    "updatedAt": "2022-06-06T20:00:01.607Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "FECCandidateName": "BOYETTE, JAMES MATTHEW"
+    "FECCandidateName": "BOYETTE, JAMES MATTHEW",
+    "status": "on-primary-ballot"
   },
   {
     "Name": "Gary Buchanan",
@@ -180,11 +190,12 @@
     "CampaignInstagramUrl": "https://www.instagram.com/buchananformontana/",
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:11:23.926Z",
-    "updatedAt": "2022-05-10T18:26:24.054Z",
+    "updatedAt": "2022-06-06T20:03:47.767Z",
     "Party": "I",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "FECCandidateName": "BUCHANAN, GARY"
+    "FECCandidateName": "BUCHANAN, GARY",
+    "status": "advancing-to-general"
   },
   {
     "Name": "Sam Rankin",
@@ -197,11 +208,12 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:11:51.881Z",
-    "updatedAt": "2022-05-10T18:28:06.458Z",
+    "updatedAt": "2022-06-06T20:03:53.697Z",
     "Party": "L",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "FECCandidateName": null
+    "FECCandidateName": null,
+    "status": "on-primary-ballot"
   },
   {
     "Name": "Penny Ronning",
@@ -214,11 +226,12 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:12:16.334Z",
-    "updatedAt": "2022-05-13T15:16:05.188Z",
+    "updatedAt": "2022-06-06T20:04:41.603Z",
     "Party": "D",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "FECCandidateName": "RONNING, PENNY"
+    "FECCandidateName": "RONNING, PENNY",
+    "status": "on-primary-ballot"
   },
   {
     "Name": "Roger Roots",
@@ -231,11 +244,12 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:12:33.866Z",
-    "updatedAt": "2022-05-10T18:29:13.683Z",
+    "updatedAt": "2022-06-06T20:04:54.658Z",
     "Party": "L",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "FECCandidateName": null
+    "FECCandidateName": null,
+    "status": "on-primary-ballot"
   },
   {
     "Name": "Mark Sweeney",
@@ -248,11 +262,12 @@
     "CampaignInstagramUrl": "",
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:12:44.107Z",
-    "updatedAt": "2022-05-11T22:19:08.346Z",
+    "updatedAt": "2022-06-06T20:05:01.001Z",
     "Party": "D",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "FECCandidateName": "SWEENEY, MARK"
+    "FECCandidateName": "SWEENEY, MARK",
+    "status": "on-primary-ballot"
   },
   {
     "Name": "Samuel Thomas",
@@ -265,11 +280,12 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:13:12.060Z",
-    "updatedAt": "2022-05-10T18:30:25.814Z",
+    "updatedAt": "2022-06-06T20:05:06.040Z",
     "Party": "L",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "FECCandidateName": null
+    "FECCandidateName": null,
+    "status": "on-primary-ballot"
   },
   {
     "Name": "Charles Walking Child",
@@ -282,11 +298,12 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:13:47.545Z",
-    "updatedAt": "2022-05-10T18:30:44.397Z",
+    "updatedAt": "2022-06-06T20:05:14.700Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "FECCandidateName": "WALKING CHILD, CHARLES A"
+    "FECCandidateName": "WALKING CHILD, CHARLES A",
+    "status": "on-primary-ballot"
   },
   {
     "Name": "Skylar Williams",
@@ -299,11 +316,12 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:14:04.239Z",
-    "updatedAt": "2022-05-10T18:31:06.163Z",
+    "updatedAt": "2022-06-06T20:05:19.905Z",
     "Party": "D",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "FECCandidateName": "WILLIAMS, SKYLAR"
+    "FECCandidateName": "WILLIAMS, SKYLAR",
+    "status": "on-primary-ballot"
   },
   {
     "Name": "K. Webb Galbreath",
@@ -316,11 +334,12 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:14:21.264Z",
-    "updatedAt": "2022-05-11T15:40:16.598Z",
+    "updatedAt": "2022-06-06T20:07:11.353Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "FECCandidateName": null
+    "FECCandidateName": null,
+    "status": "on-primary-ballot"
   },
   {
     "Name": "Randy Pinocci",
@@ -333,11 +352,12 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:14:39.307Z",
-    "updatedAt": "2022-05-16T17:46:07.665Z",
+    "updatedAt": "2022-06-06T20:07:17.040Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
     "isIncumbent": true,
-    "FECCandidateName": null
+    "FECCandidateName": null,
+    "status": "on-primary-ballot"
   },
   {
     "Name": "Annie Bukacek",
@@ -350,11 +370,12 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:15:04.056Z",
-    "updatedAt": "2022-05-10T18:57:35.190Z",
+    "updatedAt": "2022-06-06T20:06:34.455Z",
     "Party": "R",
     "CampaignYoutubeUrl": "https://www.youtube.com/channel/UC36_WUdnV9tKAN2WgJj0DEg",
     "isIncumbent": false,
-    "FECCandidateName": null
+    "FECCandidateName": null,
+    "status": "on-primary-ballot"
   },
   {
     "Name": "Dean Crabb",
@@ -367,11 +388,12 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:15:27.534Z",
-    "updatedAt": "2022-05-10T18:38:10.899Z",
+    "updatedAt": "2022-06-06T20:06:41.913Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "FECCandidateName": null
+    "FECCandidateName": null,
+    "status": "on-primary-ballot"
   },
   {
     "Name": "Joe Dooling",
@@ -384,11 +406,12 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:15:41.634Z",
-    "updatedAt": "2022-05-10T18:49:58.283Z",
+    "updatedAt": "2022-06-06T20:06:47.215Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "FECCandidateName": null
+    "FECCandidateName": null,
+    "status": "on-primary-ballot"
   },
   {
     "Name": "Kevin Hamm",
@@ -401,11 +424,12 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:15:58.758Z",
-    "updatedAt": "2022-05-10T18:50:34.480Z",
+    "updatedAt": "2022-06-06T20:06:52.490Z",
     "Party": "D",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "FECCandidateName": null
+    "FECCandidateName": null,
+    "status": "on-primary-ballot"
   },
   {
     "Name": "John Repke",
@@ -418,11 +442,12 @@
     "CampaignInstagramUrl": "https://www.instagram.com/repke4psc5/",
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:18:50.984Z",
-    "updatedAt": "2022-05-12T15:36:31.104Z",
+    "updatedAt": "2022-06-06T20:06:59.945Z",
     "Party": "D",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "FECCandidateName": null
+    "FECCandidateName": null,
+    "status": "on-primary-ballot"
   },
   {
     "Name": "Derek Skees",
@@ -435,11 +460,12 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:19:02.002Z",
-    "updatedAt": "2022-05-10T20:09:57.979Z",
+    "updatedAt": "2022-06-06T20:07:05.649Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "FECCandidateName": null
+    "FECCandidateName": null,
+    "status": "on-primary-ballot"
   },
   {
     "Name": "Bill D'Alton",
@@ -452,11 +478,12 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:19:17.161Z",
-    "updatedAt": "2022-05-10T18:42:24.044Z",
+    "updatedAt": "2022-06-06T20:06:23.328Z",
     "Party": "NP",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "FECCandidateName": null
+    "FECCandidateName": null,
+    "status": "on-primary-ballot"
   },
   {
     "Name": "Jim Rice",
@@ -469,11 +496,12 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:19:29.798Z",
-    "updatedAt": "2022-05-10T18:53:07.430Z",
+    "updatedAt": "2022-06-06T20:06:28.996Z",
     "Party": "NP",
     "CampaignYoutubeUrl": null,
     "isIncumbent": true,
-    "FECCandidateName": null
+    "FECCandidateName": null,
+    "status": "on-primary-ballot"
   },
   {
     "Name": "James Brown",
@@ -486,11 +514,12 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:19:40.855Z",
-    "updatedAt": "2022-05-10T22:10:46.055Z",
+    "updatedAt": "2022-06-06T20:06:06.161Z",
     "Party": "NP",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "FECCandidateName": null
+    "FECCandidateName": null,
+    "status": "on-primary-ballot"
   },
   {
     "Name": "Ingrid Gustafson",
@@ -503,11 +532,12 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:19:57.997Z",
-    "updatedAt": "2022-05-10T18:54:03.796Z",
+    "updatedAt": "2022-06-06T20:06:11.730Z",
     "Party": "NP",
     "CampaignYoutubeUrl": null,
     "isIncumbent": true,
-    "FECCandidateName": null
+    "FECCandidateName": null,
+    "status": "on-primary-ballot"
   },
   {
     "Name": "Mike McMahon",
@@ -520,11 +550,12 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:20:38.566Z",
-    "updatedAt": "2022-05-10T18:54:40.183Z",
+    "updatedAt": "2022-06-06T20:06:17.244Z",
     "Party": "NP",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "FECCandidateName": null
+    "FECCandidateName": null,
+    "status": "on-primary-ballot"
   },
   {
     "Name": "Cora Neumann",
@@ -537,11 +568,12 @@
     "CampaignInstagramUrl": "https://www.instagram.com/coraformontana",
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:29:22.619Z",
-    "updatedAt": "2022-05-13T17:44:09.338Z",
+    "updatedAt": "2022-06-06T20:05:56.223Z",
     "Party": "D",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "FECCandidateName": "NEUMANN, CORA"
+    "FECCandidateName": "NEUMANN, CORA",
+    "status": "on-primary-ballot"
   },
   {
     "Name": "Mary Todd",
@@ -554,10 +586,11 @@
     "CampaignInstagramUrl": "https://www.instagram.com/marytoddformt/",
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-27T21:09:21.851Z",
-    "updatedAt": "2022-05-10T18:35:53.642Z",
+    "updatedAt": "2022-06-06T20:06:00.808Z",
     "Party": "R",
     "CampaignYoutubeUrl": "https://www.youtube.com/channel/UCJlMtSvN5JZGcW7lOKCobkQ",
     "isIncumbent": false,
-    "FECCandidateName": "TODD, MARY BROOKS"
+    "FECCandidateName": "TODD, MARY BROOKS",
+    "status": "on-primary-ballot"
   }
 ]

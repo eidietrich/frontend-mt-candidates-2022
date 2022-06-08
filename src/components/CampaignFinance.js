@@ -1,6 +1,8 @@
 import React from 'react'
 import { css } from '@emotion/react'
 
+import TruncatedContainer from '../library/TruncatedContainer'
+
 import { partyColor } from '../config/config'
 import { dollarFormatResponsive, dateFormat } from '../config/utils'
 
@@ -60,11 +62,15 @@ const style = css`
 const CampaignFinance = (props) => {
     const { finances, race } = props
 
+    const activeCandidates = finances // TODO - tweak after primary
+    const defeatedPrimaryCandidates = [] // TODO - tweak after primary
+
     const fecRaceSummaryUrl = FEC_PAGES[race]
     if (!fecRaceSummaryUrl) console.warn('Missing FEC race page for:', race)
 
     return <div css={style}>
         <div className="ledein">Based on reporting required by the U.S. Federal Election Commission. See individual candidate pages on the FEC website or the FEC's <a href={fecRaceSummaryUrl} target="_blank" rel="noopener noreferrer">race summary page</a> for more information. The FEC summary page may include candidates who haven't filed for the ballot in this race with the Montana secretary of state.</div>
+
         <div className="table">
             <div className="row thead">
                 <div className="label-cell">Candidate</div>
@@ -73,9 +79,25 @@ const CampaignFinance = (props) => {
                 <div className="num-cell">Remaining</div>
             </div>
             {
-                finances.map((d, i) => <Row key={String(i)} {...d} />)
+                activeCandidates.map((d, i) => <Row key={String(i)} {...d} />)
             }
+            {
+                (defeatedPrimaryCandidates.length > 0) && <TruncatedContainer
+                    height={1}
+                    defaultState={false}
+                    closedText={`Show ${defeatedPrimaryCandidates.length} candidate${defeatedPrimaryCandidates.length === 1 ? '' : 's'} defeated in primary`}
+                    openedText={`Hide ${defeatedPrimaryCandidates.length} candidate${defeatedPrimaryCandidates.length === 1 ? '' : 's'} defeated in primary`}
+                    buttonPlacement='above'
+
+                >
+                    {
+                        defeatedPrimaryCandidates.map((d, i) => <Row key={String(i)} {...d} />)
+                    }
+                </TruncatedContainer>
+            }
+
         </div>
+
     </div>
 }
 

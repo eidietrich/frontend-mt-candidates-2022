@@ -12,8 +12,9 @@ import Portrait from '../components/Portrait'
 import IssueQuestions from '../components/IssueQuestions'
 import CampaignFinance from '../components/CampaignFinance'
 import Coverage from '../components/Coverage'
+import RacePrimaryResults from '../components/RacePrimaryResults'
 
-import { partyColor } from '../config/config'
+import { parties, partyColor } from '../config/config'
 
 import NewsletterSignup from '../library/NewsletterSignup'
 
@@ -63,6 +64,10 @@ const style = css`
     .competitors {
         margin-top: 0.5em;
 
+        .competitors-list {
+            display: flex;
+            flex-wrap: wrap;
+        }
         
     }
     .ledein {
@@ -102,6 +107,7 @@ class CandidatePage extends Component {
             articles,
             partyLabel,
             issueAnswers,
+            status
         } = this.props.pageContext
 
         const color = partyColor(Party)
@@ -110,6 +116,13 @@ class CandidatePage extends Component {
             .sort((a, b) => ['R', 'D', 'L'].indexOf(a.Party) - ['R', 'D', 'L'].indexOf(b.Party))
 
         const hasWebLinks = CampaignWebsiteUrl || CampaignFBPageUrl || CampaignTwitterUrl || CampaignInstagramUrl || CampaignYoutubeUrl
+
+        const partyName = parties.find(d => d.key === Party).label
+        const label = {
+            'lost-primary': `Lost ${partyName} primary for ${race.label} in June 2022`,
+            'lost-general': `Lost general election for ${race.label} in November 2022`,
+            'widthdrew': `Withdrew from race for ${race.label}`,
+        }[status] || `2022 ${partyLabel} for ${race.label}`
 
         return (<div css={style}>
             <Seo
@@ -125,7 +138,7 @@ class CandidatePage extends Component {
                         <Portrait image={portrait} filename={`${urlKey}.png`} barColor={color} alt={Name} />
                     </div>
                     <div className="info">
-                        <div className="label">2022 {partyLabel} for {race.label}</div>
+                        <div className="label">{label}</div>
                         <h1>{Name}</h1>
                         <div className="short-summary">{SummaryLine}</div>
                         <div className="social-links-label">Campaign web links</div>
@@ -149,8 +162,10 @@ class CandidatePage extends Component {
                 </div>
 
                 <div className="competitors">
-                    <span>Competitors: </span>
-                    {opponents && opponents.map(d => <Opponent key={d.Name} {...d} />)}
+                    <div><em>Other active candidates</em></div>
+                    <div className="competitors-list">
+                        {opponents && opponents.map(d => <Opponent key={d.Name} {...d} />)}
+                    </div>
                 </div>
                 <ReactMarkdown>{LongSummary}</ReactMarkdown>
 
@@ -202,16 +217,21 @@ class CandidatePage extends Component {
 export default CandidatePage
 
 const opponentStyle = css`
-    :not(:last-child):after {
+    border: 1px solid var(--tan4);
+    background-color: var(--tan1);
+    padding: 0.2em 0.5em;
+    margin: 0.25em;
+    /* :not(:last-child):after {
         content: ', ';
-    }
+    } */
 `
 
 const Opponent = props => {
     const { Name, Party, urlKey } = props
-    return <span css={opponentStyle}>
-        <Link to={`/${urlKey}`}>{Name} ({Party})</Link>
-    </span >
+    const color = partyColor(Party)
+    return <div css={opponentStyle} style={{ borderLeft: `5px solid ${color}` }}>
+        <Link to={`/${urlKey}`}>{Name} </Link>
+    </div>
 }
 
 
