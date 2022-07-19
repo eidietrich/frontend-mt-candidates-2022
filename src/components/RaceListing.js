@@ -69,21 +69,27 @@ const RaceListing = props => {
 export default RaceListing
 
 const Race = props => {
-    const { slug, label, description, note, candidates, isNonpartisan, districtMap } = props
+    const { slug, label, description, note, candidates, isNonpartisan, districtMap, primaryResults } = props
     return <div className="Race" id={slug}>
         <h2 className="hed">{label}</h2>
         <div className="description">{description}</div>
         <div className="district-map">{districtMap}</div>
         <div className="slates">
             {
-                isNonpartisan && <PartySlate party="Nonpartisan" candidates={candidates} color="#666" />
+                isNonpartisan && <PartySlate party="Nonpartisan"
+                    candidates={candidates} color="#666"
+                    primaryResults={primaryResults.find(d => d.party === 'NP')}
+                />
             }
             {
                 !isNonpartisan && parties.map(p => {
                     const candidatesInParty = candidates.filter(d => d.Party === p.key)
                     if (candidatesInParty.length === 0) return null
                     const color = partyColor(p.key)
-                    return <PartySlate key={p.key} party={p.label} color={color} candidates={candidatesInParty} />
+                    return <PartySlate key={p.key} party={p.label} color={color}
+                        candidates={candidatesInParty}
+                        primaryResults={primaryResults.find(d => d.party === p.key)}
+                    />
                 })
             }
         </div>
@@ -92,25 +98,27 @@ const Race = props => {
 }
 
 const PartySlate = props => {
-    const { party, candidates, color } = props
+    const { party, candidates, color, primaryResults } = props
     if (candidates.length === 0) return null
     const slateStyle = css`border-left: 3px solid ${color};`
     return <div className="PartySlate" css={slateStyle}>
         <div className="party-name" style={{ color: color }}>{party}</div>
         <div className="candidates">
             {candidates
-                .filter(d => ['on-primary-ballot', 'advancing-to-general'].includes(d.status))
+                .filter(d => ['on-primary-ballot', 'advancing-to-general', 'won-election'].includes(d.status))
                 .sort((a, b) => surname(a.Name).localeCompare(surname(b.Name)))
                 // .sort((a, b) => a.isIncumbent ? -1 : 0) // Broke Firefox
                 .map(candidate => <CandidateCard key={candidate.urlKey} {...candidate} />)
             }
         </div>
-        {/* {
-            (party !== 'Independent') && <RacePrimaryResults
+        {
+            (party !== 'Independent') && (primaryResults.primaryResults.length > 0) && <RacePrimaryResults
+                results={primaryResults.primaryResults}
+                timestamp={primaryResults.resultsTimestamp}
                 barFill={color}
-                title={`Results of June 7 ${party} primary`}
+                title={`June 7 ${party} primary vote`}
             />
-        } */}
+        }
 
     </div>
 }

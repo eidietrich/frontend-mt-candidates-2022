@@ -62,8 +62,15 @@ const style = css`
 const CampaignFinance = (props) => {
     const { finances, race } = props
 
-    const activeCandidates = finances // TODO - tweak after primary
-    const defeatedPrimaryCandidates = [] // TODO - tweak after primary
+    const activeCandidates = finances.filter(d => [
+        'on-primary-ballot',
+        'advancing-to-general',
+        'won-election',
+        'lost-general'
+    ].includes(d.status))
+    const defeatedPrimaryCandidates = finances.filter(d => [
+        'lost-primary'
+    ].includes(d.status))
 
     const fecRaceSummaryUrl = FEC_PAGES[race]
     if (!fecRaceSummaryUrl) console.warn('Missing FEC race page for:', race)

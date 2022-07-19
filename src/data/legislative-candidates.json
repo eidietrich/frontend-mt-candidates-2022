@@ -26,19 +26,6 @@
     "CampaignYoutubeUrl": null
   },
   {
-    "urlKey": "sd-04-lee-huestis",
-    "Name": "LEE HUESTIS",
-    "District": "SD 04",
-    "Party": "R",
-    "Status": "open seat",
-    "City": "Kalispell",
-    "CampaignWebsiteUrl": "Huestisformontana.com",
-    "CampaignFBPageUrl": null,
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
     "urlKey": "sd-04-kyle-waterman",
     "Name": "KYLE WATERMAN",
     "District": "SD 04",
@@ -60,19 +47,6 @@
     "City": "Big Fork",
     "CampaignWebsiteUrl": null,
     "CampaignFBPageUrl": "https://www.facebook.com/profile.php?id=100008303146317",
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
-    "urlKey": "sd-05-rob-tracy",
-    "Name": "ROB TRACY",
-    "District": "SD 05",
-    "Party": "R",
-    "Status": "open seat",
-    "City": "Bigfork",
-    "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": "https://www.facebook.com/rob.tracy.7509",
     "CampaignTwitterUrl": null,
     "CampaignInstagramUrl": null,
     "CampaignYoutubeUrl": null
@@ -169,19 +143,6 @@
     "CampaignYoutubeUrl": null
   },
   {
-    "urlKey": "sd-12-desma-meissner",
-    "Name": "DESMA MEISSNER",
-    "District": "SD 12",
-    "Party": "R",
-    "Status": "open seat",
-    "City": "Great Falls",
-    "CampaignWebsiteUrl": "",
-    "CampaignFBPageUrl": "https://www.facebook.com/Desma-Meissner-for-SD12-101519172526275/photos/?_rdr",
-    "CampaignTwitterUrl": "",
-    "CampaignInstagramUrl": "",
-    "CampaignYoutubeUrl": null
-  },
-  {
     "urlKey": "sd-13-casey-schreiner",
     "Name": "CASEY SCHREINER",
     "District": "SD 13",
@@ -212,19 +173,6 @@
     "Name": "DAVID H BREWER",
     "District": "SD 14",
     "Party": "D",
-    "Status": "challenger",
-    "City": "Havre",
-    "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": null,
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
-    "urlKey": "sd-14-steven-chvilicek",
-    "Name": "STEVEN CHVILICEK",
-    "District": "SD 14",
-    "Party": "R",
     "Status": "challenger",
     "City": "Havre",
     "CampaignWebsiteUrl": null,
@@ -283,19 +231,6 @@
     "CampaignFBPageUrl": "https://www.facebook.com/MTSenatorBogner",
     "CampaignTwitterUrl": "https://twitter.com/kennethbogner",
     "CampaignInstagramUrl": "https://www.instagram.com/kenbogner/?hl=en",
-    "CampaignYoutubeUrl": null
-  },
-  {
-    "urlKey": "sd-20-geraldine-custer",
-    "Name": "GERALDINE CUSTER",
-    "District": "SD 20",
-    "Party": "R",
-    "Status": "open seat",
-    "City": "Forsyth",
-    "CampaignWebsiteUrl": "geraldinecuster.com",
-    "CampaignFBPageUrl": "https://www.facebook.com/CusterforMontana",
-    "CampaignTwitterUrl": "https://twitter.com/GOPpistol",
-    "CampaignInstagramUrl": null,
     "CampaignYoutubeUrl": null
   },
   {
@@ -468,19 +403,6 @@
     "CampaignYoutubeUrl": null
   },
   {
-    "urlKey": "sd-34-bryan-donald-haysom",
-    "Name": "BRYAN DONALD HAYSOM",
-    "District": "SD 34",
-    "Party": "R",
-    "Status": "open seat",
-    "City": "Belgrade",
-    "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": "https://www.facebook.com/MontanaHaysom",
-    "CampaignTwitterUrl": "https://twitter.com/bryanhaysom",
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
     "urlKey": "sd-34-damion-lynn",
     "Name": "DAMION LYNN",
     "District": "SD 34",
@@ -585,19 +507,6 @@
     "CampaignYoutubeUrl": null
   },
   {
-    "urlKey": "sd-43-joede-vanek",
-    "Name": "JOEDE VANEK",
-    "District": "SD 43",
-    "Party": "R",
-    "Status": "challenger",
-    "City": "Darby",
-    "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": "https://www.facebook.com/joede.vanek",
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": "https://www.instagram.com/vantac_nation/?hl=en",
-    "CampaignYoutubeUrl": null
-  },
-  {
     "urlKey": "sd-48-shane-a-morigeau",
     "Name": "SHANE A. MORIGEAU",
     "District": "SD 48",
@@ -650,19 +559,6 @@
     "CampaignYoutubeUrl": null
   },
   {
-    "urlKey": "sd-49-nancy-burgoyne",
-    "Name": "NANCY BURGOYNE",
-    "District": "SD 49",
-    "Party": "R",
-    "Status": "open seat",
-    "City": "Missoula",
-    "CampaignWebsiteUrl": "https://nancyburgoyne.com/",
-    "CampaignFBPageUrl": "",
-    "CampaignTwitterUrl": "",
-    "CampaignInstagramUrl": "",
-    "CampaignYoutubeUrl": null
-  },
-  {
     "urlKey": "sd-50-nick-knowles",
     "Name": "NICK KNOWLES",
     "District": "SD 50",
@@ -685,19 +581,6 @@
     "CampaignWebsiteUrl": "https://www.andreaolsenmt.com/",
     "CampaignFBPageUrl": "https://www.facebook.com/andreaolsenforsenate",
     "CampaignTwitterUrl": "https://twitter.com/andreajolsen",
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
-    "urlKey": "sd-50-tom-steenberg",
-    "Name": "TOM STEENBERG",
-    "District": "SD 50",
-    "Party": "D",
-    "Status": "incumbent",
-    "City": "Missoula",
-    "CampaignWebsiteUrl": "http://steenbergforsenate.com",
-    "CampaignFBPageUrl": "https://www.facebook.com/SteenbergForSenate?_rdr",
-    "CampaignTwitterUrl": null,
     "CampaignInstagramUrl": null,
     "CampaignYoutubeUrl": null
   },
@@ -754,19 +637,6 @@
     "CampaignYoutubeUrl": null
   },
   {
-    "urlKey": "hd-03-lorena-wood",
-    "Name": "LORENA WOOD",
-    "District": "HD 03",
-    "Party": "R",
-    "Status": "open seat",
-    "City": "Kalispell",
-    "CampaignWebsiteUrl": "https://www.lorenawoodforhouse.com/",
-    "CampaignFBPageUrl": null,
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
     "urlKey": "hd-04-kimberly-pinter",
     "Name": "KIMBERLY PINTER",
     "District": "HD 04",
@@ -806,19 +676,6 @@
     "CampaignYoutubeUrl": null
   },
   {
-    "urlKey": "hd-05-brian-owens",
-    "Name": "BRIAN OWENS",
-    "District": "HD 05",
-    "Party": "R",
-    "Status": "open seat",
-    "City": "Whitefish",
-    "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": null,
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
     "urlKey": "hd-05-dave-fern",
     "Name": "DAVE FERN",
     "District": "HD 05",
@@ -840,19 +697,6 @@
     "City": "Kalispell",
     "CampaignWebsiteUrl": null,
     "CampaignFBPageUrl": "https://www.facebook.com/RegierHD6",
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
-    "urlKey": "hd-07-dave-ingram",
-    "Name": "DAVE INGRAM",
-    "District": "HD 07",
-    "Party": "R",
-    "Status": "open seat",
-    "City": "Kalispell",
-    "CampaignWebsiteUrl": "http://www.ingramhd7.com/",
-    "CampaignFBPageUrl": "https://www.facebook.com/DrDaveHD7",
     "CampaignTwitterUrl": null,
     "CampaignInstagramUrl": null,
     "CampaignYoutubeUrl": null
@@ -897,19 +741,6 @@
     "CampaignYoutubeUrl": null
   },
   {
-    "urlKey": "hd-08-david-dunn",
-    "Name": "DAVID DUNN",
-    "District": "HD 08",
-    "Party": "R",
-    "Status": "open seat",
-    "City": "Whitefish",
-    "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": "https://www.facebook.com/DunnforHD8?_rdr",
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
     "urlKey": "hd-08-terry-falk",
     "Name": "TERRY FALK",
     "District": "HD 08",
@@ -923,45 +754,6 @@
     "CampaignYoutubeUrl": null
   },
   {
-    "urlKey": "hd-08-lynne-m-(ogden)-rider",
-    "Name": "LYNNE M (OGDEN) RIDER",
-    "District": "HD 08",
-    "Party": "R",
-    "Status": "open seat",
-    "City": "Kalispell",
-    "CampaignWebsiteUrl": "https://www.rider4mt.com/",
-    "CampaignFBPageUrl": null,
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
-    "urlKey": "hd-08-mark-twichel",
-    "Name": "MARK TWICHEL",
-    "District": "HD 08",
-    "Party": "R",
-    "Status": "open seat",
-    "City": "Kalispell",
-    "CampaignWebsiteUrl": "http://twich4mt.com/",
-    "CampaignFBPageUrl": "https://www.facebook.com/twich4mt",
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
-    "urlKey": "hd-09-david-august",
-    "Name": "DAVID AUGUST",
-    "District": "HD 09",
-    "Party": "R",
-    "Status": "open seat",
-    "City": "Kalispell",
-    "CampaignWebsiteUrl": "http://www.augustforhd9.com/",
-    "CampaignFBPageUrl": "https://www.facebook.com/August4HD9",
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
     "urlKey": "hd-09-tony-brockman",
     "Name": "TONY BROCKMAN",
     "District": "HD 09",
@@ -972,19 +764,6 @@
     "CampaignFBPageUrl": "https://www.facebook.com/BrockmanHD9/",
     "CampaignTwitterUrl": null,
     "CampaignInstagramUrl": "https://www.instagram.com/brockmanhd9/",
-    "CampaignYoutubeUrl": null
-  },
-  {
-    "urlKey": "hd-09-constance-neumann",
-    "Name": "CONSTANCE NEUMANN",
-    "District": "HD 09",
-    "Party": "R",
-    "Status": "open seat",
-    "City": "Kalispell",
-    "CampaignWebsiteUrl": "http://neumannformt.com/",
-    "CampaignFBPageUrl": null,
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
     "CampaignYoutubeUrl": null
   },
   {
@@ -1011,32 +790,6 @@
     "CampaignFBPageUrl": "",
     "CampaignTwitterUrl": "",
     "CampaignInstagramUrl": "",
-    "CampaignYoutubeUrl": null
-  },
-  {
-    "urlKey": "hd-11-devon-decker",
-    "Name": "DEVON DECKER",
-    "District": "HD 11",
-    "Party": "R",
-    "Status": "open seat",
-    "City": "Kalispell",
-    "CampaignWebsiteUrl": "http://devondecker4hd11.squarespace.com/",
-    "CampaignFBPageUrl": "https://www.facebook.com/DevonDeckerforMT",
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
-    "urlKey": "hd-11-ronalee-skees",
-    "Name": "RONALEE SKEES",
-    "District": "HD 11",
-    "Party": "R",
-    "Status": "open seat",
-    "City": "Kalispell",
-    "CampaignWebsiteUrl": "http://ronaleeskees.com/",
-    "CampaignFBPageUrl": null,
-    "CampaignTwitterUrl": "https://twitter.com/underabigsky",
-    "CampaignInstagramUrl": "https://www.instagram.com/skeesronalee/",
     "CampaignYoutubeUrl": null
   },
   {
@@ -1118,32 +871,6 @@
     "CampaignYoutubeUrl": null
   },
   {
-    "urlKey": "hd-14-randy-d-mitchell",
-    "Name": "RANDY D MITCHELL",
-    "District": "HD 14",
-    "Party": "R",
-    "Status": "challenger",
-    "City": "Saint Regis",
-    "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": null,
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
-    "urlKey": "hd-15-thedis-b-crowe",
-    "Name": "THEDIS B CROWE",
-    "District": "HD 15",
-    "Party": "D",
-    "Status": "challenger",
-    "City": "Browning",
-    "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": null,
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
     "urlKey": "hd-15-ralph-foster",
     "Name": "RALPH FOSTER",
     "District": "HD 15",
@@ -1152,32 +879,6 @@
     "City": "St Ignatius",
     "CampaignWebsiteUrl": null,
     "CampaignFBPageUrl": "https://www.facebook.com/ralph.foster.77",
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
-    "urlKey": "hd-15-bethsaida-(betsy)-johnson",
-    "Name": "BETHSAIDA (BETSY) JOHNSON",
-    "District": "HD 15",
-    "Party": "R",
-    "Status": "challenger",
-    "City": "Ronan",
-    "CampaignWebsiteUrl": "http://www.bjohnsonformt.com/",
-    "CampaignFBPageUrl": "https://www.facebook.com/betsyjohnsonMT",
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
-    "urlKey": "hd-15-adrien-owen-wagner",
-    "Name": "ADRIEN OWEN WAGNER",
-    "District": "HD 15",
-    "Party": "D",
-    "Status": "challenger",
-    "City": "Heart Butte",
-    "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": "https://www.facebook.com/AOW4MTHD15",
     "CampaignTwitterUrl": null,
     "CampaignInstagramUrl": null,
     "CampaignYoutubeUrl": null
@@ -1206,19 +907,6 @@
     "CampaignFBPageUrl": "https://www.facebook.com/tyson.runningwolf.1",
     "CampaignTwitterUrl": "https://twitter.com/runningtyson",
     "CampaignInstagramUrl": "https://www.instagram.com/tysonrunningwolf/",
-    "CampaignYoutubeUrl": null
-  },
-  {
-    "urlKey": "hd-17-justin-cleveland",
-    "Name": "JUSTIN CLEVELAND",
-    "District": "HD 17",
-    "Party": "R",
-    "Status": "challenger",
-    "City": "Fairfield",
-    "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": null,
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
     "CampaignYoutubeUrl": null
   },
   {
@@ -1300,19 +988,6 @@
     "CampaignYoutubeUrl": null
   },
   {
-    "urlKey": "hd-20-trent-short",
-    "Name": "TRENT SHORT",
-    "District": "HD 20",
-    "Party": "R",
-    "Status": "challenger",
-    "City": "Great Falls",
-    "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": null,
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
     "urlKey": "hd-21-ed-buttrey",
     "Name": "ED BUTTREY",
     "District": "HD 21",
@@ -1373,19 +1048,6 @@
     "City": "Great Falls",
     "CampaignWebsiteUrl": "http://lolasheldongalloway.com/",
     "CampaignFBPageUrl": "https://www.facebook.com/lolaformontana",
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
-    "urlKey": "hd-23-brad-hamlett",
-    "Name": "BRAD HAMLETT",
-    "District": "HD 23",
-    "Party": "D",
-    "Status": "challenger",
-    "City": "Cascade",
-    "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": "https://www.facebook.com/HamlettHD23/ and https://www.facebook.com/brad.hamlett.7",
     "CampaignTwitterUrl": null,
     "CampaignInstagramUrl": null,
     "CampaignYoutubeUrl": null
@@ -1466,19 +1128,6 @@
     "CampaignFBPageUrl": "https://www.facebook.com/JasmineKrotkov4MT",
     "CampaignTwitterUrl": "https://twitter.com/jkrotkov",
     "CampaignInstagramUrl": "https://www.instagram.com/jasminekrotkov4mt/?hl=en",
-    "CampaignYoutubeUrl": null
-  },
-  {
-    "urlKey": "hd-26-marci-marceau",
-    "Name": "MARCI MARCEAU",
-    "District": "HD 26",
-    "Party": "R",
-    "Status": "open seat",
-    "City": "Great Falls",
-    "CampaignWebsiteUrl": "https://www.marceau4montana.com/",
-    "CampaignFBPageUrl": "https://www.facebook.com/people/Marci-Marceau-for-HD26/100076558653972/?_rdr",
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
     "CampaignYoutubeUrl": null
   },
   {
@@ -1573,32 +1222,6 @@
     "CampaignYoutubeUrl": null
   },
   {
-    "urlKey": "hd-30-randyn-gregg",
-    "Name": "RANDYN GREGG",
-    "District": "HD 30",
-    "Party": "R",
-    "Status": "open seat",
-    "City": "White Sulphur Springs",
-    "CampaignWebsiteUrl": "http://randynformontana.com/",
-    "CampaignFBPageUrl": "https://www.facebook.com/people/Randyn-Gregg/100075287993111/",
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": "https://www.instagram.com/randyngregg/?hl=en",
-    "CampaignYoutubeUrl": null
-  },
-  {
-    "urlKey": "hd-30-harry-w-klock",
-    "Name": "HARRY W KLOCK",
-    "District": "HD 30",
-    "Party": "R",
-    "Status": "open seat",
-    "City": "Harlowton",
-    "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": "https://www.facebook.com/harry.klock.3",
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
     "urlKey": "hd-30-wendy-palmer",
     "Name": "WENDY PALMER",
     "District": "HD 30",
@@ -1635,19 +1258,6 @@
     "CampaignFBPageUrl": null,
     "CampaignTwitterUrl": null,
     "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
-    "urlKey": "hd-31-kaci-wallette",
-    "Name": "KACI WALLETTE",
-    "District": "HD 31",
-    "Party": "D",
-    "Status": "challenger",
-    "City": "Wolf Point",
-    "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": null,
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": "https://www.instagram.com/kacirosew/?hl=en",
     "CampaignYoutubeUrl": null
   },
   {
@@ -1742,19 +1352,6 @@
     "CampaignYoutubeUrl": null
   },
   {
-    "urlKey": "hd-38-wyatt-winchester-english",
-    "Name": "WYATT WINCHESTER ENGLISH",
-    "District": "HD 38",
-    "Party": "R",
-    "Status": "open seat",
-    "City": "Miles City",
-    "CampaignWebsiteUrl": "http://wyattenglishformontana.com/",
-    "CampaignFBPageUrl": "https://www.facebook.com/profile.php?id=100076273873541",
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
     "urlKey": "hd-38-greg-kmetz",
     "Name": "GREG KMETZ",
     "District": "HD 38",
@@ -1781,19 +1378,6 @@
     "CampaignYoutubeUrl": null
   },
   {
-    "urlKey": "hd-38-mike-willems",
-    "Name": "MIKE WILLEMS",
-    "District": "HD 38",
-    "Party": "R",
-    "Status": "open seat",
-    "City": "Miles City",
-    "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": "https://www.facebook.com/people/Mike-Willems/100006891130949/?_rdr",
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
     "urlKey": "hd-39-gary-parry",
     "Name": "GARY PARRY",
     "District": "HD 39",
@@ -1807,32 +1391,6 @@
     "CampaignYoutubeUrl": null
   },
   {
-    "urlKey": "hd-40-robert-(bob)-t-goffena",
-    "Name": "ROBERT (BOB) T GOFFENA",
-    "District": "HD 40",
-    "Party": "R",
-    "Status": "open seat",
-    "City": "Roundup",
-    "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": "https://www.facebook.com/RobertGoffena/",
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
-    "urlKey": "hd-40-john-nickelson",
-    "Name": "JOHN NICKELSON",
-    "District": "HD 40",
-    "Party": "R",
-    "Status": "open seat",
-    "City": "Roundup",
-    "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": "https://www.facebook.com/Nickelsonfordistrict40?_rdr",
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
     "urlKey": "hd-40-greg-oblander",
     "Name": "GREG OBLANDER",
     "District": "HD 40",
@@ -1841,19 +1399,6 @@
     "City": "Shepherd",
     "CampaignWebsiteUrl": "http://gregoblander4montana.com/",
     "CampaignFBPageUrl": "https://www.facebook.com/gregory.oblander",
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
-    "urlKey": "hd-40-bruce-hoiland",
-    "Name": "BRUCE HOILAND",
-    "District": "HD 40",
-    "Party": "R",
-    "Status": "open seat",
-    "City": "Roundup",
-    "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": "https://www.facebook.com/bruce.hoiland.5",
     "CampaignTwitterUrl": null,
     "CampaignInstagramUrl": null,
     "CampaignYoutubeUrl": null
@@ -2093,19 +1638,6 @@
     "CampaignYoutubeUrl": null
   },
   {
-    "urlKey": "hd-50-erin-r-tate",
-    "Name": "ERIN R. TATE",
-    "District": "HD 50",
-    "Party": "D",
-    "Status": "challenger",
-    "City": "Billings",
-    "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": "https://www.facebook.com/ErinforMontana?_rdr",
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
     "urlKey": "hd-51-carole-boerner",
     "Name": "CAROLE BOERNER",
     "District": "HD 51",
@@ -2197,19 +1729,6 @@
     "CampaignYoutubeUrl": null
   },
   {
-    "urlKey": "hd-55-curtis-schomer",
-    "Name": "CURTIS SCHOMER",
-    "District": "HD 55",
-    "Party": "R",
-    "Status": "open seat",
-    "City": "Laurel",
-    "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": "https://www.facebook.com/Schomerhd55?_rdr",
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
     "urlKey": "hd-56-sue-vinton",
     "Name": "SUE VINTON",
     "District": "HD 56",
@@ -2296,7 +1815,7 @@
     "City": "Livingston",
     "CampaignWebsiteUrl": "https://ruthweissmanforhd59.com/",
     "CampaignFBPageUrl": "https://www.facebook.com/RuthWeissmanforhd59/",
-    "CampaignTwitterUrl": "https://twitter.com/WeissmanforHD59",
+    "CampaignTwitterUrl": "https://twitter.com/ruthsweissman",
     "CampaignInstagramUrl": "https://www.instagram.com/weissmanforhd59/",
     "CampaignYoutubeUrl": null
   },
@@ -2457,19 +1976,6 @@
     "CampaignYoutubeUrl": null
   },
   {
-    "urlKey": "hd-64-michelle-vered",
-    "Name": "MICHELLE VERED",
-    "District": "HD 64",
-    "Party": "D",
-    "Status": "challenger",
-    "City": "Bozeman",
-    "CampaignWebsiteUrl": "http://michelleformontana.com/",
-    "CampaignFBPageUrl": "https://www.facebook.com/MichelleForMontana?ref=py_c&_rdr",
-    "CampaignTwitterUrl": "https://twitter.com/MichelleVered",
-    "CampaignInstagramUrl": "https://www.instagram.com/adventures_of_mishy/",
-    "CampaignYoutubeUrl": null
-  },
-  {
     "urlKey": "hd-65-james-cocco",
     "Name": "JAMES COCCO",
     "District": "HD 65",
@@ -2478,19 +1984,6 @@
     "City": "Bozeman",
     "CampaignWebsiteUrl": null,
     "CampaignFBPageUrl": "https://www.facebook.com/profile.php?id=100078381425238",
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
-    "urlKey": "hd-65-ryan-eisele",
-    "Name": "RYAN EISELE",
-    "District": "HD 65",
-    "Party": "R",
-    "Status": "challenger",
-    "City": "Bozeman",
-    "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": "https://www.facebook.com/ryaneisele1",
     "CampaignTwitterUrl": null,
     "CampaignInstagramUrl": null,
     "CampaignYoutubeUrl": null
@@ -2545,19 +2038,6 @@
     "CampaignFBPageUrl": "https://www.facebook.com/elizabeth.marum",
     "CampaignTwitterUrl": "https://twitter.com/ElizabethMarum",
     "CampaignInstagramUrl": "https://www.instagram.com/emuram/?hl=en",
-    "CampaignYoutubeUrl": null
-  },
-  {
-    "urlKey": "hd-68-bruce-grubbs",
-    "Name": "BRUCE GRUBBS",
-    "District": "HD 68",
-    "Party": "R",
-    "Status": "challenger",
-    "City": "Bozeman",
-    "CampaignWebsiteUrl": "http://grubbsformontana.com/",
-    "CampaignFBPageUrl": "https://www.facebook.com/BruceGrubbsHD68",
-    "CampaignTwitterUrl": "https://twitter.com/brucegrubbs",
-    "CampaignInstagramUrl": null,
     "CampaignYoutubeUrl": null
   },
   {
@@ -2623,19 +2103,6 @@
     "CampaignFBPageUrl": "https://www.facebook.com/carl.mohler.37",
     "CampaignTwitterUrl": null,
     "CampaignInstagramUrl": "https://www.instagram.com/carlmohlerjr/",
-    "CampaignYoutubeUrl": null
-  },
-  {
-    "urlKey": "hd-70-jeremiah-dawson",
-    "Name": "JEREMIAH DAWSON",
-    "District": "HD 70",
-    "Party": "D",
-    "Status": "challenger",
-    "City": "Three Forks",
-    "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": "https://www.facebook.com/jeremiah.dawson.12",
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": "https://www.instagram.com/jeremiahdawson406/?hl=en",
     "CampaignYoutubeUrl": null
   },
   {
@@ -2769,19 +2236,6 @@
     "CampaignYoutubeUrl": null
   },
   {
-    "urlKey": "hd-75-timothy-d-mckenrick",
-    "Name": "TIMOTHY D MCKENRICK",
-    "District": "HD 75",
-    "Party": "R",
-    "Status": "challenger",
-    "City": "Boulder",
-    "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": "https://www.facebook.com/people/Tim-McKenrick-for-MT-House-District-75/100079181690752/np",
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
     "urlKey": "hd-76-donavon-hawk",
     "Name": "DONAVON HAWK",
     "District": "HD 76",
@@ -2847,19 +2301,6 @@
     "CampaignYoutubeUrl": null
   },
   {
-    "urlKey": "hd-78-steven-d-grant",
-    "Name": "STEVEN D GRANT",
-    "District": "HD 78",
-    "Party": "R",
-    "Status": "challenger",
-    "City": "Deer Lodge",
-    "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": null,
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
     "urlKey": "hd-79-dennison-rivera",
     "Name": "DENNISON RIVERA",
     "District": "HD 79",
@@ -2899,19 +2340,6 @@
     "CampaignYoutubeUrl": null
   },
   {
-    "urlKey": "hd-81-charlie-hull",
-    "Name": "CHARLIE HULL",
-    "District": "HD 81",
-    "Party": "R",
-    "Status": "open seat",
-    "City": "East Helena",
-    "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": null,
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
     "urlKey": "hd-81-melissa-romano",
     "Name": "MELISSA ROMANO",
     "District": "HD 81",
@@ -2938,32 +2366,6 @@
     "CampaignYoutubeUrl": null
   },
   {
-    "urlKey": "hd-81-jake--c-troyer",
-    "Name": "JAKE  C TROYER",
-    "District": "HD 81",
-    "Party": "D",
-    "Status": "open seat",
-    "City": "Helena",
-    "CampaignWebsiteUrl": "http://troyerformontana.com/",
-    "CampaignFBPageUrl": "https://www.facebook.com/Troyer4MT/?ref=py_c&_rdr",
-    "CampaignTwitterUrl": "https://mobile.twitter.com/troyer4montana",
-    "CampaignInstagramUrl": "https://www.instagram.com/troyer4mt/",
-    "CampaignYoutubeUrl": null
-  },
-  {
-    "urlKey": "hd-81-jacob-b-torgerson",
-    "Name": "JACOB B. TORGERSON",
-    "District": "HD 81",
-    "Party": "D",
-    "Status": "open seat",
-    "City": "Helena",
-    "CampaignWebsiteUrl": "http://torgersonformt.com/",
-    "CampaignFBPageUrl": "https://www.facebook.com/jacob.torgerson.1 or https://www.facebook.com/jacobtorgersonformt",
-    "CampaignTwitterUrl": "https://twitter.com/TorgersonForMT",
-    "CampaignInstagramUrl": "https://www.instagram.com/torgersonformontana/",
-    "CampaignYoutubeUrl": null
-  },
-  {
     "urlKey": "hd-82-mary-m-caferro",
     "Name": "MARY M CAFERRO",
     "District": "HD 82",
@@ -2973,19 +2375,6 @@
     "CampaignWebsiteUrl": "http://marycaferro.com/",
     "CampaignFBPageUrl": "https://www.facebook.com/profile.php?id=100057775700859",
     "CampaignTwitterUrl": "https://twitter.com/marycaferro",
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
-    "urlKey": "hd-82-craig-sundberg",
-    "Name": "CRAIG SUNDBERG",
-    "District": "HD 82",
-    "Party": "D",
-    "Status": "open seat",
-    "City": "Helena",
-    "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": null,
-    "CampaignTwitterUrl": null,
     "CampaignInstagramUrl": null,
     "CampaignYoutubeUrl": null
   },
@@ -3029,19 +2418,6 @@
     "CampaignYoutubeUrl": null
   },
   {
-    "urlKey": "hd-84-kurt-j-aughney",
-    "Name": "KURT J AUGHNEY",
-    "District": "HD 84",
-    "Party": "R",
-    "Status": "open seat",
-    "City": "East Helena",
-    "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": "https://www.facebook.com/kurt.aughney",
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
     "urlKey": "hd-84-jill-cohenour",
     "Name": "JILL COHENOUR",
     "District": "HD 84",
@@ -3052,32 +2428,6 @@
     "CampaignFBPageUrl": "https://www.facebook.com/JillCohenourHD84",
     "CampaignTwitterUrl": "https://twitter.com/sencohenour",
     "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
-    "urlKey": "hd-84-noah-j-horan",
-    "Name": "NOAH J HORAN",
-    "District": "HD 84",
-    "Party": "D",
-    "Status": "open seat",
-    "City": "Helena",
-    "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": null,
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
-    "urlKey": "hd-84-keith-pigman",
-    "Name": "KEITH PIGMAN",
-    "District": "HD 84",
-    "Party": "R",
-    "Status": "open seat",
-    "City": "East Helena",
-    "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": "https://www.facebook.com/stuntshurt",
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": "https://www.instagram.com/mandime41/",
     "CampaignYoutubeUrl": null
   },
   {
@@ -3146,19 +2496,6 @@
     "CampaignYoutubeUrl": null
   },
   {
-    "urlKey": "hd-86-jeffrey-b-jones",
-    "Name": "JEFFREY B JONES",
-    "District": "HD 86",
-    "Party": "R",
-    "Status": "challenger",
-    "City": "Hamilton",
-    "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": null,
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
     "urlKey": "hd-87-ron-marshall",
     "Name": "RON MARSHALL",
     "District": "HD 87",
@@ -3168,32 +2505,6 @@
     "CampaignWebsiteUrl": null,
     "CampaignFBPageUrl": "https://www.facebook.com/people/Ron-Marshall-for-House-District-87/100034431830728/",
     "CampaignTwitterUrl": "",
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
-    "urlKey": "hd-87-will-lovett-moore",
-    "Name": "WILL LOVETT MOORE",
-    "District": "HD 87",
-    "Party": "I",
-    "Status": "open seat",
-    "City": "Florence",
-    "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": null,
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
-    "urlKey": "hd-88-alan-lackey",
-    "Name": "ALAN LACKEY",
-    "District": "HD 88",
-    "Party": "R",
-    "Status": "open seat",
-    "City": "Stevensville",
-    "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": "probably https://www.facebook.com/alan.lackey.3",
-    "CampaignTwitterUrl": null,
     "CampaignInstagramUrl": null,
     "CampaignYoutubeUrl": null
   },
@@ -3471,19 +2782,6 @@
     "CampaignYoutubeUrl": null
   },
   {
-    "urlKey": "hd-96-linda-swanson",
-    "Name": "LINDA SWANSON",
-    "District": "HD 96",
-    "Party": "D",
-    "Status": "challenger",
-    "City": "Missoula",
-    "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": "https://www.facebook.com/linda.swanson.735",
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
     "urlKey": "hd-96-kathy-whitman",
     "Name": "KATHY WHITMAN",
     "District": "HD 96",
@@ -3494,19 +2792,6 @@
     "CampaignFBPageUrl": "https://www.facebook.com/whitmanforhd96",
     "CampaignTwitterUrl": null,
     "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
-    "urlKey": "hd-97-michael-burks",
-    "Name": "MICHAEL BURKS",
-    "District": "HD 97",
-    "Party": "R",
-    "Status": "open seat",
-    "City": "Missoula",
-    "CampaignWebsiteUrl": "http://www.burksformontana.com/",
-    "CampaignFBPageUrl": "https://www.facebook.com/burksformontana",
-    "CampaignTwitterUrl": "https://twitter.com/michaellburks",
-    "CampaignInstagramUrl": "https://www.instagram.com/burksformontana/",
     "CampaignYoutubeUrl": null
   },
   {
@@ -3562,19 +2847,6 @@
     "CampaignYoutubeUrl": null
   },
   {
-    "urlKey": "hd-98-andy-nelson",
-    "Name": "ANDY NELSON",
-    "District": "HD 98",
-    "Party": "D",
-    "Status": "open seat",
-    "City": "Missoula",
-    "CampaignWebsiteUrl": "http://andy4montana.com/",
-    "CampaignFBPageUrl": "https://www.facebook.com/AndyNelsonforMontanaHD98",
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": "https://www.instagram.com/andynelson4montana/",
-    "CampaignYoutubeUrl": null
-  },
-  {
     "urlKey": "hd-98-sonia-shearer-hiett",
     "Name": "SONIA SHEARER-HIETT",
     "District": "HD 98",
@@ -3622,19 +2894,6 @@
     "City": "Missoula",
     "CampaignWebsiteUrl": null,
     "CampaignFBPageUrl": null,
-    "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
-    "CampaignYoutubeUrl": null
-  },
-  {
-    "urlKey": "hd-100-david-severson",
-    "Name": "DAVID SEVERSON",
-    "District": "HD 100",
-    "Party": "D",
-    "Status": "open seat",
-    "City": "Missoula",
-    "CampaignWebsiteUrl": "http://seversonformontana.com/",
-    "CampaignFBPageUrl": "https://www.facebook.com/david.severson.50",
     "CampaignTwitterUrl": null,
     "CampaignInstagramUrl": null,
     "CampaignYoutubeUrl": null

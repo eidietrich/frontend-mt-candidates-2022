@@ -107,7 +107,7 @@ class CandidatePage extends Component {
             articles,
             partyLabel,
             issueAnswers,
-            status
+            status,
         } = this.props.pageContext
 
         const color = partyColor(Party)
@@ -162,7 +162,7 @@ class CandidatePage extends Component {
                 </div>
 
                 <div className="competitors">
-                    <div><em>Other active candidates</em></div>
+                    <div><em>Active candidates in race</em></div>
                     <div className="competitors-list">
                         {opponents && opponents.map(d => <Opponent key={d.Name} {...d} />)}
                     </div>
@@ -206,6 +206,16 @@ class CandidatePage extends Component {
                     !race.hasQuestionnaire && <div>
                         <div className="ledein">MTFP hasn't put a formal issue questionnaire before candidates in this race.</div>
                     </div>
+                }
+
+                <h3>Election results</h3>
+                {
+                    (Party !== 'I') && race.primaryResults && (race.primaryResults.length > 0) && <RacePrimaryResults
+                        results={race.primaryResults}
+                        timestamp={race.resultsTimestamp}
+                        barFill={color}
+                        title={`June 7 ${parties.find(d => d.key === Party).label} primary vote`}
+                    />
                 }
 
             </Layout >

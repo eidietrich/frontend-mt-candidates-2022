@@ -12,8 +12,8 @@ const partyLabels = {
     'R': 'Republican candidate',
     'D': 'Democratic candidate',
     'L': 'Libertarian candidate',
-    'I': 'Independent candidate',
-    'NP': 'Candidate',
+    'I': 'independent candidate',
+    'NP': 'candidate',
 }
 
 const candidateFinanceInfo = (candidateName, candidatesInRace, rawResults) => {
@@ -38,6 +38,7 @@ const candidateFinanceInfo = (candidateName, candidatesInRace, rawResults) => {
         return {
             isThisCandidate: (c.Name === candidateName),
             displayName: c.Name,
+            status: c.status,
             party: c.Party,
             candidateId: fecMatch.candidate_id, // for links out
             // candidateCommitteeId: fecMatch.candidate_pcc_id,
@@ -54,22 +55,24 @@ const candidateFinanceInfo = (candidateName, candidatesInRace, rawResults) => {
 }
 
 const cleanLegislativeCandidates = candidates => {
-    return candidates.map(c => {
+    return candidates
+        .filter(d => d.status === 'won-primary')
+        .map(c => {
 
-        return {
-            urlKey: `${makeUrlKey(c.District)}-${makeUrlKey(c.Name)}`,
-            Name: c.Name,
-            District: c.District,
-            Party: c.Party,
-            Status: c.Status,
-            City: c.City,
-            CampaignWebsiteUrl: c.website_url === 'n/a' ? null : c.website_url,
-            CampaignFBPageUrl: c.fb_url === 'n/a' ? null : c.fb_url,
-            CampaignTwitterUrl: c.twitter_url === 'n/a' ? null : c.twitter_url,
-            CampaignInstagramUrl: c.insta_url === 'n/a' ? null : c.insta_url,
-            CampaignYoutubeUrl: null, // TODO - add to spreadsheet
-        }
-    })
+            return {
+                urlKey: `${makeUrlKey(c.District)}-${makeUrlKey(c.Name)}`,
+                Name: c.Name,
+                District: c.District,
+                Party: c.Party,
+                Status: c.Status,
+                City: c.City,
+                CampaignWebsiteUrl: c.website_url === 'n/a' ? null : c.website_url,
+                CampaignFBPageUrl: c.fb_url === 'n/a' ? null : c.fb_url,
+                CampaignTwitterUrl: c.twitter_url === 'n/a' ? null : c.twitter_url,
+                CampaignInstagramUrl: c.insta_url === 'n/a' ? null : c.insta_url,
+                CampaignYoutubeUrl: null, // TODO - add to spreadsheet
+            }
+        })
 }
 
 const logCandidateNames = candidates => {
@@ -104,7 +107,8 @@ const main = () => {
     const financeByRace = getJson('inputs/fec/finance.json')
     const articles = getJson('inputs/coverage/articles.json')
     const issueAnswers = getJson('inputs/issues/candidate-answers.json')
-    const rawLegislativeCandidates = getCsv('inputs/legislative/edited-legislative-filings-5-4-2022.csv')
+    const rawLegislativeCandidates = getCsv('inputs/legislative/legislative-filings-6-8-2022.csv')
+    const primaryResults = getJson('inputs/primary-results/results-cleaned.json')
 
     const legislativeCandidates = cleanLegislativeCandidates(rawLegislativeCandidates)
     writeJson('src/data/legislative-candidates.json', legislativeCandidates)
@@ -116,7 +120,9 @@ const main = () => {
         }
 
         const opponents = candidates
-            .filter(d => (d.Race === candidate.Race) && (d.Name !== candidate.Name))
+            .filter(d => (d.Race === candidate.Race))
+            // && (d.Name !== candidate.Name) // strike this to include all candidates in 'active candidates' listing
+            .filter(d => ['on-primary-ballot', 'advancing-to-general', 'won-election'].includes(d.status))
             .map(d => ({
                 "urlKey": makeUrlKey(d.Name),
                 "Name": d.Name,
@@ -157,21 +163,35 @@ const main = () => {
                 link: d.link,
             }))
 
+        const primaryResultsForCandidate = primaryResults.find(d => (d.race === race.key) && (d.party) === candidate.Party)
+
         candidate.race = {
             label: race.label,
             opponents: opponents,
             hasQuestionnaire: race.hasQuestionnaire,
             campaignFinance: race.campaignFinance,
+            primaryResults: primaryResultsForCandidate && primaryResultsForCandidate.resultsTotal || [],
+            resultsTimestamp: primaryResultsForCandidate && primaryResultsForCandidate.reportingTime || null,
         }
     })
     writeJson('src/data/candidates.json', candidates)
 
     const racesOutput = races.map(race => {
         const matchCandidates = candidates.filter(d => d.Race === race.key)
+        const partiesInRace = Array.from(new Set(matchCandidates.map(d => d.Party)))
+        // console.log(race.key, partiesInRace)
         // TODO - filter to only necessary fields here
         return {
             ...race,
             candidates: matchCandidates,
+            primaryResults: partiesInRace.map(party => {
+                const match = primaryResults.find(d => (d.race === race.key) && (d.party) === party)
+                return {
+                    party,
+                    primaryResults: match && match.resultsTotal || [],
+                    resultsTimestamp: match && match.reportingTime || null,
+                }
+            })
         }
     })
     writeJson('src/data/races.json', racesOutput)

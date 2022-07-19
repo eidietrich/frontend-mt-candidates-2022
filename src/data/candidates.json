@@ -10,18 +10,20 @@
     "CampaignInstagramUrl": "https://www.instagram.com/mattformontana/",
     "MtfpCoverageTag": "",
     "createdAt": "2022-04-15T21:33:58.788Z",
-    "updatedAt": "2022-06-06T19:59:54.790Z",
+    "updatedAt": "2022-06-08T18:10:10.305Z",
     "Party": "R",
     "CampaignYoutubeUrl": "https://www.youtube.com/user/MattForMontana",
     "isIncumbent": true,
     "FECCandidateName": "ROSENDALE, MATT MR.",
-    "status": "on-primary-ballot",
+    "status": "advancing-to-general",
+    "BallotName": "MATT ROSENDALE",
     "urlKey": "matt-rosendale",
     "partyLabel": "Republican candidate",
     "finances": [
       {
         "isThisCandidate": true,
         "displayName": "Matt Rosendale",
+        "status": "advancing-to-general",
         "party": "R",
         "candidateId": "H4MT00050",
         "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
@@ -33,6 +35,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Mark Sweeney",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H2MT02159",
         "candidateCommitteeName": "SWEENEY FOR MONTANA",
@@ -44,6 +47,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Gary Buchanan",
+        "status": "advancing-to-general",
         "party": "I",
         "candidateId": "H2MT02167",
         "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
@@ -55,6 +59,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Penny Ronning",
+        "status": "advancing-to-general",
         "party": "D",
         "candidateId": "H2MT02134",
         "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
@@ -66,6 +71,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Skylar Williams",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H2MT02118",
         "candidateCommitteeName": "SKYLARFORUSCONGRESS",
@@ -77,6 +83,7 @@
       {
         "isThisCandidate": false,
         "displayName": "James Boyette",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT02142",
         "candidateCommitteeName": "JAMES BOYETTE",
@@ -88,6 +95,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Kyle Austin",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT02175",
         "candidateCommitteeName": "AUSTIN FOR CONGRESS",
@@ -99,6 +107,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Sam Rankin",
+        "status": "advancing-to-general",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -110,6 +119,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Roger Roots",
+        "status": "lost-primary",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -121,6 +131,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Samuel Thomas",
+        "status": "lost-primary",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -132,6 +143,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Charles Walking Child",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -244,6 +256,16 @@
     ],
     "articles": [
       {
+        "title": "Rosendale, Ronning emerge from eastern Montana U.S. House primary",
+        "date": "2022-06-07T23:12:58",
+        "link": "https://montanafreepress.org/2022/06/07/rosendale-ronning-win-eastern-district-montana-house-primaries/"
+      },
+      {
+        "title": "Montana congressional candidates make final primary push ",
+        "date": "2022-06-06T16:51:48",
+        "link": "https://montanafreepress.org/2022/06/06/montana-congressional-primary-candidates-gear-up-for-tuesday-election/"
+      },
+      {
         "title": "In Eastern district U.S. House race, it’s Rosendale versus the idealists",
         "date": "2022-05-24T14:10:31",
         "link": "https://montanafreepress.org/2022/05/24/matt-rosendale-challengers-montana-eastern-us-house/"
@@ -263,17 +285,10 @@
       "label": "U.S. House District 2 (East)",
       "opponents": [
         {
-          "urlKey": "kyle-austin",
-          "Name": "Kyle Austin",
-          "SummaryLine": "Billings pharmacist",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
-          "urlKey": "james-boyette",
-          "Name": "James Boyette",
-          "SummaryLine": "Bozeman resident",
-          "isIncumbent": false,
+          "urlKey": "matt-rosendale",
+          "Name": "Matt Rosendale",
+          "SummaryLine": "Incumbent U.S. Representative",
+          "isIncumbent": true,
           "Party": "R"
         },
         {
@@ -296,45 +311,41 @@
           "SummaryLine": "Former Billings Councilwoman",
           "isIncumbent": false,
           "Party": "D"
-        },
-        {
-          "urlKey": "roger-roots",
-          "Name": "Roger Roots",
-          "SummaryLine": "Self-described “Libertarian gadfly”",
-          "isIncumbent": false,
-          "Party": "L"
-        },
-        {
-          "urlKey": "mark-sweeney",
-          "Name": "Mark Sweeney",
-          "SummaryLine": "(Deceased) State senator from Philipsburg",
-          "isIncumbent": false,
-          "Party": "D"
-        },
-        {
-          "urlKey": "samuel-thomas",
-          "Name": "Samuel Thomas",
-          "SummaryLine": "Missoula resident",
-          "isIncumbent": false,
-          "Party": "L"
-        },
-        {
-          "urlKey": "charles-walking-child",
-          "Name": "Charles Walking Child",
-          "SummaryLine": "Helena environmental contractor",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
-          "urlKey": "skylar-williams",
-          "Name": "Skylar Williams",
-          "SummaryLine": "Billings resident",
-          "isIncumbent": false,
-          "Party": "D"
         }
       ],
       "hasQuestionnaire": true,
-      "campaignFinance": "fec"
+      "campaignFinance": "fec",
+      "primaryResults": [
+        {
+          "candidate": "James Boyette",
+          "votes": 5712,
+          "urlKey": "james-boyette",
+          "votePercent": 0.058884169724959794,
+          "isWinner": false
+        },
+        {
+          "candidate": "Matt Rosendale",
+          "votes": 73453,
+          "urlKey": "matt-rosendale",
+          "votePercent": 0.7572161972702156,
+          "isWinner": true
+        },
+        {
+          "candidate": "Kyle Austin",
+          "votes": 11930,
+          "urlKey": "kyle-austin",
+          "votePercent": 0.1229846191909612,
+          "isWinner": false
+        },
+        {
+          "candidate": "Charles Walking Child",
+          "votes": 5909,
+          "urlKey": "charles-walking-child",
+          "votePercent": 0.06091501381386335,
+          "isWinner": false
+        }
+      ],
+      "resultsTimestamp": "2022-07-19T15:09:03.000Z"
     }
   },
   {
@@ -348,18 +359,20 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:08:42.864Z",
-    "updatedAt": "2022-06-06T20:04:18.650Z",
+    "updatedAt": "2022-06-08T18:12:06.810Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
     "FECCandidateName": "HEUER, MITCH MR.",
-    "status": "on-primary-ballot",
+    "status": "lost-primary",
+    "BallotName": "MITCH HEUER",
     "urlKey": "mitch-heuer",
     "partyLabel": "Republican candidate",
     "finances": [
       {
         "isThisCandidate": false,
         "displayName": "Ryan Zinke",
+        "status": "advancing-to-general",
         "party": "R",
         "candidateId": "H4MT01041",
         "candidateCommitteeName": "ZINKE FOR CONGRESS",
@@ -371,6 +384,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Cora Neumann",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H2MT02100",
         "candidateCommitteeName": "CORA FOR MONTANA",
@@ -382,6 +396,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Monica Tranel",
+        "status": "advancing-to-general",
         "party": "D",
         "candidateId": "H2MT02092",
         "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
@@ -393,6 +408,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Al Olszewski",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT02084",
         "candidateCommitteeName": "AL FOR MONTANA",
@@ -404,6 +420,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Mary Todd",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT00112",
         "candidateCommitteeName": "MARY TODD FOR MONTANA",
@@ -415,6 +432,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Tom Winter",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H0MT00090",
         "candidateCommitteeName": "WINTER FOR MONTANA",
@@ -426,6 +444,7 @@
       {
         "isThisCandidate": true,
         "displayName": "Mitch Heuer",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT01136",
         "candidateCommitteeName": "HEUER FOR CONGRESS",
@@ -437,6 +456,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Matt Jette",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT01110",
         "candidateCommitteeName": "JETTE 4 MONTANA",
@@ -448,6 +468,7 @@
       {
         "isThisCandidate": false,
         "displayName": "John Lamb",
+        "status": "advancing-to-general",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -582,25 +603,11 @@
       "label": "U.S. House District 1 (West)",
       "opponents": [
         {
-          "urlKey": "matt-jette",
-          "Name": "Matt Jette",
-          "SummaryLine": "High school government teacher, professor",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
           "urlKey": "john-lamb",
           "Name": "John Lamb",
           "SummaryLine": "Libertarian activist",
           "isIncumbent": false,
           "Party": "L"
-        },
-        {
-          "urlKey": "al-olszewski",
-          "Name": "Al Olszewski",
-          "SummaryLine": "Former Kalispell state senator, orthopedic surgeon",
-          "isIncumbent": false,
-          "Party": "R"
         },
         {
           "urlKey": "monica-tranel",
@@ -610,36 +617,53 @@
           "Party": "D"
         },
         {
-          "urlKey": "tom-winter",
-          "Name": "Tom Winter",
-          "SummaryLine": "Rural broadband contractor",
-          "isIncumbent": false,
-          "Party": "D"
-        },
-        {
           "urlKey": "ryan-zinke",
           "Name": "Ryan Zinke",
           "SummaryLine": "Former U.S. Interior Secretary",
           "isIncumbent": false,
           "Party": "R"
-        },
-        {
-          "urlKey": "cora-neumann",
-          "Name": "Cora Neumann",
-          "SummaryLine": "Public health and public lands advocate",
-          "isIncumbent": false,
-          "Party": "D"
-        },
-        {
-          "urlKey": "mary-todd",
-          "Name": "Mary Todd",
-          "SummaryLine": "Pastor, small business owner",
-          "isIncumbent": false,
-          "Party": "R"
         }
       ],
       "hasQuestionnaire": true,
-      "campaignFinance": "fec"
+      "campaignFinance": "fec",
+      "primaryResults": [
+        {
+          "candidate": "Al Olszewski",
+          "votes": 33927,
+          "urlKey": "al-olszewski",
+          "votePercent": 0.39741592381309376,
+          "isWinner": false
+        },
+        {
+          "candidate": "Mary Todd",
+          "votes": 8915,
+          "urlKey": "mary-todd",
+          "votePercent": 0.10442900818798392,
+          "isWinner": false
+        },
+        {
+          "candidate": "Ryan Zinke",
+          "votes": 35601,
+          "urlKey": "ryan-zinke",
+          "votePercent": 0.41702491536740505,
+          "isWinner": true
+        },
+        {
+          "candidate": "Mitch Heuer",
+          "votes": 1953,
+          "urlKey": "mitch-heuer",
+          "votePercent": 0.022877156813363164,
+          "isWinner": false
+        },
+        {
+          "candidate": "Matt Jette",
+          "votes": 4973,
+          "urlKey": "matt-jette",
+          "votePercent": 0.05825299581815413,
+          "isWinner": false
+        }
+      ],
+      "resultsTimestamp": "2022-07-19T15:09:03.000Z"
     }
   },
   {
@@ -653,18 +677,20 @@
     "CampaignInstagramUrl": "https://www.instagram.com/jette4montana2022/",
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:09:04.516Z",
-    "updatedAt": "2022-06-06T20:05:24.294Z",
+    "updatedAt": "2022-06-08T18:12:15.536Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
     "FECCandidateName": "JETTE, MATTHEW DR.",
-    "status": "on-primary-ballot",
+    "status": "lost-primary",
+    "BallotName": "MATT JETTE",
     "urlKey": "matt-jette",
     "partyLabel": "Republican candidate",
     "finances": [
       {
         "isThisCandidate": false,
         "displayName": "Ryan Zinke",
+        "status": "advancing-to-general",
         "party": "R",
         "candidateId": "H4MT01041",
         "candidateCommitteeName": "ZINKE FOR CONGRESS",
@@ -676,6 +702,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Cora Neumann",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H2MT02100",
         "candidateCommitteeName": "CORA FOR MONTANA",
@@ -687,6 +714,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Monica Tranel",
+        "status": "advancing-to-general",
         "party": "D",
         "candidateId": "H2MT02092",
         "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
@@ -698,6 +726,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Al Olszewski",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT02084",
         "candidateCommitteeName": "AL FOR MONTANA",
@@ -709,6 +738,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Mary Todd",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT00112",
         "candidateCommitteeName": "MARY TODD FOR MONTANA",
@@ -720,6 +750,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Tom Winter",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H0MT00090",
         "candidateCommitteeName": "WINTER FOR MONTANA",
@@ -731,6 +762,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Mitch Heuer",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT01136",
         "candidateCommitteeName": "HEUER FOR CONGRESS",
@@ -742,6 +774,7 @@
       {
         "isThisCandidate": true,
         "displayName": "Matt Jette",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT01110",
         "candidateCommitteeName": "JETTE 4 MONTANA",
@@ -753,6 +786,7 @@
       {
         "isThisCandidate": false,
         "displayName": "John Lamb",
+        "status": "advancing-to-general",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -879,25 +913,11 @@
       "label": "U.S. House District 1 (West)",
       "opponents": [
         {
-          "urlKey": "mitch-heuer",
-          "Name": "Mitch Heuer",
-          "SummaryLine": "Whitefish small business owner",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
           "urlKey": "john-lamb",
           "Name": "John Lamb",
           "SummaryLine": "Libertarian activist",
           "isIncumbent": false,
           "Party": "L"
-        },
-        {
-          "urlKey": "al-olszewski",
-          "Name": "Al Olszewski",
-          "SummaryLine": "Former Kalispell state senator, orthopedic surgeon",
-          "isIncumbent": false,
-          "Party": "R"
         },
         {
           "urlKey": "monica-tranel",
@@ -907,36 +927,53 @@
           "Party": "D"
         },
         {
-          "urlKey": "tom-winter",
-          "Name": "Tom Winter",
-          "SummaryLine": "Rural broadband contractor",
-          "isIncumbent": false,
-          "Party": "D"
-        },
-        {
           "urlKey": "ryan-zinke",
           "Name": "Ryan Zinke",
           "SummaryLine": "Former U.S. Interior Secretary",
           "isIncumbent": false,
           "Party": "R"
-        },
-        {
-          "urlKey": "cora-neumann",
-          "Name": "Cora Neumann",
-          "SummaryLine": "Public health and public lands advocate",
-          "isIncumbent": false,
-          "Party": "D"
-        },
-        {
-          "urlKey": "mary-todd",
-          "Name": "Mary Todd",
-          "SummaryLine": "Pastor, small business owner",
-          "isIncumbent": false,
-          "Party": "R"
         }
       ],
       "hasQuestionnaire": true,
-      "campaignFinance": "fec"
+      "campaignFinance": "fec",
+      "primaryResults": [
+        {
+          "candidate": "Al Olszewski",
+          "votes": 33927,
+          "urlKey": "al-olszewski",
+          "votePercent": 0.39741592381309376,
+          "isWinner": false
+        },
+        {
+          "candidate": "Mary Todd",
+          "votes": 8915,
+          "urlKey": "mary-todd",
+          "votePercent": 0.10442900818798392,
+          "isWinner": false
+        },
+        {
+          "candidate": "Ryan Zinke",
+          "votes": 35601,
+          "urlKey": "ryan-zinke",
+          "votePercent": 0.41702491536740505,
+          "isWinner": true
+        },
+        {
+          "candidate": "Mitch Heuer",
+          "votes": 1953,
+          "urlKey": "mitch-heuer",
+          "votePercent": 0.022877156813363164,
+          "isWinner": false
+        },
+        {
+          "candidate": "Matt Jette",
+          "votes": 4973,
+          "urlKey": "matt-jette",
+          "votePercent": 0.05825299581815413,
+          "isWinner": false
+        }
+      ],
+      "resultsTimestamp": "2022-07-19T15:09:03.000Z"
     }
   },
   {
@@ -950,18 +987,20 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:09:16.811Z",
-    "updatedAt": "2022-06-06T20:05:30.552Z",
+    "updatedAt": "2022-06-08T18:12:25.439Z",
     "Party": "L",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
     "FECCandidateName": null,
-    "status": "on-primary-ballot",
+    "status": "advancing-to-general",
+    "BallotName": "JOHN LAMB",
     "urlKey": "john-lamb",
     "partyLabel": "Libertarian candidate",
     "finances": [
       {
         "isThisCandidate": false,
         "displayName": "Ryan Zinke",
+        "status": "advancing-to-general",
         "party": "R",
         "candidateId": "H4MT01041",
         "candidateCommitteeName": "ZINKE FOR CONGRESS",
@@ -973,6 +1012,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Cora Neumann",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H2MT02100",
         "candidateCommitteeName": "CORA FOR MONTANA",
@@ -984,6 +1024,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Monica Tranel",
+        "status": "advancing-to-general",
         "party": "D",
         "candidateId": "H2MT02092",
         "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
@@ -995,6 +1036,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Al Olszewski",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT02084",
         "candidateCommitteeName": "AL FOR MONTANA",
@@ -1006,6 +1048,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Mary Todd",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT00112",
         "candidateCommitteeName": "MARY TODD FOR MONTANA",
@@ -1017,6 +1060,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Tom Winter",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H0MT00090",
         "candidateCommitteeName": "WINTER FOR MONTANA",
@@ -1028,6 +1072,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Mitch Heuer",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT01136",
         "candidateCommitteeName": "HEUER FOR CONGRESS",
@@ -1039,6 +1084,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Matt Jette",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT01110",
         "candidateCommitteeName": "JETTE 4 MONTANA",
@@ -1050,6 +1096,7 @@
       {
         "isThisCandidate": true,
         "displayName": "John Lamb",
+        "status": "advancing-to-general",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -1076,25 +1123,11 @@
       "label": "U.S. House District 1 (West)",
       "opponents": [
         {
-          "urlKey": "mitch-heuer",
-          "Name": "Mitch Heuer",
-          "SummaryLine": "Whitefish small business owner",
+          "urlKey": "john-lamb",
+          "Name": "John Lamb",
+          "SummaryLine": "Libertarian activist",
           "isIncumbent": false,
-          "Party": "R"
-        },
-        {
-          "urlKey": "matt-jette",
-          "Name": "Matt Jette",
-          "SummaryLine": "High school government teacher, professor",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
-          "urlKey": "al-olszewski",
-          "Name": "Al Olszewski",
-          "SummaryLine": "Former Kalispell state senator, orthopedic surgeon",
-          "isIncumbent": false,
-          "Party": "R"
+          "Party": "L"
         },
         {
           "urlKey": "monica-tranel",
@@ -1104,36 +1137,17 @@
           "Party": "D"
         },
         {
-          "urlKey": "tom-winter",
-          "Name": "Tom Winter",
-          "SummaryLine": "Rural broadband contractor",
-          "isIncumbent": false,
-          "Party": "D"
-        },
-        {
           "urlKey": "ryan-zinke",
           "Name": "Ryan Zinke",
           "SummaryLine": "Former U.S. Interior Secretary",
           "isIncumbent": false,
           "Party": "R"
-        },
-        {
-          "urlKey": "cora-neumann",
-          "Name": "Cora Neumann",
-          "SummaryLine": "Public health and public lands advocate",
-          "isIncumbent": false,
-          "Party": "D"
-        },
-        {
-          "urlKey": "mary-todd",
-          "Name": "Mary Todd",
-          "SummaryLine": "Pastor, small business owner",
-          "isIncumbent": false,
-          "Party": "R"
         }
       ],
       "hasQuestionnaire": true,
-      "campaignFinance": "fec"
+      "campaignFinance": "fec",
+      "primaryResults": [],
+      "resultsTimestamp": null
     }
   },
   {
@@ -1147,18 +1161,20 @@
     "CampaignInstagramUrl": "https://www.instagram.com/alformontana/",
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:09:36.240Z",
-    "updatedAt": "2022-06-06T20:05:35.194Z",
+    "updatedAt": "2022-06-10T14:18:00.136Z",
     "Party": "R",
     "CampaignYoutubeUrl": "https://youtube.com/channel/UC24Qe5GaGGIwQD0mCSPeRcg",
     "isIncumbent": false,
     "FECCandidateName": "OLSZEWSKI, AL",
-    "status": "on-primary-ballot",
+    "status": "lost-primary",
+    "BallotName": "AL \"DOC\" OLSZEWSKI",
     "urlKey": "al-olszewski",
     "partyLabel": "Republican candidate",
     "finances": [
       {
         "isThisCandidate": false,
         "displayName": "Ryan Zinke",
+        "status": "advancing-to-general",
         "party": "R",
         "candidateId": "H4MT01041",
         "candidateCommitteeName": "ZINKE FOR CONGRESS",
@@ -1170,6 +1186,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Cora Neumann",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H2MT02100",
         "candidateCommitteeName": "CORA FOR MONTANA",
@@ -1181,6 +1198,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Monica Tranel",
+        "status": "advancing-to-general",
         "party": "D",
         "candidateId": "H2MT02092",
         "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
@@ -1192,6 +1210,7 @@
       {
         "isThisCandidate": true,
         "displayName": "Al Olszewski",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT02084",
         "candidateCommitteeName": "AL FOR MONTANA",
@@ -1203,6 +1222,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Mary Todd",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT00112",
         "candidateCommitteeName": "MARY TODD FOR MONTANA",
@@ -1214,6 +1234,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Tom Winter",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H0MT00090",
         "candidateCommitteeName": "WINTER FOR MONTANA",
@@ -1225,6 +1246,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Mitch Heuer",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT01136",
         "candidateCommitteeName": "HEUER FOR CONGRESS",
@@ -1236,6 +1258,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Matt Jette",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT01110",
         "candidateCommitteeName": "JETTE 4 MONTANA",
@@ -1247,6 +1270,7 @@
       {
         "isThisCandidate": false,
         "displayName": "John Lamb",
+        "status": "advancing-to-general",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -1383,6 +1407,21 @@
     ],
     "articles": [
       {
+        "title": "Ryan Zinke narrowly wins Western district Republican primary",
+        "date": "2022-06-09T19:04:36",
+        "link": "https://montanafreepress.org/2022/06/09/ryan-zinke-wins-montana-western-district-republican-primary/"
+      },
+      {
+        "title": "Monica Tranel wins Democratic primary for U.S. House in western district ",
+        "date": "2022-06-07T22:35:22",
+        "link": "https://montanafreepress.org/2022/06/07/tranel-wins-democratic-primary-us-house/"
+      },
+      {
+        "title": "Montana congressional candidates make final primary push ",
+        "date": "2022-06-06T16:51:48",
+        "link": "https://montanafreepress.org/2022/06/06/montana-congressional-primary-candidates-gear-up-for-tuesday-election/"
+      },
+      {
         "title": "Who holds the keys to Montana’s Western congressional seat?",
         "date": "2022-05-19T15:40:04",
         "link": "https://montanafreepress.org/2022/05/19/how-will-voters-define-montanas-western-congressional-district/"
@@ -1396,20 +1435,6 @@
     "race": {
       "label": "U.S. House District 1 (West)",
       "opponents": [
-        {
-          "urlKey": "mitch-heuer",
-          "Name": "Mitch Heuer",
-          "SummaryLine": "Whitefish small business owner",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
-          "urlKey": "matt-jette",
-          "Name": "Matt Jette",
-          "SummaryLine": "High school government teacher, professor",
-          "isIncumbent": false,
-          "Party": "R"
-        },
         {
           "urlKey": "john-lamb",
           "Name": "John Lamb",
@@ -1425,36 +1450,53 @@
           "Party": "D"
         },
         {
-          "urlKey": "tom-winter",
-          "Name": "Tom Winter",
-          "SummaryLine": "Rural broadband contractor",
-          "isIncumbent": false,
-          "Party": "D"
-        },
-        {
           "urlKey": "ryan-zinke",
           "Name": "Ryan Zinke",
           "SummaryLine": "Former U.S. Interior Secretary",
           "isIncumbent": false,
           "Party": "R"
-        },
-        {
-          "urlKey": "cora-neumann",
-          "Name": "Cora Neumann",
-          "SummaryLine": "Public health and public lands advocate",
-          "isIncumbent": false,
-          "Party": "D"
-        },
-        {
-          "urlKey": "mary-todd",
-          "Name": "Mary Todd",
-          "SummaryLine": "Pastor, small business owner",
-          "isIncumbent": false,
-          "Party": "R"
         }
       ],
       "hasQuestionnaire": true,
-      "campaignFinance": "fec"
+      "campaignFinance": "fec",
+      "primaryResults": [
+        {
+          "candidate": "Al Olszewski",
+          "votes": 33927,
+          "urlKey": "al-olszewski",
+          "votePercent": 0.39741592381309376,
+          "isWinner": false
+        },
+        {
+          "candidate": "Mary Todd",
+          "votes": 8915,
+          "urlKey": "mary-todd",
+          "votePercent": 0.10442900818798392,
+          "isWinner": false
+        },
+        {
+          "candidate": "Ryan Zinke",
+          "votes": 35601,
+          "urlKey": "ryan-zinke",
+          "votePercent": 0.41702491536740505,
+          "isWinner": true
+        },
+        {
+          "candidate": "Mitch Heuer",
+          "votes": 1953,
+          "urlKey": "mitch-heuer",
+          "votePercent": 0.022877156813363164,
+          "isWinner": false
+        },
+        {
+          "candidate": "Matt Jette",
+          "votes": 4973,
+          "urlKey": "matt-jette",
+          "votePercent": 0.05825299581815413,
+          "isWinner": false
+        }
+      ],
+      "resultsTimestamp": "2022-07-19T15:09:03.000Z"
     }
   },
   {
@@ -1468,18 +1510,20 @@
     "CampaignInstagramUrl": "https://www.instagram.com/monica.tranel/",
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:09:50.929Z",
-    "updatedAt": "2022-06-06T20:05:40.240Z",
+    "updatedAt": "2022-06-08T18:13:02.233Z",
     "Party": "D",
     "CampaignYoutubeUrl": "https://www.youtube.com/channel/UCmfHRkAFeX3WsfsRI5BMrMA",
     "isIncumbent": false,
     "FECCandidateName": "TRANEL, MONICA",
-    "status": "on-primary-ballot",
+    "status": "advancing-to-general",
+    "BallotName": "MONICA TRANEL",
     "urlKey": "monica-tranel",
     "partyLabel": "Democratic candidate",
     "finances": [
       {
         "isThisCandidate": false,
         "displayName": "Ryan Zinke",
+        "status": "advancing-to-general",
         "party": "R",
         "candidateId": "H4MT01041",
         "candidateCommitteeName": "ZINKE FOR CONGRESS",
@@ -1491,6 +1535,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Cora Neumann",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H2MT02100",
         "candidateCommitteeName": "CORA FOR MONTANA",
@@ -1502,6 +1547,7 @@
       {
         "isThisCandidate": true,
         "displayName": "Monica Tranel",
+        "status": "advancing-to-general",
         "party": "D",
         "candidateId": "H2MT02092",
         "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
@@ -1513,6 +1559,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Al Olszewski",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT02084",
         "candidateCommitteeName": "AL FOR MONTANA",
@@ -1524,6 +1571,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Mary Todd",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT00112",
         "candidateCommitteeName": "MARY TODD FOR MONTANA",
@@ -1535,6 +1583,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Tom Winter",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H0MT00090",
         "candidateCommitteeName": "WINTER FOR MONTANA",
@@ -1546,6 +1595,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Mitch Heuer",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT01136",
         "candidateCommitteeName": "HEUER FOR CONGRESS",
@@ -1557,6 +1607,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Matt Jette",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT01110",
         "candidateCommitteeName": "JETTE 4 MONTANA",
@@ -1568,6 +1619,7 @@
       {
         "isThisCandidate": false,
         "displayName": "John Lamb",
+        "status": "advancing-to-general",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -1748,6 +1800,21 @@
     ],
     "articles": [
       {
+        "title": "Ryan Zinke narrowly wins Western district Republican primary",
+        "date": "2022-06-09T19:04:36",
+        "link": "https://montanafreepress.org/2022/06/09/ryan-zinke-wins-montana-western-district-republican-primary/"
+      },
+      {
+        "title": "Monica Tranel wins Democratic primary for U.S. House in western district ",
+        "date": "2022-06-07T22:35:22",
+        "link": "https://montanafreepress.org/2022/06/07/tranel-wins-democratic-primary-us-house/"
+      },
+      {
+        "title": "Montana congressional candidates make final primary push ",
+        "date": "2022-06-06T16:51:48",
+        "link": "https://montanafreepress.org/2022/06/06/montana-congressional-primary-candidates-gear-up-for-tuesday-election/"
+      },
+      {
         "title": "Who holds the keys to Montana’s Western congressional seat?",
         "date": "2022-05-19T15:40:04",
         "link": "https://montanafreepress.org/2022/05/19/how-will-voters-define-montanas-western-congressional-district/"
@@ -1762,20 +1829,6 @@
       "label": "U.S. House District 1 (West)",
       "opponents": [
         {
-          "urlKey": "mitch-heuer",
-          "Name": "Mitch Heuer",
-          "SummaryLine": "Whitefish small business owner",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
-          "urlKey": "matt-jette",
-          "Name": "Matt Jette",
-          "SummaryLine": "High school government teacher, professor",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
           "urlKey": "john-lamb",
           "Name": "John Lamb",
           "SummaryLine": "Libertarian activist",
@@ -1783,16 +1836,9 @@
           "Party": "L"
         },
         {
-          "urlKey": "al-olszewski",
-          "Name": "Al Olszewski",
-          "SummaryLine": "Former Kalispell state senator, orthopedic surgeon",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
-          "urlKey": "tom-winter",
-          "Name": "Tom Winter",
-          "SummaryLine": "Rural broadband contractor",
+          "urlKey": "monica-tranel",
+          "Name": "Monica Tranel",
+          "SummaryLine": "Missoula attorney",
           "isIncumbent": false,
           "Party": "D"
         },
@@ -1802,24 +1848,34 @@
           "SummaryLine": "Former U.S. Interior Secretary",
           "isIncumbent": false,
           "Party": "R"
-        },
-        {
-          "urlKey": "cora-neumann",
-          "Name": "Cora Neumann",
-          "SummaryLine": "Public health and public lands advocate",
-          "isIncumbent": false,
-          "Party": "D"
-        },
-        {
-          "urlKey": "mary-todd",
-          "Name": "Mary Todd",
-          "SummaryLine": "Pastor, small business owner",
-          "isIncumbent": false,
-          "Party": "R"
         }
       ],
       "hasQuestionnaire": true,
-      "campaignFinance": "fec"
+      "campaignFinance": "fec",
+      "primaryResults": [
+        {
+          "candidate": "Cora Neumann",
+          "votes": 15396,
+          "urlKey": "cora-neumann",
+          "votePercent": 0.26889288645929754,
+          "isWinner": false
+        },
+        {
+          "candidate": "Monica Tranel",
+          "votes": 37138,
+          "urlKey": "monica-tranel",
+          "votePercent": 0.6486193827828912,
+          "isWinner": true
+        },
+        {
+          "candidate": "Tom Winter",
+          "votes": 4723,
+          "urlKey": "tom-winter",
+          "votePercent": 0.08248773075781127,
+          "isWinner": false
+        }
+      ],
+      "resultsTimestamp": "2022-07-19T15:09:03.000Z"
     }
   },
   {
@@ -1833,18 +1889,20 @@
     "CampaignInstagramUrl": "https://www.instagram.com/winterformt/",
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:09:59.802Z",
-    "updatedAt": "2022-06-06T20:05:45.633Z",
+    "updatedAt": "2022-06-08T18:13:15.293Z",
     "Party": "D",
     "CampaignYoutubeUrl": "https://www.youtube.com/channel/UCVj7DabC44Rs2r820rldMHQ",
     "isIncumbent": false,
     "FECCandidateName": "WINTER, THOMAS",
-    "status": "on-primary-ballot",
+    "status": "lost-primary",
+    "BallotName": "TOM WINTER",
     "urlKey": "tom-winter",
     "partyLabel": "Democratic candidate",
     "finances": [
       {
         "isThisCandidate": false,
         "displayName": "Ryan Zinke",
+        "status": "advancing-to-general",
         "party": "R",
         "candidateId": "H4MT01041",
         "candidateCommitteeName": "ZINKE FOR CONGRESS",
@@ -1856,6 +1914,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Cora Neumann",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H2MT02100",
         "candidateCommitteeName": "CORA FOR MONTANA",
@@ -1867,6 +1926,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Monica Tranel",
+        "status": "advancing-to-general",
         "party": "D",
         "candidateId": "H2MT02092",
         "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
@@ -1878,6 +1938,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Al Olszewski",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT02084",
         "candidateCommitteeName": "AL FOR MONTANA",
@@ -1889,6 +1950,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Mary Todd",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT00112",
         "candidateCommitteeName": "MARY TODD FOR MONTANA",
@@ -1900,6 +1962,7 @@
       {
         "isThisCandidate": true,
         "displayName": "Tom Winter",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H0MT00090",
         "candidateCommitteeName": "WINTER FOR MONTANA",
@@ -1911,6 +1974,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Mitch Heuer",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT01136",
         "candidateCommitteeName": "HEUER FOR CONGRESS",
@@ -1922,6 +1986,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Matt Jette",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT01110",
         "candidateCommitteeName": "JETTE 4 MONTANA",
@@ -1933,6 +1998,7 @@
       {
         "isThisCandidate": false,
         "displayName": "John Lamb",
+        "status": "advancing-to-general",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -2077,6 +2143,11 @@
     ],
     "articles": [
       {
+        "title": "Montana congressional candidates make final primary push ",
+        "date": "2022-06-06T16:51:48",
+        "link": "https://montanafreepress.org/2022/06/06/montana-congressional-primary-candidates-gear-up-for-tuesday-election/"
+      },
+      {
         "title": "Who holds the keys to Montana’s Western congressional seat?",
         "date": "2022-05-19T15:40:04",
         "link": "https://montanafreepress.org/2022/05/19/how-will-voters-define-montanas-western-congressional-district/"
@@ -2091,32 +2162,11 @@
       "label": "U.S. House District 1 (West)",
       "opponents": [
         {
-          "urlKey": "mitch-heuer",
-          "Name": "Mitch Heuer",
-          "SummaryLine": "Whitefish small business owner",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
-          "urlKey": "matt-jette",
-          "Name": "Matt Jette",
-          "SummaryLine": "High school government teacher, professor",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
           "urlKey": "john-lamb",
           "Name": "John Lamb",
           "SummaryLine": "Libertarian activist",
           "isIncumbent": false,
           "Party": "L"
-        },
-        {
-          "urlKey": "al-olszewski",
-          "Name": "Al Olszewski",
-          "SummaryLine": "Former Kalispell state senator, orthopedic surgeon",
-          "isIncumbent": false,
-          "Party": "R"
         },
         {
           "urlKey": "monica-tranel",
@@ -2131,24 +2181,34 @@
           "SummaryLine": "Former U.S. Interior Secretary",
           "isIncumbent": false,
           "Party": "R"
-        },
-        {
-          "urlKey": "cora-neumann",
-          "Name": "Cora Neumann",
-          "SummaryLine": "Public health and public lands advocate",
-          "isIncumbent": false,
-          "Party": "D"
-        },
-        {
-          "urlKey": "mary-todd",
-          "Name": "Mary Todd",
-          "SummaryLine": "Pastor, small business owner",
-          "isIncumbent": false,
-          "Party": "R"
         }
       ],
       "hasQuestionnaire": true,
-      "campaignFinance": "fec"
+      "campaignFinance": "fec",
+      "primaryResults": [
+        {
+          "candidate": "Cora Neumann",
+          "votes": 15396,
+          "urlKey": "cora-neumann",
+          "votePercent": 0.26889288645929754,
+          "isWinner": false
+        },
+        {
+          "candidate": "Monica Tranel",
+          "votes": 37138,
+          "urlKey": "monica-tranel",
+          "votePercent": 0.6486193827828912,
+          "isWinner": true
+        },
+        {
+          "candidate": "Tom Winter",
+          "votes": 4723,
+          "urlKey": "tom-winter",
+          "votePercent": 0.08248773075781127,
+          "isWinner": false
+        }
+      ],
+      "resultsTimestamp": "2022-07-19T15:09:03.000Z"
     }
   },
   {
@@ -2162,18 +2222,20 @@
     "CampaignInstagramUrl": "https://www.instagram.com/zinkeformontana/",
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:10:13.274Z",
-    "updatedAt": "2022-06-06T20:05:51.359Z",
+    "updatedAt": "2022-06-10T14:18:07.492Z",
     "Party": "R",
     "CampaignYoutubeUrl": "https://www.youtube.com/channel/UCNsXl014OUkV4CtlXFdVB3g",
     "isIncumbent": false,
     "FECCandidateName": "ZINKE, RYAN K",
-    "status": "on-primary-ballot",
+    "status": "advancing-to-general",
+    "BallotName": "RYAN K ZINKE",
     "urlKey": "ryan-zinke",
     "partyLabel": "Republican candidate",
     "finances": [
       {
         "isThisCandidate": true,
         "displayName": "Ryan Zinke",
+        "status": "advancing-to-general",
         "party": "R",
         "candidateId": "H4MT01041",
         "candidateCommitteeName": "ZINKE FOR CONGRESS",
@@ -2185,6 +2247,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Cora Neumann",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H2MT02100",
         "candidateCommitteeName": "CORA FOR MONTANA",
@@ -2196,6 +2259,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Monica Tranel",
+        "status": "advancing-to-general",
         "party": "D",
         "candidateId": "H2MT02092",
         "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
@@ -2207,6 +2271,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Al Olszewski",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT02084",
         "candidateCommitteeName": "AL FOR MONTANA",
@@ -2218,6 +2283,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Mary Todd",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT00112",
         "candidateCommitteeName": "MARY TODD FOR MONTANA",
@@ -2229,6 +2295,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Tom Winter",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H0MT00090",
         "candidateCommitteeName": "WINTER FOR MONTANA",
@@ -2240,6 +2307,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Mitch Heuer",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT01136",
         "candidateCommitteeName": "HEUER FOR CONGRESS",
@@ -2251,6 +2319,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Matt Jette",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT01110",
         "candidateCommitteeName": "JETTE 4 MONTANA",
@@ -2262,6 +2331,7 @@
       {
         "isThisCandidate": false,
         "displayName": "John Lamb",
+        "status": "advancing-to-general",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -2374,6 +2444,21 @@
     ],
     "articles": [
       {
+        "title": "Ryan Zinke narrowly wins Western district Republican primary",
+        "date": "2022-06-09T19:04:36",
+        "link": "https://montanafreepress.org/2022/06/09/ryan-zinke-wins-montana-western-district-republican-primary/"
+      },
+      {
+        "title": "Monica Tranel wins Democratic primary for U.S. House in western district ",
+        "date": "2022-06-07T22:35:22",
+        "link": "https://montanafreepress.org/2022/06/07/tranel-wins-democratic-primary-us-house/"
+      },
+      {
+        "title": "Montana congressional candidates make final primary push ",
+        "date": "2022-06-06T16:51:48",
+        "link": "https://montanafreepress.org/2022/06/06/montana-congressional-primary-candidates-gear-up-for-tuesday-election/"
+      },
+      {
         "title": "Who holds the keys to Montana’s Western congressional seat?",
         "date": "2022-05-19T15:40:04",
         "link": "https://montanafreepress.org/2022/05/19/how-will-voters-define-montanas-western-congressional-district/"
@@ -2388,32 +2473,11 @@
       "label": "U.S. House District 1 (West)",
       "opponents": [
         {
-          "urlKey": "mitch-heuer",
-          "Name": "Mitch Heuer",
-          "SummaryLine": "Whitefish small business owner",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
-          "urlKey": "matt-jette",
-          "Name": "Matt Jette",
-          "SummaryLine": "High school government teacher, professor",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
           "urlKey": "john-lamb",
           "Name": "John Lamb",
           "SummaryLine": "Libertarian activist",
           "isIncumbent": false,
           "Party": "L"
-        },
-        {
-          "urlKey": "al-olszewski",
-          "Name": "Al Olszewski",
-          "SummaryLine": "Former Kalispell state senator, orthopedic surgeon",
-          "isIncumbent": false,
-          "Party": "R"
         },
         {
           "urlKey": "monica-tranel",
@@ -2423,29 +2487,53 @@
           "Party": "D"
         },
         {
-          "urlKey": "tom-winter",
-          "Name": "Tom Winter",
-          "SummaryLine": "Rural broadband contractor",
-          "isIncumbent": false,
-          "Party": "D"
-        },
-        {
-          "urlKey": "cora-neumann",
-          "Name": "Cora Neumann",
-          "SummaryLine": "Public health and public lands advocate",
-          "isIncumbent": false,
-          "Party": "D"
-        },
-        {
-          "urlKey": "mary-todd",
-          "Name": "Mary Todd",
-          "SummaryLine": "Pastor, small business owner",
+          "urlKey": "ryan-zinke",
+          "Name": "Ryan Zinke",
+          "SummaryLine": "Former U.S. Interior Secretary",
           "isIncumbent": false,
           "Party": "R"
         }
       ],
       "hasQuestionnaire": true,
-      "campaignFinance": "fec"
+      "campaignFinance": "fec",
+      "primaryResults": [
+        {
+          "candidate": "Al Olszewski",
+          "votes": 33927,
+          "urlKey": "al-olszewski",
+          "votePercent": 0.39741592381309376,
+          "isWinner": false
+        },
+        {
+          "candidate": "Mary Todd",
+          "votes": 8915,
+          "urlKey": "mary-todd",
+          "votePercent": 0.10442900818798392,
+          "isWinner": false
+        },
+        {
+          "candidate": "Ryan Zinke",
+          "votes": 35601,
+          "urlKey": "ryan-zinke",
+          "votePercent": 0.41702491536740505,
+          "isWinner": true
+        },
+        {
+          "candidate": "Mitch Heuer",
+          "votes": 1953,
+          "urlKey": "mitch-heuer",
+          "votePercent": 0.022877156813363164,
+          "isWinner": false
+        },
+        {
+          "candidate": "Matt Jette",
+          "votes": 4973,
+          "urlKey": "matt-jette",
+          "votePercent": 0.05825299581815413,
+          "isWinner": false
+        }
+      ],
+      "resultsTimestamp": "2022-07-19T15:09:03.000Z"
     }
   },
   {
@@ -2459,18 +2547,20 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:10:46.697Z",
-    "updatedAt": "2022-06-06T19:59:09.260Z",
+    "updatedAt": "2022-06-08T18:10:15.488Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
     "FECCandidateName": "AUSTIN, KYLE RAY",
-    "status": "on-primary-ballot",
+    "status": "lost-primary",
+    "BallotName": "KYLE AUSTIN",
     "urlKey": "kyle-austin",
     "partyLabel": "Republican candidate",
     "finances": [
       {
         "isThisCandidate": false,
         "displayName": "Matt Rosendale",
+        "status": "advancing-to-general",
         "party": "R",
         "candidateId": "H4MT00050",
         "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
@@ -2482,6 +2572,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Mark Sweeney",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H2MT02159",
         "candidateCommitteeName": "SWEENEY FOR MONTANA",
@@ -2493,6 +2584,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Gary Buchanan",
+        "status": "advancing-to-general",
         "party": "I",
         "candidateId": "H2MT02167",
         "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
@@ -2504,6 +2596,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Penny Ronning",
+        "status": "advancing-to-general",
         "party": "D",
         "candidateId": "H2MT02134",
         "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
@@ -2515,6 +2608,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Skylar Williams",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H2MT02118",
         "candidateCommitteeName": "SKYLARFORUSCONGRESS",
@@ -2526,6 +2620,7 @@
       {
         "isThisCandidate": false,
         "displayName": "James Boyette",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT02142",
         "candidateCommitteeName": "JAMES BOYETTE",
@@ -2537,6 +2632,7 @@
       {
         "isThisCandidate": true,
         "displayName": "Kyle Austin",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT02175",
         "candidateCommitteeName": "AUSTIN FOR CONGRESS",
@@ -2548,6 +2644,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Sam Rankin",
+        "status": "advancing-to-general",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -2559,6 +2656,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Roger Roots",
+        "status": "lost-primary",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -2570,6 +2668,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Samuel Thomas",
+        "status": "lost-primary",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -2581,6 +2680,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Charles Walking Child",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -2714,13 +2814,6 @@
           "Party": "R"
         },
         {
-          "urlKey": "james-boyette",
-          "Name": "James Boyette",
-          "SummaryLine": "Bozeman resident",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
           "urlKey": "gary-buchanan",
           "Name": "Gary Buchanan",
           "SummaryLine": "Billings financial advisor",
@@ -2740,45 +2833,41 @@
           "SummaryLine": "Former Billings Councilwoman",
           "isIncumbent": false,
           "Party": "D"
-        },
-        {
-          "urlKey": "roger-roots",
-          "Name": "Roger Roots",
-          "SummaryLine": "Self-described “Libertarian gadfly”",
-          "isIncumbent": false,
-          "Party": "L"
-        },
-        {
-          "urlKey": "mark-sweeney",
-          "Name": "Mark Sweeney",
-          "SummaryLine": "(Deceased) State senator from Philipsburg",
-          "isIncumbent": false,
-          "Party": "D"
-        },
-        {
-          "urlKey": "samuel-thomas",
-          "Name": "Samuel Thomas",
-          "SummaryLine": "Missoula resident",
-          "isIncumbent": false,
-          "Party": "L"
-        },
-        {
-          "urlKey": "charles-walking-child",
-          "Name": "Charles Walking Child",
-          "SummaryLine": "Helena environmental contractor",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
-          "urlKey": "skylar-williams",
-          "Name": "Skylar Williams",
-          "SummaryLine": "Billings resident",
-          "isIncumbent": false,
-          "Party": "D"
         }
       ],
       "hasQuestionnaire": true,
-      "campaignFinance": "fec"
+      "campaignFinance": "fec",
+      "primaryResults": [
+        {
+          "candidate": "James Boyette",
+          "votes": 5712,
+          "urlKey": "james-boyette",
+          "votePercent": 0.058884169724959794,
+          "isWinner": false
+        },
+        {
+          "candidate": "Matt Rosendale",
+          "votes": 73453,
+          "urlKey": "matt-rosendale",
+          "votePercent": 0.7572161972702156,
+          "isWinner": true
+        },
+        {
+          "candidate": "Kyle Austin",
+          "votes": 11930,
+          "urlKey": "kyle-austin",
+          "votePercent": 0.1229846191909612,
+          "isWinner": false
+        },
+        {
+          "candidate": "Charles Walking Child",
+          "votes": 5909,
+          "urlKey": "charles-walking-child",
+          "votePercent": 0.06091501381386335,
+          "isWinner": false
+        }
+      ],
+      "resultsTimestamp": "2022-07-19T15:09:03.000Z"
     }
   },
   {
@@ -2792,18 +2881,20 @@
     "CampaignInstagramUrl": "https://www.instagram.com/boyette4congress/",
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:11:06.334Z",
-    "updatedAt": "2022-06-06T20:00:01.607Z",
+    "updatedAt": "2022-06-08T18:10:22.447Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
     "FECCandidateName": "BOYETTE, JAMES MATTHEW",
-    "status": "on-primary-ballot",
+    "status": "lost-primary",
+    "BallotName": "JAMES BOYETTE",
     "urlKey": "james-boyette",
     "partyLabel": "Republican candidate",
     "finances": [
       {
         "isThisCandidate": false,
         "displayName": "Matt Rosendale",
+        "status": "advancing-to-general",
         "party": "R",
         "candidateId": "H4MT00050",
         "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
@@ -2815,6 +2906,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Mark Sweeney",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H2MT02159",
         "candidateCommitteeName": "SWEENEY FOR MONTANA",
@@ -2826,6 +2918,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Gary Buchanan",
+        "status": "advancing-to-general",
         "party": "I",
         "candidateId": "H2MT02167",
         "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
@@ -2837,6 +2930,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Penny Ronning",
+        "status": "advancing-to-general",
         "party": "D",
         "candidateId": "H2MT02134",
         "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
@@ -2848,6 +2942,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Skylar Williams",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H2MT02118",
         "candidateCommitteeName": "SKYLARFORUSCONGRESS",
@@ -2859,6 +2954,7 @@
       {
         "isThisCandidate": true,
         "displayName": "James Boyette",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT02142",
         "candidateCommitteeName": "JAMES BOYETTE",
@@ -2870,6 +2966,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Kyle Austin",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT02175",
         "candidateCommitteeName": "AUSTIN FOR CONGRESS",
@@ -2881,6 +2978,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Sam Rankin",
+        "status": "advancing-to-general",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -2892,6 +2990,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Roger Roots",
+        "status": "lost-primary",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -2903,6 +3002,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Samuel Thomas",
+        "status": "lost-primary",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -2914,6 +3014,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Charles Walking Child",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -3151,13 +3252,6 @@
           "Party": "R"
         },
         {
-          "urlKey": "kyle-austin",
-          "Name": "Kyle Austin",
-          "SummaryLine": "Billings pharmacist",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
           "urlKey": "gary-buchanan",
           "Name": "Gary Buchanan",
           "SummaryLine": "Billings financial advisor",
@@ -3177,45 +3271,41 @@
           "SummaryLine": "Former Billings Councilwoman",
           "isIncumbent": false,
           "Party": "D"
-        },
-        {
-          "urlKey": "roger-roots",
-          "Name": "Roger Roots",
-          "SummaryLine": "Self-described “Libertarian gadfly”",
-          "isIncumbent": false,
-          "Party": "L"
-        },
-        {
-          "urlKey": "mark-sweeney",
-          "Name": "Mark Sweeney",
-          "SummaryLine": "(Deceased) State senator from Philipsburg",
-          "isIncumbent": false,
-          "Party": "D"
-        },
-        {
-          "urlKey": "samuel-thomas",
-          "Name": "Samuel Thomas",
-          "SummaryLine": "Missoula resident",
-          "isIncumbent": false,
-          "Party": "L"
-        },
-        {
-          "urlKey": "charles-walking-child",
-          "Name": "Charles Walking Child",
-          "SummaryLine": "Helena environmental contractor",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
-          "urlKey": "skylar-williams",
-          "Name": "Skylar Williams",
-          "SummaryLine": "Billings resident",
-          "isIncumbent": false,
-          "Party": "D"
         }
       ],
       "hasQuestionnaire": true,
-      "campaignFinance": "fec"
+      "campaignFinance": "fec",
+      "primaryResults": [
+        {
+          "candidate": "James Boyette",
+          "votes": 5712,
+          "urlKey": "james-boyette",
+          "votePercent": 0.058884169724959794,
+          "isWinner": false
+        },
+        {
+          "candidate": "Matt Rosendale",
+          "votes": 73453,
+          "urlKey": "matt-rosendale",
+          "votePercent": 0.7572161972702156,
+          "isWinner": true
+        },
+        {
+          "candidate": "Kyle Austin",
+          "votes": 11930,
+          "urlKey": "kyle-austin",
+          "votePercent": 0.1229846191909612,
+          "isWinner": false
+        },
+        {
+          "candidate": "Charles Walking Child",
+          "votes": 5909,
+          "urlKey": "charles-walking-child",
+          "votePercent": 0.06091501381386335,
+          "isWinner": false
+        }
+      ],
+      "resultsTimestamp": "2022-07-19T15:09:03.000Z"
     }
   },
   {
@@ -3235,12 +3325,14 @@
     "isIncumbent": false,
     "FECCandidateName": "BUCHANAN, GARY",
     "status": "advancing-to-general",
+    "BallotName": null,
     "urlKey": "gary-buchanan",
-    "partyLabel": "Independent candidate",
+    "partyLabel": "independent candidate",
     "finances": [
       {
         "isThisCandidate": false,
         "displayName": "Matt Rosendale",
+        "status": "advancing-to-general",
         "party": "R",
         "candidateId": "H4MT00050",
         "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
@@ -3252,6 +3344,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Mark Sweeney",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H2MT02159",
         "candidateCommitteeName": "SWEENEY FOR MONTANA",
@@ -3263,6 +3356,7 @@
       {
         "isThisCandidate": true,
         "displayName": "Gary Buchanan",
+        "status": "advancing-to-general",
         "party": "I",
         "candidateId": "H2MT02167",
         "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
@@ -3274,6 +3368,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Penny Ronning",
+        "status": "advancing-to-general",
         "party": "D",
         "candidateId": "H2MT02134",
         "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
@@ -3285,6 +3380,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Skylar Williams",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H2MT02118",
         "candidateCommitteeName": "SKYLARFORUSCONGRESS",
@@ -3296,6 +3392,7 @@
       {
         "isThisCandidate": false,
         "displayName": "James Boyette",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT02142",
         "candidateCommitteeName": "JAMES BOYETTE",
@@ -3307,6 +3404,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Kyle Austin",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT02175",
         "candidateCommitteeName": "AUSTIN FOR CONGRESS",
@@ -3318,6 +3416,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Sam Rankin",
+        "status": "advancing-to-general",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -3329,6 +3428,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Roger Roots",
+        "status": "lost-primary",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -3340,6 +3440,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Samuel Thomas",
+        "status": "lost-primary",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -3351,6 +3452,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Charles Walking Child",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -3463,6 +3565,11 @@
     ],
     "articles": [
       {
+        "title": "Montana congressional candidates make final primary push ",
+        "date": "2022-06-06T16:51:48",
+        "link": "https://montanafreepress.org/2022/06/06/montana-congressional-primary-candidates-gear-up-for-tuesday-election/"
+      },
+      {
         "title": "In Eastern district U.S. House race, it’s Rosendale versus the idealists",
         "date": "2022-05-24T14:10:31",
         "link": "https://montanafreepress.org/2022/05/24/matt-rosendale-challengers-montana-eastern-us-house/"
@@ -3489,18 +3596,11 @@
           "Party": "R"
         },
         {
-          "urlKey": "kyle-austin",
-          "Name": "Kyle Austin",
-          "SummaryLine": "Billings pharmacist",
+          "urlKey": "gary-buchanan",
+          "Name": "Gary Buchanan",
+          "SummaryLine": "Billings financial advisor",
           "isIncumbent": false,
-          "Party": "R"
-        },
-        {
-          "urlKey": "james-boyette",
-          "Name": "James Boyette",
-          "SummaryLine": "Bozeman resident",
-          "isIncumbent": false,
-          "Party": "R"
+          "Party": "I"
         },
         {
           "urlKey": "sam-rankin",
@@ -3515,45 +3615,12 @@
           "SummaryLine": "Former Billings Councilwoman",
           "isIncumbent": false,
           "Party": "D"
-        },
-        {
-          "urlKey": "roger-roots",
-          "Name": "Roger Roots",
-          "SummaryLine": "Self-described “Libertarian gadfly”",
-          "isIncumbent": false,
-          "Party": "L"
-        },
-        {
-          "urlKey": "mark-sweeney",
-          "Name": "Mark Sweeney",
-          "SummaryLine": "(Deceased) State senator from Philipsburg",
-          "isIncumbent": false,
-          "Party": "D"
-        },
-        {
-          "urlKey": "samuel-thomas",
-          "Name": "Samuel Thomas",
-          "SummaryLine": "Missoula resident",
-          "isIncumbent": false,
-          "Party": "L"
-        },
-        {
-          "urlKey": "charles-walking-child",
-          "Name": "Charles Walking Child",
-          "SummaryLine": "Helena environmental contractor",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
-          "urlKey": "skylar-williams",
-          "Name": "Skylar Williams",
-          "SummaryLine": "Billings resident",
-          "isIncumbent": false,
-          "Party": "D"
         }
       ],
       "hasQuestionnaire": true,
-      "campaignFinance": "fec"
+      "campaignFinance": "fec",
+      "primaryResults": [],
+      "resultsTimestamp": null
     }
   },
   {
@@ -3567,18 +3634,20 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:11:51.881Z",
-    "updatedAt": "2022-06-06T20:03:53.697Z",
+    "updatedAt": "2022-06-08T18:11:13.914Z",
     "Party": "L",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
     "FECCandidateName": null,
-    "status": "on-primary-ballot",
+    "status": "advancing-to-general",
+    "BallotName": "SAM RANKIN",
     "urlKey": "sam-rankin",
     "partyLabel": "Libertarian candidate",
     "finances": [
       {
         "isThisCandidate": false,
         "displayName": "Matt Rosendale",
+        "status": "advancing-to-general",
         "party": "R",
         "candidateId": "H4MT00050",
         "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
@@ -3590,6 +3659,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Mark Sweeney",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H2MT02159",
         "candidateCommitteeName": "SWEENEY FOR MONTANA",
@@ -3601,6 +3671,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Gary Buchanan",
+        "status": "advancing-to-general",
         "party": "I",
         "candidateId": "H2MT02167",
         "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
@@ -3612,6 +3683,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Penny Ronning",
+        "status": "advancing-to-general",
         "party": "D",
         "candidateId": "H2MT02134",
         "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
@@ -3623,6 +3695,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Skylar Williams",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H2MT02118",
         "candidateCommitteeName": "SKYLARFORUSCONGRESS",
@@ -3634,6 +3707,7 @@
       {
         "isThisCandidate": false,
         "displayName": "James Boyette",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT02142",
         "candidateCommitteeName": "JAMES BOYETTE",
@@ -3645,6 +3719,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Kyle Austin",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT02175",
         "candidateCommitteeName": "AUSTIN FOR CONGRESS",
@@ -3656,6 +3731,7 @@
       {
         "isThisCandidate": true,
         "displayName": "Sam Rankin",
+        "status": "advancing-to-general",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -3667,6 +3743,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Roger Roots",
+        "status": "lost-primary",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -3678,6 +3755,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Samuel Thomas",
+        "status": "lost-primary",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -3689,6 +3767,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Charles Walking Child",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -3805,6 +3884,11 @@
     ],
     "articles": [
       {
+        "title": "Rosendale, Ronning emerge from eastern Montana U.S. House primary",
+        "date": "2022-06-07T23:12:58",
+        "link": "https://montanafreepress.org/2022/06/07/rosendale-ronning-win-eastern-district-montana-house-primaries/"
+      },
+      {
         "title": "In Eastern district U.S. House race, it’s Rosendale versus the idealists",
         "date": "2022-05-24T14:10:31",
         "link": "https://montanafreepress.org/2022/05/24/matt-rosendale-challengers-montana-eastern-us-house/"
@@ -3826,20 +3910,6 @@
           "Party": "R"
         },
         {
-          "urlKey": "kyle-austin",
-          "Name": "Kyle Austin",
-          "SummaryLine": "Billings pharmacist",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
-          "urlKey": "james-boyette",
-          "Name": "James Boyette",
-          "SummaryLine": "Bozeman resident",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
           "urlKey": "gary-buchanan",
           "Name": "Gary Buchanan",
           "SummaryLine": "Billings financial advisor",
@@ -3847,50 +3917,46 @@
           "Party": "I"
         },
         {
+          "urlKey": "sam-rankin",
+          "Name": "Sam Rankin",
+          "SummaryLine": "Billings realtor and attorney",
+          "isIncumbent": false,
+          "Party": "L"
+        },
+        {
           "urlKey": "penny-ronning",
           "Name": "Penny Ronning",
           "SummaryLine": "Former Billings Councilwoman",
           "isIncumbent": false,
           "Party": "D"
-        },
-        {
-          "urlKey": "roger-roots",
-          "Name": "Roger Roots",
-          "SummaryLine": "Self-described “Libertarian gadfly”",
-          "isIncumbent": false,
-          "Party": "L"
-        },
-        {
-          "urlKey": "mark-sweeney",
-          "Name": "Mark Sweeney",
-          "SummaryLine": "(Deceased) State senator from Philipsburg",
-          "isIncumbent": false,
-          "Party": "D"
-        },
-        {
-          "urlKey": "samuel-thomas",
-          "Name": "Samuel Thomas",
-          "SummaryLine": "Missoula resident",
-          "isIncumbent": false,
-          "Party": "L"
-        },
-        {
-          "urlKey": "charles-walking-child",
-          "Name": "Charles Walking Child",
-          "SummaryLine": "Helena environmental contractor",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
-          "urlKey": "skylar-williams",
-          "Name": "Skylar Williams",
-          "SummaryLine": "Billings resident",
-          "isIncumbent": false,
-          "Party": "D"
         }
       ],
       "hasQuestionnaire": true,
-      "campaignFinance": "fec"
+      "campaignFinance": "fec",
+      "primaryResults": [
+        {
+          "candidate": "Sam Rankin",
+          "votes": 958,
+          "urlKey": "sam-rankin",
+          "votePercent": 0.47006869479882235,
+          "isWinner": true
+        },
+        {
+          "candidate": "Samuel Thomas",
+          "votes": 554,
+          "urlKey": "samuel-thomas",
+          "votePercent": 0.2718351324828263,
+          "isWinner": false
+        },
+        {
+          "candidate": "Roger Roots",
+          "votes": 526,
+          "urlKey": "roger-roots",
+          "votePercent": 0.25809617271835134,
+          "isWinner": false
+        }
+      ],
+      "resultsTimestamp": "2022-07-19T15:09:03.000Z"
     }
   },
   {
@@ -3904,18 +3970,20 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:12:16.334Z",
-    "updatedAt": "2022-06-06T20:04:41.603Z",
+    "updatedAt": "2022-06-08T18:11:19.451Z",
     "Party": "D",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
     "FECCandidateName": "RONNING, PENNY",
-    "status": "on-primary-ballot",
+    "status": "advancing-to-general",
+    "BallotName": "PENNY RONNING",
     "urlKey": "penny-ronning",
     "partyLabel": "Democratic candidate",
     "finances": [
       {
         "isThisCandidate": false,
         "displayName": "Matt Rosendale",
+        "status": "advancing-to-general",
         "party": "R",
         "candidateId": "H4MT00050",
         "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
@@ -3927,6 +3995,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Mark Sweeney",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H2MT02159",
         "candidateCommitteeName": "SWEENEY FOR MONTANA",
@@ -3938,6 +4007,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Gary Buchanan",
+        "status": "advancing-to-general",
         "party": "I",
         "candidateId": "H2MT02167",
         "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
@@ -3949,6 +4019,7 @@
       {
         "isThisCandidate": true,
         "displayName": "Penny Ronning",
+        "status": "advancing-to-general",
         "party": "D",
         "candidateId": "H2MT02134",
         "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
@@ -3960,6 +4031,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Skylar Williams",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H2MT02118",
         "candidateCommitteeName": "SKYLARFORUSCONGRESS",
@@ -3971,6 +4043,7 @@
       {
         "isThisCandidate": false,
         "displayName": "James Boyette",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT02142",
         "candidateCommitteeName": "JAMES BOYETTE",
@@ -3982,6 +4055,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Kyle Austin",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT02175",
         "candidateCommitteeName": "AUSTIN FOR CONGRESS",
@@ -3993,6 +4067,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Sam Rankin",
+        "status": "advancing-to-general",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -4004,6 +4079,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Roger Roots",
+        "status": "lost-primary",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -4015,6 +4091,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Samuel Thomas",
+        "status": "lost-primary",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -4026,6 +4103,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Charles Walking Child",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -4138,6 +4216,16 @@
     ],
     "articles": [
       {
+        "title": "Rosendale, Ronning emerge from eastern Montana U.S. House primary",
+        "date": "2022-06-07T23:12:58",
+        "link": "https://montanafreepress.org/2022/06/07/rosendale-ronning-win-eastern-district-montana-house-primaries/"
+      },
+      {
+        "title": "Montana congressional candidates make final primary push ",
+        "date": "2022-06-06T16:51:48",
+        "link": "https://montanafreepress.org/2022/06/06/montana-congressional-primary-candidates-gear-up-for-tuesday-election/"
+      },
+      {
         "title": "In Eastern district U.S. House race, it’s Rosendale versus the idealists",
         "date": "2022-05-24T14:10:31",
         "link": "https://montanafreepress.org/2022/05/24/matt-rosendale-challengers-montana-eastern-us-house/"
@@ -4159,20 +4247,6 @@
           "Party": "R"
         },
         {
-          "urlKey": "kyle-austin",
-          "Name": "Kyle Austin",
-          "SummaryLine": "Billings pharmacist",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
-          "urlKey": "james-boyette",
-          "Name": "James Boyette",
-          "SummaryLine": "Bozeman resident",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
           "urlKey": "gary-buchanan",
           "Name": "Gary Buchanan",
           "SummaryLine": "Billings financial advisor",
@@ -4187,43 +4261,39 @@
           "Party": "L"
         },
         {
-          "urlKey": "roger-roots",
-          "Name": "Roger Roots",
-          "SummaryLine": "Self-described “Libertarian gadfly”",
-          "isIncumbent": false,
-          "Party": "L"
-        },
-        {
-          "urlKey": "mark-sweeney",
-          "Name": "Mark Sweeney",
-          "SummaryLine": "(Deceased) State senator from Philipsburg",
-          "isIncumbent": false,
-          "Party": "D"
-        },
-        {
-          "urlKey": "samuel-thomas",
-          "Name": "Samuel Thomas",
-          "SummaryLine": "Missoula resident",
-          "isIncumbent": false,
-          "Party": "L"
-        },
-        {
-          "urlKey": "charles-walking-child",
-          "Name": "Charles Walking Child",
-          "SummaryLine": "Helena environmental contractor",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
-          "urlKey": "skylar-williams",
-          "Name": "Skylar Williams",
-          "SummaryLine": "Billings resident",
+          "urlKey": "penny-ronning",
+          "Name": "Penny Ronning",
+          "SummaryLine": "Former Billings Councilwoman",
           "isIncumbent": false,
           "Party": "D"
         }
       ],
       "hasQuestionnaire": true,
-      "campaignFinance": "fec"
+      "campaignFinance": "fec",
+      "primaryResults": [
+        {
+          "candidate": "Skylar Williams",
+          "votes": 7029,
+          "urlKey": "skylar-williams",
+          "votePercent": 0.18695143358689292,
+          "isWinner": false
+        },
+        {
+          "candidate": "Mark Sweeney",
+          "votes": 8586,
+          "urlKey": "mark-sweeney",
+          "votePercent": 0.2283632108090856,
+          "isWinner": false
+        },
+        {
+          "candidate": "Penny Ronning",
+          "votes": 21983,
+          "urlKey": "penny-ronning",
+          "votePercent": 0.5846853556040215,
+          "isWinner": true
+        }
+      ],
+      "resultsTimestamp": "2022-07-19T15:09:03.000Z"
     }
   },
   {
@@ -4237,18 +4307,20 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:12:33.866Z",
-    "updatedAt": "2022-06-06T20:04:54.658Z",
+    "updatedAt": "2022-06-08T18:11:23.934Z",
     "Party": "L",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
     "FECCandidateName": null,
-    "status": "on-primary-ballot",
+    "status": "lost-primary",
+    "BallotName": "ROGER ROOTS",
     "urlKey": "roger-roots",
     "partyLabel": "Libertarian candidate",
     "finances": [
       {
         "isThisCandidate": false,
         "displayName": "Matt Rosendale",
+        "status": "advancing-to-general",
         "party": "R",
         "candidateId": "H4MT00050",
         "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
@@ -4260,6 +4332,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Mark Sweeney",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H2MT02159",
         "candidateCommitteeName": "SWEENEY FOR MONTANA",
@@ -4271,6 +4344,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Gary Buchanan",
+        "status": "advancing-to-general",
         "party": "I",
         "candidateId": "H2MT02167",
         "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
@@ -4282,6 +4356,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Penny Ronning",
+        "status": "advancing-to-general",
         "party": "D",
         "candidateId": "H2MT02134",
         "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
@@ -4293,6 +4368,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Skylar Williams",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H2MT02118",
         "candidateCommitteeName": "SKYLARFORUSCONGRESS",
@@ -4304,6 +4380,7 @@
       {
         "isThisCandidate": false,
         "displayName": "James Boyette",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT02142",
         "candidateCommitteeName": "JAMES BOYETTE",
@@ -4315,6 +4392,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Kyle Austin",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT02175",
         "candidateCommitteeName": "AUSTIN FOR CONGRESS",
@@ -4326,6 +4404,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Sam Rankin",
+        "status": "advancing-to-general",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -4337,6 +4416,7 @@
       {
         "isThisCandidate": true,
         "displayName": "Roger Roots",
+        "status": "lost-primary",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -4348,6 +4428,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Samuel Thomas",
+        "status": "lost-primary",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -4359,6 +4440,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Charles Walking Child",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -4392,20 +4474,6 @@
           "Party": "R"
         },
         {
-          "urlKey": "kyle-austin",
-          "Name": "Kyle Austin",
-          "SummaryLine": "Billings pharmacist",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
-          "urlKey": "james-boyette",
-          "Name": "James Boyette",
-          "SummaryLine": "Bozeman resident",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
           "urlKey": "gary-buchanan",
           "Name": "Gary Buchanan",
           "SummaryLine": "Billings financial advisor",
@@ -4425,38 +4493,34 @@
           "SummaryLine": "Former Billings Councilwoman",
           "isIncumbent": false,
           "Party": "D"
-        },
-        {
-          "urlKey": "mark-sweeney",
-          "Name": "Mark Sweeney",
-          "SummaryLine": "(Deceased) State senator from Philipsburg",
-          "isIncumbent": false,
-          "Party": "D"
-        },
-        {
-          "urlKey": "samuel-thomas",
-          "Name": "Samuel Thomas",
-          "SummaryLine": "Missoula resident",
-          "isIncumbent": false,
-          "Party": "L"
-        },
-        {
-          "urlKey": "charles-walking-child",
-          "Name": "Charles Walking Child",
-          "SummaryLine": "Helena environmental contractor",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
-          "urlKey": "skylar-williams",
-          "Name": "Skylar Williams",
-          "SummaryLine": "Billings resident",
-          "isIncumbent": false,
-          "Party": "D"
         }
       ],
       "hasQuestionnaire": true,
-      "campaignFinance": "fec"
+      "campaignFinance": "fec",
+      "primaryResults": [
+        {
+          "candidate": "Sam Rankin",
+          "votes": 958,
+          "urlKey": "sam-rankin",
+          "votePercent": 0.47006869479882235,
+          "isWinner": true
+        },
+        {
+          "candidate": "Samuel Thomas",
+          "votes": 554,
+          "urlKey": "samuel-thomas",
+          "votePercent": 0.2718351324828263,
+          "isWinner": false
+        },
+        {
+          "candidate": "Roger Roots",
+          "votes": 526,
+          "urlKey": "roger-roots",
+          "votePercent": 0.25809617271835134,
+          "isWinner": false
+        }
+      ],
+      "resultsTimestamp": "2022-07-19T15:09:03.000Z"
     }
   },
   {
@@ -4470,18 +4534,20 @@
     "CampaignInstagramUrl": "",
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:12:44.107Z",
-    "updatedAt": "2022-06-06T20:05:01.001Z",
+    "updatedAt": "2022-06-08T18:11:29.050Z",
     "Party": "D",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
     "FECCandidateName": "SWEENEY, MARK",
-    "status": "on-primary-ballot",
+    "status": "lost-primary",
+    "BallotName": "MARK SWEENEY",
     "urlKey": "mark-sweeney",
     "partyLabel": "Democratic candidate",
     "finances": [
       {
         "isThisCandidate": false,
         "displayName": "Matt Rosendale",
+        "status": "advancing-to-general",
         "party": "R",
         "candidateId": "H4MT00050",
         "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
@@ -4493,6 +4559,7 @@
       {
         "isThisCandidate": true,
         "displayName": "Mark Sweeney",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H2MT02159",
         "candidateCommitteeName": "SWEENEY FOR MONTANA",
@@ -4504,6 +4571,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Gary Buchanan",
+        "status": "advancing-to-general",
         "party": "I",
         "candidateId": "H2MT02167",
         "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
@@ -4515,6 +4583,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Penny Ronning",
+        "status": "advancing-to-general",
         "party": "D",
         "candidateId": "H2MT02134",
         "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
@@ -4526,6 +4595,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Skylar Williams",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H2MT02118",
         "candidateCommitteeName": "SKYLARFORUSCONGRESS",
@@ -4537,6 +4607,7 @@
       {
         "isThisCandidate": false,
         "displayName": "James Boyette",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT02142",
         "candidateCommitteeName": "JAMES BOYETTE",
@@ -4548,6 +4619,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Kyle Austin",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT02175",
         "candidateCommitteeName": "AUSTIN FOR CONGRESS",
@@ -4559,6 +4631,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Sam Rankin",
+        "status": "advancing-to-general",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -4570,6 +4643,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Roger Roots",
+        "status": "lost-primary",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -4581,6 +4655,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Samuel Thomas",
+        "status": "lost-primary",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -4592,6 +4667,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Charles Walking Child",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -4785,20 +4861,6 @@
           "Party": "R"
         },
         {
-          "urlKey": "kyle-austin",
-          "Name": "Kyle Austin",
-          "SummaryLine": "Billings pharmacist",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
-          "urlKey": "james-boyette",
-          "Name": "James Boyette",
-          "SummaryLine": "Bozeman resident",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
           "urlKey": "gary-buchanan",
           "Name": "Gary Buchanan",
           "SummaryLine": "Billings financial advisor",
@@ -4818,38 +4880,34 @@
           "SummaryLine": "Former Billings Councilwoman",
           "isIncumbent": false,
           "Party": "D"
-        },
-        {
-          "urlKey": "roger-roots",
-          "Name": "Roger Roots",
-          "SummaryLine": "Self-described “Libertarian gadfly”",
-          "isIncumbent": false,
-          "Party": "L"
-        },
-        {
-          "urlKey": "samuel-thomas",
-          "Name": "Samuel Thomas",
-          "SummaryLine": "Missoula resident",
-          "isIncumbent": false,
-          "Party": "L"
-        },
-        {
-          "urlKey": "charles-walking-child",
-          "Name": "Charles Walking Child",
-          "SummaryLine": "Helena environmental contractor",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
-          "urlKey": "skylar-williams",
-          "Name": "Skylar Williams",
-          "SummaryLine": "Billings resident",
-          "isIncumbent": false,
-          "Party": "D"
         }
       ],
       "hasQuestionnaire": true,
-      "campaignFinance": "fec"
+      "campaignFinance": "fec",
+      "primaryResults": [
+        {
+          "candidate": "Skylar Williams",
+          "votes": 7029,
+          "urlKey": "skylar-williams",
+          "votePercent": 0.18695143358689292,
+          "isWinner": false
+        },
+        {
+          "candidate": "Mark Sweeney",
+          "votes": 8586,
+          "urlKey": "mark-sweeney",
+          "votePercent": 0.2283632108090856,
+          "isWinner": false
+        },
+        {
+          "candidate": "Penny Ronning",
+          "votes": 21983,
+          "urlKey": "penny-ronning",
+          "votePercent": 0.5846853556040215,
+          "isWinner": true
+        }
+      ],
+      "resultsTimestamp": "2022-07-19T15:09:03.000Z"
     }
   },
   {
@@ -4863,18 +4921,20 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:13:12.060Z",
-    "updatedAt": "2022-06-06T20:05:06.040Z",
+    "updatedAt": "2022-06-08T18:11:35.914Z",
     "Party": "L",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
     "FECCandidateName": null,
-    "status": "on-primary-ballot",
+    "status": "lost-primary",
+    "BallotName": "SAMUEL THOMAS",
     "urlKey": "samuel-thomas",
     "partyLabel": "Libertarian candidate",
     "finances": [
       {
         "isThisCandidate": false,
         "displayName": "Matt Rosendale",
+        "status": "advancing-to-general",
         "party": "R",
         "candidateId": "H4MT00050",
         "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
@@ -4886,6 +4946,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Mark Sweeney",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H2MT02159",
         "candidateCommitteeName": "SWEENEY FOR MONTANA",
@@ -4897,6 +4958,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Gary Buchanan",
+        "status": "advancing-to-general",
         "party": "I",
         "candidateId": "H2MT02167",
         "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
@@ -4908,6 +4970,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Penny Ronning",
+        "status": "advancing-to-general",
         "party": "D",
         "candidateId": "H2MT02134",
         "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
@@ -4919,6 +4982,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Skylar Williams",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H2MT02118",
         "candidateCommitteeName": "SKYLARFORUSCONGRESS",
@@ -4930,6 +4994,7 @@
       {
         "isThisCandidate": false,
         "displayName": "James Boyette",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT02142",
         "candidateCommitteeName": "JAMES BOYETTE",
@@ -4941,6 +5006,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Kyle Austin",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT02175",
         "candidateCommitteeName": "AUSTIN FOR CONGRESS",
@@ -4952,6 +5018,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Sam Rankin",
+        "status": "advancing-to-general",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -4963,6 +5030,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Roger Roots",
+        "status": "lost-primary",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -4974,6 +5042,7 @@
       {
         "isThisCandidate": true,
         "displayName": "Samuel Thomas",
+        "status": "lost-primary",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -4985,6 +5054,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Charles Walking Child",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -5118,20 +5188,6 @@
           "Party": "R"
         },
         {
-          "urlKey": "kyle-austin",
-          "Name": "Kyle Austin",
-          "SummaryLine": "Billings pharmacist",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
-          "urlKey": "james-boyette",
-          "Name": "James Boyette",
-          "SummaryLine": "Bozeman resident",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
           "urlKey": "gary-buchanan",
           "Name": "Gary Buchanan",
           "SummaryLine": "Billings financial advisor",
@@ -5151,38 +5207,34 @@
           "SummaryLine": "Former Billings Councilwoman",
           "isIncumbent": false,
           "Party": "D"
-        },
-        {
-          "urlKey": "roger-roots",
-          "Name": "Roger Roots",
-          "SummaryLine": "Self-described “Libertarian gadfly”",
-          "isIncumbent": false,
-          "Party": "L"
-        },
-        {
-          "urlKey": "mark-sweeney",
-          "Name": "Mark Sweeney",
-          "SummaryLine": "(Deceased) State senator from Philipsburg",
-          "isIncumbent": false,
-          "Party": "D"
-        },
-        {
-          "urlKey": "charles-walking-child",
-          "Name": "Charles Walking Child",
-          "SummaryLine": "Helena environmental contractor",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
-          "urlKey": "skylar-williams",
-          "Name": "Skylar Williams",
-          "SummaryLine": "Billings resident",
-          "isIncumbent": false,
-          "Party": "D"
         }
       ],
       "hasQuestionnaire": true,
-      "campaignFinance": "fec"
+      "campaignFinance": "fec",
+      "primaryResults": [
+        {
+          "candidate": "Sam Rankin",
+          "votes": 958,
+          "urlKey": "sam-rankin",
+          "votePercent": 0.47006869479882235,
+          "isWinner": true
+        },
+        {
+          "candidate": "Samuel Thomas",
+          "votes": 554,
+          "urlKey": "samuel-thomas",
+          "votePercent": 0.2718351324828263,
+          "isWinner": false
+        },
+        {
+          "candidate": "Roger Roots",
+          "votes": 526,
+          "urlKey": "roger-roots",
+          "votePercent": 0.25809617271835134,
+          "isWinner": false
+        }
+      ],
+      "resultsTimestamp": "2022-07-19T15:09:03.000Z"
     }
   },
   {
@@ -5196,18 +5248,20 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:13:47.545Z",
-    "updatedAt": "2022-06-06T20:05:14.700Z",
+    "updatedAt": "2022-06-08T18:10:43.983Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
     "FECCandidateName": "WALKING CHILD, CHARLES A",
-    "status": "on-primary-ballot",
+    "status": "lost-primary",
+    "BallotName": "CHARLES A. WALKINGCHILD",
     "urlKey": "charles-walking-child",
     "partyLabel": "Republican candidate",
     "finances": [
       {
         "isThisCandidate": false,
         "displayName": "Matt Rosendale",
+        "status": "advancing-to-general",
         "party": "R",
         "candidateId": "H4MT00050",
         "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
@@ -5219,6 +5273,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Mark Sweeney",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H2MT02159",
         "candidateCommitteeName": "SWEENEY FOR MONTANA",
@@ -5230,6 +5285,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Gary Buchanan",
+        "status": "advancing-to-general",
         "party": "I",
         "candidateId": "H2MT02167",
         "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
@@ -5241,6 +5297,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Penny Ronning",
+        "status": "advancing-to-general",
         "party": "D",
         "candidateId": "H2MT02134",
         "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
@@ -5252,6 +5309,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Skylar Williams",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H2MT02118",
         "candidateCommitteeName": "SKYLARFORUSCONGRESS",
@@ -5263,6 +5321,7 @@
       {
         "isThisCandidate": false,
         "displayName": "James Boyette",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT02142",
         "candidateCommitteeName": "JAMES BOYETTE",
@@ -5274,6 +5333,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Kyle Austin",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT02175",
         "candidateCommitteeName": "AUSTIN FOR CONGRESS",
@@ -5285,6 +5345,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Sam Rankin",
+        "status": "advancing-to-general",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -5296,6 +5357,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Roger Roots",
+        "status": "lost-primary",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -5307,6 +5369,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Samuel Thomas",
+        "status": "lost-primary",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -5318,6 +5381,7 @@
       {
         "isThisCandidate": true,
         "displayName": "Charles Walking Child",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -5351,20 +5415,6 @@
           "Party": "R"
         },
         {
-          "urlKey": "kyle-austin",
-          "Name": "Kyle Austin",
-          "SummaryLine": "Billings pharmacist",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
-          "urlKey": "james-boyette",
-          "Name": "James Boyette",
-          "SummaryLine": "Bozeman resident",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
           "urlKey": "gary-buchanan",
           "Name": "Gary Buchanan",
           "SummaryLine": "Billings financial advisor",
@@ -5384,38 +5434,41 @@
           "SummaryLine": "Former Billings Councilwoman",
           "isIncumbent": false,
           "Party": "D"
-        },
-        {
-          "urlKey": "roger-roots",
-          "Name": "Roger Roots",
-          "SummaryLine": "Self-described “Libertarian gadfly”",
-          "isIncumbent": false,
-          "Party": "L"
-        },
-        {
-          "urlKey": "mark-sweeney",
-          "Name": "Mark Sweeney",
-          "SummaryLine": "(Deceased) State senator from Philipsburg",
-          "isIncumbent": false,
-          "Party": "D"
-        },
-        {
-          "urlKey": "samuel-thomas",
-          "Name": "Samuel Thomas",
-          "SummaryLine": "Missoula resident",
-          "isIncumbent": false,
-          "Party": "L"
-        },
-        {
-          "urlKey": "skylar-williams",
-          "Name": "Skylar Williams",
-          "SummaryLine": "Billings resident",
-          "isIncumbent": false,
-          "Party": "D"
         }
       ],
       "hasQuestionnaire": true,
-      "campaignFinance": "fec"
+      "campaignFinance": "fec",
+      "primaryResults": [
+        {
+          "candidate": "James Boyette",
+          "votes": 5712,
+          "urlKey": "james-boyette",
+          "votePercent": 0.058884169724959794,
+          "isWinner": false
+        },
+        {
+          "candidate": "Matt Rosendale",
+          "votes": 73453,
+          "urlKey": "matt-rosendale",
+          "votePercent": 0.7572161972702156,
+          "isWinner": true
+        },
+        {
+          "candidate": "Kyle Austin",
+          "votes": 11930,
+          "urlKey": "kyle-austin",
+          "votePercent": 0.1229846191909612,
+          "isWinner": false
+        },
+        {
+          "candidate": "Charles Walking Child",
+          "votes": 5909,
+          "urlKey": "charles-walking-child",
+          "votePercent": 0.06091501381386335,
+          "isWinner": false
+        }
+      ],
+      "resultsTimestamp": "2022-07-19T15:09:03.000Z"
     }
   },
   {
@@ -5429,18 +5482,20 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:14:04.239Z",
-    "updatedAt": "2022-06-06T20:05:19.905Z",
+    "updatedAt": "2022-06-08T18:11:57.210Z",
     "Party": "D",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
     "FECCandidateName": "WILLIAMS, SKYLAR",
-    "status": "on-primary-ballot",
+    "status": "lost-primary",
+    "BallotName": "SKYLAR WILLIAMS",
     "urlKey": "skylar-williams",
     "partyLabel": "Democratic candidate",
     "finances": [
       {
         "isThisCandidate": false,
         "displayName": "Matt Rosendale",
+        "status": "advancing-to-general",
         "party": "R",
         "candidateId": "H4MT00050",
         "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
@@ -5452,6 +5507,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Mark Sweeney",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H2MT02159",
         "candidateCommitteeName": "SWEENEY FOR MONTANA",
@@ -5463,6 +5519,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Gary Buchanan",
+        "status": "advancing-to-general",
         "party": "I",
         "candidateId": "H2MT02167",
         "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
@@ -5474,6 +5531,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Penny Ronning",
+        "status": "advancing-to-general",
         "party": "D",
         "candidateId": "H2MT02134",
         "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
@@ -5485,6 +5543,7 @@
       {
         "isThisCandidate": true,
         "displayName": "Skylar Williams",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H2MT02118",
         "candidateCommitteeName": "SKYLARFORUSCONGRESS",
@@ -5496,6 +5555,7 @@
       {
         "isThisCandidate": false,
         "displayName": "James Boyette",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT02142",
         "candidateCommitteeName": "JAMES BOYETTE",
@@ -5507,6 +5567,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Kyle Austin",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT02175",
         "candidateCommitteeName": "AUSTIN FOR CONGRESS",
@@ -5518,6 +5579,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Sam Rankin",
+        "status": "advancing-to-general",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -5529,6 +5591,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Roger Roots",
+        "status": "lost-primary",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -5540,6 +5603,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Samuel Thomas",
+        "status": "lost-primary",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -5551,6 +5615,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Charles Walking Child",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -5684,20 +5749,6 @@
           "Party": "R"
         },
         {
-          "urlKey": "kyle-austin",
-          "Name": "Kyle Austin",
-          "SummaryLine": "Billings pharmacist",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
-          "urlKey": "james-boyette",
-          "Name": "James Boyette",
-          "SummaryLine": "Bozeman resident",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
           "urlKey": "gary-buchanan",
           "Name": "Gary Buchanan",
           "SummaryLine": "Billings financial advisor",
@@ -5717,38 +5768,34 @@
           "SummaryLine": "Former Billings Councilwoman",
           "isIncumbent": false,
           "Party": "D"
-        },
-        {
-          "urlKey": "roger-roots",
-          "Name": "Roger Roots",
-          "SummaryLine": "Self-described “Libertarian gadfly”",
-          "isIncumbent": false,
-          "Party": "L"
-        },
-        {
-          "urlKey": "mark-sweeney",
-          "Name": "Mark Sweeney",
-          "SummaryLine": "(Deceased) State senator from Philipsburg",
-          "isIncumbent": false,
-          "Party": "D"
-        },
-        {
-          "urlKey": "samuel-thomas",
-          "Name": "Samuel Thomas",
-          "SummaryLine": "Missoula resident",
-          "isIncumbent": false,
-          "Party": "L"
-        },
-        {
-          "urlKey": "charles-walking-child",
-          "Name": "Charles Walking Child",
-          "SummaryLine": "Helena environmental contractor",
-          "isIncumbent": false,
-          "Party": "R"
         }
       ],
       "hasQuestionnaire": true,
-      "campaignFinance": "fec"
+      "campaignFinance": "fec",
+      "primaryResults": [
+        {
+          "candidate": "Skylar Williams",
+          "votes": 7029,
+          "urlKey": "skylar-williams",
+          "votePercent": 0.18695143358689292,
+          "isWinner": false
+        },
+        {
+          "candidate": "Mark Sweeney",
+          "votes": 8586,
+          "urlKey": "mark-sweeney",
+          "votePercent": 0.2283632108090856,
+          "isWinner": false
+        },
+        {
+          "candidate": "Penny Ronning",
+          "votes": 21983,
+          "urlKey": "penny-ronning",
+          "votePercent": 0.5846853556040215,
+          "isWinner": true
+        }
+      ],
+      "resultsTimestamp": "2022-07-19T15:09:03.000Z"
     }
   },
   {
@@ -5762,12 +5809,13 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:14:21.264Z",
-    "updatedAt": "2022-06-06T20:07:11.353Z",
+    "updatedAt": "2022-06-08T18:15:39.255Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
     "FECCandidateName": null,
-    "status": "on-primary-ballot",
+    "status": "lost-primary",
+    "BallotName": "K. WEBB GALBREATH",
     "urlKey": "k-webb-galbreath",
     "partyLabel": "Republican candidate",
     "finances": null,
@@ -5795,7 +5843,24 @@
           "Party": "R"
         }
       ],
-      "campaignFinance": "copp"
+      "campaignFinance": "copp",
+      "primaryResults": [
+        {
+          "candidate": "Randy Pinocci",
+          "votes": 20585,
+          "urlKey": "randy-pinocci",
+          "votePercent": 0.6628135364008114,
+          "isWinner": true
+        },
+        {
+          "candidate": "K. Webb Galbreath",
+          "votes": 10472,
+          "urlKey": "k-webb-galbreath",
+          "votePercent": 0.3371864635991886,
+          "isWinner": false
+        }
+      ],
+      "resultsTimestamp": "2022-07-19T15:10:31.000Z"
     }
   },
   {
@@ -5809,12 +5874,13 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:14:39.307Z",
-    "updatedAt": "2022-06-06T20:07:17.040Z",
+    "updatedAt": "2022-06-08T18:15:46.634Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
     "isIncumbent": true,
     "FECCandidateName": null,
-    "status": "on-primary-ballot",
+    "status": "won-election",
+    "BallotName": "RANDY PINOCCI",
     "urlKey": "randy-pinocci",
     "partyLabel": "Republican candidate",
     "finances": null,
@@ -5835,14 +5901,31 @@
       "label": "Public Service Commission District 1",
       "opponents": [
         {
-          "urlKey": "k-webb-galbreath",
-          "Name": "K. Webb Galbreath",
-          "SummaryLine": "Blackfeet Tribe Operations Manager",
-          "isIncumbent": false,
+          "urlKey": "randy-pinocci",
+          "Name": "Randy Pinocci",
+          "SummaryLine": "Incumbent utility commissioner",
+          "isIncumbent": true,
           "Party": "R"
         }
       ],
-      "campaignFinance": "copp"
+      "campaignFinance": "copp",
+      "primaryResults": [
+        {
+          "candidate": "Randy Pinocci",
+          "votes": 20585,
+          "urlKey": "randy-pinocci",
+          "votePercent": 0.6628135364008114,
+          "isWinner": true
+        },
+        {
+          "candidate": "K. Webb Galbreath",
+          "votes": 10472,
+          "urlKey": "k-webb-galbreath",
+          "votePercent": 0.3371864635991886,
+          "isWinner": false
+        }
+      ],
+      "resultsTimestamp": "2022-07-19T15:10:31.000Z"
     }
   },
   {
@@ -5856,17 +5939,23 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:15:04.056Z",
-    "updatedAt": "2022-06-06T20:06:34.455Z",
+    "updatedAt": "2022-07-19T15:03:41.955Z",
     "Party": "R",
     "CampaignYoutubeUrl": "https://www.youtube.com/channel/UC36_WUdnV9tKAN2WgJj0DEg",
     "isIncumbent": false,
     "FECCandidateName": null,
-    "status": "on-primary-ballot",
+    "status": "advancing-to-general",
+    "BallotName": "ANN BUKACEK",
     "urlKey": "annie-bukacek",
     "partyLabel": "Republican candidate",
     "finances": null,
     "issueAnswers": null,
     "articles": [
+      {
+        "title": "Recounts results confirm Bukacek won utility board GOP primary",
+        "date": "2022-07-18T17:47:42",
+        "link": "https://montanafreepress.org/2022/07/18/bukacek-wins-public-service-commission-primary/"
+      },
       {
         "title": "Meet the PSC candidates who want to regulate your rates",
         "date": "2022-05-26T13:45:03",
@@ -5882,25 +5971,11 @@
       "label": "Public Service Commission District 5",
       "opponents": [
         {
-          "urlKey": "dean-crabb",
-          "Name": "Dean Crabb",
-          "SummaryLine": "Retired utility worker",
+          "urlKey": "annie-bukacek",
+          "Name": "Annie Bukacek",
+          "SummaryLine": "Physician, former Flathead health board member",
           "isIncumbent": false,
           "Party": "R"
-        },
-        {
-          "urlKey": "joe-dooling",
-          "Name": "Joe Dooling",
-          "SummaryLine": "Helena-area farmer/rancher",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
-          "urlKey": "kevin-hamm",
-          "Name": "Kevin Hamm",
-          "SummaryLine": "Helena telecommunications professional",
-          "isIncumbent": false,
-          "Party": "D"
         },
         {
           "urlKey": "john-repke",
@@ -5908,16 +5983,40 @@
           "SummaryLine": "Retired executive",
           "isIncumbent": false,
           "Party": "D"
-        },
-        {
-          "urlKey": "derek-skees",
-          "Name": "Derek Skees",
-          "SummaryLine": "Former Montana House Energy Committee chair",
-          "isIncumbent": false,
-          "Party": "R"
         }
       ],
-      "campaignFinance": "copp"
+      "campaignFinance": "copp",
+      "primaryResults": [
+        {
+          "candidate": "Joe Dooling",
+          "votes": 10442,
+          "urlKey": "joe-dooling",
+          "votePercent": 0.29034590145701256,
+          "isWinner": false
+        },
+        {
+          "candidate": "Derek Skees",
+          "votes": 11146,
+          "urlKey": "derek-skees",
+          "votePercent": 0.30992103214325434,
+          "isWinner": false
+        },
+        {
+          "candidate": "Annie Bukacek",
+          "votes": 11233,
+          "urlKey": "annie-bukacek",
+          "votePercent": 0.31234011789567345,
+          "isWinner": true
+        },
+        {
+          "candidate": "Dean Crabb",
+          "votes": 3143,
+          "urlKey": "dean-crabb",
+          "votePercent": 0.08739294850405961,
+          "isWinner": false
+        }
+      ],
+      "resultsTimestamp": "2022-07-19T15:10:31.000Z"
     }
   },
   {
@@ -5931,12 +6030,13 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:15:27.534Z",
-    "updatedAt": "2022-06-06T20:06:41.913Z",
+    "updatedAt": "2022-06-08T18:38:48.146Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
     "FECCandidateName": null,
-    "status": "on-primary-ballot",
+    "status": "lost-primary",
+    "BallotName": "DEAN CRABB",
     "urlKey": "dean-crabb",
     "partyLabel": "Republican candidate",
     "finances": null,
@@ -5964,35 +6064,45 @@
           "Party": "R"
         },
         {
-          "urlKey": "joe-dooling",
-          "Name": "Joe Dooling",
-          "SummaryLine": "Helena-area farmer/rancher",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
-          "urlKey": "kevin-hamm",
-          "Name": "Kevin Hamm",
-          "SummaryLine": "Helena telecommunications professional",
-          "isIncumbent": false,
-          "Party": "D"
-        },
-        {
           "urlKey": "john-repke",
           "Name": "John Repke",
           "SummaryLine": "Retired executive",
           "isIncumbent": false,
           "Party": "D"
-        },
-        {
-          "urlKey": "derek-skees",
-          "Name": "Derek Skees",
-          "SummaryLine": "Former Montana House Energy Committee chair",
-          "isIncumbent": false,
-          "Party": "R"
         }
       ],
-      "campaignFinance": "copp"
+      "campaignFinance": "copp",
+      "primaryResults": [
+        {
+          "candidate": "Joe Dooling",
+          "votes": 10442,
+          "urlKey": "joe-dooling",
+          "votePercent": 0.29034590145701256,
+          "isWinner": false
+        },
+        {
+          "candidate": "Derek Skees",
+          "votes": 11146,
+          "urlKey": "derek-skees",
+          "votePercent": 0.30992103214325434,
+          "isWinner": false
+        },
+        {
+          "candidate": "Annie Bukacek",
+          "votes": 11233,
+          "urlKey": "annie-bukacek",
+          "votePercent": 0.31234011789567345,
+          "isWinner": true
+        },
+        {
+          "candidate": "Dean Crabb",
+          "votes": 3143,
+          "urlKey": "dean-crabb",
+          "votePercent": 0.08739294850405961,
+          "isWinner": false
+        }
+      ],
+      "resultsTimestamp": "2022-07-19T15:10:31.000Z"
     }
   },
   {
@@ -6006,12 +6116,13 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:15:41.634Z",
-    "updatedAt": "2022-06-06T20:06:47.215Z",
+    "updatedAt": "2022-06-13T20:32:57.747Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
     "FECCandidateName": null,
-    "status": "on-primary-ballot",
+    "status": "lost-primary",
+    "BallotName": "JOE DOOLING",
     "urlKey": "joe-dooling",
     "partyLabel": "Republican candidate",
     "finances": null,
@@ -6039,35 +6150,45 @@
           "Party": "R"
         },
         {
-          "urlKey": "dean-crabb",
-          "Name": "Dean Crabb",
-          "SummaryLine": "Retired utility worker",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
-          "urlKey": "kevin-hamm",
-          "Name": "Kevin Hamm",
-          "SummaryLine": "Helena telecommunications professional",
-          "isIncumbent": false,
-          "Party": "D"
-        },
-        {
           "urlKey": "john-repke",
           "Name": "John Repke",
           "SummaryLine": "Retired executive",
           "isIncumbent": false,
           "Party": "D"
-        },
-        {
-          "urlKey": "derek-skees",
-          "Name": "Derek Skees",
-          "SummaryLine": "Former Montana House Energy Committee chair",
-          "isIncumbent": false,
-          "Party": "R"
         }
       ],
-      "campaignFinance": "copp"
+      "campaignFinance": "copp",
+      "primaryResults": [
+        {
+          "candidate": "Joe Dooling",
+          "votes": 10442,
+          "urlKey": "joe-dooling",
+          "votePercent": 0.29034590145701256,
+          "isWinner": false
+        },
+        {
+          "candidate": "Derek Skees",
+          "votes": 11146,
+          "urlKey": "derek-skees",
+          "votePercent": 0.30992103214325434,
+          "isWinner": false
+        },
+        {
+          "candidate": "Annie Bukacek",
+          "votes": 11233,
+          "urlKey": "annie-bukacek",
+          "votePercent": 0.31234011789567345,
+          "isWinner": true
+        },
+        {
+          "candidate": "Dean Crabb",
+          "votes": 3143,
+          "urlKey": "dean-crabb",
+          "votePercent": 0.08739294850405961,
+          "isWinner": false
+        }
+      ],
+      "resultsTimestamp": "2022-07-19T15:10:31.000Z"
     }
   },
   {
@@ -6081,12 +6202,13 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:15:58.758Z",
-    "updatedAt": "2022-06-06T20:06:52.490Z",
+    "updatedAt": "2022-06-08T18:15:31.396Z",
     "Party": "D",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
     "FECCandidateName": null,
-    "status": "on-primary-ballot",
+    "status": "lost-primary",
+    "BallotName": "KEVIN HAMM",
     "urlKey": "kevin-hamm",
     "partyLabel": "Democratic candidate",
     "finances": null,
@@ -6114,35 +6236,31 @@
           "Party": "R"
         },
         {
-          "urlKey": "dean-crabb",
-          "Name": "Dean Crabb",
-          "SummaryLine": "Retired utility worker",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
-          "urlKey": "joe-dooling",
-          "Name": "Joe Dooling",
-          "SummaryLine": "Helena-area farmer/rancher",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
           "urlKey": "john-repke",
           "Name": "John Repke",
           "SummaryLine": "Retired executive",
           "isIncumbent": false,
           "Party": "D"
-        },
-        {
-          "urlKey": "derek-skees",
-          "Name": "Derek Skees",
-          "SummaryLine": "Former Montana House Energy Committee chair",
-          "isIncumbent": false,
-          "Party": "R"
         }
       ],
-      "campaignFinance": "copp"
+      "campaignFinance": "copp",
+      "primaryResults": [
+        {
+          "candidate": "Kevin Hamm",
+          "votes": 7599,
+          "urlKey": "kevin-hamm",
+          "votePercent": 0.4628174675680614,
+          "isWinner": false
+        },
+        {
+          "candidate": "John Repke",
+          "votes": 8820,
+          "urlKey": "john-repke",
+          "votePercent": 0.5371825324319386,
+          "isWinner": true
+        }
+      ],
+      "resultsTimestamp": "2022-07-19T15:10:31.000Z"
     }
   },
   {
@@ -6156,17 +6274,23 @@
     "CampaignInstagramUrl": "https://www.instagram.com/repke4psc5/",
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:18:50.984Z",
-    "updatedAt": "2022-06-06T20:06:59.945Z",
+    "updatedAt": "2022-06-08T18:15:25.913Z",
     "Party": "D",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
     "FECCandidateName": null,
-    "status": "on-primary-ballot",
+    "status": "advancing-to-general",
+    "BallotName": "JOHN REPKE",
     "urlKey": "john-repke",
     "partyLabel": "Democratic candidate",
     "finances": null,
     "issueAnswers": null,
     "articles": [
+      {
+        "title": "Recounts results confirm Bukacek won utility board GOP primary",
+        "date": "2022-07-18T17:47:42",
+        "link": "https://montanafreepress.org/2022/07/18/bukacek-wins-public-service-commission-primary/"
+      },
       {
         "title": "Meet the PSC candidates who want to regulate your rates",
         "date": "2022-05-26T13:45:03",
@@ -6189,35 +6313,31 @@
           "Party": "R"
         },
         {
-          "urlKey": "dean-crabb",
-          "Name": "Dean Crabb",
-          "SummaryLine": "Retired utility worker",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
-          "urlKey": "joe-dooling",
-          "Name": "Joe Dooling",
-          "SummaryLine": "Helena-area farmer/rancher",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
-          "urlKey": "kevin-hamm",
-          "Name": "Kevin Hamm",
-          "SummaryLine": "Helena telecommunications professional",
+          "urlKey": "john-repke",
+          "Name": "John Repke",
+          "SummaryLine": "Retired executive",
           "isIncumbent": false,
           "Party": "D"
-        },
-        {
-          "urlKey": "derek-skees",
-          "Name": "Derek Skees",
-          "SummaryLine": "Former Montana House Energy Committee chair",
-          "isIncumbent": false,
-          "Party": "R"
         }
       ],
-      "campaignFinance": "copp"
+      "campaignFinance": "copp",
+      "primaryResults": [
+        {
+          "candidate": "Kevin Hamm",
+          "votes": 7599,
+          "urlKey": "kevin-hamm",
+          "votePercent": 0.4628174675680614,
+          "isWinner": false
+        },
+        {
+          "candidate": "John Repke",
+          "votes": 8820,
+          "urlKey": "john-repke",
+          "votePercent": 0.5371825324319386,
+          "isWinner": true
+        }
+      ],
+      "resultsTimestamp": "2022-07-19T15:10:31.000Z"
     }
   },
   {
@@ -6231,17 +6351,23 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:19:02.002Z",
-    "updatedAt": "2022-06-06T20:07:05.649Z",
+    "updatedAt": "2022-07-19T15:03:30.624Z",
     "Party": "R",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
     "FECCandidateName": null,
-    "status": "on-primary-ballot",
+    "status": "lost-primary",
+    "BallotName": "DEREK SKEES",
     "urlKey": "derek-skees",
     "partyLabel": "Republican candidate",
     "finances": null,
     "issueAnswers": null,
     "articles": [
+      {
+        "title": "Recounts results confirm Bukacek won utility board GOP primary",
+        "date": "2022-07-18T17:47:42",
+        "link": "https://montanafreepress.org/2022/07/18/bukacek-wins-public-service-commission-primary/"
+      },
       {
         "title": "Meet the PSC candidates who want to regulate your rates",
         "date": "2022-05-26T13:45:03",
@@ -6264,27 +6390,6 @@
           "Party": "R"
         },
         {
-          "urlKey": "dean-crabb",
-          "Name": "Dean Crabb",
-          "SummaryLine": "Retired utility worker",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
-          "urlKey": "joe-dooling",
-          "Name": "Joe Dooling",
-          "SummaryLine": "Helena-area farmer/rancher",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
-          "urlKey": "kevin-hamm",
-          "Name": "Kevin Hamm",
-          "SummaryLine": "Helena telecommunications professional",
-          "isIncumbent": false,
-          "Party": "D"
-        },
-        {
           "urlKey": "john-repke",
           "Name": "John Repke",
           "SummaryLine": "Retired executive",
@@ -6292,7 +6397,38 @@
           "Party": "D"
         }
       ],
-      "campaignFinance": "copp"
+      "campaignFinance": "copp",
+      "primaryResults": [
+        {
+          "candidate": "Joe Dooling",
+          "votes": 10442,
+          "urlKey": "joe-dooling",
+          "votePercent": 0.29034590145701256,
+          "isWinner": false
+        },
+        {
+          "candidate": "Derek Skees",
+          "votes": 11146,
+          "urlKey": "derek-skees",
+          "votePercent": 0.30992103214325434,
+          "isWinner": false
+        },
+        {
+          "candidate": "Annie Bukacek",
+          "votes": 11233,
+          "urlKey": "annie-bukacek",
+          "votePercent": 0.31234011789567345,
+          "isWinner": true
+        },
+        {
+          "candidate": "Dean Crabb",
+          "votes": 3143,
+          "urlKey": "dean-crabb",
+          "votePercent": 0.08739294850405961,
+          "isWinner": false
+        }
+      ],
+      "resultsTimestamp": "2022-07-19T15:10:31.000Z"
     }
   },
   {
@@ -6306,64 +6442,23 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:19:17.161Z",
-    "updatedAt": "2022-06-06T20:06:23.328Z",
+    "updatedAt": "2022-06-08T18:14:43.682Z",
     "Party": "NP",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
     "FECCandidateName": null,
-    "status": "on-primary-ballot",
+    "status": "advancing-to-general",
+    "BallotName": "BILL DALTON",
     "urlKey": "bill-dalton",
-    "partyLabel": "Candidate",
+    "partyLabel": "candidate",
     "finances": null,
     "issueAnswers": null,
     "articles": [
       {
-        "title": "The politics driving the Montana Supreme Court races",
-        "date": "2022-03-28T16:50:18",
-        "link": "https://montanafreepress.org/2022/03/28/the-politics-driving-montana-supreme-court-races/"
+        "title": "Gustafson and Brown advancing over McMahon in Montana Supreme Court primary",
+        "date": "2022-06-08T00:05:27",
+        "link": "https://montanafreepress.org/2022/06/08/gustafson-brown-advance-montana-supreme-court-primary/"
       },
-      {
-        "title": "Five candidates in the race for two Montana Supreme Court seats",
-        "date": "2022-03-16T11:03:38",
-        "link": "https://montanafreepress.org/2022/03/16/five-candidates-competing-for-two-montana-supreme-court-seats/"
-      }
-    ],
-    "race": {
-      "label": "Montana Supreme Court (Seat 1)",
-      "opponents": [
-        {
-          "urlKey": "jim-rice",
-          "Name": "Jim Rice",
-          "SummaryLine": "Incumbent Supreme Court Justice",
-          "isIncumbent": true,
-          "Party": "NP"
-        }
-      ],
-      "campaignFinance": "copp"
-    }
-  },
-  {
-    "Name": "Jim Rice",
-    "SummaryLine": "Incumbent Supreme Court Justice",
-    "LongSummary": "Rice, 64, is the court’s longest-serving current member, having served as a justice since 2001. He was appointed to his seat in 2001 by Republican Gov. Judy Martz, and won reelection in 2002, 2006 and 2014.\n\nBefore becoming a justice, Rice was an attorney in private practice and a three-time Republican legislator representing East Helena. He graduated from the University of Montana School of Law and was admitted to the State Bar of Montana in 1982.\n\nThis biography is based on campaign materials and interviews with Rice.\n",
-    "Race": "SupCo-1",
-    "CampaignWebsiteUrl": "http://www.jimriceforjustice.com/",
-    "CampaignFBPageUrl": "https://www.facebook.com/jimrice4justice",
-    "CampaignTwitterUrl": "https://twitter.com/jimrice4justice",
-    "CampaignInstagramUrl": null,
-    "MtfpCoverageTag": null,
-    "createdAt": "2022-04-19T19:19:29.798Z",
-    "updatedAt": "2022-06-06T20:06:28.996Z",
-    "Party": "NP",
-    "CampaignYoutubeUrl": null,
-    "isIncumbent": true,
-    "FECCandidateName": null,
-    "status": "on-primary-ballot",
-    "urlKey": "jim-rice",
-    "partyLabel": "Candidate",
-    "finances": null,
-    "issueAnswers": null,
-    "articles": [
       {
         "title": "The politics driving the Montana Supreme Court races",
         "date": "2022-03-28T16:50:18",
@@ -6384,9 +6479,110 @@
           "SummaryLine": "Billings attorney",
           "isIncumbent": false,
           "Party": "NP"
+        },
+        {
+          "urlKey": "jim-rice",
+          "Name": "Jim Rice",
+          "SummaryLine": "Incumbent Supreme Court Justice",
+          "isIncumbent": true,
+          "Party": "NP"
         }
       ],
-      "campaignFinance": "copp"
+      "campaignFinance": "copp",
+      "primaryResults": [
+        {
+          "candidate": "Jim Rice",
+          "votes": 189101,
+          "urlKey": "jim-rice",
+          "votePercent": 0.7616778574852278,
+          "isWinner": true
+        },
+        {
+          "candidate": "Bill D'Alton",
+          "votes": 59168,
+          "urlKey": "bill-dalton",
+          "votePercent": 0.2383221425147723,
+          "isWinner": false
+        }
+      ],
+      "resultsTimestamp": "2022-07-19T15:10:38.000Z"
+    }
+  },
+  {
+    "Name": "Jim Rice",
+    "SummaryLine": "Incumbent Supreme Court Justice",
+    "LongSummary": "Rice, 64, is the court’s longest-serving current member, having served as a justice since 2001. He was appointed to his seat in 2001 by Republican Gov. Judy Martz, and won reelection in 2002, 2006 and 2014.\n\nBefore becoming a justice, Rice was an attorney in private practice and a three-time Republican legislator representing East Helena. He graduated from the University of Montana School of Law and was admitted to the State Bar of Montana in 1982.\n\nThis biography is based on campaign materials and interviews with Rice.\n",
+    "Race": "SupCo-1",
+    "CampaignWebsiteUrl": "http://www.jimriceforjustice.com/",
+    "CampaignFBPageUrl": "https://www.facebook.com/jimrice4justice",
+    "CampaignTwitterUrl": "https://twitter.com/jimrice4justice",
+    "CampaignInstagramUrl": null,
+    "MtfpCoverageTag": null,
+    "createdAt": "2022-04-19T19:19:29.798Z",
+    "updatedAt": "2022-06-08T18:14:38.521Z",
+    "Party": "NP",
+    "CampaignYoutubeUrl": null,
+    "isIncumbent": true,
+    "FECCandidateName": null,
+    "status": "advancing-to-general",
+    "BallotName": "JIM RICE",
+    "urlKey": "jim-rice",
+    "partyLabel": "candidate",
+    "finances": null,
+    "issueAnswers": null,
+    "articles": [
+      {
+        "title": "Gustafson and Brown advancing over McMahon in Montana Supreme Court primary",
+        "date": "2022-06-08T00:05:27",
+        "link": "https://montanafreepress.org/2022/06/08/gustafson-brown-advance-montana-supreme-court-primary/"
+      },
+      {
+        "title": "The politics driving the Montana Supreme Court races",
+        "date": "2022-03-28T16:50:18",
+        "link": "https://montanafreepress.org/2022/03/28/the-politics-driving-montana-supreme-court-races/"
+      },
+      {
+        "title": "Five candidates in the race for two Montana Supreme Court seats",
+        "date": "2022-03-16T11:03:38",
+        "link": "https://montanafreepress.org/2022/03/16/five-candidates-competing-for-two-montana-supreme-court-seats/"
+      }
+    ],
+    "race": {
+      "label": "Montana Supreme Court (Seat 1)",
+      "opponents": [
+        {
+          "urlKey": "bill-dalton",
+          "Name": "Bill D'Alton",
+          "SummaryLine": "Billings attorney",
+          "isIncumbent": false,
+          "Party": "NP"
+        },
+        {
+          "urlKey": "jim-rice",
+          "Name": "Jim Rice",
+          "SummaryLine": "Incumbent Supreme Court Justice",
+          "isIncumbent": true,
+          "Party": "NP"
+        }
+      ],
+      "campaignFinance": "copp",
+      "primaryResults": [
+        {
+          "candidate": "Jim Rice",
+          "votes": 189101,
+          "urlKey": "jim-rice",
+          "votePercent": 0.7616778574852278,
+          "isWinner": true
+        },
+        {
+          "candidate": "Bill D'Alton",
+          "votes": 59168,
+          "urlKey": "bill-dalton",
+          "votePercent": 0.2383221425147723,
+          "isWinner": false
+        }
+      ],
+      "resultsTimestamp": "2022-07-19T15:10:38.000Z"
     }
   },
   {
@@ -6400,17 +6596,23 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:19:40.855Z",
-    "updatedAt": "2022-06-06T20:06:06.161Z",
+    "updatedAt": "2022-06-08T18:14:27.900Z",
     "Party": "NP",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
     "FECCandidateName": null,
-    "status": "on-primary-ballot",
+    "status": "advancing-to-general",
+    "BallotName": "JAMES BROWN",
     "urlKey": "james-brown",
-    "partyLabel": "Candidate",
+    "partyLabel": "candidate",
     "finances": null,
     "issueAnswers": null,
     "articles": [
+      {
+        "title": "Gustafson and Brown advancing over McMahon in Montana Supreme Court primary",
+        "date": "2022-06-08T00:05:27",
+        "link": "https://montanafreepress.org/2022/06/08/gustafson-brown-advance-montana-supreme-court-primary/"
+      },
       {
         "title": "Republican support colors Montana Supreme Court race",
         "date": "2022-05-25T17:00:00",
@@ -6431,21 +6633,45 @@
       "label": "Montana Supreme Court (Seat 2)",
       "opponents": [
         {
+          "urlKey": "james-brown",
+          "Name": "James Brown",
+          "SummaryLine": "Public Service Commission chairman",
+          "isIncumbent": false,
+          "Party": "NP"
+        },
+        {
           "urlKey": "ingrid-gustafson",
           "Name": "Ingrid Gustafson",
           "SummaryLine": "Incumbent Supreme Court Justice",
           "isIncumbent": true,
           "Party": "NP"
-        },
-        {
-          "urlKey": "mike-mcmahon",
-          "Name": "Mike McMahon",
-          "SummaryLine": "First Judicial District Court judge",
-          "isIncumbent": false,
-          "Party": "NP"
         }
       ],
-      "campaignFinance": "copp"
+      "campaignFinance": "copp",
+      "primaryResults": [
+        {
+          "candidate": "Ingrid Gustafson",
+          "votes": 126423,
+          "urlKey": "ingrid-gustafson",
+          "votePercent": 0.480875002852774,
+          "isWinner": true
+        },
+        {
+          "candidate": "Mike McMahon",
+          "votes": 40872,
+          "urlKey": "mike-mcmahon",
+          "votePercent": 0.15546477394618527,
+          "isWinner": false
+        },
+        {
+          "candidate": "James Brown",
+          "votes": 95607,
+          "urlKey": "james-brown",
+          "votePercent": 0.3636602232010407,
+          "isWinner": false
+        }
+      ],
+      "resultsTimestamp": "2022-07-19T15:10:38.000Z"
     }
   },
   {
@@ -6459,17 +6685,23 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:19:57.997Z",
-    "updatedAt": "2022-06-06T20:06:11.730Z",
+    "updatedAt": "2022-06-08T18:14:22.019Z",
     "Party": "NP",
     "CampaignYoutubeUrl": null,
     "isIncumbent": true,
     "FECCandidateName": null,
-    "status": "on-primary-ballot",
+    "status": "advancing-to-general",
+    "BallotName": "INGRID GUSTAFSON",
     "urlKey": "ingrid-gustafson",
-    "partyLabel": "Candidate",
+    "partyLabel": "candidate",
     "finances": null,
     "issueAnswers": null,
     "articles": [
+      {
+        "title": "Gustafson and Brown advancing over McMahon in Montana Supreme Court primary",
+        "date": "2022-06-08T00:05:27",
+        "link": "https://montanafreepress.org/2022/06/08/gustafson-brown-advance-montana-supreme-court-primary/"
+      },
       {
         "title": "The politics driving the Montana Supreme Court races",
         "date": "2022-03-28T16:50:18",
@@ -6492,14 +6724,38 @@
           "Party": "NP"
         },
         {
-          "urlKey": "mike-mcmahon",
-          "Name": "Mike McMahon",
-          "SummaryLine": "First Judicial District Court judge",
-          "isIncumbent": false,
+          "urlKey": "ingrid-gustafson",
+          "Name": "Ingrid Gustafson",
+          "SummaryLine": "Incumbent Supreme Court Justice",
+          "isIncumbent": true,
           "Party": "NP"
         }
       ],
-      "campaignFinance": "copp"
+      "campaignFinance": "copp",
+      "primaryResults": [
+        {
+          "candidate": "Ingrid Gustafson",
+          "votes": 126423,
+          "urlKey": "ingrid-gustafson",
+          "votePercent": 0.480875002852774,
+          "isWinner": true
+        },
+        {
+          "candidate": "Mike McMahon",
+          "votes": 40872,
+          "urlKey": "mike-mcmahon",
+          "votePercent": 0.15546477394618527,
+          "isWinner": false
+        },
+        {
+          "candidate": "James Brown",
+          "votes": 95607,
+          "urlKey": "james-brown",
+          "votePercent": 0.3636602232010407,
+          "isWinner": false
+        }
+      ],
+      "resultsTimestamp": "2022-07-19T15:10:38.000Z"
     }
   },
   {
@@ -6513,14 +6769,15 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:20:38.566Z",
-    "updatedAt": "2022-06-06T20:06:17.244Z",
+    "updatedAt": "2022-06-08T18:14:16.524Z",
     "Party": "NP",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
     "FECCandidateName": null,
-    "status": "on-primary-ballot",
+    "status": "lost-primary",
+    "BallotName": "MICHAEL F. MCMAHON",
     "urlKey": "mike-mcmahon",
-    "partyLabel": "Candidate",
+    "partyLabel": "candidate",
     "finances": null,
     "issueAnswers": null,
     "articles": [
@@ -6553,7 +6810,31 @@
           "Party": "NP"
         }
       ],
-      "campaignFinance": "copp"
+      "campaignFinance": "copp",
+      "primaryResults": [
+        {
+          "candidate": "Ingrid Gustafson",
+          "votes": 126423,
+          "urlKey": "ingrid-gustafson",
+          "votePercent": 0.480875002852774,
+          "isWinner": true
+        },
+        {
+          "candidate": "Mike McMahon",
+          "votes": 40872,
+          "urlKey": "mike-mcmahon",
+          "votePercent": 0.15546477394618527,
+          "isWinner": false
+        },
+        {
+          "candidate": "James Brown",
+          "votes": 95607,
+          "urlKey": "james-brown",
+          "votePercent": 0.3636602232010407,
+          "isWinner": false
+        }
+      ],
+      "resultsTimestamp": "2022-07-19T15:10:38.000Z"
     }
   },
   {
@@ -6567,18 +6848,20 @@
     "CampaignInstagramUrl": "https://www.instagram.com/coraformontana",
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:29:22.619Z",
-    "updatedAt": "2022-06-06T20:05:56.223Z",
+    "updatedAt": "2022-06-08T18:13:59.649Z",
     "Party": "D",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
     "FECCandidateName": "NEUMANN, CORA",
-    "status": "on-primary-ballot",
+    "status": "lost-primary",
+    "BallotName": "CORA NEUMANN",
     "urlKey": "cora-neumann",
     "partyLabel": "Democratic candidate",
     "finances": [
       {
         "isThisCandidate": false,
         "displayName": "Ryan Zinke",
+        "status": "advancing-to-general",
         "party": "R",
         "candidateId": "H4MT01041",
         "candidateCommitteeName": "ZINKE FOR CONGRESS",
@@ -6590,6 +6873,7 @@
       {
         "isThisCandidate": true,
         "displayName": "Cora Neumann",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H2MT02100",
         "candidateCommitteeName": "CORA FOR MONTANA",
@@ -6601,6 +6885,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Monica Tranel",
+        "status": "advancing-to-general",
         "party": "D",
         "candidateId": "H2MT02092",
         "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
@@ -6612,6 +6897,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Al Olszewski",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT02084",
         "candidateCommitteeName": "AL FOR MONTANA",
@@ -6623,6 +6909,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Mary Todd",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT00112",
         "candidateCommitteeName": "MARY TODD FOR MONTANA",
@@ -6634,6 +6921,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Tom Winter",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H0MT00090",
         "candidateCommitteeName": "WINTER FOR MONTANA",
@@ -6645,6 +6933,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Mitch Heuer",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT01136",
         "candidateCommitteeName": "HEUER FOR CONGRESS",
@@ -6656,6 +6945,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Matt Jette",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT01110",
         "candidateCommitteeName": "JETTE 4 MONTANA",
@@ -6667,6 +6957,7 @@
       {
         "isThisCandidate": false,
         "displayName": "John Lamb",
+        "status": "advancing-to-general",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -6855,6 +7146,11 @@
     ],
     "articles": [
       {
+        "title": "Montana congressional candidates make final primary push ",
+        "date": "2022-06-06T16:51:48",
+        "link": "https://montanafreepress.org/2022/06/06/montana-congressional-primary-candidates-gear-up-for-tuesday-election/"
+      },
+      {
         "title": "Who holds the keys to Montana’s Western congressional seat?",
         "date": "2022-05-19T15:40:04",
         "link": "https://montanafreepress.org/2022/05/19/how-will-voters-define-montanas-western-congressional-district/"
@@ -6869,32 +7165,11 @@
       "label": "U.S. House District 1 (West)",
       "opponents": [
         {
-          "urlKey": "mitch-heuer",
-          "Name": "Mitch Heuer",
-          "SummaryLine": "Whitefish small business owner",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
-          "urlKey": "matt-jette",
-          "Name": "Matt Jette",
-          "SummaryLine": "High school government teacher, professor",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
           "urlKey": "john-lamb",
           "Name": "John Lamb",
           "SummaryLine": "Libertarian activist",
           "isIncumbent": false,
           "Party": "L"
-        },
-        {
-          "urlKey": "al-olszewski",
-          "Name": "Al Olszewski",
-          "SummaryLine": "Former Kalispell state senator, orthopedic surgeon",
-          "isIncumbent": false,
-          "Party": "R"
         },
         {
           "urlKey": "monica-tranel",
@@ -6904,29 +7179,39 @@
           "Party": "D"
         },
         {
-          "urlKey": "tom-winter",
-          "Name": "Tom Winter",
-          "SummaryLine": "Rural broadband contractor",
-          "isIncumbent": false,
-          "Party": "D"
-        },
-        {
           "urlKey": "ryan-zinke",
           "Name": "Ryan Zinke",
           "SummaryLine": "Former U.S. Interior Secretary",
           "isIncumbent": false,
           "Party": "R"
-        },
-        {
-          "urlKey": "mary-todd",
-          "Name": "Mary Todd",
-          "SummaryLine": "Pastor, small business owner",
-          "isIncumbent": false,
-          "Party": "R"
         }
       ],
       "hasQuestionnaire": true,
-      "campaignFinance": "fec"
+      "campaignFinance": "fec",
+      "primaryResults": [
+        {
+          "candidate": "Cora Neumann",
+          "votes": 15396,
+          "urlKey": "cora-neumann",
+          "votePercent": 0.26889288645929754,
+          "isWinner": false
+        },
+        {
+          "candidate": "Monica Tranel",
+          "votes": 37138,
+          "urlKey": "monica-tranel",
+          "votePercent": 0.6486193827828912,
+          "isWinner": true
+        },
+        {
+          "candidate": "Tom Winter",
+          "votes": 4723,
+          "urlKey": "tom-winter",
+          "votePercent": 0.08248773075781127,
+          "isWinner": false
+        }
+      ],
+      "resultsTimestamp": "2022-07-19T15:09:03.000Z"
     }
   },
   {
@@ -6940,18 +7225,20 @@
     "CampaignInstagramUrl": "https://www.instagram.com/marytoddformt/",
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-27T21:09:21.851Z",
-    "updatedAt": "2022-06-06T20:06:00.808Z",
+    "updatedAt": "2022-06-08T18:14:10.982Z",
     "Party": "R",
     "CampaignYoutubeUrl": "https://www.youtube.com/channel/UCJlMtSvN5JZGcW7lOKCobkQ",
     "isIncumbent": false,
     "FECCandidateName": "TODD, MARY BROOKS",
-    "status": "on-primary-ballot",
+    "status": "lost-primary",
+    "BallotName": "MARY TODD",
     "urlKey": "mary-todd",
     "partyLabel": "Republican candidate",
     "finances": [
       {
         "isThisCandidate": false,
         "displayName": "Ryan Zinke",
+        "status": "advancing-to-general",
         "party": "R",
         "candidateId": "H4MT01041",
         "candidateCommitteeName": "ZINKE FOR CONGRESS",
@@ -6963,6 +7250,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Cora Neumann",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H2MT02100",
         "candidateCommitteeName": "CORA FOR MONTANA",
@@ -6974,6 +7262,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Monica Tranel",
+        "status": "advancing-to-general",
         "party": "D",
         "candidateId": "H2MT02092",
         "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
@@ -6985,6 +7274,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Al Olszewski",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT02084",
         "candidateCommitteeName": "AL FOR MONTANA",
@@ -6996,6 +7286,7 @@
       {
         "isThisCandidate": true,
         "displayName": "Mary Todd",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT00112",
         "candidateCommitteeName": "MARY TODD FOR MONTANA",
@@ -7007,6 +7298,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Tom Winter",
+        "status": "lost-primary",
         "party": "D",
         "candidateId": "H0MT00090",
         "candidateCommitteeName": "WINTER FOR MONTANA",
@@ -7018,6 +7310,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Mitch Heuer",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT01136",
         "candidateCommitteeName": "HEUER FOR CONGRESS",
@@ -7029,6 +7322,7 @@
       {
         "isThisCandidate": false,
         "displayName": "Matt Jette",
+        "status": "lost-primary",
         "party": "R",
         "candidateId": "H2MT01110",
         "candidateCommitteeName": "JETTE 4 MONTANA",
@@ -7040,6 +7334,7 @@
       {
         "isThisCandidate": false,
         "displayName": "John Lamb",
+        "status": "advancing-to-general",
         "party": "L",
         "candidateId": null,
         "candidateCommitteeName": null,
@@ -7066,32 +7361,11 @@
       "label": "U.S. House District 1 (West)",
       "opponents": [
         {
-          "urlKey": "mitch-heuer",
-          "Name": "Mitch Heuer",
-          "SummaryLine": "Whitefish small business owner",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
-          "urlKey": "matt-jette",
-          "Name": "Matt Jette",
-          "SummaryLine": "High school government teacher, professor",
-          "isIncumbent": false,
-          "Party": "R"
-        },
-        {
           "urlKey": "john-lamb",
           "Name": "John Lamb",
           "SummaryLine": "Libertarian activist",
           "isIncumbent": false,
           "Party": "L"
-        },
-        {
-          "urlKey": "al-olszewski",
-          "Name": "Al Olszewski",
-          "SummaryLine": "Former Kalispell state senator, orthopedic surgeon",
-          "isIncumbent": false,
-          "Party": "R"
         },
         {
           "urlKey": "monica-tranel",
@@ -7101,29 +7375,53 @@
           "Party": "D"
         },
         {
-          "urlKey": "tom-winter",
-          "Name": "Tom Winter",
-          "SummaryLine": "Rural broadband contractor",
-          "isIncumbent": false,
-          "Party": "D"
-        },
-        {
           "urlKey": "ryan-zinke",
           "Name": "Ryan Zinke",
           "SummaryLine": "Former U.S. Interior Secretary",
           "isIncumbent": false,
           "Party": "R"
-        },
-        {
-          "urlKey": "cora-neumann",
-          "Name": "Cora Neumann",
-          "SummaryLine": "Public health and public lands advocate",
-          "isIncumbent": false,
-          "Party": "D"
         }
       ],
       "hasQuestionnaire": true,
-      "campaignFinance": "fec"
+      "campaignFinance": "fec",
+      "primaryResults": [
+        {
+          "candidate": "Al Olszewski",
+          "votes": 33927,
+          "urlKey": "al-olszewski",
+          "votePercent": 0.39741592381309376,
+          "isWinner": false
+        },
+        {
+          "candidate": "Mary Todd",
+          "votes": 8915,
+          "urlKey": "mary-todd",
+          "votePercent": 0.10442900818798392,
+          "isWinner": false
+        },
+        {
+          "candidate": "Ryan Zinke",
+          "votes": 35601,
+          "urlKey": "ryan-zinke",
+          "votePercent": 0.41702491536740505,
+          "isWinner": true
+        },
+        {
+          "candidate": "Mitch Heuer",
+          "votes": 1953,
+          "urlKey": "mitch-heuer",
+          "votePercent": 0.022877156813363164,
+          "isWinner": false
+        },
+        {
+          "candidate": "Matt Jette",
+          "votes": 4973,
+          "urlKey": "matt-jette",
+          "votePercent": 0.05825299581815413,
+          "isWinner": false
+        }
+      ],
+      "resultsTimestamp": "2022-07-19T15:09:03.000Z"
     }
   }
 ]

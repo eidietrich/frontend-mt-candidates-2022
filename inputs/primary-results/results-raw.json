@@ -1,0 +1,4666 @@
+[
+  {
+    "race": "UNITED STATES REPRESENTATIVE 1ST DISTRICT",
+    "party": "REP",
+    "precinctsFull": "TK",
+    "precinctsPartial": "TK",
+    "reportingTime": "7/19/2022 9:09:03 AM",
+    "resultsTotal": [
+      {
+        "candidate": "AL \"DOC\" OLSZEWSKI",
+        "votes": 33927
+      },
+      {
+        "candidate": "MARY TODD",
+        "votes": 8915
+      },
+      {
+        "candidate": "RYAN K ZINKE",
+        "votes": 35601
+      },
+      {
+        "candidate": "MITCH HEUER",
+        "votes": 1953
+      },
+      {
+        "candidate": "MATT JETTE",
+        "votes": 4973
+      }
+    ],
+    "resultsByCounty": [
+      {
+        "candidate": "AL \"DOC\" OLSZEWSKI",
+        "county": "Beaverhead",
+        "votes": 988
+      },
+      {
+        "candidate": "MARY TODD",
+        "county": "Beaverhead",
+        "votes": 222
+      },
+      {
+        "candidate": "RYAN K ZINKE",
+        "county": "Beaverhead",
+        "votes": 852
+      },
+      {
+        "candidate": "MITCH HEUER",
+        "county": "Beaverhead",
+        "votes": 42
+      },
+      {
+        "candidate": "MATT JETTE",
+        "county": "Beaverhead",
+        "votes": 73
+      },
+      {
+        "candidate": "AL \"DOC\" OLSZEWSKI",
+        "county": "Deer Lodge",
+        "votes": 359
+      },
+      {
+        "candidate": "MARY TODD",
+        "county": "Deer Lodge",
+        "votes": 144
+      },
+      {
+        "candidate": "RYAN K ZINKE",
+        "county": "Deer Lodge",
+        "votes": 497
+      },
+      {
+        "candidate": "MITCH HEUER",
+        "county": "Deer Lodge",
+        "votes": 18
+      },
+      {
+        "candidate": "MATT JETTE",
+        "county": "Deer Lodge",
+        "votes": 49
+      },
+      {
+        "candidate": "AL \"DOC\" OLSZEWSKI",
+        "county": "Flathead",
+        "votes": 10463
+      },
+      {
+        "candidate": "MARY TODD",
+        "county": "Flathead",
+        "votes": 2016
+      },
+      {
+        "candidate": "RYAN K ZINKE",
+        "county": "Flathead",
+        "votes": 6949
+      },
+      {
+        "candidate": "MITCH HEUER",
+        "county": "Flathead",
+        "votes": 550
+      },
+      {
+        "candidate": "MATT JETTE",
+        "county": "Flathead",
+        "votes": 1984
+      },
+      {
+        "candidate": "AL \"DOC\" OLSZEWSKI",
+        "county": "Gallatin",
+        "votes": 5062
+      },
+      {
+        "candidate": "MARY TODD",
+        "county": "Gallatin",
+        "votes": 1490
+      },
+      {
+        "candidate": "RYAN K ZINKE",
+        "county": "Gallatin",
+        "votes": 5891
+      },
+      {
+        "candidate": "MITCH HEUER",
+        "county": "Gallatin",
+        "votes": 324
+      },
+      {
+        "candidate": "MATT JETTE",
+        "county": "Gallatin",
+        "votes": 660
+      },
+      {
+        "candidate": "AL \"DOC\" OLSZEWSKI",
+        "county": "Glacier",
+        "votes": 165
+      },
+      {
+        "candidate": "MARY TODD",
+        "county": "Glacier",
+        "votes": 33
+      },
+      {
+        "candidate": "RYAN K ZINKE",
+        "county": "Glacier",
+        "votes": 305
+      },
+      {
+        "candidate": "MITCH HEUER",
+        "county": "Glacier",
+        "votes": 10
+      },
+      {
+        "candidate": "MATT JETTE",
+        "county": "Glacier",
+        "votes": 27
+      },
+      {
+        "candidate": "AL \"DOC\" OLSZEWSKI",
+        "county": "Granite",
+        "votes": 319
+      },
+      {
+        "candidate": "MARY TODD",
+        "county": "Granite",
+        "votes": 134
+      },
+      {
+        "candidate": "RYAN K ZINKE",
+        "county": "Granite",
+        "votes": 525
+      },
+      {
+        "candidate": "MITCH HEUER",
+        "county": "Granite",
+        "votes": 21
+      },
+      {
+        "candidate": "MATT JETTE",
+        "county": "Granite",
+        "votes": 38
+      },
+      {
+        "candidate": "AL \"DOC\" OLSZEWSKI",
+        "county": "Lake",
+        "votes": 2551
+      },
+      {
+        "candidate": "MARY TODD",
+        "county": "Lake",
+        "votes": 581
+      },
+      {
+        "candidate": "RYAN K ZINKE",
+        "county": "Lake",
+        "votes": 2277
+      },
+      {
+        "candidate": "MITCH HEUER",
+        "county": "Lake",
+        "votes": 124
+      },
+      {
+        "candidate": "MATT JETTE",
+        "county": "Lake",
+        "votes": 265
+      },
+      {
+        "candidate": "AL \"DOC\" OLSZEWSKI",
+        "county": "Lincoln",
+        "votes": 1617
+      },
+      {
+        "candidate": "MARY TODD",
+        "county": "Lincoln",
+        "votes": 428
+      },
+      {
+        "candidate": "RYAN K ZINKE",
+        "county": "Lincoln",
+        "votes": 2050
+      },
+      {
+        "candidate": "MITCH HEUER",
+        "county": "Lincoln",
+        "votes": 98
+      },
+      {
+        "candidate": "MATT JETTE",
+        "county": "Lincoln",
+        "votes": 167
+      },
+      {
+        "candidate": "AL \"DOC\" OLSZEWSKI",
+        "county": "Madison",
+        "votes": 851
+      },
+      {
+        "candidate": "MARY TODD",
+        "county": "Madison",
+        "votes": 261
+      },
+      {
+        "candidate": "RYAN K ZINKE",
+        "county": "Madison",
+        "votes": 1073
+      },
+      {
+        "candidate": "MITCH HEUER",
+        "county": "Madison",
+        "votes": 36
+      },
+      {
+        "candidate": "MATT JETTE",
+        "county": "Madison",
+        "votes": 72
+      },
+      {
+        "candidate": "AL \"DOC\" OLSZEWSKI",
+        "county": "Mineral",
+        "votes": 433
+      },
+      {
+        "candidate": "MARY TODD",
+        "county": "Mineral",
+        "votes": 160
+      },
+      {
+        "candidate": "RYAN K ZINKE",
+        "county": "Mineral",
+        "votes": 524
+      },
+      {
+        "candidate": "MITCH HEUER",
+        "county": "Mineral",
+        "votes": 24
+      },
+      {
+        "candidate": "MATT JETTE",
+        "county": "Mineral",
+        "votes": 75
+      },
+      {
+        "candidate": "AL \"DOC\" OLSZEWSKI",
+        "county": "Missoula",
+        "votes": 4122
+      },
+      {
+        "candidate": "MARY TODD",
+        "county": "Missoula",
+        "votes": 1337
+      },
+      {
+        "candidate": "RYAN K ZINKE",
+        "county": "Missoula",
+        "votes": 5899
+      },
+      {
+        "candidate": "MITCH HEUER",
+        "county": "Missoula",
+        "votes": 262
+      },
+      {
+        "candidate": "MATT JETTE",
+        "county": "Missoula",
+        "votes": 730
+      },
+      {
+        "candidate": "AL \"DOC\" OLSZEWSKI",
+        "county": "Pondera",
+        "votes": 90
+      },
+      {
+        "candidate": "MARY TODD",
+        "county": "Pondera",
+        "votes": 23
+      },
+      {
+        "candidate": "RYAN K ZINKE",
+        "county": "Pondera",
+        "votes": 201
+      },
+      {
+        "candidate": "MITCH HEUER",
+        "county": "Pondera",
+        "votes": 9
+      },
+      {
+        "candidate": "MATT JETTE",
+        "county": "Pondera",
+        "votes": 18
+      },
+      {
+        "candidate": "AL \"DOC\" OLSZEWSKI",
+        "county": "Powell",
+        "votes": 402
+      },
+      {
+        "candidate": "MARY TODD",
+        "county": "Powell",
+        "votes": 162
+      },
+      {
+        "candidate": "RYAN K ZINKE",
+        "county": "Powell",
+        "votes": 653
+      },
+      {
+        "candidate": "MITCH HEUER",
+        "county": "Powell",
+        "votes": 27
+      },
+      {
+        "candidate": "MATT JETTE",
+        "county": "Powell",
+        "votes": 38
+      },
+      {
+        "candidate": "AL \"DOC\" OLSZEWSKI",
+        "county": "Ravalli",
+        "votes": 3721
+      },
+      {
+        "candidate": "MARY TODD",
+        "county": "Ravalli",
+        "votes": 1102
+      },
+      {
+        "candidate": "RYAN K ZINKE",
+        "county": "Ravalli",
+        "votes": 5003
+      },
+      {
+        "candidate": "MITCH HEUER",
+        "county": "Ravalli",
+        "votes": 261
+      },
+      {
+        "candidate": "MATT JETTE",
+        "county": "Ravalli",
+        "votes": 554
+      },
+      {
+        "candidate": "AL \"DOC\" OLSZEWSKI",
+        "county": "Sanders",
+        "votes": 1776
+      },
+      {
+        "candidate": "MARY TODD",
+        "county": "Sanders",
+        "votes": 324
+      },
+      {
+        "candidate": "RYAN K ZINKE",
+        "county": "Sanders",
+        "votes": 1427
+      },
+      {
+        "candidate": "MITCH HEUER",
+        "county": "Sanders",
+        "votes": 71
+      },
+      {
+        "candidate": "MATT JETTE",
+        "county": "Sanders",
+        "votes": 97
+      },
+      {
+        "candidate": "AL \"DOC\" OLSZEWSKI",
+        "county": "Silver Bow",
+        "votes": 1008
+      },
+      {
+        "candidate": "MARY TODD",
+        "county": "Silver Bow",
+        "votes": 498
+      },
+      {
+        "candidate": "RYAN K ZINKE",
+        "county": "Silver Bow",
+        "votes": 1475
+      },
+      {
+        "candidate": "MITCH HEUER",
+        "county": "Silver Bow",
+        "votes": 76
+      },
+      {
+        "candidate": "MATT JETTE",
+        "county": "Silver Bow",
+        "votes": 126
+      }
+    ]
+  },
+  {
+    "race": "UNITED STATES REPRESENTATIVE 1ST DISTRICT",
+    "party": "DEM",
+    "precinctsFull": "TK",
+    "precinctsPartial": "TK",
+    "reportingTime": "7/19/2022 9:09:03 AM",
+    "resultsTotal": [
+      {
+        "candidate": "CORA NEUMANN",
+        "votes": 15396
+      },
+      {
+        "candidate": "MONICA TRANEL",
+        "votes": 37138
+      },
+      {
+        "candidate": "TOM WINTER",
+        "votes": 4723
+      }
+    ],
+    "resultsByCounty": [
+      {
+        "candidate": "CORA NEUMANN",
+        "county": "Beaverhead",
+        "votes": 144
+      },
+      {
+        "candidate": "MONICA TRANEL",
+        "county": "Beaverhead",
+        "votes": 300
+      },
+      {
+        "candidate": "TOM WINTER",
+        "county": "Beaverhead",
+        "votes": 36
+      },
+      {
+        "candidate": "CORA NEUMANN",
+        "county": "Deer Lodge",
+        "votes": 448
+      },
+      {
+        "candidate": "MONICA TRANEL",
+        "county": "Deer Lodge",
+        "votes": 1070
+      },
+      {
+        "candidate": "TOM WINTER",
+        "county": "Deer Lodge",
+        "votes": 104
+      },
+      {
+        "candidate": "CORA NEUMANN",
+        "county": "Flathead",
+        "votes": 1451
+      },
+      {
+        "candidate": "MONICA TRANEL",
+        "county": "Flathead",
+        "votes": 3590
+      },
+      {
+        "candidate": "TOM WINTER",
+        "county": "Flathead",
+        "votes": 457
+      },
+      {
+        "candidate": "CORA NEUMANN",
+        "county": "Gallatin",
+        "votes": 4640
+      },
+      {
+        "candidate": "MONICA TRANEL",
+        "county": "Gallatin",
+        "votes": 7778
+      },
+      {
+        "candidate": "TOM WINTER",
+        "county": "Gallatin",
+        "votes": 999
+      },
+      {
+        "candidate": "CORA NEUMANN",
+        "county": "Glacier",
+        "votes": 503
+      },
+      {
+        "candidate": "MONICA TRANEL",
+        "county": "Glacier",
+        "votes": 474
+      },
+      {
+        "candidate": "TOM WINTER",
+        "county": "Glacier",
+        "votes": 321
+      },
+      {
+        "candidate": "CORA NEUMANN",
+        "county": "Granite",
+        "votes": 73
+      },
+      {
+        "candidate": "MONICA TRANEL",
+        "county": "Granite",
+        "votes": 179
+      },
+      {
+        "candidate": "TOM WINTER",
+        "county": "Granite",
+        "votes": 31
+      },
+      {
+        "candidate": "CORA NEUMANN",
+        "county": "Lake",
+        "votes": 654
+      },
+      {
+        "candidate": "MONICA TRANEL",
+        "county": "Lake",
+        "votes": 1533
+      },
+      {
+        "candidate": "TOM WINTER",
+        "county": "Lake",
+        "votes": 179
+      },
+      {
+        "candidate": "CORA NEUMANN",
+        "county": "Lincoln",
+        "votes": 340
+      },
+      {
+        "candidate": "MONICA TRANEL",
+        "county": "Lincoln",
+        "votes": 569
+      },
+      {
+        "candidate": "TOM WINTER",
+        "county": "Lincoln",
+        "votes": 94
+      },
+      {
+        "candidate": "CORA NEUMANN",
+        "county": "Madison",
+        "votes": 266
+      },
+      {
+        "candidate": "MONICA TRANEL",
+        "county": "Madison",
+        "votes": 466
+      },
+      {
+        "candidate": "TOM WINTER",
+        "county": "Madison",
+        "votes": 45
+      },
+      {
+        "candidate": "CORA NEUMANN",
+        "county": "Mineral",
+        "votes": 51
+      },
+      {
+        "candidate": "MONICA TRANEL",
+        "county": "Mineral",
+        "votes": 120
+      },
+      {
+        "candidate": "TOM WINTER",
+        "county": "Mineral",
+        "votes": 7
+      },
+      {
+        "candidate": "CORA NEUMANN",
+        "county": "Missoula",
+        "votes": 3878
+      },
+      {
+        "candidate": "MONICA TRANEL",
+        "county": "Missoula",
+        "votes": 14304
+      },
+      {
+        "candidate": "TOM WINTER",
+        "county": "Missoula",
+        "votes": 1800
+      },
+      {
+        "candidate": "CORA NEUMANN",
+        "county": "Pondera",
+        "votes": 46
+      },
+      {
+        "candidate": "MONICA TRANEL",
+        "county": "Pondera",
+        "votes": 35
+      },
+      {
+        "candidate": "TOM WINTER",
+        "county": "Pondera",
+        "votes": 30
+      },
+      {
+        "candidate": "CORA NEUMANN",
+        "county": "Powell",
+        "votes": 94
+      },
+      {
+        "candidate": "MONICA TRANEL",
+        "county": "Powell",
+        "votes": 205
+      },
+      {
+        "candidate": "TOM WINTER",
+        "county": "Powell",
+        "votes": 20
+      },
+      {
+        "candidate": "CORA NEUMANN",
+        "county": "Ravalli",
+        "votes": 703
+      },
+      {
+        "candidate": "MONICA TRANEL",
+        "county": "Ravalli",
+        "votes": 2473
+      },
+      {
+        "candidate": "TOM WINTER",
+        "county": "Ravalli",
+        "votes": 177
+      },
+      {
+        "candidate": "CORA NEUMANN",
+        "county": "Sanders",
+        "votes": 264
+      },
+      {
+        "candidate": "MONICA TRANEL",
+        "county": "Sanders",
+        "votes": 633
+      },
+      {
+        "candidate": "TOM WINTER",
+        "county": "Sanders",
+        "votes": 59
+      },
+      {
+        "candidate": "CORA NEUMANN",
+        "county": "Silver Bow",
+        "votes": 1841
+      },
+      {
+        "candidate": "MONICA TRANEL",
+        "county": "Silver Bow",
+        "votes": 3409
+      },
+      {
+        "candidate": "TOM WINTER",
+        "county": "Silver Bow",
+        "votes": 364
+      }
+    ]
+  },
+  {
+    "race": "UNITED STATES REPRESENTATIVE 2ND DISTRICT",
+    "party": "REP",
+    "precinctsFull": "TK",
+    "precinctsPartial": "TK",
+    "reportingTime": "7/19/2022 9:09:03 AM",
+    "resultsTotal": [
+      {
+        "candidate": "JAMES BOYETTE",
+        "votes": 5712
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "votes": 73453
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "votes": 11930
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "votes": 5909
+      }
+    ],
+    "resultsByCounty": [
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Big Horn",
+        "votes": 33
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Big Horn",
+        "votes": 792
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Big Horn",
+        "votes": 119
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Big Horn",
+        "votes": 78
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Blaine",
+        "votes": 38
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Blaine",
+        "votes": 619
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Blaine",
+        "votes": 93
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Blaine",
+        "votes": 31
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Broadwater",
+        "votes": 91
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Broadwater",
+        "votes": 1176
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Broadwater",
+        "votes": 152
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Broadwater",
+        "votes": 89
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Carbon",
+        "votes": 123
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Carbon",
+        "votes": 1685
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Carbon",
+        "votes": 232
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Carbon",
+        "votes": 107
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Carter",
+        "votes": 15
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Carter",
+        "votes": 457
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Carter",
+        "votes": 28
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Carter",
+        "votes": 14
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Cascade",
+        "votes": 765
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Cascade",
+        "votes": 9124
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Cascade",
+        "votes": 1438
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Cascade",
+        "votes": 1194
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Chouteau",
+        "votes": 64
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Chouteau",
+        "votes": 873
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Chouteau",
+        "votes": 176
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Chouteau",
+        "votes": 114
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Custer",
+        "votes": 120
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Custer",
+        "votes": 1835
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Custer",
+        "votes": 325
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Custer",
+        "votes": 125
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Daniels",
+        "votes": 6
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Daniels",
+        "votes": 315
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Daniels",
+        "votes": 32
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Daniels",
+        "votes": 8
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Dawson",
+        "votes": 89
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Dawson",
+        "votes": 1558
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Dawson",
+        "votes": 223
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Dawson",
+        "votes": 120
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Fallon",
+        "votes": 18
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Fallon",
+        "votes": 575
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Fallon",
+        "votes": 50
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Fallon",
+        "votes": 14
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Fergus",
+        "votes": 94
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Fergus",
+        "votes": 2486
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Fergus",
+        "votes": 259
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Fergus",
+        "votes": 142
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Garfield",
+        "votes": 9
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Garfield",
+        "votes": 409
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Garfield",
+        "votes": 29
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Garfield",
+        "votes": 2
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Golden Valley",
+        "votes": 13
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Golden Valley",
+        "votes": 241
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Golden Valley",
+        "votes": 25
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Golden Valley",
+        "votes": 14
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Hill",
+        "votes": 80
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Hill",
+        "votes": 1288
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Hill",
+        "votes": 318
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Hill",
+        "votes": 96
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Jefferson",
+        "votes": 164
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Jefferson",
+        "votes": 2063
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Jefferson",
+        "votes": 386
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Jefferson",
+        "votes": 194
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Judith Basin",
+        "votes": 22
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Judith Basin",
+        "votes": 470
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Judith Basin",
+        "votes": 75
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Judith Basin",
+        "votes": 24
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Lewis & Clark",
+        "votes": 583
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Lewis & Clark",
+        "votes": 7187
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Lewis & Clark",
+        "votes": 1388
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Lewis & Clark",
+        "votes": 663
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Liberty",
+        "votes": 35
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Liberty",
+        "votes": 605
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Liberty",
+        "votes": 94
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Liberty",
+        "votes": 53
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "McCone",
+        "votes": 15
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "McCone",
+        "votes": 545
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "McCone",
+        "votes": 37
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "McCone",
+        "votes": 14
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Meagher",
+        "votes": 32
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Meagher",
+        "votes": 481
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Meagher",
+        "votes": 61
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Meagher",
+        "votes": 29
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Musselshell",
+        "votes": 45
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Musselshell",
+        "votes": 1094
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Musselshell",
+        "votes": 116
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Musselshell",
+        "votes": 70
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Park",
+        "votes": 120
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Park",
+        "votes": 2096
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Park",
+        "votes": 301
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Park",
+        "votes": 152
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Petroleum",
+        "votes": 2
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Petroleum",
+        "votes": 134
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Petroleum",
+        "votes": 14
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Petroleum",
+        "votes": 2
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Phillips",
+        "votes": 29
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Phillips",
+        "votes": 895
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Phillips",
+        "votes": 116
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Phillips",
+        "votes": 36
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Pondera",
+        "votes": 60
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Pondera",
+        "votes": 797
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Pondera",
+        "votes": 110
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Pondera",
+        "votes": 59
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Powder River",
+        "votes": 26
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Powder River",
+        "votes": 613
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Powder River",
+        "votes": 69
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Powder River",
+        "votes": 30
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Prairie",
+        "votes": 11
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Prairie",
+        "votes": 303
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Prairie",
+        "votes": 30
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Prairie",
+        "votes": 18
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Richland",
+        "votes": 83
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Richland",
+        "votes": 1734
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Richland",
+        "votes": 234
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Richland",
+        "votes": 103
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Roosevelt",
+        "votes": 25
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Roosevelt",
+        "votes": 728
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Roosevelt",
+        "votes": 61
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Roosevelt",
+        "votes": 36
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Rosebud",
+        "votes": 67
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Rosebud",
+        "votes": 1121
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Rosebud",
+        "votes": 169
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Rosebud",
+        "votes": 81
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Sheridan",
+        "votes": 63
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Sheridan",
+        "votes": 720
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Sheridan",
+        "votes": 157
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Sheridan",
+        "votes": 68
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Stillwater",
+        "votes": 110
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Stillwater",
+        "votes": 1800
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Stillwater",
+        "votes": 250
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Stillwater",
+        "votes": 115
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Sweet Grass",
+        "votes": 49
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Sweet Grass",
+        "votes": 980
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Sweet Grass",
+        "votes": 148
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Sweet Grass",
+        "votes": 112
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Teton",
+        "votes": 64
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Teton",
+        "votes": 1254
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Teton",
+        "votes": 193
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Teton",
+        "votes": 140
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Toole",
+        "votes": 47
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Toole",
+        "votes": 885
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Toole",
+        "votes": 122
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Toole",
+        "votes": 56
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Treasure",
+        "votes": 17
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Treasure",
+        "votes": 242
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Treasure",
+        "votes": 44
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Treasure",
+        "votes": 20
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Valley",
+        "votes": 94
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Valley",
+        "votes": 1234
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Valley",
+        "votes": 209
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Valley",
+        "votes": 56
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Wheatland",
+        "votes": 24
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Wheatland",
+        "votes": 454
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Wheatland",
+        "votes": 61
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Wheatland",
+        "votes": 39
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Wibaux",
+        "votes": 8
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Wibaux",
+        "votes": 185
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Wibaux",
+        "votes": 28
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Wibaux",
+        "votes": 17
+      },
+      {
+        "candidate": "JAMES BOYETTE",
+        "county": "Yellowstone",
+        "votes": 2359
+      },
+      {
+        "candidate": "MATT ROSENDALE",
+        "county": "Yellowstone",
+        "votes": 21400
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "county": "Yellowstone",
+        "votes": 3958
+      },
+      {
+        "candidate": "CHARLES A. WALKINGCHILD",
+        "county": "Yellowstone",
+        "votes": 1574
+      }
+    ]
+  },
+  {
+    "race": "UNITED STATES REPRESENTATIVE 2ND DISTRICT",
+    "party": "DEM",
+    "precinctsFull": "TK",
+    "precinctsPartial": "TK",
+    "reportingTime": "7/19/2022 9:09:03 AM",
+    "resultsTotal": [
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "votes": 7029
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "votes": 8586
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "votes": 21983
+      }
+    ],
+    "resultsByCounty": [
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Big Horn",
+        "votes": 182
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Big Horn",
+        "votes": 219
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Big Horn",
+        "votes": 321
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Blaine",
+        "votes": 84
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Blaine",
+        "votes": 96
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Blaine",
+        "votes": 93
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Broadwater",
+        "votes": 68
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Broadwater",
+        "votes": 84
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Broadwater",
+        "votes": 153
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Carbon",
+        "votes": 124
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Carbon",
+        "votes": 129
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Carbon",
+        "votes": 733
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Carter",
+        "votes": 4
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Carter",
+        "votes": 4
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Carter",
+        "votes": 8
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Cascade",
+        "votes": 1023
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Cascade",
+        "votes": 1410
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Cascade",
+        "votes": 2125
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Chouteau",
+        "votes": 44
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Chouteau",
+        "votes": 66
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Chouteau",
+        "votes": 79
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Custer",
+        "votes": 154
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Custer",
+        "votes": 205
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Custer",
+        "votes": 299
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Daniels",
+        "votes": 6
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Daniels",
+        "votes": 24
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Daniels",
+        "votes": 20
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Dawson",
+        "votes": 44
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Dawson",
+        "votes": 60
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Dawson",
+        "votes": 109
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Fallon",
+        "votes": 6
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Fallon",
+        "votes": 11
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Fallon",
+        "votes": 27
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Fergus",
+        "votes": 107
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Fergus",
+        "votes": 168
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Fergus",
+        "votes": 343
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Garfield",
+        "votes": 1
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Garfield",
+        "votes": 4
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Garfield",
+        "votes": 9
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Golden Valley",
+        "votes": 8
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Golden Valley",
+        "votes": 5
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Golden Valley",
+        "votes": 14
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Hill",
+        "votes": 276
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Hill",
+        "votes": 352
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Hill",
+        "votes": 411
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Jefferson",
+        "votes": 210
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Jefferson",
+        "votes": 227
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Jefferson",
+        "votes": 613
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Judith Basin",
+        "votes": 23
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Judith Basin",
+        "votes": 41
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Judith Basin",
+        "votes": 54
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Lewis & Clark",
+        "votes": 1558
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Lewis & Clark",
+        "votes": 2435
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Lewis & Clark",
+        "votes": 4804
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Liberty",
+        "votes": 5
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Liberty",
+        "votes": 15
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Liberty",
+        "votes": 13
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "McCone",
+        "votes": 6
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "McCone",
+        "votes": 13
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "McCone",
+        "votes": 19
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Meagher",
+        "votes": 17
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Meagher",
+        "votes": 14
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Meagher",
+        "votes": 33
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Musselshell",
+        "votes": 20
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Musselshell",
+        "votes": 21
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Musselshell",
+        "votes": 46
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Park",
+        "votes": 441
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Park",
+        "votes": 232
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Park",
+        "votes": 1127
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Petroleum",
+        "votes": 3
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Petroleum",
+        "votes": 1
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Petroleum",
+        "votes": 8
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Phillips",
+        "votes": 16
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Phillips",
+        "votes": 23
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Phillips",
+        "votes": 49
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Pondera",
+        "votes": 38
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Pondera",
+        "votes": 38
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Pondera",
+        "votes": 51
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Powder River",
+        "votes": 3
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Powder River",
+        "votes": 5
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Powder River",
+        "votes": 11
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Prairie",
+        "votes": 2
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Prairie",
+        "votes": 9
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Prairie",
+        "votes": 24
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Richland",
+        "votes": 41
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Richland",
+        "votes": 26
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Richland",
+        "votes": 94
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Roosevelt",
+        "votes": 110
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Roosevelt",
+        "votes": 187
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Roosevelt",
+        "votes": 248
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Rosebud",
+        "votes": 49
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Rosebud",
+        "votes": 80
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Rosebud",
+        "votes": 125
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Sheridan",
+        "votes": 16
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Sheridan",
+        "votes": 23
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Sheridan",
+        "votes": 48
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Stillwater",
+        "votes": 74
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Stillwater",
+        "votes": 61
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Stillwater",
+        "votes": 213
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Sweet Grass",
+        "votes": 14
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Sweet Grass",
+        "votes": 8
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Sweet Grass",
+        "votes": 51
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Teton",
+        "votes": 96
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Teton",
+        "votes": 102
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Teton",
+        "votes": 156
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Toole",
+        "votes": 30
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Toole",
+        "votes": 14
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Toole",
+        "votes": 37
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Treasure",
+        "votes": 1
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Treasure",
+        "votes": 3
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Treasure",
+        "votes": 2
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Valley",
+        "votes": 70
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Valley",
+        "votes": 127
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Valley",
+        "votes": 210
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Wheatland",
+        "votes": 5
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Wheatland",
+        "votes": 5
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Wheatland",
+        "votes": 29
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Wibaux",
+        "votes": 5
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Wibaux",
+        "votes": 7
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Wibaux",
+        "votes": 7
+      },
+      {
+        "candidate": "SKYLAR WILLIAMS",
+        "county": "Yellowstone",
+        "votes": 2045
+      },
+      {
+        "candidate": "MARK SWEENEY",
+        "county": "Yellowstone",
+        "votes": 2032
+      },
+      {
+        "candidate": "PENNY RONNING",
+        "county": "Yellowstone",
+        "votes": 9167
+      }
+    ]
+  },
+  {
+    "race": "UNITED STATES REPRESENTATIVE 2ND DISTRICT",
+    "party": "LIB",
+    "precinctsFull": "TK",
+    "precinctsPartial": "TK",
+    "reportingTime": "7/19/2022 9:09:03 AM",
+    "resultsTotal": [
+      {
+        "candidate": "SAM RANKIN",
+        "votes": 958
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "votes": 554
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "votes": 526
+      }
+    ],
+    "resultsByCounty": [
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Big Horn",
+        "votes": 26
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Big Horn",
+        "votes": 29
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Big Horn",
+        "votes": 15
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Blaine",
+        "votes": 7
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Blaine",
+        "votes": 1
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Blaine",
+        "votes": 3
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Broadwater",
+        "votes": 15
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Broadwater",
+        "votes": 2
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Broadwater",
+        "votes": 12
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Carbon",
+        "votes": 32
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Carbon",
+        "votes": 12
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Carbon",
+        "votes": 9
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Carter",
+        "votes": 0
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Carter",
+        "votes": 0
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Carter",
+        "votes": 0
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Cascade",
+        "votes": 40
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Cascade",
+        "votes": 24
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Cascade",
+        "votes": 21
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Chouteau",
+        "votes": 12
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Chouteau",
+        "votes": 4
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Chouteau",
+        "votes": 1
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Custer",
+        "votes": 21
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Custer",
+        "votes": 16
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Custer",
+        "votes": 24
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Daniels",
+        "votes": 0
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Daniels",
+        "votes": 3
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Daniels",
+        "votes": 0
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Dawson",
+        "votes": 2
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Dawson",
+        "votes": 0
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Dawson",
+        "votes": 1
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Fallon",
+        "votes": 0
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Fallon",
+        "votes": 0
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Fallon",
+        "votes": 0
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Fergus",
+        "votes": 32
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Fergus",
+        "votes": 17
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Fergus",
+        "votes": 9
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Garfield",
+        "votes": 2
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Garfield",
+        "votes": 1
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Garfield",
+        "votes": 5
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Golden Valley",
+        "votes": 1
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Golden Valley",
+        "votes": 1
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Golden Valley",
+        "votes": 0
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Hill",
+        "votes": 10
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Hill",
+        "votes": 2
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Hill",
+        "votes": 4
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Jefferson",
+        "votes": 39
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Jefferson",
+        "votes": 15
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Jefferson",
+        "votes": 16
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Judith Basin",
+        "votes": 2
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Judith Basin",
+        "votes": 2
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Judith Basin",
+        "votes": 3
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Lewis & Clark",
+        "votes": 150
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Lewis & Clark",
+        "votes": 72
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Lewis & Clark",
+        "votes": 61
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Liberty",
+        "votes": 0
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Liberty",
+        "votes": 0
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Liberty",
+        "votes": 1
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "McCone",
+        "votes": 0
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "McCone",
+        "votes": 1
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "McCone",
+        "votes": 0
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Meagher",
+        "votes": 1
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Meagher",
+        "votes": 1
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Meagher",
+        "votes": 0
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Musselshell",
+        "votes": 3
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Musselshell",
+        "votes": 2
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Musselshell",
+        "votes": 0
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Park",
+        "votes": 35
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Park",
+        "votes": 19
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Park",
+        "votes": 22
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Petroleum",
+        "votes": 1
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Petroleum",
+        "votes": 0
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Petroleum",
+        "votes": 0
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Phillips",
+        "votes": 4
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Phillips",
+        "votes": 1
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Phillips",
+        "votes": 1
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Pondera",
+        "votes": 4
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Pondera",
+        "votes": 2
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Pondera",
+        "votes": 1
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Powder River",
+        "votes": 1
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Powder River",
+        "votes": 0
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Powder River",
+        "votes": 2
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Prairie",
+        "votes": 0
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Prairie",
+        "votes": 0
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Prairie",
+        "votes": 0
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Richland",
+        "votes": 6
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Richland",
+        "votes": 3
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Richland",
+        "votes": 5
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Roosevelt",
+        "votes": 11
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Roosevelt",
+        "votes": 12
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Roosevelt",
+        "votes": 11
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Rosebud",
+        "votes": 2
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Rosebud",
+        "votes": 2
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Rosebud",
+        "votes": 2
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Sheridan",
+        "votes": 3
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Sheridan",
+        "votes": 0
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Sheridan",
+        "votes": 2
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Stillwater",
+        "votes": 12
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Stillwater",
+        "votes": 4
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Stillwater",
+        "votes": 5
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Sweet Grass",
+        "votes": 2
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Sweet Grass",
+        "votes": 1
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Sweet Grass",
+        "votes": 4
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Teton",
+        "votes": 14
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Teton",
+        "votes": 8
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Teton",
+        "votes": 3
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Toole",
+        "votes": 0
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Toole",
+        "votes": 1
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Toole",
+        "votes": 0
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Treasure",
+        "votes": 1
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Treasure",
+        "votes": 1
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Treasure",
+        "votes": 0
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Valley",
+        "votes": 12
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Valley",
+        "votes": 8
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Valley",
+        "votes": 10
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Wheatland",
+        "votes": 2
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Wheatland",
+        "votes": 0
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Wheatland",
+        "votes": 2
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Wibaux",
+        "votes": 0
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Wibaux",
+        "votes": 1
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Wibaux",
+        "votes": 0
+      },
+      {
+        "candidate": "SAM RANKIN",
+        "county": "Yellowstone",
+        "votes": 453
+      },
+      {
+        "candidate": "SAMUEL THOMAS",
+        "county": "Yellowstone",
+        "votes": 286
+      },
+      {
+        "candidate": "ROGER ROOTS",
+        "county": "Yellowstone",
+        "votes": 271
+      }
+    ]
+  },
+  {
+    "race": "PUBLIC SERVICE COMMISSIONER DISTRICT 1",
+    "party": "REP",
+    "precinctsFull": "TK",
+    "precinctsPartial": "TK",
+    "reportingTime": "7/19/2022 9:10:31 AM",
+    "resultsTotal": [
+      {
+        "candidate": "RANDY PINOCCI",
+        "votes": 20585
+      },
+      {
+        "candidate": "K. WEBB GALBREATH",
+        "votes": 10472
+      }
+    ],
+    "resultsByCounty": [
+      {
+        "candidate": "RANDY PINOCCI",
+        "county": "Blaine",
+        "votes": 484
+      },
+      {
+        "candidate": "K. WEBB GALBREATH",
+        "county": "Blaine",
+        "votes": 175
+      },
+      {
+        "candidate": "RANDY PINOCCI",
+        "county": "Cascade",
+        "votes": 7761
+      },
+      {
+        "candidate": "K. WEBB GALBREATH",
+        "county": "Cascade",
+        "votes": 3922
+      },
+      {
+        "candidate": "RANDY PINOCCI",
+        "county": "Chouteau",
+        "votes": 752
+      },
+      {
+        "candidate": "K. WEBB GALBREATH",
+        "county": "Chouteau",
+        "votes": 320
+      },
+      {
+        "candidate": "RANDY PINOCCI",
+        "county": "Daniels",
+        "votes": 184
+      },
+      {
+        "candidate": "K. WEBB GALBREATH",
+        "county": "Daniels",
+        "votes": 90
+      },
+      {
+        "candidate": "RANDY PINOCCI",
+        "county": "Dawson",
+        "votes": 1024
+      },
+      {
+        "candidate": "K. WEBB GALBREATH",
+        "county": "Dawson",
+        "votes": 604
+      },
+      {
+        "candidate": "RANDY PINOCCI",
+        "county": "Fergus",
+        "votes": 2107
+      },
+      {
+        "candidate": "K. WEBB GALBREATH",
+        "county": "Fergus",
+        "votes": 572
+      },
+      {
+        "candidate": "RANDY PINOCCI",
+        "county": "Garfield",
+        "votes": 214
+      },
+      {
+        "candidate": "K. WEBB GALBREATH",
+        "county": "Garfield",
+        "votes": 110
+      },
+      {
+        "candidate": "RANDY PINOCCI",
+        "county": "Glacier",
+        "votes": 222
+      },
+      {
+        "candidate": "K. WEBB GALBREATH",
+        "county": "Glacier",
+        "votes": 264
+      },
+      {
+        "candidate": "RANDY PINOCCI",
+        "county": "Hill",
+        "votes": 1054
+      },
+      {
+        "candidate": "K. WEBB GALBREATH",
+        "county": "Hill",
+        "votes": 504
+      },
+      {
+        "candidate": "RANDY PINOCCI",
+        "county": "Judith Basin",
+        "votes": 398
+      },
+      {
+        "candidate": "K. WEBB GALBREATH",
+        "county": "Judith Basin",
+        "votes": 138
+      },
+      {
+        "candidate": "RANDY PINOCCI",
+        "county": "Liberty",
+        "votes": 426
+      },
+      {
+        "candidate": "K. WEBB GALBREATH",
+        "county": "Liberty",
+        "votes": 217
+      },
+      {
+        "candidate": "RANDY PINOCCI",
+        "county": "McCone",
+        "votes": 323
+      },
+      {
+        "candidate": "K. WEBB GALBREATH",
+        "county": "McCone",
+        "votes": 157
+      },
+      {
+        "candidate": "RANDY PINOCCI",
+        "county": "Musselshell",
+        "votes": 510
+      },
+      {
+        "candidate": "K. WEBB GALBREATH",
+        "county": "Musselshell",
+        "votes": 570
+      },
+      {
+        "candidate": "RANDY PINOCCI",
+        "county": "Petroleum",
+        "votes": 93
+      },
+      {
+        "candidate": "K. WEBB GALBREATH",
+        "county": "Petroleum",
+        "votes": 41
+      },
+      {
+        "candidate": "RANDY PINOCCI",
+        "county": "Phillips",
+        "votes": 556
+      },
+      {
+        "candidate": "K. WEBB GALBREATH",
+        "county": "Phillips",
+        "votes": 328
+      },
+      {
+        "candidate": "RANDY PINOCCI",
+        "county": "Pondera",
+        "votes": 699
+      },
+      {
+        "candidate": "K. WEBB GALBREATH",
+        "county": "Pondera",
+        "votes": 442
+      },
+      {
+        "candidate": "RANDY PINOCCI",
+        "county": "Richland",
+        "votes": 1265
+      },
+      {
+        "candidate": "K. WEBB GALBREATH",
+        "county": "Richland",
+        "votes": 608
+      },
+      {
+        "candidate": "RANDY PINOCCI",
+        "county": "Roosevelt",
+        "votes": 442
+      },
+      {
+        "candidate": "K. WEBB GALBREATH",
+        "county": "Roosevelt",
+        "votes": 246
+      },
+      {
+        "candidate": "RANDY PINOCCI",
+        "county": "Sheridan",
+        "votes": 455
+      },
+      {
+        "candidate": "K. WEBB GALBREATH",
+        "county": "Sheridan",
+        "votes": 293
+      },
+      {
+        "candidate": "RANDY PINOCCI",
+        "county": "Toole",
+        "votes": 582
+      },
+      {
+        "candidate": "K. WEBB GALBREATH",
+        "county": "Toole",
+        "votes": 387
+      },
+      {
+        "candidate": "RANDY PINOCCI",
+        "county": "Valley",
+        "votes": 937
+      },
+      {
+        "candidate": "K. WEBB GALBREATH",
+        "county": "Valley",
+        "votes": 416
+      },
+      {
+        "candidate": "RANDY PINOCCI",
+        "county": "Wibaux",
+        "votes": 97
+      },
+      {
+        "candidate": "K. WEBB GALBREATH",
+        "county": "Wibaux",
+        "votes": 68
+      }
+    ]
+  },
+  {
+    "race": "PUBLIC SERVICE COMMISSIONER DISTRICT 5",
+    "party": "REP",
+    "precinctsFull": "TK",
+    "precinctsPartial": "TK",
+    "reportingTime": "7/19/2022 9:10:31 AM",
+    "resultsTotal": [
+      {
+        "candidate": "JOE DOOLING",
+        "votes": 10442
+      },
+      {
+        "candidate": "DEREK SKEES",
+        "votes": 11146
+      },
+      {
+        "candidate": "ANN BUKACEK",
+        "votes": 11233
+      },
+      {
+        "candidate": "DEAN CRABB",
+        "votes": 3143
+      }
+    ],
+    "resultsByCounty": [
+      {
+        "candidate": "JOE DOOLING",
+        "county": "Flathead",
+        "votes": 4000
+      },
+      {
+        "candidate": "DEREK SKEES",
+        "county": "Flathead",
+        "votes": 7869
+      },
+      {
+        "candidate": "ANN BUKACEK",
+        "county": "Flathead",
+        "votes": 6753
+      },
+      {
+        "candidate": "DEAN CRABB",
+        "county": "Flathead",
+        "votes": 1848
+      },
+      {
+        "candidate": "JOE DOOLING",
+        "county": "Lake",
+        "votes": 1348
+      },
+      {
+        "candidate": "DEREK SKEES",
+        "county": "Lake",
+        "votes": 1070
+      },
+      {
+        "candidate": "ANN BUKACEK",
+        "county": "Lake",
+        "votes": 1990
+      },
+      {
+        "candidate": "DEAN CRABB",
+        "county": "Lake",
+        "votes": 458
+      },
+      {
+        "candidate": "JOE DOOLING",
+        "county": "Lewis & Clark",
+        "votes": 4588
+      },
+      {
+        "candidate": "DEREK SKEES",
+        "county": "Lewis & Clark",
+        "votes": 1896
+      },
+      {
+        "candidate": "ANN BUKACEK",
+        "county": "Lewis & Clark",
+        "votes": 2025
+      },
+      {
+        "candidate": "DEAN CRABB",
+        "county": "Lewis & Clark",
+        "votes": 695
+      },
+      {
+        "candidate": "JOE DOOLING",
+        "county": "Teton",
+        "votes": 506
+      },
+      {
+        "candidate": "DEREK SKEES",
+        "county": "Teton",
+        "votes": 311
+      },
+      {
+        "candidate": "ANN BUKACEK",
+        "county": "Teton",
+        "votes": 465
+      },
+      {
+        "candidate": "DEAN CRABB",
+        "county": "Teton",
+        "votes": 142
+      }
+    ]
+  },
+  {
+    "race": "PUBLIC SERVICE COMMISSIONER DISTRICT 5",
+    "party": "DEM",
+    "precinctsFull": "TK",
+    "precinctsPartial": "TK",
+    "reportingTime": "7/19/2022 9:10:31 AM",
+    "resultsTotal": [
+      {
+        "candidate": "KEVIN HAMM",
+        "votes": 7599
+      },
+      {
+        "candidate": "JOHN REPKE",
+        "votes": 8820
+      }
+    ],
+    "resultsByCounty": [
+      {
+        "candidate": "KEVIN HAMM",
+        "county": "Flathead",
+        "votes": 2088
+      },
+      {
+        "candidate": "JOHN REPKE",
+        "county": "Flathead",
+        "votes": 2807
+      },
+      {
+        "candidate": "KEVIN HAMM",
+        "county": "Lake",
+        "votes": 925
+      },
+      {
+        "candidate": "JOHN REPKE",
+        "county": "Lake",
+        "votes": 1100
+      },
+      {
+        "candidate": "KEVIN HAMM",
+        "county": "Lewis & Clark",
+        "votes": 4426
+      },
+      {
+        "candidate": "JOHN REPKE",
+        "county": "Lewis & Clark",
+        "votes": 4741
+      },
+      {
+        "candidate": "KEVIN HAMM",
+        "county": "Teton",
+        "votes": 160
+      },
+      {
+        "candidate": "JOHN REPKE",
+        "county": "Teton",
+        "votes": 172
+      }
+    ]
+  },
+  {
+    "race": "SUPREME COURT JUSTICE #1",
+    "party": "NP",
+    "precinctsFull": "TK",
+    "precinctsPartial": "TK",
+    "reportingTime": "7/19/2022 9:10:38 AM",
+    "resultsTotal": [
+      {
+        "candidate": "JIM RICE",
+        "votes": 189101
+      },
+      {
+        "candidate": "BILL DALTON",
+        "votes": 59168
+      }
+    ],
+    "resultsByCounty": [
+      {
+        "candidate": "JIM RICE",
+        "county": "Beaverhead",
+        "votes": 1863
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Beaverhead",
+        "votes": 432
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Big Horn",
+        "votes": 1197
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Big Horn",
+        "votes": 468
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Blaine",
+        "votes": 752
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Blaine",
+        "votes": 194
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Broadwater",
+        "votes": 1333
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Broadwater",
+        "votes": 380
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Carbon",
+        "votes": 2137
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Carbon",
+        "votes": 753
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Carter",
+        "votes": 326
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Carter",
+        "votes": 82
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Cascade",
+        "votes": 12574
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Cascade",
+        "votes": 3400
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Chouteau",
+        "votes": 1031
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Chouteau",
+        "votes": 240
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Custer",
+        "votes": 2186
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Custer",
+        "votes": 641
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Daniels",
+        "votes": 304
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Daniels",
+        "votes": 56
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Dawson",
+        "votes": 1708
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Dawson",
+        "votes": 292
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Deer Lodge",
+        "votes": 1738
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Deer Lodge",
+        "votes": 692
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Fallon",
+        "votes": 477
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Fallon",
+        "votes": 106
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Fergus",
+        "votes": 2673
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Fergus",
+        "votes": 642
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Flathead",
+        "votes": 18017
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Flathead",
+        "votes": 5377
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Gallatin",
+        "votes": 17519
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Gallatin",
+        "votes": 5708
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Garfield",
+        "votes": 310
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Garfield",
+        "votes": 64
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Glacier",
+        "votes": 1303
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Glacier",
+        "votes": 467
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Golden Valley",
+        "votes": 223
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Golden Valley",
+        "votes": 50
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Granite",
+        "votes": 754
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Granite",
+        "votes": 301
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Hill",
+        "votes": 2070
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Hill",
+        "votes": 555
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Jefferson",
+        "votes": 3078
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Jefferson",
+        "votes": 650
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Judith Basin",
+        "votes": 540
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Judith Basin",
+        "votes": 117
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Lake",
+        "votes": 5153
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Lake",
+        "votes": 1702
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Lewis & Clark",
+        "votes": 15187
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Lewis & Clark",
+        "votes": 3385
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Liberty",
+        "votes": 605
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Liberty",
+        "votes": 125
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Lincoln",
+        "votes": 3375
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Lincoln",
+        "votes": 1227
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Madison",
+        "votes": 2019
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Madison",
+        "votes": 603
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "McCone",
+        "votes": 483
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "McCone",
+        "votes": 108
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Meagher",
+        "votes": 471
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Meagher",
+        "votes": 126
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Mineral",
+        "votes": 831
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Mineral",
+        "votes": 326
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Missoula",
+        "votes": 20115
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Missoula",
+        "votes": 7791
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Musselshell",
+        "votes": 980
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Musselshell",
+        "votes": 291
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Park",
+        "votes": 3107
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Park",
+        "votes": 1129
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Petroleum",
+        "votes": 122
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Petroleum",
+        "votes": 34
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Phillips",
+        "votes": 886
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Phillips",
+        "votes": 177
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Pondera",
+        "votes": 1151
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Pondera",
+        "votes": 293
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Powder River",
+        "votes": 441
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Powder River",
+        "votes": 138
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Powell",
+        "votes": 1030
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Powell",
+        "votes": 376
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Prairie",
+        "votes": 246
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Prairie",
+        "votes": 80
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Ravalli",
+        "votes": 8911
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Ravalli",
+        "votes": 2855
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Richland",
+        "votes": 1557
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Richland",
+        "votes": 458
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Roosevelt",
+        "votes": 968
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Roosevelt",
+        "votes": 319
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Rosebud",
+        "votes": 1163
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Rosebud",
+        "votes": 371
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Sanders",
+        "votes": 3012
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Sanders",
+        "votes": 933
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Sheridan",
+        "votes": 696
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Sheridan",
+        "votes": 168
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Silver Bow",
+        "votes": 5954
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Silver Bow",
+        "votes": 1781
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Stillwater",
+        "votes": 1860
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Stillwater",
+        "votes": 504
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Sweet Grass",
+        "votes": 997
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Sweet Grass",
+        "votes": 207
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Teton",
+        "votes": 1461
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Teton",
+        "votes": 347
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Toole",
+        "votes": 820
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Toole",
+        "votes": 251
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Treasure",
+        "votes": 228
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Treasure",
+        "votes": 71
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Valley",
+        "votes": 1539
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Valley",
+        "votes": 336
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Wheatland",
+        "votes": 462
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Wheatland",
+        "votes": 104
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Wibaux",
+        "votes": 173
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Wibaux",
+        "votes": 41
+      },
+      {
+        "candidate": "JIM RICE",
+        "county": "Yellowstone",
+        "votes": 28985
+      },
+      {
+        "candidate": "BILL DALTON",
+        "county": "Yellowstone",
+        "votes": 10844
+      }
+    ]
+  },
+  {
+    "race": "SUPREME COURT JUSTICE #2",
+    "party": "NP",
+    "precinctsFull": "TK",
+    "precinctsPartial": "TK",
+    "reportingTime": "7/19/2022 9:10:38 AM",
+    "resultsTotal": [
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "votes": 126423
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "votes": 40872
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "votes": 95607
+      }
+    ],
+    "resultsByCounty": [
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Beaverhead",
+        "votes": 870
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Beaverhead",
+        "votes": 318
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Beaverhead",
+        "votes": 1295
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Big Horn",
+        "votes": 778
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Big Horn",
+        "votes": 225
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Big Horn",
+        "votes": 740
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Blaine",
+        "votes": 345
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Blaine",
+        "votes": 185
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Blaine",
+        "votes": 432
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Broadwater",
+        "votes": 519
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Broadwater",
+        "votes": 524
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Broadwater",
+        "votes": 747
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Carbon",
+        "votes": 1528
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Carbon",
+        "votes": 319
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Carbon",
+        "votes": 1280
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Carter",
+        "votes": 88
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Carter",
+        "votes": 69
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Carter",
+        "votes": 281
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Cascade",
+        "votes": 7555
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Cascade",
+        "votes": 3271
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Cascade",
+        "votes": 5593
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Chouteau",
+        "votes": 498
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Chouteau",
+        "votes": 220
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Chouteau",
+        "votes": 592
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Custer",
+        "votes": 1121
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Custer",
+        "votes": 470
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Custer",
+        "votes": 1346
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Daniels",
+        "votes": 106
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Daniels",
+        "votes": 56
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Daniels",
+        "votes": 216
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Dawson",
+        "votes": 807
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Dawson",
+        "votes": 321
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Dawson",
+        "votes": 880
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Deer Lodge",
+        "votes": 1349
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Deer Lodge",
+        "votes": 631
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Deer Lodge",
+        "votes": 543
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Fallon",
+        "votes": 173
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Fallon",
+        "votes": 87
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Fallon",
+        "votes": 326
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Fergus",
+        "votes": 1007
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Fergus",
+        "votes": 575
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Fergus",
+        "votes": 1867
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Flathead",
+        "votes": 9874
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Flathead",
+        "votes": 3594
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Flathead",
+        "votes": 11476
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Gallatin",
+        "votes": 14200
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Gallatin",
+        "votes": 2228
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Gallatin",
+        "votes": 8403
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Garfield",
+        "votes": 73
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Garfield",
+        "votes": 52
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Garfield",
+        "votes": 293
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Glacier",
+        "votes": 1001
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Glacier",
+        "votes": 304
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Glacier",
+        "votes": 559
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Golden Valley",
+        "votes": 103
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Golden Valley",
+        "votes": 43
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Golden Valley",
+        "votes": 155
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Granite",
+        "votes": 386
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Granite",
+        "votes": 181
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Granite",
+        "votes": 567
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Hill",
+        "votes": 1152
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Hill",
+        "votes": 527
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Hill",
+        "votes": 984
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Jefferson",
+        "votes": 1583
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Jefferson",
+        "votes": 889
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Jefferson",
+        "votes": 1355
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Judith Basin",
+        "votes": 187
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Judith Basin",
+        "votes": 137
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Judith Basin",
+        "votes": 349
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Lake",
+        "votes": 3209
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Lake",
+        "votes": 1108
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Lake",
+        "votes": 2995
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Lewis & Clark",
+        "votes": 8818
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Lewis & Clark",
+        "votes": 6424
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Lewis & Clark",
+        "votes": 4181
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Liberty",
+        "votes": 221
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Liberty",
+        "votes": 108
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Liberty",
+        "votes": 409
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Lincoln",
+        "votes": 1743
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Lincoln",
+        "votes": 960
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Lincoln",
+        "votes": 2108
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Madison",
+        "votes": 1298
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Madison",
+        "votes": 399
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Madison",
+        "votes": 1074
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "McCone",
+        "votes": 163
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "McCone",
+        "votes": 88
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "McCone",
+        "votes": 361
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Meagher",
+        "votes": 226
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Meagher",
+        "votes": 86
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Meagher",
+        "votes": 335
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Mineral",
+        "votes": 461
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Mineral",
+        "votes": 217
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Mineral",
+        "votes": 572
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Missoula",
+        "votes": 19241
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Missoula",
+        "votes": 3527
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Missoula",
+        "votes": 7094
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Musselshell",
+        "votes": 437
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Musselshell",
+        "votes": 182
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Musselshell",
+        "votes": 730
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Park",
+        "votes": 2315
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Park",
+        "votes": 415
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Park",
+        "votes": 1785
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Petroleum",
+        "votes": 48
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Petroleum",
+        "votes": 18
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Petroleum",
+        "votes": 94
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Phillips",
+        "votes": 280
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Phillips",
+        "votes": 173
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Phillips",
+        "votes": 605
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Pondera",
+        "votes": 626
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Pondera",
+        "votes": 253
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Pondera",
+        "votes": 610
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Powder River",
+        "votes": 152
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Powder River",
+        "votes": 83
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Powder River",
+        "votes": 397
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Powell",
+        "votes": 530
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Powell",
+        "votes": 390
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Powell",
+        "votes": 549
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Prairie",
+        "votes": 123
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Prairie",
+        "votes": 58
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Prairie",
+        "votes": 176
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Ravalli",
+        "votes": 4947
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Ravalli",
+        "votes": 1751
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Ravalli",
+        "votes": 5793
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Richland",
+        "votes": 713
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Richland",
+        "votes": 480
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Richland",
+        "votes": 834
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Roosevelt",
+        "votes": 580
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Roosevelt",
+        "votes": 268
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Roosevelt",
+        "votes": 481
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Rosebud",
+        "votes": 644
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Rosebud",
+        "votes": 215
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Rosebud",
+        "votes": 759
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Sanders",
+        "votes": 1287
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Sanders",
+        "votes": 594
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Sanders",
+        "votes": 2266
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Sheridan",
+        "votes": 394
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Sheridan",
+        "votes": 179
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Sheridan",
+        "votes": 334
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Silver Bow",
+        "votes": 4611
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Silver Bow",
+        "votes": 1808
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Silver Bow",
+        "votes": 1690
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Stillwater",
+        "votes": 1059
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Stillwater",
+        "votes": 263
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Stillwater",
+        "votes": 1193
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Sweet Grass",
+        "votes": 511
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Sweet Grass",
+        "votes": 158
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Sweet Grass",
+        "votes": 651
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Teton",
+        "votes": 751
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Teton",
+        "votes": 326
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Teton",
+        "votes": 797
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Toole",
+        "votes": 361
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Toole",
+        "votes": 222
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Toole",
+        "votes": 528
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Treasure",
+        "votes": 125
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Treasure",
+        "votes": 45
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Treasure",
+        "votes": 143
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Valley",
+        "votes": 748
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Valley",
+        "votes": 328
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Valley",
+        "votes": 776
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Wheatland",
+        "votes": 213
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Wheatland",
+        "votes": 85
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Wheatland",
+        "votes": 311
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Wibaux",
+        "votes": 78
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Wibaux",
+        "votes": 22
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Wibaux",
+        "votes": 119
+      },
+      {
+        "candidate": "INGRID GUSTAFSON",
+        "county": "Yellowstone",
+        "votes": 24207
+      },
+      {
+        "candidate": "MICHAEL F. MCMAHON",
+        "county": "Yellowstone",
+        "votes": 4413
+      },
+      {
+        "candidate": "JAMES BROWN",
+        "county": "Yellowstone",
+        "votes": 14578
+      }
+    ]
+  }
+]
