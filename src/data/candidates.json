@@ -27,10 +27,22 @@
         "party": "R",
         "candidateId": "H4MT00050",
         "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
-        "totalReceipts": 1601902.31,
-        "totalDisbursments": 727497.34,
-        "cashOnHand": 1137244.01,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 1741404.32,
+        "totalDisbursments": 940527.15,
+        "cashOnHand": 1063716.21,
+        "coverageEndDate": "2022-06-30T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Gary Buchanan",
+        "status": "advancing-to-general",
+        "party": "I",
+        "candidateId": "H2MT02167",
+        "candidateCommitteeName": "BUCHANAN FOR MONTANA",
+        "totalReceipts": 127124.73,
+        "totalDisbursments": 58162.1,
+        "cashOnHand": 68962.63,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -39,22 +51,10 @@
         "party": "D",
         "candidateId": "H2MT02159",
         "candidateCommitteeName": "SWEENEY FOR MONTANA",
-        "totalReceipts": 95968,
-        "totalDisbursments": 27334.12,
-        "cashOnHand": 68633.88,
-        "coverageEndDate": "2022-05-18T00:00:00"
-      },
-      {
-        "isThisCandidate": false,
-        "displayName": "Gary Buchanan",
-        "status": "advancing-to-general",
-        "party": "I",
-        "candidateId": "H2MT02167",
-        "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
-        "totalReceipts": 86323,
-        "totalDisbursments": 34894.51,
-        "cashOnHand": 51428.49,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 123323,
+        "totalDisbursments": 119523.31,
+        "cashOnHand": 3799.69,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -63,10 +63,22 @@
         "party": "D",
         "candidateId": "H2MT02134",
         "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
-        "totalReceipts": 47320.45,
-        "totalDisbursments": 42660.73,
-        "cashOnHand": 4659.72,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 63309.88,
+        "totalDisbursments": 52547.3,
+        "cashOnHand": 10762.58,
+        "coverageEndDate": "2022-06-30T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Sam Rankin",
+        "status": "advancing-to-general",
+        "party": "L",
+        "candidateId": "H0MT00074",
+        "candidateCommitteeName": "RANKIN FOR CONGRESS",
+        "totalReceipts": 20696.66,
+        "totalDisbursments": 20596.66,
+        "cashOnHand": 100,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -75,10 +87,10 @@
         "party": "D",
         "candidateId": "H2MT02118",
         "candidateCommitteeName": "SKYLARFORUSCONGRESS",
-        "totalReceipts": 4085.17,
-        "totalDisbursments": 4037.04,
-        "cashOnHand": 48.13,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 4729.47,
+        "totalDisbursments": 4729.47,
+        "cashOnHand": 0,
+        "coverageEndDate": "2022-07-08T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -102,19 +114,7 @@
         "totalReceipts": 0,
         "totalDisbursments": 0,
         "cashOnHand": 0,
-        "coverageEndDate": null
-      },
-      {
-        "isThisCandidate": false,
-        "displayName": "Sam Rankin",
-        "status": "advancing-to-general",
-        "party": "L",
-        "candidateId": null,
-        "candidateCommitteeName": null,
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 0,
-        "coverageEndDate": null
+        "coverageEndDate": "2022-06-22T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -256,6 +256,16 @@
     ],
     "articles": [
       {
+        "title": "Eastern district U.S. House candidates on the issues",
+        "date": "2022-09-02T10:22:29",
+        "link": "https://montanafreepress.org/2022/09/02/eastern-district-u-s-house-candidates-on-the-issues/"
+      },
+      {
+        "title": "Unions buck expectations with endorsement of independent financial manager Gary Buchanan in eastern district",
+        "date": "2022-08-26T12:19:44",
+        "link": "https://montanafreepress.org/2022/08/26/montana-unions-endorse-buchanan-over-ronning-in-eastern-district/"
+      },
+      {
         "title": "Rosendale, Ronning emerge from eastern Montana U.S. House primary",
         "date": "2022-06-07T23:12:58",
         "link": "https://montanafreepress.org/2022/06/07/rosendale-ronning-win-eastern-district-montana-house-primaries/"
@@ -313,7 +323,7 @@
           "Party": "D"
         }
       ],
-      "hasQuestionnaire": true,
+      "hasQuestionnaire": "primary",
       "campaignFinance": "fec",
       "primaryResults": [
         {
@@ -376,10 +386,10 @@
         "party": "R",
         "candidateId": "H4MT01041",
         "candidateCommitteeName": "ZINKE FOR CONGRESS",
-        "totalReceipts": 2947291.52,
-        "totalDisbursments": 2068614.47,
-        "cashOnHand": 878677.05,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 3784564.65,
+        "totalDisbursments": 2880145.57,
+        "cashOnHand": 904419.08,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -388,10 +398,10 @@
         "party": "D",
         "candidateId": "H2MT02100",
         "candidateCommitteeName": "CORA FOR MONTANA",
-        "totalReceipts": 1334441.2,
-        "totalDisbursments": 1050711.14,
-        "cashOnHand": 377672.43,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 1449413.16,
+        "totalDisbursments": 1529050.55,
+        "cashOnHand": 14304.98,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -400,10 +410,10 @@
         "party": "D",
         "candidateId": "H2MT02092",
         "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
-        "totalReceipts": 882230.86,
-        "totalDisbursments": 784041.8,
-        "cashOnHand": 98189.06,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 1254460.75,
+        "totalDisbursments": 1037500.19,
+        "cashOnHand": 216960.56,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -412,10 +422,10 @@
         "party": "R",
         "candidateId": "H2MT02084",
         "candidateCommitteeName": "AL FOR MONTANA",
-        "totalReceipts": 709784.68,
-        "totalDisbursments": 533111.36,
-        "cashOnHand": 176673.32,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 899759.01,
+        "totalDisbursments": 868178.93,
+        "cashOnHand": 31580.08,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -424,10 +434,10 @@
         "party": "R",
         "candidateId": "H2MT00112",
         "candidateCommitteeName": "MARY TODD FOR MONTANA",
-        "totalReceipts": 448284.17,
-        "totalDisbursments": 396985.74,
-        "cashOnHand": 51298.43,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 455003.17,
+        "totalDisbursments": 455003.17,
+        "cashOnHand": 0,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -436,10 +446,10 @@
         "party": "D",
         "candidateId": "H0MT00090",
         "candidateCommitteeName": "WINTER FOR MONTANA",
-        "totalReceipts": 98545.2,
-        "totalDisbursments": 92343.29,
-        "cashOnHand": 6201.91,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 121121.12,
+        "totalDisbursments": 116425.02,
+        "cashOnHand": 4696.1,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": true,
@@ -448,10 +458,10 @@
         "party": "R",
         "candidateId": "H2MT01136",
         "candidateCommitteeName": "HEUER FOR CONGRESS",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 0,
-        "coverageEndDate": null
+        "totalReceipts": 45000,
+        "totalDisbursments": 37167.5,
+        "cashOnHand": 7832.5,
+        "coverageEndDate": "2022-07-07T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -624,7 +634,7 @@
           "Party": "R"
         }
       ],
-      "hasQuestionnaire": true,
+      "hasQuestionnaire": "primary",
       "campaignFinance": "fec",
       "primaryResults": [
         {
@@ -694,10 +704,10 @@
         "party": "R",
         "candidateId": "H4MT01041",
         "candidateCommitteeName": "ZINKE FOR CONGRESS",
-        "totalReceipts": 2947291.52,
-        "totalDisbursments": 2068614.47,
-        "cashOnHand": 878677.05,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 3784564.65,
+        "totalDisbursments": 2880145.57,
+        "cashOnHand": 904419.08,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -706,10 +716,10 @@
         "party": "D",
         "candidateId": "H2MT02100",
         "candidateCommitteeName": "CORA FOR MONTANA",
-        "totalReceipts": 1334441.2,
-        "totalDisbursments": 1050711.14,
-        "cashOnHand": 377672.43,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 1449413.16,
+        "totalDisbursments": 1529050.55,
+        "cashOnHand": 14304.98,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -718,10 +728,10 @@
         "party": "D",
         "candidateId": "H2MT02092",
         "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
-        "totalReceipts": 882230.86,
-        "totalDisbursments": 784041.8,
-        "cashOnHand": 98189.06,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 1254460.75,
+        "totalDisbursments": 1037500.19,
+        "cashOnHand": 216960.56,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -730,10 +740,10 @@
         "party": "R",
         "candidateId": "H2MT02084",
         "candidateCommitteeName": "AL FOR MONTANA",
-        "totalReceipts": 709784.68,
-        "totalDisbursments": 533111.36,
-        "cashOnHand": 176673.32,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 899759.01,
+        "totalDisbursments": 868178.93,
+        "cashOnHand": 31580.08,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -742,10 +752,10 @@
         "party": "R",
         "candidateId": "H2MT00112",
         "candidateCommitteeName": "MARY TODD FOR MONTANA",
-        "totalReceipts": 448284.17,
-        "totalDisbursments": 396985.74,
-        "cashOnHand": 51298.43,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 455003.17,
+        "totalDisbursments": 455003.17,
+        "cashOnHand": 0,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -754,10 +764,10 @@
         "party": "D",
         "candidateId": "H0MT00090",
         "candidateCommitteeName": "WINTER FOR MONTANA",
-        "totalReceipts": 98545.2,
-        "totalDisbursments": 92343.29,
-        "cashOnHand": 6201.91,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 121121.12,
+        "totalDisbursments": 116425.02,
+        "cashOnHand": 4696.1,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -766,10 +776,10 @@
         "party": "R",
         "candidateId": "H2MT01136",
         "candidateCommitteeName": "HEUER FOR CONGRESS",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 0,
-        "coverageEndDate": null
+        "totalReceipts": 45000,
+        "totalDisbursments": 37167.5,
+        "cashOnHand": 7832.5,
+        "coverageEndDate": "2022-07-07T00:00:00"
       },
       {
         "isThisCandidate": true,
@@ -934,7 +944,7 @@
           "Party": "R"
         }
       ],
-      "hasQuestionnaire": true,
+      "hasQuestionnaire": "primary",
       "campaignFinance": "fec",
       "primaryResults": [
         {
@@ -1004,10 +1014,10 @@
         "party": "R",
         "candidateId": "H4MT01041",
         "candidateCommitteeName": "ZINKE FOR CONGRESS",
-        "totalReceipts": 2947291.52,
-        "totalDisbursments": 2068614.47,
-        "cashOnHand": 878677.05,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 3784564.65,
+        "totalDisbursments": 2880145.57,
+        "cashOnHand": 904419.08,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -1016,10 +1026,10 @@
         "party": "D",
         "candidateId": "H2MT02100",
         "candidateCommitteeName": "CORA FOR MONTANA",
-        "totalReceipts": 1334441.2,
-        "totalDisbursments": 1050711.14,
-        "cashOnHand": 377672.43,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 1449413.16,
+        "totalDisbursments": 1529050.55,
+        "cashOnHand": 14304.98,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -1028,10 +1038,10 @@
         "party": "D",
         "candidateId": "H2MT02092",
         "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
-        "totalReceipts": 882230.86,
-        "totalDisbursments": 784041.8,
-        "cashOnHand": 98189.06,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 1254460.75,
+        "totalDisbursments": 1037500.19,
+        "cashOnHand": 216960.56,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -1040,10 +1050,10 @@
         "party": "R",
         "candidateId": "H2MT02084",
         "candidateCommitteeName": "AL FOR MONTANA",
-        "totalReceipts": 709784.68,
-        "totalDisbursments": 533111.36,
-        "cashOnHand": 176673.32,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 899759.01,
+        "totalDisbursments": 868178.93,
+        "cashOnHand": 31580.08,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -1052,10 +1062,10 @@
         "party": "R",
         "candidateId": "H2MT00112",
         "candidateCommitteeName": "MARY TODD FOR MONTANA",
-        "totalReceipts": 448284.17,
-        "totalDisbursments": 396985.74,
-        "cashOnHand": 51298.43,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 455003.17,
+        "totalDisbursments": 455003.17,
+        "cashOnHand": 0,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -1064,10 +1074,10 @@
         "party": "D",
         "candidateId": "H0MT00090",
         "candidateCommitteeName": "WINTER FOR MONTANA",
-        "totalReceipts": 98545.2,
-        "totalDisbursments": 92343.29,
-        "cashOnHand": 6201.91,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 121121.12,
+        "totalDisbursments": 116425.02,
+        "cashOnHand": 4696.1,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -1076,10 +1086,10 @@
         "party": "R",
         "candidateId": "H2MT01136",
         "candidateCommitteeName": "HEUER FOR CONGRESS",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 0,
-        "coverageEndDate": null
+        "totalReceipts": 45000,
+        "totalDisbursments": 37167.5,
+        "cashOnHand": 7832.5,
+        "coverageEndDate": "2022-07-07T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -1108,6 +1118,21 @@
     ],
     "issueAnswers": null,
     "articles": [
+      {
+        "title": "Zinke, Tranel debate abortion, affordability and their personal histories",
+        "date": "2022-10-03T17:08:32",
+        "link": "https://montanafreepress.org/2022/10/03/zinke-tranel-debate-abortion-affordability-and-personal-histories/"
+      },
+      {
+        "title": "Western district U.S. House candidates on the issues",
+        "date": "2022-09-01T16:16:31",
+        "link": "https://montanafreepress.org/2022/09/01/western-montana-us-house-candidates-on-the-issues/"
+      },
+      {
+        "title": "Tranel, Zinke, and Lamb spar over abortion, climate and energy",
+        "date": "2022-08-08T16:54:26",
+        "link": "https://montanafreepress.org/2022/08/08/monica-tranel-ryan-zinke-have-first-debate-us-house-race/"
+      },
       {
         "title": "Who holds the keys to Montana’s Western congressional seat?",
         "date": "2022-05-19T15:40:04",
@@ -1144,7 +1169,7 @@
           "Party": "R"
         }
       ],
-      "hasQuestionnaire": true,
+      "hasQuestionnaire": "primary",
       "campaignFinance": "fec",
       "primaryResults": [],
       "resultsTimestamp": null
@@ -1178,10 +1203,10 @@
         "party": "R",
         "candidateId": "H4MT01041",
         "candidateCommitteeName": "ZINKE FOR CONGRESS",
-        "totalReceipts": 2947291.52,
-        "totalDisbursments": 2068614.47,
-        "cashOnHand": 878677.05,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 3784564.65,
+        "totalDisbursments": 2880145.57,
+        "cashOnHand": 904419.08,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -1190,10 +1215,10 @@
         "party": "D",
         "candidateId": "H2MT02100",
         "candidateCommitteeName": "CORA FOR MONTANA",
-        "totalReceipts": 1334441.2,
-        "totalDisbursments": 1050711.14,
-        "cashOnHand": 377672.43,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 1449413.16,
+        "totalDisbursments": 1529050.55,
+        "cashOnHand": 14304.98,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -1202,10 +1227,10 @@
         "party": "D",
         "candidateId": "H2MT02092",
         "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
-        "totalReceipts": 882230.86,
-        "totalDisbursments": 784041.8,
-        "cashOnHand": 98189.06,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 1254460.75,
+        "totalDisbursments": 1037500.19,
+        "cashOnHand": 216960.56,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": true,
@@ -1214,10 +1239,10 @@
         "party": "R",
         "candidateId": "H2MT02084",
         "candidateCommitteeName": "AL FOR MONTANA",
-        "totalReceipts": 709784.68,
-        "totalDisbursments": 533111.36,
-        "cashOnHand": 176673.32,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 899759.01,
+        "totalDisbursments": 868178.93,
+        "cashOnHand": 31580.08,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -1226,10 +1251,10 @@
         "party": "R",
         "candidateId": "H2MT00112",
         "candidateCommitteeName": "MARY TODD FOR MONTANA",
-        "totalReceipts": 448284.17,
-        "totalDisbursments": 396985.74,
-        "cashOnHand": 51298.43,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 455003.17,
+        "totalDisbursments": 455003.17,
+        "cashOnHand": 0,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -1238,10 +1263,10 @@
         "party": "D",
         "candidateId": "H0MT00090",
         "candidateCommitteeName": "WINTER FOR MONTANA",
-        "totalReceipts": 98545.2,
-        "totalDisbursments": 92343.29,
-        "cashOnHand": 6201.91,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 121121.12,
+        "totalDisbursments": 116425.02,
+        "cashOnHand": 4696.1,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -1250,10 +1275,10 @@
         "party": "R",
         "candidateId": "H2MT01136",
         "candidateCommitteeName": "HEUER FOR CONGRESS",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 0,
-        "coverageEndDate": null
+        "totalReceipts": 45000,
+        "totalDisbursments": 37167.5,
+        "cashOnHand": 7832.5,
+        "coverageEndDate": "2022-07-07T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -1457,7 +1482,7 @@
           "Party": "R"
         }
       ],
-      "hasQuestionnaire": true,
+      "hasQuestionnaire": "primary",
       "campaignFinance": "fec",
       "primaryResults": [
         {
@@ -1527,10 +1552,10 @@
         "party": "R",
         "candidateId": "H4MT01041",
         "candidateCommitteeName": "ZINKE FOR CONGRESS",
-        "totalReceipts": 2947291.52,
-        "totalDisbursments": 2068614.47,
-        "cashOnHand": 878677.05,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 3784564.65,
+        "totalDisbursments": 2880145.57,
+        "cashOnHand": 904419.08,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -1539,10 +1564,10 @@
         "party": "D",
         "candidateId": "H2MT02100",
         "candidateCommitteeName": "CORA FOR MONTANA",
-        "totalReceipts": 1334441.2,
-        "totalDisbursments": 1050711.14,
-        "cashOnHand": 377672.43,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 1449413.16,
+        "totalDisbursments": 1529050.55,
+        "cashOnHand": 14304.98,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": true,
@@ -1551,10 +1576,10 @@
         "party": "D",
         "candidateId": "H2MT02092",
         "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
-        "totalReceipts": 882230.86,
-        "totalDisbursments": 784041.8,
-        "cashOnHand": 98189.06,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 1254460.75,
+        "totalDisbursments": 1037500.19,
+        "cashOnHand": 216960.56,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -1563,10 +1588,10 @@
         "party": "R",
         "candidateId": "H2MT02084",
         "candidateCommitteeName": "AL FOR MONTANA",
-        "totalReceipts": 709784.68,
-        "totalDisbursments": 533111.36,
-        "cashOnHand": 176673.32,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 899759.01,
+        "totalDisbursments": 868178.93,
+        "cashOnHand": 31580.08,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -1575,10 +1600,10 @@
         "party": "R",
         "candidateId": "H2MT00112",
         "candidateCommitteeName": "MARY TODD FOR MONTANA",
-        "totalReceipts": 448284.17,
-        "totalDisbursments": 396985.74,
-        "cashOnHand": 51298.43,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 455003.17,
+        "totalDisbursments": 455003.17,
+        "cashOnHand": 0,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -1587,10 +1612,10 @@
         "party": "D",
         "candidateId": "H0MT00090",
         "candidateCommitteeName": "WINTER FOR MONTANA",
-        "totalReceipts": 98545.2,
-        "totalDisbursments": 92343.29,
-        "cashOnHand": 6201.91,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 121121.12,
+        "totalDisbursments": 116425.02,
+        "cashOnHand": 4696.1,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -1599,10 +1624,10 @@
         "party": "R",
         "candidateId": "H2MT01136",
         "candidateCommitteeName": "HEUER FOR CONGRESS",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 0,
-        "coverageEndDate": null
+        "totalReceipts": 45000,
+        "totalDisbursments": 37167.5,
+        "cashOnHand": 7832.5,
+        "coverageEndDate": "2022-07-07T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -1800,6 +1825,36 @@
     ],
     "articles": [
       {
+        "title": "Zinke, Tranel debate abortion, affordability and their personal histories",
+        "date": "2022-10-03T17:08:32",
+        "link": "https://montanafreepress.org/2022/10/03/zinke-tranel-debate-abortion-affordability-and-personal-histories/"
+      },
+      {
+        "title": "The divergent energy visions of Montana’s U.S. House candidates",
+        "date": "2022-09-22T16:13:20",
+        "link": "https://montanafreepress.org/2022/09/22/zinke-tranel-energy-priorities/"
+      },
+      {
+        "title": "Western district U.S. House candidates on the issues",
+        "date": "2022-09-01T16:16:31",
+        "link": "https://montanafreepress.org/2022/09/01/western-montana-us-house-candidates-on-the-issues/"
+      },
+      {
+        "title": "Unions buck expectations with endorsement of independent financial manager Gary Buchanan in eastern district",
+        "date": "2022-08-26T12:19:44",
+        "link": "https://montanafreepress.org/2022/08/26/montana-unions-endorse-buchanan-over-ronning-in-eastern-district/"
+      },
+      {
+        "title": "Federal report: Zinke violated ‘duty of candor’",
+        "date": "2022-08-24T16:20:49",
+        "link": "https://montanafreepress.org/2022/08/24/zinke-misled-federal-ethics-investigators-about-tribal-gaming-deal/"
+      },
+      {
+        "title": "Tranel, Zinke, and Lamb spar over abortion, climate and energy",
+        "date": "2022-08-08T16:54:26",
+        "link": "https://montanafreepress.org/2022/08/08/monica-tranel-ryan-zinke-have-first-debate-us-house-race/"
+      },
+      {
         "title": "Ryan Zinke narrowly wins Western district Republican primary",
         "date": "2022-06-09T19:04:36",
         "link": "https://montanafreepress.org/2022/06/09/ryan-zinke-wins-montana-western-district-republican-primary/"
@@ -1850,7 +1905,7 @@
           "Party": "R"
         }
       ],
-      "hasQuestionnaire": true,
+      "hasQuestionnaire": "primary",
       "campaignFinance": "fec",
       "primaryResults": [
         {
@@ -1906,10 +1961,10 @@
         "party": "R",
         "candidateId": "H4MT01041",
         "candidateCommitteeName": "ZINKE FOR CONGRESS",
-        "totalReceipts": 2947291.52,
-        "totalDisbursments": 2068614.47,
-        "cashOnHand": 878677.05,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 3784564.65,
+        "totalDisbursments": 2880145.57,
+        "cashOnHand": 904419.08,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -1918,10 +1973,10 @@
         "party": "D",
         "candidateId": "H2MT02100",
         "candidateCommitteeName": "CORA FOR MONTANA",
-        "totalReceipts": 1334441.2,
-        "totalDisbursments": 1050711.14,
-        "cashOnHand": 377672.43,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 1449413.16,
+        "totalDisbursments": 1529050.55,
+        "cashOnHand": 14304.98,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -1930,10 +1985,10 @@
         "party": "D",
         "candidateId": "H2MT02092",
         "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
-        "totalReceipts": 882230.86,
-        "totalDisbursments": 784041.8,
-        "cashOnHand": 98189.06,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 1254460.75,
+        "totalDisbursments": 1037500.19,
+        "cashOnHand": 216960.56,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -1942,10 +1997,10 @@
         "party": "R",
         "candidateId": "H2MT02084",
         "candidateCommitteeName": "AL FOR MONTANA",
-        "totalReceipts": 709784.68,
-        "totalDisbursments": 533111.36,
-        "cashOnHand": 176673.32,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 899759.01,
+        "totalDisbursments": 868178.93,
+        "cashOnHand": 31580.08,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -1954,10 +2009,10 @@
         "party": "R",
         "candidateId": "H2MT00112",
         "candidateCommitteeName": "MARY TODD FOR MONTANA",
-        "totalReceipts": 448284.17,
-        "totalDisbursments": 396985.74,
-        "cashOnHand": 51298.43,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 455003.17,
+        "totalDisbursments": 455003.17,
+        "cashOnHand": 0,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": true,
@@ -1966,10 +2021,10 @@
         "party": "D",
         "candidateId": "H0MT00090",
         "candidateCommitteeName": "WINTER FOR MONTANA",
-        "totalReceipts": 98545.2,
-        "totalDisbursments": 92343.29,
-        "cashOnHand": 6201.91,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 121121.12,
+        "totalDisbursments": 116425.02,
+        "cashOnHand": 4696.1,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -1978,10 +2033,10 @@
         "party": "R",
         "candidateId": "H2MT01136",
         "candidateCommitteeName": "HEUER FOR CONGRESS",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 0,
-        "coverageEndDate": null
+        "totalReceipts": 45000,
+        "totalDisbursments": 37167.5,
+        "cashOnHand": 7832.5,
+        "coverageEndDate": "2022-07-07T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -2183,7 +2238,7 @@
           "Party": "R"
         }
       ],
-      "hasQuestionnaire": true,
+      "hasQuestionnaire": "primary",
       "campaignFinance": "fec",
       "primaryResults": [
         {
@@ -2239,10 +2294,10 @@
         "party": "R",
         "candidateId": "H4MT01041",
         "candidateCommitteeName": "ZINKE FOR CONGRESS",
-        "totalReceipts": 2947291.52,
-        "totalDisbursments": 2068614.47,
-        "cashOnHand": 878677.05,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 3784564.65,
+        "totalDisbursments": 2880145.57,
+        "cashOnHand": 904419.08,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -2251,10 +2306,10 @@
         "party": "D",
         "candidateId": "H2MT02100",
         "candidateCommitteeName": "CORA FOR MONTANA",
-        "totalReceipts": 1334441.2,
-        "totalDisbursments": 1050711.14,
-        "cashOnHand": 377672.43,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 1449413.16,
+        "totalDisbursments": 1529050.55,
+        "cashOnHand": 14304.98,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -2263,10 +2318,10 @@
         "party": "D",
         "candidateId": "H2MT02092",
         "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
-        "totalReceipts": 882230.86,
-        "totalDisbursments": 784041.8,
-        "cashOnHand": 98189.06,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 1254460.75,
+        "totalDisbursments": 1037500.19,
+        "cashOnHand": 216960.56,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -2275,10 +2330,10 @@
         "party": "R",
         "candidateId": "H2MT02084",
         "candidateCommitteeName": "AL FOR MONTANA",
-        "totalReceipts": 709784.68,
-        "totalDisbursments": 533111.36,
-        "cashOnHand": 176673.32,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 899759.01,
+        "totalDisbursments": 868178.93,
+        "cashOnHand": 31580.08,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -2287,10 +2342,10 @@
         "party": "R",
         "candidateId": "H2MT00112",
         "candidateCommitteeName": "MARY TODD FOR MONTANA",
-        "totalReceipts": 448284.17,
-        "totalDisbursments": 396985.74,
-        "cashOnHand": 51298.43,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 455003.17,
+        "totalDisbursments": 455003.17,
+        "cashOnHand": 0,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -2299,10 +2354,10 @@
         "party": "D",
         "candidateId": "H0MT00090",
         "candidateCommitteeName": "WINTER FOR MONTANA",
-        "totalReceipts": 98545.2,
-        "totalDisbursments": 92343.29,
-        "cashOnHand": 6201.91,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 121121.12,
+        "totalDisbursments": 116425.02,
+        "cashOnHand": 4696.1,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -2311,10 +2366,10 @@
         "party": "R",
         "candidateId": "H2MT01136",
         "candidateCommitteeName": "HEUER FOR CONGRESS",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 0,
-        "coverageEndDate": null
+        "totalReceipts": 45000,
+        "totalDisbursments": 37167.5,
+        "cashOnHand": 7832.5,
+        "coverageEndDate": "2022-07-07T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -2444,6 +2499,36 @@
     ],
     "articles": [
       {
+        "title": "Zinke, Tranel debate abortion, affordability and their personal histories",
+        "date": "2022-10-03T17:08:32",
+        "link": "https://montanafreepress.org/2022/10/03/zinke-tranel-debate-abortion-affordability-and-personal-histories/"
+      },
+      {
+        "title": "The divergent energy visions of Montana’s U.S. House candidates",
+        "date": "2022-09-22T16:13:20",
+        "link": "https://montanafreepress.org/2022/09/22/zinke-tranel-energy-priorities/"
+      },
+      {
+        "title": "Western district U.S. House candidates on the issues",
+        "date": "2022-09-01T16:16:31",
+        "link": "https://montanafreepress.org/2022/09/01/western-montana-us-house-candidates-on-the-issues/"
+      },
+      {
+        "title": "Unions buck expectations with endorsement of independent financial manager Gary Buchanan in eastern district",
+        "date": "2022-08-26T12:19:44",
+        "link": "https://montanafreepress.org/2022/08/26/montana-unions-endorse-buchanan-over-ronning-in-eastern-district/"
+      },
+      {
+        "title": "Federal report: Zinke violated ‘duty of candor’",
+        "date": "2022-08-24T16:20:49",
+        "link": "https://montanafreepress.org/2022/08/24/zinke-misled-federal-ethics-investigators-about-tribal-gaming-deal/"
+      },
+      {
+        "title": "Tranel, Zinke, and Lamb spar over abortion, climate and energy",
+        "date": "2022-08-08T16:54:26",
+        "link": "https://montanafreepress.org/2022/08/08/monica-tranel-ryan-zinke-have-first-debate-us-house-race/"
+      },
+      {
         "title": "Ryan Zinke narrowly wins Western district Republican primary",
         "date": "2022-06-09T19:04:36",
         "link": "https://montanafreepress.org/2022/06/09/ryan-zinke-wins-montana-western-district-republican-primary/"
@@ -2494,7 +2579,7 @@
           "Party": "R"
         }
       ],
-      "hasQuestionnaire": true,
+      "hasQuestionnaire": "primary",
       "campaignFinance": "fec",
       "primaryResults": [
         {
@@ -2564,10 +2649,22 @@
         "party": "R",
         "candidateId": "H4MT00050",
         "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
-        "totalReceipts": 1601902.31,
-        "totalDisbursments": 727497.34,
-        "cashOnHand": 1137244.01,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 1741404.32,
+        "totalDisbursments": 940527.15,
+        "cashOnHand": 1063716.21,
+        "coverageEndDate": "2022-06-30T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Gary Buchanan",
+        "status": "advancing-to-general",
+        "party": "I",
+        "candidateId": "H2MT02167",
+        "candidateCommitteeName": "BUCHANAN FOR MONTANA",
+        "totalReceipts": 127124.73,
+        "totalDisbursments": 58162.1,
+        "cashOnHand": 68962.63,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -2576,22 +2673,10 @@
         "party": "D",
         "candidateId": "H2MT02159",
         "candidateCommitteeName": "SWEENEY FOR MONTANA",
-        "totalReceipts": 95968,
-        "totalDisbursments": 27334.12,
-        "cashOnHand": 68633.88,
-        "coverageEndDate": "2022-05-18T00:00:00"
-      },
-      {
-        "isThisCandidate": false,
-        "displayName": "Gary Buchanan",
-        "status": "advancing-to-general",
-        "party": "I",
-        "candidateId": "H2MT02167",
-        "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
-        "totalReceipts": 86323,
-        "totalDisbursments": 34894.51,
-        "cashOnHand": 51428.49,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 123323,
+        "totalDisbursments": 119523.31,
+        "cashOnHand": 3799.69,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -2600,10 +2685,22 @@
         "party": "D",
         "candidateId": "H2MT02134",
         "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
-        "totalReceipts": 47320.45,
-        "totalDisbursments": 42660.73,
-        "cashOnHand": 4659.72,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 63309.88,
+        "totalDisbursments": 52547.3,
+        "cashOnHand": 10762.58,
+        "coverageEndDate": "2022-06-30T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Sam Rankin",
+        "status": "advancing-to-general",
+        "party": "L",
+        "candidateId": "H0MT00074",
+        "candidateCommitteeName": "RANKIN FOR CONGRESS",
+        "totalReceipts": 20696.66,
+        "totalDisbursments": 20596.66,
+        "cashOnHand": 100,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -2612,10 +2709,10 @@
         "party": "D",
         "candidateId": "H2MT02118",
         "candidateCommitteeName": "SKYLARFORUSCONGRESS",
-        "totalReceipts": 4085.17,
-        "totalDisbursments": 4037.04,
-        "cashOnHand": 48.13,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 4729.47,
+        "totalDisbursments": 4729.47,
+        "cashOnHand": 0,
+        "coverageEndDate": "2022-07-08T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -2639,19 +2736,7 @@
         "totalReceipts": 0,
         "totalDisbursments": 0,
         "cashOnHand": 0,
-        "coverageEndDate": null
-      },
-      {
-        "isThisCandidate": false,
-        "displayName": "Sam Rankin",
-        "status": "advancing-to-general",
-        "party": "L",
-        "candidateId": null,
-        "candidateCommitteeName": null,
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 0,
-        "coverageEndDate": null
+        "coverageEndDate": "2022-06-22T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -2835,7 +2920,7 @@
           "Party": "D"
         }
       ],
-      "hasQuestionnaire": true,
+      "hasQuestionnaire": "primary",
       "campaignFinance": "fec",
       "primaryResults": [
         {
@@ -2898,10 +2983,22 @@
         "party": "R",
         "candidateId": "H4MT00050",
         "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
-        "totalReceipts": 1601902.31,
-        "totalDisbursments": 727497.34,
-        "cashOnHand": 1137244.01,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 1741404.32,
+        "totalDisbursments": 940527.15,
+        "cashOnHand": 1063716.21,
+        "coverageEndDate": "2022-06-30T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Gary Buchanan",
+        "status": "advancing-to-general",
+        "party": "I",
+        "candidateId": "H2MT02167",
+        "candidateCommitteeName": "BUCHANAN FOR MONTANA",
+        "totalReceipts": 127124.73,
+        "totalDisbursments": 58162.1,
+        "cashOnHand": 68962.63,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -2910,22 +3007,10 @@
         "party": "D",
         "candidateId": "H2MT02159",
         "candidateCommitteeName": "SWEENEY FOR MONTANA",
-        "totalReceipts": 95968,
-        "totalDisbursments": 27334.12,
-        "cashOnHand": 68633.88,
-        "coverageEndDate": "2022-05-18T00:00:00"
-      },
-      {
-        "isThisCandidate": false,
-        "displayName": "Gary Buchanan",
-        "status": "advancing-to-general",
-        "party": "I",
-        "candidateId": "H2MT02167",
-        "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
-        "totalReceipts": 86323,
-        "totalDisbursments": 34894.51,
-        "cashOnHand": 51428.49,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 123323,
+        "totalDisbursments": 119523.31,
+        "cashOnHand": 3799.69,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -2934,10 +3019,22 @@
         "party": "D",
         "candidateId": "H2MT02134",
         "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
-        "totalReceipts": 47320.45,
-        "totalDisbursments": 42660.73,
-        "cashOnHand": 4659.72,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 63309.88,
+        "totalDisbursments": 52547.3,
+        "cashOnHand": 10762.58,
+        "coverageEndDate": "2022-06-30T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Sam Rankin",
+        "status": "advancing-to-general",
+        "party": "L",
+        "candidateId": "H0MT00074",
+        "candidateCommitteeName": "RANKIN FOR CONGRESS",
+        "totalReceipts": 20696.66,
+        "totalDisbursments": 20596.66,
+        "cashOnHand": 100,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -2946,10 +3043,10 @@
         "party": "D",
         "candidateId": "H2MT02118",
         "candidateCommitteeName": "SKYLARFORUSCONGRESS",
-        "totalReceipts": 4085.17,
-        "totalDisbursments": 4037.04,
-        "cashOnHand": 48.13,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 4729.47,
+        "totalDisbursments": 4729.47,
+        "cashOnHand": 0,
+        "coverageEndDate": "2022-07-08T00:00:00"
       },
       {
         "isThisCandidate": true,
@@ -2973,19 +3070,7 @@
         "totalReceipts": 0,
         "totalDisbursments": 0,
         "cashOnHand": 0,
-        "coverageEndDate": null
-      },
-      {
-        "isThisCandidate": false,
-        "displayName": "Sam Rankin",
-        "status": "advancing-to-general",
-        "party": "L",
-        "candidateId": null,
-        "candidateCommitteeName": null,
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 0,
-        "coverageEndDate": null
+        "coverageEndDate": "2022-06-22T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -3273,7 +3358,7 @@
           "Party": "D"
         }
       ],
-      "hasQuestionnaire": true,
+      "hasQuestionnaire": "primary",
       "campaignFinance": "fec",
       "primaryResults": [
         {
@@ -3336,10 +3421,22 @@
         "party": "R",
         "candidateId": "H4MT00050",
         "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
-        "totalReceipts": 1601902.31,
-        "totalDisbursments": 727497.34,
-        "cashOnHand": 1137244.01,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 1741404.32,
+        "totalDisbursments": 940527.15,
+        "cashOnHand": 1063716.21,
+        "coverageEndDate": "2022-06-30T00:00:00"
+      },
+      {
+        "isThisCandidate": true,
+        "displayName": "Gary Buchanan",
+        "status": "advancing-to-general",
+        "party": "I",
+        "candidateId": "H2MT02167",
+        "candidateCommitteeName": "BUCHANAN FOR MONTANA",
+        "totalReceipts": 127124.73,
+        "totalDisbursments": 58162.1,
+        "cashOnHand": 68962.63,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -3348,22 +3445,10 @@
         "party": "D",
         "candidateId": "H2MT02159",
         "candidateCommitteeName": "SWEENEY FOR MONTANA",
-        "totalReceipts": 95968,
-        "totalDisbursments": 27334.12,
-        "cashOnHand": 68633.88,
-        "coverageEndDate": "2022-05-18T00:00:00"
-      },
-      {
-        "isThisCandidate": true,
-        "displayName": "Gary Buchanan",
-        "status": "advancing-to-general",
-        "party": "I",
-        "candidateId": "H2MT02167",
-        "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
-        "totalReceipts": 86323,
-        "totalDisbursments": 34894.51,
-        "cashOnHand": 51428.49,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 123323,
+        "totalDisbursments": 119523.31,
+        "cashOnHand": 3799.69,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -3372,10 +3457,22 @@
         "party": "D",
         "candidateId": "H2MT02134",
         "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
-        "totalReceipts": 47320.45,
-        "totalDisbursments": 42660.73,
-        "cashOnHand": 4659.72,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 63309.88,
+        "totalDisbursments": 52547.3,
+        "cashOnHand": 10762.58,
+        "coverageEndDate": "2022-06-30T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Sam Rankin",
+        "status": "advancing-to-general",
+        "party": "L",
+        "candidateId": "H0MT00074",
+        "candidateCommitteeName": "RANKIN FOR CONGRESS",
+        "totalReceipts": 20696.66,
+        "totalDisbursments": 20596.66,
+        "cashOnHand": 100,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -3384,10 +3481,10 @@
         "party": "D",
         "candidateId": "H2MT02118",
         "candidateCommitteeName": "SKYLARFORUSCONGRESS",
-        "totalReceipts": 4085.17,
-        "totalDisbursments": 4037.04,
-        "cashOnHand": 48.13,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 4729.47,
+        "totalDisbursments": 4729.47,
+        "cashOnHand": 0,
+        "coverageEndDate": "2022-07-08T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -3411,19 +3508,7 @@
         "totalReceipts": 0,
         "totalDisbursments": 0,
         "cashOnHand": 0,
-        "coverageEndDate": null
-      },
-      {
-        "isThisCandidate": false,
-        "displayName": "Sam Rankin",
-        "status": "advancing-to-general",
-        "party": "L",
-        "candidateId": null,
-        "candidateCommitteeName": null,
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 0,
-        "coverageEndDate": null
+        "coverageEndDate": "2022-06-22T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -3565,9 +3650,24 @@
     ],
     "articles": [
       {
+        "title": "Eastern district U.S. House candidates on the issues",
+        "date": "2022-09-02T10:22:29",
+        "link": "https://montanafreepress.org/2022/09/02/eastern-district-u-s-house-candidates-on-the-issues/"
+      },
+      {
+        "title": "Unions buck expectations with endorsement of independent financial manager Gary Buchanan in eastern district",
+        "date": "2022-08-26T12:19:44",
+        "link": "https://montanafreepress.org/2022/08/26/montana-unions-endorse-buchanan-over-ronning-in-eastern-district/"
+      },
+      {
         "title": "Montana congressional candidates make final primary push ",
         "date": "2022-06-06T16:51:48",
         "link": "https://montanafreepress.org/2022/06/06/montana-congressional-primary-candidates-gear-up-for-tuesday-election/"
+      },
+      {
+        "title": "Buchanan likely has signatures needed for independent U.S. House bid",
+        "date": "2022-06-01T15:50:24",
+        "link": "https://montanafreepress.org/2022/06/01/buchanan-likely-has-signatures-needed-for-independent-u-s-house-bid/"
       },
       {
         "title": "In Eastern district U.S. House race, it’s Rosendale versus the idealists",
@@ -3617,7 +3717,7 @@
           "Party": "D"
         }
       ],
-      "hasQuestionnaire": true,
+      "hasQuestionnaire": "primary",
       "campaignFinance": "fec",
       "primaryResults": [],
       "resultsTimestamp": null
@@ -3634,11 +3734,11 @@
     "CampaignInstagramUrl": null,
     "MtfpCoverageTag": null,
     "createdAt": "2022-04-19T19:11:51.881Z",
-    "updatedAt": "2022-06-08T18:11:13.914Z",
+    "updatedAt": "2022-10-10T18:54:34.229Z",
     "Party": "L",
     "CampaignYoutubeUrl": null,
     "isIncumbent": false,
-    "FECCandidateName": null,
+    "FECCandidateName": "RANKIN, SAM",
     "status": "advancing-to-general",
     "BallotName": "SAM RANKIN",
     "urlKey": "sam-rankin",
@@ -3651,10 +3751,22 @@
         "party": "R",
         "candidateId": "H4MT00050",
         "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
-        "totalReceipts": 1601902.31,
-        "totalDisbursments": 727497.34,
-        "cashOnHand": 1137244.01,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 1741404.32,
+        "totalDisbursments": 940527.15,
+        "cashOnHand": 1063716.21,
+        "coverageEndDate": "2022-06-30T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Gary Buchanan",
+        "status": "advancing-to-general",
+        "party": "I",
+        "candidateId": "H2MT02167",
+        "candidateCommitteeName": "BUCHANAN FOR MONTANA",
+        "totalReceipts": 127124.73,
+        "totalDisbursments": 58162.1,
+        "cashOnHand": 68962.63,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -3663,22 +3775,10 @@
         "party": "D",
         "candidateId": "H2MT02159",
         "candidateCommitteeName": "SWEENEY FOR MONTANA",
-        "totalReceipts": 95968,
-        "totalDisbursments": 27334.12,
-        "cashOnHand": 68633.88,
-        "coverageEndDate": "2022-05-18T00:00:00"
-      },
-      {
-        "isThisCandidate": false,
-        "displayName": "Gary Buchanan",
-        "status": "advancing-to-general",
-        "party": "I",
-        "candidateId": "H2MT02167",
-        "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
-        "totalReceipts": 86323,
-        "totalDisbursments": 34894.51,
-        "cashOnHand": 51428.49,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 123323,
+        "totalDisbursments": 119523.31,
+        "cashOnHand": 3799.69,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -3687,10 +3787,22 @@
         "party": "D",
         "candidateId": "H2MT02134",
         "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
-        "totalReceipts": 47320.45,
-        "totalDisbursments": 42660.73,
-        "cashOnHand": 4659.72,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 63309.88,
+        "totalDisbursments": 52547.3,
+        "cashOnHand": 10762.58,
+        "coverageEndDate": "2022-06-30T00:00:00"
+      },
+      {
+        "isThisCandidate": true,
+        "displayName": "Sam Rankin",
+        "status": "advancing-to-general",
+        "party": "L",
+        "candidateId": "H0MT00074",
+        "candidateCommitteeName": "RANKIN FOR CONGRESS",
+        "totalReceipts": 20696.66,
+        "totalDisbursments": 20596.66,
+        "cashOnHand": 100,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -3699,10 +3811,10 @@
         "party": "D",
         "candidateId": "H2MT02118",
         "candidateCommitteeName": "SKYLARFORUSCONGRESS",
-        "totalReceipts": 4085.17,
-        "totalDisbursments": 4037.04,
-        "cashOnHand": 48.13,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 4729.47,
+        "totalDisbursments": 4729.47,
+        "cashOnHand": 0,
+        "coverageEndDate": "2022-07-08T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -3726,19 +3838,7 @@
         "totalReceipts": 0,
         "totalDisbursments": 0,
         "cashOnHand": 0,
-        "coverageEndDate": null
-      },
-      {
-        "isThisCandidate": true,
-        "displayName": "Sam Rankin",
-        "status": "advancing-to-general",
-        "party": "L",
-        "candidateId": null,
-        "candidateCommitteeName": null,
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 0,
-        "coverageEndDate": null
+        "coverageEndDate": "2022-06-22T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -3884,6 +3984,11 @@
     ],
     "articles": [
       {
+        "title": "Eastern district U.S. House candidates on the issues",
+        "date": "2022-09-02T10:22:29",
+        "link": "https://montanafreepress.org/2022/09/02/eastern-district-u-s-house-candidates-on-the-issues/"
+      },
+      {
         "title": "Rosendale, Ronning emerge from eastern Montana U.S. House primary",
         "date": "2022-06-07T23:12:58",
         "link": "https://montanafreepress.org/2022/06/07/rosendale-ronning-win-eastern-district-montana-house-primaries/"
@@ -3931,7 +4036,7 @@
           "Party": "D"
         }
       ],
-      "hasQuestionnaire": true,
+      "hasQuestionnaire": "primary",
       "campaignFinance": "fec",
       "primaryResults": [
         {
@@ -3987,10 +4092,22 @@
         "party": "R",
         "candidateId": "H4MT00050",
         "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
-        "totalReceipts": 1601902.31,
-        "totalDisbursments": 727497.34,
-        "cashOnHand": 1137244.01,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 1741404.32,
+        "totalDisbursments": 940527.15,
+        "cashOnHand": 1063716.21,
+        "coverageEndDate": "2022-06-30T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Gary Buchanan",
+        "status": "advancing-to-general",
+        "party": "I",
+        "candidateId": "H2MT02167",
+        "candidateCommitteeName": "BUCHANAN FOR MONTANA",
+        "totalReceipts": 127124.73,
+        "totalDisbursments": 58162.1,
+        "cashOnHand": 68962.63,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -3999,22 +4116,10 @@
         "party": "D",
         "candidateId": "H2MT02159",
         "candidateCommitteeName": "SWEENEY FOR MONTANA",
-        "totalReceipts": 95968,
-        "totalDisbursments": 27334.12,
-        "cashOnHand": 68633.88,
-        "coverageEndDate": "2022-05-18T00:00:00"
-      },
-      {
-        "isThisCandidate": false,
-        "displayName": "Gary Buchanan",
-        "status": "advancing-to-general",
-        "party": "I",
-        "candidateId": "H2MT02167",
-        "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
-        "totalReceipts": 86323,
-        "totalDisbursments": 34894.51,
-        "cashOnHand": 51428.49,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 123323,
+        "totalDisbursments": 119523.31,
+        "cashOnHand": 3799.69,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": true,
@@ -4023,10 +4128,22 @@
         "party": "D",
         "candidateId": "H2MT02134",
         "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
-        "totalReceipts": 47320.45,
-        "totalDisbursments": 42660.73,
-        "cashOnHand": 4659.72,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 63309.88,
+        "totalDisbursments": 52547.3,
+        "cashOnHand": 10762.58,
+        "coverageEndDate": "2022-06-30T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Sam Rankin",
+        "status": "advancing-to-general",
+        "party": "L",
+        "candidateId": "H0MT00074",
+        "candidateCommitteeName": "RANKIN FOR CONGRESS",
+        "totalReceipts": 20696.66,
+        "totalDisbursments": 20596.66,
+        "cashOnHand": 100,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -4035,10 +4152,10 @@
         "party": "D",
         "candidateId": "H2MT02118",
         "candidateCommitteeName": "SKYLARFORUSCONGRESS",
-        "totalReceipts": 4085.17,
-        "totalDisbursments": 4037.04,
-        "cashOnHand": 48.13,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 4729.47,
+        "totalDisbursments": 4729.47,
+        "cashOnHand": 0,
+        "coverageEndDate": "2022-07-08T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -4062,19 +4179,7 @@
         "totalReceipts": 0,
         "totalDisbursments": 0,
         "cashOnHand": 0,
-        "coverageEndDate": null
-      },
-      {
-        "isThisCandidate": false,
-        "displayName": "Sam Rankin",
-        "status": "advancing-to-general",
-        "party": "L",
-        "candidateId": null,
-        "candidateCommitteeName": null,
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 0,
-        "coverageEndDate": null
+        "coverageEndDate": "2022-06-22T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -4216,6 +4321,16 @@
     ],
     "articles": [
       {
+        "title": "Eastern district U.S. House candidates on the issues",
+        "date": "2022-09-02T10:22:29",
+        "link": "https://montanafreepress.org/2022/09/02/eastern-district-u-s-house-candidates-on-the-issues/"
+      },
+      {
+        "title": "Unions buck expectations with endorsement of independent financial manager Gary Buchanan in eastern district",
+        "date": "2022-08-26T12:19:44",
+        "link": "https://montanafreepress.org/2022/08/26/montana-unions-endorse-buchanan-over-ronning-in-eastern-district/"
+      },
+      {
         "title": "Rosendale, Ronning emerge from eastern Montana U.S. House primary",
         "date": "2022-06-07T23:12:58",
         "link": "https://montanafreepress.org/2022/06/07/rosendale-ronning-win-eastern-district-montana-house-primaries/"
@@ -4268,7 +4383,7 @@
           "Party": "D"
         }
       ],
-      "hasQuestionnaire": true,
+      "hasQuestionnaire": "primary",
       "campaignFinance": "fec",
       "primaryResults": [
         {
@@ -4324,10 +4439,22 @@
         "party": "R",
         "candidateId": "H4MT00050",
         "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
-        "totalReceipts": 1601902.31,
-        "totalDisbursments": 727497.34,
-        "cashOnHand": 1137244.01,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 1741404.32,
+        "totalDisbursments": 940527.15,
+        "cashOnHand": 1063716.21,
+        "coverageEndDate": "2022-06-30T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Gary Buchanan",
+        "status": "advancing-to-general",
+        "party": "I",
+        "candidateId": "H2MT02167",
+        "candidateCommitteeName": "BUCHANAN FOR MONTANA",
+        "totalReceipts": 127124.73,
+        "totalDisbursments": 58162.1,
+        "cashOnHand": 68962.63,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -4336,22 +4463,10 @@
         "party": "D",
         "candidateId": "H2MT02159",
         "candidateCommitteeName": "SWEENEY FOR MONTANA",
-        "totalReceipts": 95968,
-        "totalDisbursments": 27334.12,
-        "cashOnHand": 68633.88,
-        "coverageEndDate": "2022-05-18T00:00:00"
-      },
-      {
-        "isThisCandidate": false,
-        "displayName": "Gary Buchanan",
-        "status": "advancing-to-general",
-        "party": "I",
-        "candidateId": "H2MT02167",
-        "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
-        "totalReceipts": 86323,
-        "totalDisbursments": 34894.51,
-        "cashOnHand": 51428.49,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 123323,
+        "totalDisbursments": 119523.31,
+        "cashOnHand": 3799.69,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -4360,10 +4475,22 @@
         "party": "D",
         "candidateId": "H2MT02134",
         "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
-        "totalReceipts": 47320.45,
-        "totalDisbursments": 42660.73,
-        "cashOnHand": 4659.72,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 63309.88,
+        "totalDisbursments": 52547.3,
+        "cashOnHand": 10762.58,
+        "coverageEndDate": "2022-06-30T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Sam Rankin",
+        "status": "advancing-to-general",
+        "party": "L",
+        "candidateId": "H0MT00074",
+        "candidateCommitteeName": "RANKIN FOR CONGRESS",
+        "totalReceipts": 20696.66,
+        "totalDisbursments": 20596.66,
+        "cashOnHand": 100,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -4372,10 +4499,10 @@
         "party": "D",
         "candidateId": "H2MT02118",
         "candidateCommitteeName": "SKYLARFORUSCONGRESS",
-        "totalReceipts": 4085.17,
-        "totalDisbursments": 4037.04,
-        "cashOnHand": 48.13,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 4729.47,
+        "totalDisbursments": 4729.47,
+        "cashOnHand": 0,
+        "coverageEndDate": "2022-07-08T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -4399,19 +4526,7 @@
         "totalReceipts": 0,
         "totalDisbursments": 0,
         "cashOnHand": 0,
-        "coverageEndDate": null
-      },
-      {
-        "isThisCandidate": false,
-        "displayName": "Sam Rankin",
-        "status": "advancing-to-general",
-        "party": "L",
-        "candidateId": null,
-        "candidateCommitteeName": null,
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 0,
-        "coverageEndDate": null
+        "coverageEndDate": "2022-06-22T00:00:00"
       },
       {
         "isThisCandidate": true,
@@ -4495,7 +4610,7 @@
           "Party": "D"
         }
       ],
-      "hasQuestionnaire": true,
+      "hasQuestionnaire": "primary",
       "campaignFinance": "fec",
       "primaryResults": [
         {
@@ -4551,10 +4666,22 @@
         "party": "R",
         "candidateId": "H4MT00050",
         "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
-        "totalReceipts": 1601902.31,
-        "totalDisbursments": 727497.34,
-        "cashOnHand": 1137244.01,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 1741404.32,
+        "totalDisbursments": 940527.15,
+        "cashOnHand": 1063716.21,
+        "coverageEndDate": "2022-06-30T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Gary Buchanan",
+        "status": "advancing-to-general",
+        "party": "I",
+        "candidateId": "H2MT02167",
+        "candidateCommitteeName": "BUCHANAN FOR MONTANA",
+        "totalReceipts": 127124.73,
+        "totalDisbursments": 58162.1,
+        "cashOnHand": 68962.63,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": true,
@@ -4563,22 +4690,10 @@
         "party": "D",
         "candidateId": "H2MT02159",
         "candidateCommitteeName": "SWEENEY FOR MONTANA",
-        "totalReceipts": 95968,
-        "totalDisbursments": 27334.12,
-        "cashOnHand": 68633.88,
-        "coverageEndDate": "2022-05-18T00:00:00"
-      },
-      {
-        "isThisCandidate": false,
-        "displayName": "Gary Buchanan",
-        "status": "advancing-to-general",
-        "party": "I",
-        "candidateId": "H2MT02167",
-        "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
-        "totalReceipts": 86323,
-        "totalDisbursments": 34894.51,
-        "cashOnHand": 51428.49,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 123323,
+        "totalDisbursments": 119523.31,
+        "cashOnHand": 3799.69,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -4587,10 +4702,22 @@
         "party": "D",
         "candidateId": "H2MT02134",
         "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
-        "totalReceipts": 47320.45,
-        "totalDisbursments": 42660.73,
-        "cashOnHand": 4659.72,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 63309.88,
+        "totalDisbursments": 52547.3,
+        "cashOnHand": 10762.58,
+        "coverageEndDate": "2022-06-30T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Sam Rankin",
+        "status": "advancing-to-general",
+        "party": "L",
+        "candidateId": "H0MT00074",
+        "candidateCommitteeName": "RANKIN FOR CONGRESS",
+        "totalReceipts": 20696.66,
+        "totalDisbursments": 20596.66,
+        "cashOnHand": 100,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -4599,10 +4726,10 @@
         "party": "D",
         "candidateId": "H2MT02118",
         "candidateCommitteeName": "SKYLARFORUSCONGRESS",
-        "totalReceipts": 4085.17,
-        "totalDisbursments": 4037.04,
-        "cashOnHand": 48.13,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 4729.47,
+        "totalDisbursments": 4729.47,
+        "cashOnHand": 0,
+        "coverageEndDate": "2022-07-08T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -4626,19 +4753,7 @@
         "totalReceipts": 0,
         "totalDisbursments": 0,
         "cashOnHand": 0,
-        "coverageEndDate": null
-      },
-      {
-        "isThisCandidate": false,
-        "displayName": "Sam Rankin",
-        "status": "advancing-to-general",
-        "party": "L",
-        "candidateId": null,
-        "candidateCommitteeName": null,
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 0,
-        "coverageEndDate": null
+        "coverageEndDate": "2022-06-22T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -4840,6 +4955,11 @@
     ],
     "articles": [
       {
+        "title": "Contested race in SD 39 puts state hospital, Republican supermajority in focus",
+        "date": "2022-07-29T10:06:34",
+        "link": "https://montanafreepress.org/2022/07/29/mullen-vermeire-vie-for-sweeneys-montana-senate-seat/"
+      },
+      {
         "title": "U.S. House candidate Sweeney will remain on ballot despite recent death",
         "date": "2022-05-09T15:37:27",
         "link": "https://montanafreepress.org/2022/05/09/montana-us-house-candidate-sweeney-on-ballot-despite-death/"
@@ -4882,7 +5002,7 @@
           "Party": "D"
         }
       ],
-      "hasQuestionnaire": true,
+      "hasQuestionnaire": "primary",
       "campaignFinance": "fec",
       "primaryResults": [
         {
@@ -4938,10 +5058,22 @@
         "party": "R",
         "candidateId": "H4MT00050",
         "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
-        "totalReceipts": 1601902.31,
-        "totalDisbursments": 727497.34,
-        "cashOnHand": 1137244.01,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 1741404.32,
+        "totalDisbursments": 940527.15,
+        "cashOnHand": 1063716.21,
+        "coverageEndDate": "2022-06-30T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Gary Buchanan",
+        "status": "advancing-to-general",
+        "party": "I",
+        "candidateId": "H2MT02167",
+        "candidateCommitteeName": "BUCHANAN FOR MONTANA",
+        "totalReceipts": 127124.73,
+        "totalDisbursments": 58162.1,
+        "cashOnHand": 68962.63,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -4950,22 +5082,10 @@
         "party": "D",
         "candidateId": "H2MT02159",
         "candidateCommitteeName": "SWEENEY FOR MONTANA",
-        "totalReceipts": 95968,
-        "totalDisbursments": 27334.12,
-        "cashOnHand": 68633.88,
-        "coverageEndDate": "2022-05-18T00:00:00"
-      },
-      {
-        "isThisCandidate": false,
-        "displayName": "Gary Buchanan",
-        "status": "advancing-to-general",
-        "party": "I",
-        "candidateId": "H2MT02167",
-        "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
-        "totalReceipts": 86323,
-        "totalDisbursments": 34894.51,
-        "cashOnHand": 51428.49,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 123323,
+        "totalDisbursments": 119523.31,
+        "cashOnHand": 3799.69,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -4974,10 +5094,22 @@
         "party": "D",
         "candidateId": "H2MT02134",
         "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
-        "totalReceipts": 47320.45,
-        "totalDisbursments": 42660.73,
-        "cashOnHand": 4659.72,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 63309.88,
+        "totalDisbursments": 52547.3,
+        "cashOnHand": 10762.58,
+        "coverageEndDate": "2022-06-30T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Sam Rankin",
+        "status": "advancing-to-general",
+        "party": "L",
+        "candidateId": "H0MT00074",
+        "candidateCommitteeName": "RANKIN FOR CONGRESS",
+        "totalReceipts": 20696.66,
+        "totalDisbursments": 20596.66,
+        "cashOnHand": 100,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -4986,10 +5118,10 @@
         "party": "D",
         "candidateId": "H2MT02118",
         "candidateCommitteeName": "SKYLARFORUSCONGRESS",
-        "totalReceipts": 4085.17,
-        "totalDisbursments": 4037.04,
-        "cashOnHand": 48.13,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 4729.47,
+        "totalDisbursments": 4729.47,
+        "cashOnHand": 0,
+        "coverageEndDate": "2022-07-08T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -5013,19 +5145,7 @@
         "totalReceipts": 0,
         "totalDisbursments": 0,
         "cashOnHand": 0,
-        "coverageEndDate": null
-      },
-      {
-        "isThisCandidate": false,
-        "displayName": "Sam Rankin",
-        "status": "advancing-to-general",
-        "party": "L",
-        "candidateId": null,
-        "candidateCommitteeName": null,
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 0,
-        "coverageEndDate": null
+        "coverageEndDate": "2022-06-22T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -5209,7 +5329,7 @@
           "Party": "D"
         }
       ],
-      "hasQuestionnaire": true,
+      "hasQuestionnaire": "primary",
       "campaignFinance": "fec",
       "primaryResults": [
         {
@@ -5265,10 +5385,22 @@
         "party": "R",
         "candidateId": "H4MT00050",
         "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
-        "totalReceipts": 1601902.31,
-        "totalDisbursments": 727497.34,
-        "cashOnHand": 1137244.01,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 1741404.32,
+        "totalDisbursments": 940527.15,
+        "cashOnHand": 1063716.21,
+        "coverageEndDate": "2022-06-30T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Gary Buchanan",
+        "status": "advancing-to-general",
+        "party": "I",
+        "candidateId": "H2MT02167",
+        "candidateCommitteeName": "BUCHANAN FOR MONTANA",
+        "totalReceipts": 127124.73,
+        "totalDisbursments": 58162.1,
+        "cashOnHand": 68962.63,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -5277,22 +5409,10 @@
         "party": "D",
         "candidateId": "H2MT02159",
         "candidateCommitteeName": "SWEENEY FOR MONTANA",
-        "totalReceipts": 95968,
-        "totalDisbursments": 27334.12,
-        "cashOnHand": 68633.88,
-        "coverageEndDate": "2022-05-18T00:00:00"
-      },
-      {
-        "isThisCandidate": false,
-        "displayName": "Gary Buchanan",
-        "status": "advancing-to-general",
-        "party": "I",
-        "candidateId": "H2MT02167",
-        "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
-        "totalReceipts": 86323,
-        "totalDisbursments": 34894.51,
-        "cashOnHand": 51428.49,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 123323,
+        "totalDisbursments": 119523.31,
+        "cashOnHand": 3799.69,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -5301,10 +5421,22 @@
         "party": "D",
         "candidateId": "H2MT02134",
         "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
-        "totalReceipts": 47320.45,
-        "totalDisbursments": 42660.73,
-        "cashOnHand": 4659.72,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 63309.88,
+        "totalDisbursments": 52547.3,
+        "cashOnHand": 10762.58,
+        "coverageEndDate": "2022-06-30T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Sam Rankin",
+        "status": "advancing-to-general",
+        "party": "L",
+        "candidateId": "H0MT00074",
+        "candidateCommitteeName": "RANKIN FOR CONGRESS",
+        "totalReceipts": 20696.66,
+        "totalDisbursments": 20596.66,
+        "cashOnHand": 100,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -5313,10 +5445,10 @@
         "party": "D",
         "candidateId": "H2MT02118",
         "candidateCommitteeName": "SKYLARFORUSCONGRESS",
-        "totalReceipts": 4085.17,
-        "totalDisbursments": 4037.04,
-        "cashOnHand": 48.13,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 4729.47,
+        "totalDisbursments": 4729.47,
+        "cashOnHand": 0,
+        "coverageEndDate": "2022-07-08T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -5340,19 +5472,7 @@
         "totalReceipts": 0,
         "totalDisbursments": 0,
         "cashOnHand": 0,
-        "coverageEndDate": null
-      },
-      {
-        "isThisCandidate": false,
-        "displayName": "Sam Rankin",
-        "status": "advancing-to-general",
-        "party": "L",
-        "candidateId": null,
-        "candidateCommitteeName": null,
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 0,
-        "coverageEndDate": null
+        "coverageEndDate": "2022-06-22T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -5436,7 +5556,7 @@
           "Party": "D"
         }
       ],
-      "hasQuestionnaire": true,
+      "hasQuestionnaire": "primary",
       "campaignFinance": "fec",
       "primaryResults": [
         {
@@ -5499,10 +5619,22 @@
         "party": "R",
         "candidateId": "H4MT00050",
         "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
-        "totalReceipts": 1601902.31,
-        "totalDisbursments": 727497.34,
-        "cashOnHand": 1137244.01,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 1741404.32,
+        "totalDisbursments": 940527.15,
+        "cashOnHand": 1063716.21,
+        "coverageEndDate": "2022-06-30T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Gary Buchanan",
+        "status": "advancing-to-general",
+        "party": "I",
+        "candidateId": "H2MT02167",
+        "candidateCommitteeName": "BUCHANAN FOR MONTANA",
+        "totalReceipts": 127124.73,
+        "totalDisbursments": 58162.1,
+        "cashOnHand": 68962.63,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -5511,22 +5643,10 @@
         "party": "D",
         "candidateId": "H2MT02159",
         "candidateCommitteeName": "SWEENEY FOR MONTANA",
-        "totalReceipts": 95968,
-        "totalDisbursments": 27334.12,
-        "cashOnHand": 68633.88,
-        "coverageEndDate": "2022-05-18T00:00:00"
-      },
-      {
-        "isThisCandidate": false,
-        "displayName": "Gary Buchanan",
-        "status": "advancing-to-general",
-        "party": "I",
-        "candidateId": "H2MT02167",
-        "candidateCommitteeName": "GARY BUCHANAN HOUSE DISTRICT 2",
-        "totalReceipts": 86323,
-        "totalDisbursments": 34894.51,
-        "cashOnHand": 51428.49,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 123323,
+        "totalDisbursments": 119523.31,
+        "cashOnHand": 3799.69,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -5535,10 +5655,22 @@
         "party": "D",
         "candidateId": "H2MT02134",
         "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
-        "totalReceipts": 47320.45,
-        "totalDisbursments": 42660.73,
-        "cashOnHand": 4659.72,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 63309.88,
+        "totalDisbursments": 52547.3,
+        "cashOnHand": 10762.58,
+        "coverageEndDate": "2022-06-30T00:00:00"
+      },
+      {
+        "isThisCandidate": false,
+        "displayName": "Sam Rankin",
+        "status": "advancing-to-general",
+        "party": "L",
+        "candidateId": "H0MT00074",
+        "candidateCommitteeName": "RANKIN FOR CONGRESS",
+        "totalReceipts": 20696.66,
+        "totalDisbursments": 20596.66,
+        "cashOnHand": 100,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": true,
@@ -5547,10 +5679,10 @@
         "party": "D",
         "candidateId": "H2MT02118",
         "candidateCommitteeName": "SKYLARFORUSCONGRESS",
-        "totalReceipts": 4085.17,
-        "totalDisbursments": 4037.04,
-        "cashOnHand": 48.13,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 4729.47,
+        "totalDisbursments": 4729.47,
+        "cashOnHand": 0,
+        "coverageEndDate": "2022-07-08T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -5574,19 +5706,7 @@
         "totalReceipts": 0,
         "totalDisbursments": 0,
         "cashOnHand": 0,
-        "coverageEndDate": null
-      },
-      {
-        "isThisCandidate": false,
-        "displayName": "Sam Rankin",
-        "status": "advancing-to-general",
-        "party": "L",
-        "candidateId": null,
-        "candidateCommitteeName": null,
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 0,
-        "coverageEndDate": null
+        "coverageEndDate": "2022-06-22T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -5770,7 +5890,7 @@
           "Party": "D"
         }
       ],
-      "hasQuestionnaire": true,
+      "hasQuestionnaire": "primary",
       "campaignFinance": "fec",
       "primaryResults": [
         {
@@ -5843,6 +5963,7 @@
           "Party": "R"
         }
       ],
+      "hasQuestionnaire": "general",
       "campaignFinance": "copp",
       "primaryResults": [
         {
@@ -5884,7 +6005,57 @@
     "urlKey": "randy-pinocci",
     "partyLabel": "Republican candidate",
     "finances": null,
-    "issueAnswers": null,
+    "issueAnswers": [
+      {
+        "question": "Q1: What are you uniquely positioned to accomplish as a commissioner?",
+        "answer": [
+          {
+            "type": "text",
+            "value": "When campaigning four years ago, the complaint I heard the most was, \"I don't know who my Public Service Commissioner is or what the position even oversees.\" I promised to change that and have traveled to more destinations in my district than all other commissioners combined. I also covered a large percentage of those travel expenses out of my own pocket."
+          },
+          {
+            "type": "text",
+            "value": "Today, throughout my district my PSC position is much better understood and most voters have heard of me. There are many towns I need to set up meetings in and I will                                                        continue to reach out to more communities in the future."
+          }
+        ]
+      },
+      {
+        "question": "Q2: What do you think is Montana's biggest energy-related issue and why?",
+        "answer": [
+          {
+            "type": "text",
+            "value": "We do not produce the electricity we need. As a result we buy out-of-state at a cost of 10 or 20 times the cost we buy from in-state. Montana needs to be an energy exporter and never again be an energy importer. This will bring our energy cost down hundreds of millions of dollars and at the same time position our Montana economy in a healthier place."
+          }
+        ]
+      },
+      {
+        "question": "Q3: How are you qualified to sort through the technical aspects of the commission's work?",
+        "answer": [
+          {
+            "type": "text",
+            "value": "I have worked in the Montana political arena for over 30 years. More importantly, I served as a legislator on the most important energy committees and now, with four years as a Public Service Commissioner, that's about the most experience you can have. Because of term limits I can only serve four more years. Other states do not limit the PSC to eight years because they understand you’re limiting technical experience. The Legislature must end term limits for the PSC position or Montanans will continue to lose valued job experience. If the commissioner is not performing, you simply vote them out of office."
+          }
+        ]
+      },
+      {
+        "question": "Q4: At a salary of about $109,000 a year, this is one of the highest-paid positions in state government. If elected, how would you balance the requirements of the job with other personal or professional obligations?",
+        "answer": [
+          {
+            "type": "text",
+            "value": "As a legislator, all expenses are covered. In the PSC they are not. This year alone I covered over $15,000 in travel. After that is factored in, I am one of the lower-paid positions at the PSC. We are looking to fill a staff position now that pays $30,000 more than my salary. Most Montanans assume the commissioner is the highest paid, it is not. Also, I spent $50,000 — or was it $80,000 — to win the race to have the position. Should not the reporter expect you to have to subtract that cost from your pay? Now I am the lowest paid person at the PSC. Also, think of the risk: you might pay $100,000 in campaign cost and not win at all. How many people do you know that will spend  $100,000 for a job interview for a job that only pays $100,000 a year when you pay most of your own expenses and only last four years? And then you may not get the job after you spent the money and over 1,000 hours of your time out on the campaign trail."
+          }
+        ]
+      },
+      {
+        "question": "Q5: What is the most important regulatory matter before the commission right now?",
+        "answer": [
+          {
+            "type": "text",
+            "value": "To regulate your future energy cost."
+          }
+        ]
+      }
+    ],
     "articles": [
       {
         "title": "Meet the PSC candidates who want to regulate your rates",
@@ -5908,6 +6079,7 @@
           "Party": "R"
         }
       ],
+      "hasQuestionnaire": "general",
       "campaignFinance": "copp",
       "primaryResults": [
         {
@@ -5949,12 +6121,63 @@
     "urlKey": "annie-bukacek",
     "partyLabel": "Republican candidate",
     "finances": null,
-    "issueAnswers": null,
+    "issueAnswers": [
+      {
+        "question": "Q1: What are you uniquely positioned to accomplish as a commissioner?",
+        "answer": [
+          {
+            "type": "text",
+            "value": "Bukacek declined to provide a response to this survey."
+          }
+        ]
+      },
+      {
+        "question": "Q2: What do you think is Montana's biggest energy-related issue and why?",
+        "answer": [
+          {
+            "type": "text",
+            "value": "Bukacek declined to provide a response to this survey."
+          }
+        ]
+      },
+      {
+        "question": "Q3: How are you qualified to sort through the technical aspects of the commission's work?",
+        "answer": [
+          {
+            "type": "text",
+            "value": "Bukacek declined to provide a response to this survey."
+          }
+        ]
+      },
+      {
+        "question": "Q4: At a salary of about $109,000 a year, this is one of the highest-paid positions in state government. If elected, how would you balance the requirements of the job with other personal or professional obligations?",
+        "answer": [
+          {
+            "type": "text",
+            "value": "Bukacek declined to provide a response to this survey."
+          }
+        ]
+      },
+      {
+        "question": "Q5: What is the most important regulatory matter before the commission right now?",
+        "answer": [
+          {
+            "type": "text",
+            "value": "Bukacek declined to provide a response to this survey."
+          }
+        ]
+      }
+    ],
     "articles": [
       {
         "title": "Recounts results confirm Bukacek won utility board GOP primary",
         "date": "2022-07-18T17:47:42",
         "link": "https://montanafreepress.org/2022/07/18/bukacek-wins-public-service-commission-primary/"
+      },
+      {
+        "title": "Bukacek presumptive winner of Republican PSC primary",
+        "date": "2022-06-14T13:34:09",
+        "link": "https://montanafreepress.org/2022/06/14/bukacek-presumptive-republican-psc-primary-winner/"
       },
       {
         "title": "Meet the PSC candidates who want to regulate your rates",
@@ -5985,6 +6208,7 @@
           "Party": "D"
         }
       ],
+      "hasQuestionnaire": "general",
       "campaignFinance": "copp",
       "primaryResults": [
         {
@@ -6071,6 +6295,7 @@
           "Party": "D"
         }
       ],
+      "hasQuestionnaire": "general",
       "campaignFinance": "copp",
       "primaryResults": [
         {
@@ -6129,6 +6354,11 @@
     "issueAnswers": null,
     "articles": [
       {
+        "title": "Bukacek presumptive winner of Republican PSC primary",
+        "date": "2022-06-14T13:34:09",
+        "link": "https://montanafreepress.org/2022/06/14/bukacek-presumptive-republican-psc-primary-winner/"
+      },
+      {
         "title": "Meet the PSC candidates who want to regulate your rates",
         "date": "2022-05-26T13:45:03",
         "link": "https://montanafreepress.org/2022/05/26/montana-public-service-commission-role-2022-election/"
@@ -6157,6 +6387,7 @@
           "Party": "D"
         }
       ],
+      "hasQuestionnaire": "general",
       "campaignFinance": "copp",
       "primaryResults": [
         {
@@ -6243,6 +6474,7 @@
           "Party": "D"
         }
       ],
+      "hasQuestionnaire": "general",
       "campaignFinance": "copp",
       "primaryResults": [
         {
@@ -6284,7 +6516,93 @@
     "urlKey": "john-repke",
     "partyLabel": "Democratic candidate",
     "finances": null,
-    "issueAnswers": null,
+    "issueAnswers": [
+      {
+        "question": "Q1: What are you uniquely positioned to accomplish as a commissioner?",
+        "answer": [
+          {
+            "type": "text",
+            "value": "I have the unique qualifications to earn the trust and respect of Montana ratepayers. I will bring relevant experience, skills, work ethic, character and integrity to the position of PSC commissioner."
+          },
+          {
+            "type": "text",
+            "value": "According to its website, the PSC “strives to ensure that ratepayers have continued access to utility services that are affordable, reliable, and sustainable for the long-term.”"
+          },
+          {
+            "type": "text",
+            "value": "In other words, its goal is to develop a consistent, thorough, and objective process that balances the interests of all sides. To achieve a regulatory process that works for all Montanans, commissioners must have 1) experience and expertise to properly evaluate information presented, 2) integrity to be objective, serious and open-minded, 3) dedication to honest, full-time work, 4) skills and character to promote a productive, healthy workplace, and 5) a commitment to the principles of good government."
+          },
+          {
+            "type": "text",
+            "value": "I am the only candidate with the unique qualifications to accomplish the core responsibilities of the PSC."
+          }
+        ]
+      },
+      {
+        "question": "Q2: What do you think is Montana's biggest energy-related issue and why?",
+        "answer": [
+          {
+            "type": "text",
+            "value": "In Montana, our biggest, energy-related issue is the partisan politics that interfere with sound, rational decision-making about our energy future."
+          },
+          {
+            "type": "text",
+            "value": "The PSC was created to be the thoughtful problem-solver between captive customers and monopolistic providers. The commission should have no agendas other than to accomplish the goals of affordable, reliable, sustainable energy for Montanans."
+          },
+          {
+            "type": "text",
+            "value": "As long as the PSC continues to be used as a place to pad pensions or to serve as a political soapbox, decisions will continue to be reversed by the courts, providers won’t be able to rely on rational, consistent processes, and customers will be exposed to huge increases in basic household and business expenses."
+          },
+          {
+            "type": "text",
+            "value": "I am running because if we don’t remove partisan politics and personal agendas from the PSC, Montanans remain at risk."
+          }
+        ]
+      },
+      {
+        "question": "Q3: How are you qualified to sort through the technical aspects of the commission's work?",
+        "answer": [
+          {
+            "type": "text",
+            "value": "The technical aspects of this work are related to balancing the economic interests of consumers with those of regulated providers. Most states appoint commissioners with expertise in economics, finance, or accounting. Without this expertise, a commissioner is simply not qualified to do the job."
+          },
+          {
+            "type": "text",
+            "value": "I hold two degrees in finance and have 40 yrs of business experience, much of it in industries regulated by the PSC. I spent my career analyzing operating budgets and expenses, evaluating capital investments, calculating cost capital and risk-adjusted returns (including for regulated utility services), managing price volatility, and planning for long-term viability. I have managed businesses under regulatory oversight, including municipal waste hauling and disposal; landfill gas to energy; municipal waste to energy; oil and gas production and refining; and pipeline inspection and maintenance. And in general, I understand the workings of the companies that provide regulated services in Montana."
+          }
+        ]
+      },
+      {
+        "question": "Q4: At a salary of about $109,000 a year, this is one of the highest-paid positions in state government. If elected, how would you balance the requirements of the job with other personal or professional obligations?",
+        "answer": [
+          {
+            "type": "text",
+            "value": "I am retired, so I have no other professional obligations. The job of PSC Commissioner would be my sole professional obligation – and I believe commissioners are ethically obligated to be dedicated to the work full time. Many states prohibit commissioners from having other jobs. In Montana, this is not specified, but the salary and benefits certainly eliminate the need for other work – and I believe it is disrespectful to Montana families and businesses to take this job without a commitment to do it full time."
+          },
+          {
+            "type": "text",
+            "value": "Personal obligations are clearly important and, like everyone else, I have personal obligations to my family – always have and always will. That said, over my 40-year career, I was able to balance personal with professional in a way that I was able to meet my obligations to both. I am fortunate to have a close, supportive family that takes care of each other as a team – and that won’t change."
+          }
+        ]
+      },
+      {
+        "question": "Q5: What is the most important regulatory matter before the commission right now?",
+        "answer": [
+          {
+            "type": "text",
+            "value": "The most important regulatory matter facing Montana is the regulatory environment itself."
+          },
+          {
+            "type": "text",
+            "value": "Given the complexity, pace, and large-scale uncertainty of energy issues facing Montanans, neither the utility nor the ratepayer is served by a commission characterized by personal squabbling, inadequate individual competence in the skills required for effective regulation, poor administrative judgment, a weak work ethic, and a desire to limit public participation.  As long as we have commissioners with an ‘agenda,’ Montanans will be ill-served."
+          },
+          {
+            "type": "text",
+            "value": "With a changed membership and a working approach that is serious, objective, and competent, both the current \"regulatory matters\" (i.e., Colstrip, NorthWestern Energy rate case, renewable/base load relationship, net metering, peak use reduction, etc.) and future “regulatory matters” (i.e., climate change, accelerated electrification, transmission issues, distributed generation, population growth, etc.) can be deliberated with better outcomes."
+          }
+        ]
+      }
+    ],
     "articles": [
       {
         "title": "Recounts results confirm Bukacek won utility board GOP primary",
@@ -6320,6 +6638,7 @@
           "Party": "D"
         }
       ],
+      "hasQuestionnaire": "general",
       "campaignFinance": "copp",
       "primaryResults": [
         {
@@ -6369,6 +6688,11 @@
         "link": "https://montanafreepress.org/2022/07/18/bukacek-wins-public-service-commission-primary/"
       },
       {
+        "title": "Bukacek presumptive winner of Republican PSC primary",
+        "date": "2022-06-14T13:34:09",
+        "link": "https://montanafreepress.org/2022/06/14/bukacek-presumptive-republican-psc-primary-winner/"
+      },
+      {
         "title": "Meet the PSC candidates who want to regulate your rates",
         "date": "2022-05-26T13:45:03",
         "link": "https://montanafreepress.org/2022/05/26/montana-public-service-commission-role-2022-election/"
@@ -6397,6 +6721,7 @@
           "Party": "D"
         }
       ],
+      "hasQuestionnaire": "general",
       "campaignFinance": "copp",
       "primaryResults": [
         {
@@ -6452,7 +6777,53 @@
     "urlKey": "bill-dalton",
     "partyLabel": "candidate",
     "finances": null,
-    "issueAnswers": null,
+    "issueAnswers": [
+      {
+        "question": "What type of law have you focused on in your career? Please describe your experience in criminal and civil law, including but not limited to constitutional law, American Indian law, dependency and neglect cases and treatment courts.",
+        "answer": [
+          {
+            "type": "text",
+            "value": "I started my legal career as a public defender in Yellowstone County, representing Montanans charged with minor to very serious offenses. Since 1998, I have been in private practice. I opened my law firm in 2008. Over the years, I have represented Native Americans, ranchers, farmers, workers, employers, veterans, and small-business owners. I have especially enjoyed protecting the civil rights and civil liberties of Montanans. I am an experienced trial attorney. I have represented clients before juries in state and federal courts. I have appeared before the Montana Supreme Court and the Ninth Circuit Court of Appeals."
+          }
+        ]
+      },
+      {
+        "question": "Do you consider Montana’s court system overburdened by cases? If so, why? What are your proposed solutions for improving how Montana's courts function?",
+        "answer": [
+          {
+            "type": "text",
+            "value": "Yes, especially in Yellowstone, Missoula, and Gallatin Counties. One of the problems I have noticed is people are stuck in the criminal justice system. Judges imposing fines or ordering treatment paid by the Defendant makes little practical sense when it is obvious the person is financially incapable. Releasing an inmate after significant incarceration with little community support or supervision increases recidivism. In the criminal justice system, a substantial number of defendants have chemical dependency problems and/or mental health issues. The State’s support programs are inadequate, underfunded, and poorly operated. The judiciary could take a more active role in these programs to help address chemical dependency and mental health issues."
+          }
+        ]
+      },
+      {
+        "question": "According to the most recent data analyzed by the Prison Policy Initiative, Montana’s incarceration rate in prisons, jails, immigration facilities and juvenile facilities is higher than the national average. Native American, Black and Latino people are also disproportionately represented in Montana’s jails and prisons. Do these trends represent a problem in Montana’s judicial system? What, if any, role should the judiciary play in remedying this?",
+        "answer": [
+          {
+            "type": "text",
+            "value": "This is a problem in all judicial systems, including Montana’s. Congress passed sentencing guidelines in the late 1980s to correct just some of these issues. Native Americans, African Americans, and Latinos still received disproportionate sentences under the sentencing guidelines. The best way to correct this is to have a more diverse judicial system. Furthermore, the Judicial Standards Commission should conduct an annual audit of sentences to determine if sentences are disproportionate to certain races."
+          }
+        ]
+      },
+      {
+        "question": "The Montana Constitution includes rights that often need to be balanced against one another in litigation, such as the right to privacy and the right to know. Please describe one such balancing test used by the Montana Supreme Court and explain, in your opinion, the fairness of that balancing test when applied to the law.",
+        "answer": [
+          {
+            "type": "text",
+            "value": "I believe the people of Montana have a right to know how public officials conduct the people’s business. Article II, Section 9 of the Montana Constitution mandates the public has the right to examine documents or to observe the deliberations of public bodies, including the judiciary, except when the needs of individual privacy clearly exceed the merits of public disclosure. Time and again the Montana Supreme Court has balanced the public’s right to know against the government’s right to not disclose the information. In my opinion, the Montana Supreme Court has balanced the interest of nondisclosure over that of the public’s right to know. Nondisclosure of public documents should be limited to health care records, juvenile issues, and ongoing criminal investigations."
+          }
+        ]
+      },
+      {
+        "question": "Montana’s judiciary and judicial rulings have been under heightened scrutiny in recent years as bills passed by the Legislature come under legal challenge. As a justice, what would you do to help engender trust in and respect for Montana’s judicial system?",
+        "answer": [
+          {
+            "type": "text",
+            "value": "I would encourage the workings of Montana’s judicial system to be open to public observation.    The Montana Supreme Court could stream its internal debate on issues the public is concerned about as a whole. In my opinion, this process would strengthen the trust and respect for the Montana Judicial System."
+          }
+        ]
+      }
+    ],
     "articles": [
       {
         "title": "Gustafson and Brown advancing over McMahon in Montana Supreme Court primary",
@@ -6488,6 +6859,7 @@
           "Party": "NP"
         }
       ],
+      "hasQuestionnaire": "general",
       "campaignFinance": "copp",
       "primaryResults": [
         {
@@ -6529,7 +6901,53 @@
     "urlKey": "jim-rice",
     "partyLabel": "candidate",
     "finances": null,
-    "issueAnswers": null,
+    "issueAnswers": [
+      {
+        "question": "What type of law have you focused on in your career? Please describe your experience in criminal and civil law, including but not limited to constitutional law, American Indian law, dependency and neglect cases and treatment courts.",
+        "answer": [
+          {
+            "type": "text",
+            "value": "I began my legal career by working as a public defender, representing indigent defendants charged with criminal offenses in state and federal courts, and juveniles cited into youth court. During that time, I gained invaluable trial experience, including obtaining a not-guilty verdict after a homicide trial. I regularly challenged the constitutionality of police actions in criminal proceedings, and argued a constitutional issue regarding a juvenile’s right of physical liberty before the Montana Supreme Court. After four years, I turned my focus to civil practice, representing individuals and small businesses in litigation, as well as doing domestic, workers compensation, social security, property, contract, and estate work. I did not represent insurance companies or large corporations. In over 20 years as a supreme court justice, I have researched and written decisions in virtually every field of law."
+          }
+        ]
+      },
+      {
+        "question": "Do you consider Montana’s court system overburdened by cases? If so, why? What are your proposed solutions for improving how Montana's courts function?",
+        "answer": [
+          {
+            "type": "text",
+            "value": "Not every court is overburdened, but many labor under high caseloads, particularly in urban areas. Overall, the system is burgeoning at the seams, and still recovering from the delays caused by Covid. Increased filings are caused by root issues of chemical use/dependency and mental health, such as violent/sexual assault and child abuse, and crimes related to drug/human trafficking and gang activity. While the rate of increase in child neglect cases has leveled off, they remain high. Covid did bring a silver lining: more courts are using video technology to conduct cases remotely, increasing efficiency and coverage in rural areas. However, high caseloads have contributed to delays in case resolution, and with our growing population, the Legislature must consider creation of additional district courts to manage the need. The Court has approved, as a pilot project, rules for streamlined proceedings for minor civil cases and mediation for domestic cases to encourage prompt case resolution."
+          }
+        ]
+      },
+      {
+        "question": "According to the most recent data analyzed by the Prison Policy Initiative, Montana’s incarceration rate in prisons, jails, immigration facilities and juvenile facilities is higher than the national average. Native American, Black and Latino people are also disproportionately represented in Montana’s jails and prisons. Do these trends represent a problem in Montana’s judicial system? What, if any, role should the judiciary play in remedying this?",
+        "answer": [
+          {
+            "type": "text",
+            "value": "The most recent study of racial disparity in Montana criminal sentencing was initiated this year by the Court out of a concern that courts be sensitive and pro-active. The study found no observed disparity in the LENGTH of incarceration sentences — specifically, felony property crimes, sexual/violent crimes, drug crimes, and DUI convictions were found to be racially neutral. The study did find there were differences between prison commitments VERSUS commitments to the placement discretion of the Department of Corrections for public order crimes, such as failure to register as a violent/sexual offender, and the crime of criminal endangerment, but cited the need for further data. In sum, the Court has been diligent to address racial disparity wherever it is found, such as jury selection, ensuring persons are not excluded from service on the basis of race. The advancement of tribal court systems and federal funding for tribal law enforcement promise to provide enhanced racial sensitivity."
+          }
+        ]
+      },
+      {
+        "question": "The Montana Constitution includes rights that often need to be balanced against one another in litigation, such as the right to privacy and the right to know. Please describe one such balancing test used by the Montana Supreme Court and explain, in your opinion, the fairness of that balancing test when applied to the law.",
+        "answer": [
+          {
+            "type": "text",
+            "value": "The question highlights what a recent study identified as a primary public misconception about the law — an “absolutist understanding of rights.” People fault courts for failing to adequately protect the rights of concern to them, or for protecting rights they oppose, thereby fueling ill-will toward the courts and societal conflict. But rights are not absolute; all are balanced against competing rights or limiting principles necessary to ensure that all constitutional provisions are given effect. The law gives greater weight to particular rights in different contexts. The right to privacy is generally considered broad, but in a case involving the public’s right to know, the law presumes government information will be disclosed, and a claimed privacy interest must give way unless significant enough to clearly outweigh the right of disclosure. Thus, a report about a public official’s malfeasance would not likely be outweighed by his privacy interest in his personnel file."
+          }
+        ]
+      },
+      {
+        "question": "Montana’s judiciary and judicial rulings have been under heightened scrutiny in recent years as bills passed by the Legislature come under legal challenge. As a justice, what would you do to help engender trust in and respect for Montana’s judicial system?",
+        "answer": [
+          {
+            "type": "text",
+            "value": "The Court must protect the constitutional principles governing the judicial branch, notably, its exclusive role to declare what the law is and to adjudicate the actions of the other branches of government. I have stressed these principles in judicial opinions, in public forums, and in a lawsuit I filed when the Legislature improperly subpoenaed the justices’ communications. However, this authority is not absolute, and the Court has no police force to enforce its orders. Rather, the Court draws requisite support from the citizens by staying within its own constitutional parameters: acting impartially, not legislating or making policy decisions, deferring to the work of other branches, and following precedent for predictability and stability. As Watergate Prosecutor Archibald Cox said, “The power of the Supreme Court to command support depends on a sufficiently widespread conviction that it is performing the functions assigned to it, and only those functions, in the manner assigned.”"
+          }
+        ]
+      }
+    ],
     "articles": [
       {
         "title": "Gustafson and Brown advancing over McMahon in Montana Supreme Court primary",
@@ -6565,6 +6983,7 @@
           "Party": "NP"
         }
       ],
+      "hasQuestionnaire": "general",
       "campaignFinance": "copp",
       "primaryResults": [
         {
@@ -6606,7 +7025,53 @@
     "urlKey": "james-brown",
     "partyLabel": "candidate",
     "finances": null,
-    "issueAnswers": null,
+    "issueAnswers": [
+      {
+        "question": "What type of law have you focused on in your career? Please describe your experience in criminal and civil law, including but not limited to constitutional law, American Indian law, dependency and neglect cases and treatment courts.",
+        "answer": [
+          {
+            "type": "text",
+            "value": "For the last 15 years, I have served as a private practice attorney. I own and operate my own law firm. I have experience in both civil and criminal law and litigation and have practiced in front of both federal and state courts. My law practice has focused primarily on representing Montana’s farmers, ranchers and other small business owners in matters ranging from water rights, to property boundary disputes, to public roads questions, to highly complex environmental litigation and public lands use matters. I have also represented hard-working Montanans on family law matters to business-related litigation. As such, I bring to the Court a diverse knowledge of the law, as well as experience gained by actually representing clients in courthouses all across Montana. My legal work has also been dedicated to protecting the free speech and association rights of Montanans. In my role at the Montana PSC, I have served as an administrative judge on energy and transportation related cases."
+          }
+        ]
+      },
+      {
+        "question": "Do you consider Montana’s court system overburdened by cases? If so, why? What are your proposed solutions for improving how Montana's courts function?",
+        "answer": [
+          {
+            "type": "text",
+            "value": "As evidenced by the Court’s own records, Montana’s courts are not keeping up in a timely manner with their respective caseloads. Yellowstone County courts have almost 100 cases that have been pending for five years or more. Montana’s Constitution specifically provides in Section 16 of Article II that every citizen is entitled to a speedy remedy and that justice shall be administered without delay. By having cases linger for years, the judiciary is not meeting its constitutional obligation and the problem falls squarely on the shoulders of the Supreme Court. I am dedicated to improving turnaround times for disposition of legal cases so that justice delayed does not become justice denied. Among those reforms that need to occur are: hiring more district court judges; the creation of an intermediate court of appeals; more utilization of specialized courts – such as drug courts, family courts, etc."
+          }
+        ]
+      },
+      {
+        "question": "According to the most recent data analyzed by the Prison Policy Initiative, Montana’s incarceration rate in prisons, jails, immigration facilities and juvenile facilities is higher than the national average. Native American, Black and Latino people are also disproportionately represented in Montana’s jails and prisons. Do these trends represent a problem in Montana’s judicial system? What, if any, role should the judiciary play in remedying this?",
+        "answer": [
+          {
+            "type": "text",
+            "value": "Montana is experiencing a jump in violent and property crime rates above the national average. Montanans are rightly concerned with keeping themselves and their families safe, and ensuring our law enforcement agencies and personnel are adequately supported and funded. Montanans are greatly interested in its judiciary upholding law and order. The fact is that the Legislature establishes what acts constitute a crime and provides funding for state criminal justice agencies. Prosecutors are tasked with charging and prosecuting crimes. Therefore, it should be the legislative process, not judges, that serves as the focal point for changing and/or improving criminal law and its administration. Montana’s judiciary is tasked with adjudicating the guilt of persons charged with crimes and imposing criminal sentences. Montana’s judiciary is not, despite my opponent’s varied legal decisions to the contrary, in the business of making policy or serving as a forum for rewriting criminal processes."
+          }
+        ]
+      },
+      {
+        "question": "The Montana Constitution includes rights that often need to be balanced against one another in litigation, such as the right to privacy and the right to know. Please describe one such balancing test used by the Montana Supreme Court and explain, in your opinion, the fairness of that balancing test when applied to the law.",
+        "answer": [
+          {
+            "type": "text",
+            "value": "Judges are tasked with applying the law as written to the facts of the case. This is a legal maxim Montana’s courts should adhere to more closely. Our Constitution contains one of the strongest, if not the strongest, state constitution transparency clauses as the same is set forth in Article 2, Section 9. The Montana Constitution also contains a very strong right to privacy clause, namely Article 2, Section 10. There have been many instances where these two rights conflict and Montana case law makes clear courts are to apply a balancing test in such instances because neither right is absolute. Montana courts have also recognized that all documents in the hands of public officials are amenable to inspection. As such, based on the clear terms of the Montana Constitution and this established legal precedent, the facts of a particular case and the judicial record should determine the outcome of any matter where these two constitutional rights clash."
+          }
+        ]
+      },
+      {
+        "question": "Montana’s judiciary and judicial rulings have been under heightened scrutiny in recent years as bills passed by the Legislature come under legal challenge. As a justice, what would you do to help engender trust in and respect for Montana’s judicial system?",
+        "answer": [
+          {
+            "type": "text",
+            "value": "Montana Supreme Court’s decisions are appropriately being subject to higher level of scrutiny than federal court or Montana district court decisions. This is because Montana’s high Court has a well-earned reputation from academics and from litigants for issuing decisions that lack clarity, overturn its own established precedent, being anti-business, and attack the constitutional lawmaking authority of the Montana Legislature. Further, the Court has too often issued decisions that directly violate the United States Constitution. The Court can immunize itself from such scrutiny by following the law as written, and by not making law or policy from the bench. My judicial philosophy is one of being a strict constructionist, meaning I view my role in the judicial system as a neutral decision maker. I also strongly believe in the concept of judicial restraint. Application of this judicial philosophy will help engender trust in the Court."
+          }
+        ]
+      }
+    ],
     "articles": [
       {
         "title": "Gustafson and Brown advancing over McMahon in Montana Supreme Court primary",
@@ -6647,6 +7112,7 @@
           "Party": "NP"
         }
       ],
+      "hasQuestionnaire": "general",
       "campaignFinance": "copp",
       "primaryResults": [
         {
@@ -6695,7 +7161,57 @@
     "urlKey": "ingrid-gustafson",
     "partyLabel": "candidate",
     "finances": null,
-    "issueAnswers": null,
+    "issueAnswers": [
+      {
+        "question": "What type of law have you focused on in your career? Please describe your experience in criminal and civil law, including but not limited to constitutional law, American Indian law, dependency and neglect cases and treatment courts.",
+        "answer": [
+          {
+            "type": "text",
+            "value": "I have 20 years of judicial experience—14 years as a District Court judge presiding over countless civil and criminal jury and bench trials, handling nearly 15,000 cases and 5 years on the Montana Supreme Court, participating in 1,100 opinions covering areas of law from city court appeals to constitutional challenges. I’ve been at the forefront of drug courts — starting two of Montana’s 36 drug courts including Billings’ first felony drug court which I presided over for nearly a decade. I’ve presented at state and national drug court conferences, written successful grant applications to fund drug courts, engaged in drug court peer reviews, served on the statewide drug court advisory committee, helped other judges establish drug courts and provided mentoring. I’ve also been at the forefront of child welfare work. I started and presided over a pilot child welfare court which significantly reduced terminations of parental rights and case processing times while maintaining child safety."
+          }
+        ]
+      },
+      {
+        "question": "Do you consider Montana’s court system overburdened by cases? If so, why? What are your proposed solutions for improving how Montana's courts function?",
+        "answer": [
+          {
+            "type": "text",
+            "value": "Since I’ve been on the Montana Supreme Court, the Court has had no backlog. Court performance surveys show “95% of the respondents” endorsed that “the Court completed its overall workload in a timely manner” with a 90% overall confidence rating. (Performance Measures, 11/2020.) We expect to be able to keep pace with filed appeals in the coming years."
+          },
+          {
+            "type": "text",
+            "value": "Our district courts had statewide case clearance rates for 2021 of 99% and 98% through the first half of 2022. In all, district case filings have decreased since 2019. Despite this, workload studies identify a need for additional judges in some judicial districts. To add judges, the legislature must create these positions. The workload studies have been provided to the legislature along with requests to increase judicial positions. Although the legislature has not approved funding to meet the identified need, it is important to continue to monitor case filings and advocate for more judicial positions in districts showing the highest need."
+          }
+        ]
+      },
+      {
+        "question": "According to the most recent data analyzed by the Prison Policy Initiative, Montana’s incarceration rate in prisons, jails, immigration facilities and juvenile facilities is higher than the national average. Native American, Black and Latino people are also disproportionately represented in Montana’s jails and prisons. Do these trends represent a problem in Montana’s judicial system? What, if any, role should the judiciary play in remedying this?",
+        "answer": [
+          {
+            "type": "text",
+            "value": "This is a multi-faceted issue in which the judiciary can play a role in addressing. On behalf of the judicial branch, I served on the Justice Reinvestment Initiative which studied the impact of sentencing policies/practices, identified ways to safely reduce incarceration and promote evidence-based alternatives to incarceration, and considered disparities. From this, many legal changes were enacted but haven’t yet existed long enough to measure results. I am a member of the National Center for State Courts Judicial Evidence-Based Peer Group and MT’s Pretrial Advisory Committee. I’ve brought trainings to our judges on pretrial assessment and sentencing and am involved with a state pilot program to base pretrial release decisions on risk assessment. Finally, I served as our Court’s coordinating member for our recent racial equity study to investigate racial disparity across our criminal justice system, identify drivers of such, and make recommendations for the judiciary to address them."
+          }
+        ]
+      },
+      {
+        "question": "The Montana Constitution includes rights that often need to be balanced against one another in litigation, such as the right to privacy and the right to know. Please describe one such balancing test used by the Montana Supreme Court and explain, in your opinion, the fairness of that balancing test when applied to the law.",
+        "answer": [
+          {
+            "type": "text",
+            "value": "In Montana’s Constitution the rights to participate and to know are complementary but work in concert with the right to privacy with none being absolute. The Montana Supreme Court has interpreted the balancing of these rights and has, given the significance of these rights, appropriately required balancing through fact-specific analysis of the interests to determine whether demands of individual privacy exceed the merits of public disclosure. For example, in Missoulian v. Brd. of Regents, the Court found public employees had a protected privacy interest in their performance reviews and then balanced such against the right to know, concluding privacy outweighed public disclosure. In Billings Gazette v. Billings, the Court further refined its interpretation of public employee privacy rights when addressing a request for the names of city workers disciplined for misconduct at work, again concluding privacy outweighed public disclosure as the employees did not hold positions of trust."
+          }
+        ]
+      },
+      {
+        "question": "Montana’s judiciary and judicial rulings have been under heightened scrutiny in recent years as bills passed by the Legislature come under legal challenge. As a justice, what would you do to help engender trust in and respect for Montana’s judicial system?",
+        "answer": [
+          {
+            "type": "text",
+            "value": "Contrary to a false narrative being promoted, Montanans have great trust in the work of Montana’s Supreme Court (MTSC). During my time on the MTSC, performance surveys show the Court earned a 90% approval rating for consistency, efficiency, and effective application of the law. The MTSC has constitutionally functioned as a check and balance to other government branches. A fair and independent judiciary is a cornerstone of democracy. To provide justice for all, maintain our rule of law, and assure our three branches of government work as our Constitution provides, judges must be able to act free of the pressures of partisan politics and other government branches. I am a Justice, not a politician, and I intend to continue to engender trust in and respect for our judicial system by continuing to be an impartial, independent jurist committed to upholding the unique rights of our Constitution, among them the right to privacy, public land and water access, and a clean and healthy environment."
+          }
+        ]
+      }
+    ],
     "articles": [
       {
         "title": "Gustafson and Brown advancing over McMahon in Montana Supreme Court primary",
@@ -6731,6 +7247,7 @@
           "Party": "NP"
         }
       ],
+      "hasQuestionnaire": "general",
       "campaignFinance": "copp",
       "primaryResults": [
         {
@@ -6810,6 +7327,7 @@
           "Party": "NP"
         }
       ],
+      "hasQuestionnaire": "general",
       "campaignFinance": "copp",
       "primaryResults": [
         {
@@ -6865,10 +7383,10 @@
         "party": "R",
         "candidateId": "H4MT01041",
         "candidateCommitteeName": "ZINKE FOR CONGRESS",
-        "totalReceipts": 2947291.52,
-        "totalDisbursments": 2068614.47,
-        "cashOnHand": 878677.05,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 3784564.65,
+        "totalDisbursments": 2880145.57,
+        "cashOnHand": 904419.08,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": true,
@@ -6877,10 +7395,10 @@
         "party": "D",
         "candidateId": "H2MT02100",
         "candidateCommitteeName": "CORA FOR MONTANA",
-        "totalReceipts": 1334441.2,
-        "totalDisbursments": 1050711.14,
-        "cashOnHand": 377672.43,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 1449413.16,
+        "totalDisbursments": 1529050.55,
+        "cashOnHand": 14304.98,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -6889,10 +7407,10 @@
         "party": "D",
         "candidateId": "H2MT02092",
         "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
-        "totalReceipts": 882230.86,
-        "totalDisbursments": 784041.8,
-        "cashOnHand": 98189.06,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 1254460.75,
+        "totalDisbursments": 1037500.19,
+        "cashOnHand": 216960.56,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -6901,10 +7419,10 @@
         "party": "R",
         "candidateId": "H2MT02084",
         "candidateCommitteeName": "AL FOR MONTANA",
-        "totalReceipts": 709784.68,
-        "totalDisbursments": 533111.36,
-        "cashOnHand": 176673.32,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 899759.01,
+        "totalDisbursments": 868178.93,
+        "cashOnHand": 31580.08,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -6913,10 +7431,10 @@
         "party": "R",
         "candidateId": "H2MT00112",
         "candidateCommitteeName": "MARY TODD FOR MONTANA",
-        "totalReceipts": 448284.17,
-        "totalDisbursments": 396985.74,
-        "cashOnHand": 51298.43,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 455003.17,
+        "totalDisbursments": 455003.17,
+        "cashOnHand": 0,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -6925,10 +7443,10 @@
         "party": "D",
         "candidateId": "H0MT00090",
         "candidateCommitteeName": "WINTER FOR MONTANA",
-        "totalReceipts": 98545.2,
-        "totalDisbursments": 92343.29,
-        "cashOnHand": 6201.91,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 121121.12,
+        "totalDisbursments": 116425.02,
+        "cashOnHand": 4696.1,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -6937,10 +7455,10 @@
         "party": "R",
         "candidateId": "H2MT01136",
         "candidateCommitteeName": "HEUER FOR CONGRESS",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 0,
-        "coverageEndDate": null
+        "totalReceipts": 45000,
+        "totalDisbursments": 37167.5,
+        "cashOnHand": 7832.5,
+        "coverageEndDate": "2022-07-07T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -7186,7 +7704,7 @@
           "Party": "R"
         }
       ],
-      "hasQuestionnaire": true,
+      "hasQuestionnaire": "primary",
       "campaignFinance": "fec",
       "primaryResults": [
         {
@@ -7242,10 +7760,10 @@
         "party": "R",
         "candidateId": "H4MT01041",
         "candidateCommitteeName": "ZINKE FOR CONGRESS",
-        "totalReceipts": 2947291.52,
-        "totalDisbursments": 2068614.47,
-        "cashOnHand": 878677.05,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 3784564.65,
+        "totalDisbursments": 2880145.57,
+        "cashOnHand": 904419.08,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -7254,10 +7772,10 @@
         "party": "D",
         "candidateId": "H2MT02100",
         "candidateCommitteeName": "CORA FOR MONTANA",
-        "totalReceipts": 1334441.2,
-        "totalDisbursments": 1050711.14,
-        "cashOnHand": 377672.43,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 1449413.16,
+        "totalDisbursments": 1529050.55,
+        "cashOnHand": 14304.98,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -7266,10 +7784,10 @@
         "party": "D",
         "candidateId": "H2MT02092",
         "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
-        "totalReceipts": 882230.86,
-        "totalDisbursments": 784041.8,
-        "cashOnHand": 98189.06,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 1254460.75,
+        "totalDisbursments": 1037500.19,
+        "cashOnHand": 216960.56,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -7278,10 +7796,10 @@
         "party": "R",
         "candidateId": "H2MT02084",
         "candidateCommitteeName": "AL FOR MONTANA",
-        "totalReceipts": 709784.68,
-        "totalDisbursments": 533111.36,
-        "cashOnHand": 176673.32,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 899759.01,
+        "totalDisbursments": 868178.93,
+        "cashOnHand": 31580.08,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": true,
@@ -7290,10 +7808,10 @@
         "party": "R",
         "candidateId": "H2MT00112",
         "candidateCommitteeName": "MARY TODD FOR MONTANA",
-        "totalReceipts": 448284.17,
-        "totalDisbursments": 396985.74,
-        "cashOnHand": 51298.43,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 455003.17,
+        "totalDisbursments": 455003.17,
+        "cashOnHand": 0,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -7302,10 +7820,10 @@
         "party": "D",
         "candidateId": "H0MT00090",
         "candidateCommitteeName": "WINTER FOR MONTANA",
-        "totalReceipts": 98545.2,
-        "totalDisbursments": 92343.29,
-        "cashOnHand": 6201.91,
-        "coverageEndDate": "2022-05-18T00:00:00"
+        "totalReceipts": 121121.12,
+        "totalDisbursments": 116425.02,
+        "cashOnHand": 4696.1,
+        "coverageEndDate": "2022-06-30T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -7314,10 +7832,10 @@
         "party": "R",
         "candidateId": "H2MT01136",
         "candidateCommitteeName": "HEUER FOR CONGRESS",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 0,
-        "coverageEndDate": null
+        "totalReceipts": 45000,
+        "totalDisbursments": 37167.5,
+        "cashOnHand": 7832.5,
+        "coverageEndDate": "2022-07-07T00:00:00"
       },
       {
         "isThisCandidate": false,
@@ -7382,7 +7900,7 @@
           "Party": "R"
         }
       ],
-      "hasQuestionnaire": true,
+      "hasQuestionnaire": "primary",
       "campaignFinance": "fec",
       "primaryResults": [
         {

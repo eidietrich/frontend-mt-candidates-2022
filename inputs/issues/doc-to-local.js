@@ -2,9 +2,15 @@ const fs = require('fs');
 const { docToArchieML } = require('@newswire/doc-to-archieml');
 const { google } = require('googleapis')
 
-const EDITING_DOC_ID = '1x-T1PxeF6aBlzL1D3QYh6UpBNdo6dvjzAGyTBB4xy2E'
-// const outPath = 'scrapers/issue-questions/edited-answers.json'
-const outPath = './inputs/issues/candidate-answers.json'
+// const EDITING_DOC_ID = '1x-T1PxeF6aBlzL1D3QYh6UpBNdo6dvjzAGyTBB4xy2E' // US House
+// const outPath = './inputs/issues/candidate-answers.json'
+
+// const EDITING_DOC_ID = '1CgvDlTg2RAzc71X-x9B8rg0nOBOg7GCS0e2ELTghXiw' // PSC
+// const outPath = './inputs/issues/psc-candidate-answers.json'
+
+const EDITING_DOC_ID = '1gyfZriMQJAYvLmEXp6Zv4-PeSTSqwxsBYcoHAsqHLiQ' // SupCp
+const outPath = './inputs/issues/supco-candidate-answers.json'
+
 
 const TOKEN_PATH = 'token-mtfp.json';
 

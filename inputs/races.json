@@ -4,7 +4,7 @@
         "label": "U.S. House District 1 (West)",
         "description": "Western Montana representative in Congress. District includes Missoula, Bozeman, Kalispell and Butte.",
         "note": "Each party's winning candidate in the June 7 primary will advance to the Nov. 8 general election.",
-        "hasQuestionnaire": true,
+        "hasQuestionnaire": "primary",
         "campaignFinance": "fec",
         "sosKey": "UNITED STATES REPRESENTATIVE 1ST DISTRICT"
     },
@@ -13,7 +13,7 @@
         "label": "U.S. House District 2 (East)",
         "description": "Eastern Montana representative in Congress. District includes Billings, Helena, Havre and Miles City.",
         "note": "Each party's winning candidate in the June 7 primary will advance to the Nov. 8 general election. Independent candidates gather signatures to qualify for the general election ballot.",
-        "hasQuestionnaire": true,
+        "hasQuestionnaire": "primary",
         "campaignFinance": "fec",
         "sosKey": "UNITED STATES REPRESENTATIVE 2ND DISTRICT"
     },
@@ -22,6 +22,7 @@
         "label": "Public Service Commission District 1",
         "description": "One of five seats on Montana's utility regulation board (three seats are out of cycle). District includes Great Falls and the Hi-Line.",
         "note": "Without a Democratic candidate in the race, Pinocci's victory in the June 7 primary leaves him the only candidate on the ballot for the Nov. 8 general election.",
+        "hasQuestionnaire": "general",
         "campaignFinance": "copp",
         "sosKey": "PUBLIC SERVICE COMMISSIONER DISTRICT 1"
     },
@@ -30,6 +31,7 @@
         "label": "Public Service Commission District 5",
         "description": "One of five seats on Montana's utility regulation board. District includes Kalispell and Helena.",
         "note": "Each party's winning candidate in the June 7 primary will advance to the Nov. 8 general election.",
+        "hasQuestionnaire": "general",
         "campaignFinance": "copp",
         "sosKey": "PUBLIC SERVICE COMMISSIONER DISTRICT 5"
     },
@@ -39,6 +41,7 @@
         "isNonpartisan": true,
         "description": "One of seven seats on Montana's state Supreme Court (five of seven seats are out of cycle). Elected on a statewide basis.",
         "note": "Judical elections are officially nonpartisan. The two candidates for the seat who received the most votes in the June 7 primary will advance to the Nov. 8 general election.",
+        "hasQuestionnaire": "general",
         "campaignFinance": "copp",
         "sosKey": "SUPREME COURT JUSTICE #1"
     },
@@ -48,6 +51,7 @@
         "isNonpartisan": true,
         "description": "One of seven seats on Montana's state Supreme Court (five of seven seats are out of cycle). Elected on a statewide basis.",
         "note": "Judical elections are officially nonpartisan. The two candidates for the seat who received the most votes in the June 7 primary will advance to the Nov. 8 general election.",
+        "hasQuestionnaire": "general",
         "campaignFinance": "copp",
         "sosKey": "SUPREME COURT JUSTICE #2"
     }

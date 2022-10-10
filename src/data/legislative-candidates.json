@@ -429,6 +429,32 @@
     "CampaignYoutubeUrl": null
   },
   {
+    "urlKey": "sd-39-jesse-mullen",
+    "Name": "JESSE MULLEN",
+    "District": "SD 39",
+    "Party": "D",
+    "Status": "open seat",
+    "City": "Deer Lodge",
+    "CampaignWebsiteUrl": "https://mullenformontana.com/",
+    "CampaignFBPageUrl": "https://www.facebook.com/JesseForMontana",
+    "CampaignTwitterUrl": "https://twitter.com/jmullen2",
+    "CampaignInstagramUrl": "",
+    "CampaignYoutubeUrl": null
+  },
+  {
+    "urlKey": "sd-39-terry-vermeire",
+    "Name": "TERRY VERMEIRE",
+    "District": "SD 39",
+    "Party": "R",
+    "Status": "open seat",
+    "City": "",
+    "CampaignWebsiteUrl": "",
+    "CampaignFBPageUrl": "",
+    "CampaignTwitterUrl": "",
+    "CampaignInstagramUrl": "",
+    "CampaignYoutubeUrl": null
+  },
+  {
     "urlKey": "sd-41-janet-ellis",
     "Name": "JANET ELLIS",
     "District": "SD 41",
@@ -1748,10 +1774,10 @@
     "Party": "D",
     "Status": "challenger",
     "City": "Absarokee",
-    "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": null,
+    "CampaignWebsiteUrl": "https://www.tommyflanaganfor57.com/",
+    "CampaignFBPageUrl": "https://www.facebook.com/tommyflanaganfor57",
     "CampaignTwitterUrl": null,
-    "CampaignInstagramUrl": null,
+    "CampaignInstagramUrl": "https://www.instagram.com/tommyflanaganfor57/",
     "CampaignYoutubeUrl": null
   },
   {
@@ -1815,7 +1841,7 @@
     "City": "Livingston",
     "CampaignWebsiteUrl": "https://ruthweissmanforhd59.com/",
     "CampaignFBPageUrl": "https://www.facebook.com/RuthWeissmanforhd59/",
-    "CampaignTwitterUrl": "https://twitter.com/ruthsweissman",
+    "CampaignTwitterUrl": "https://twitter.com/WeissmanforHD59",
     "CampaignInstagramUrl": "https://www.instagram.com/weissmanforhd59/",
     "CampaignYoutubeUrl": null
   },
@@ -2184,8 +2210,8 @@
     "CampaignYoutubeUrl": null
   },
   {
-    "urlKey": "hd-73-art-noonan",
-    "Name": "ART NOONAN",
+    "urlKey": "hd-73-jennifer-lynch",
+    "Name": "JENNIFER LYNCH",
     "District": "HD 73",
     "Party": "D",
     "Status": "open seat",
@@ -2301,14 +2327,14 @@
     "CampaignYoutubeUrl": null
   },
   {
-    "urlKey": "hd-79-dennison-rivera",
-    "Name": "DENNISON RIVERA",
+    "urlKey": "hd-79-keith-pigman",
+    "Name": "KEITH PIGMAN",
     "District": "HD 79",
     "Party": "R",
     "Status": "open seat",
     "City": "Helena",
-    "CampaignWebsiteUrl": "http://riveraforhd79.com/",
-    "CampaignFBPageUrl": "https://www.facebook.com/RiveraforMt/",
+    "CampaignWebsiteUrl": "",
+    "CampaignFBPageUrl": "https://www.facebook.com/PigmanHD79",
     "CampaignTwitterUrl": null,
     "CampaignInstagramUrl": null,
     "CampaignYoutubeUrl": null

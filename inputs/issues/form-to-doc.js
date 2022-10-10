@@ -5,40 +5,31 @@ const { google } = require('googleapis')
 // const agAnswers = '1za8-9OqhHps8daDk6LOPvdfLT06YyaFFU5jrO95asMg' // AG spreadsheet
 // const agRange = 'Form Responses 1!A:L' // AG spreadsheet
 // const outPath = './app/src/data/app-copy.json'
-const outPath = 'scrapers/issue-questions/raw/out.json'
 
 // const EDITING_DOC_ID = '1x-T1PxeF6aBlzL1D3QYh6UpBNdo6dvjzAGyTBB4xy2E'
-const EDITING_DOC_ID = '1fiAB6RJ3m8VIRhtjb7xwtQ6qztW-yV60r29qKI14D30'
+// const EDITING_DOC_ID = '1fiAB6RJ3m8VIRhtjb7xwtQ6qztW-yV60r29qKI14D30'
+// const EDITING_DOC_ID = '1CgvDlTg2RAzc71X-x9B8rg0nOBOg7GCS0e2ELTghXiw' // PSC
+const EDITING_DOC_ID = '1gyfZriMQJAYvLmEXp6Zv4-PeSTSqwxsBYcoHAsqHLiQ' // SupCo
 
 const TOKEN_PATH = 'token-mtfp.json';
 
-const selectCols = (row) => row.slice(8,) // For trimming internal use columns
+const selectCols = (row) => row.slice(4,) // For trimming internal use columns
 
 const sheetsToParse = [
-    {
-        race: 'U.S. House',
-        sheetId: '1_0RRmVYiGTG7mq4lk5bBvub3waOzrovyuh_C6Didpeg',
-        sheetRange: 'Form Responses 1!A:T',
-    },
-    // {
-    //     race: 'U.S. Senate',
-    //     sheetId: '1lyxF1Zy2TRlz5Fho8U4743vKgB-wNcgAphrzqQe19jo',
-    //     sheetRange: 'Form Responses 1!A:P'
-    // },
     // {
     //     race: 'U.S. House',
-    //     sheetId: '1AhxCThbRTv_jdf2xUnp4U-bQ_aYPH2qq3QWwLsaJJfU',
-    //     sheetRange: 'Form Responses 1!A:P',
+    //     sheetId: '1_0RRmVYiGTG7mq4lk5bBvub3waOzrovyuh_C6Didpeg',
+    //     sheetRange: 'Form Responses 1!A:T',
     // },
-    // {
-    //     race: 'Attorney General',
-    //     sheetId: '1za8-9OqhHps8daDk6LOPvdfLT06YyaFFU5jrO95asMg',
-    //     sheetRange: 'Form Responses 1!A:L',
-    // },
+    {
+        race: 'SupCo',
+        sheetId: '1wazBv31iSsFmirenQ_maz3XM0HS_11ad33fxPzQn-dA',
+        sheetRange: 'Form Responses 1!A:L',
+    },
     // {
     //     race: 'PSC',
-    //     sheetId: '1zJItNaaWf5RQgAn8odGkzSkmlpm4sJbIpO4oVyetYcY',
-    //     sheetRange: 'Form Responses 1!A:L',
+    //     sheetId: '1XTCOVi7zf-EfmSt-hXWtGB4Qt2Ks4zxLBSFl9cusjMo',
+    //     sheetRange: 'Form Responses 1!A:J',
     // }
 ]
 
@@ -64,8 +55,7 @@ async function main() {
 function onAuthorization(auth) {
     sheetsToParse.forEach(sheet => {
         parseSpreadsheet(auth, sheet, (data) => {
-            const filtered = data.rows.filter(d => d[2] === 'Ryan Zinke')
-            console.log(filtered)
+            const filtered = data.rows
             toArchieML(auth, { headers: data.headers, rows: filtered }, sheet)
         })
     })

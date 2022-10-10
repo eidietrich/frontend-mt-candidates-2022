@@ -24,6 +24,7 @@ const {
 // districts '01' or '02'
 const fetchRaceData = async (cycle, office, district) => {
     const url = `https://api.open.fec.gov/v1/elections/?api_key=${FEC_API_KEY}&cycle=${cycle}&election_full=true&office=${office}&state=${ST}&stateFull=${STATE}&district=${district}&per_page=100&sort_hide_null=true`
+    console.log(url)
     const result = await fetch(url)
     const resultData = await result.json()
     return resultData
