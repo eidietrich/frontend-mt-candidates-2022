@@ -124,6 +124,8 @@ class CandidatePage extends Component {
             'widthdrew': `Withdrew from race for ${race.label}`,
         }[status] || `2022 ${partyLabel} for ${race.label}`
 
+        console.log(race)
+
         return (<div css={style}>
             <Seo
                 seoTitle={`${Name} | ${seoTitle}`}
@@ -189,16 +191,29 @@ class CandidatePage extends Component {
 
                 <h3>On the issues</h3>
                 {
-                    race.hasQuestionnaire && <div>
-
-                        {
-                            !issueAnswers && <div className="ledein">{Name} didn't respond to MTFP's efforts to collect reponses to issue questions provided to U.S. House candidates via an emailed questionnaire in May 2022.</div>
-                        }
+                    (race.hasQuestionnaire === 'primary') && <div>
                         {
                             issueAnswers && <div>
                                 <div className="ledein">The material shown below was solicted from candidates via a written questionnaire in May 2022. Responses were limited to 1,000 characters and edited lightly for punctuation and spelling. Responses have not been exhaustively fact-checked. Send questions to Eric Dietrich at edietrich@montanafreepress.org.</div>
                                 <IssueQuestions content={issueAnswers} candidateName={Name} />
                             </div>
+                        }
+                        {
+                            !issueAnswers && <div className="ledein">{Name} didn't respond to MTFP's efforts to collect reponses to issue questions provided to U.S. House candidates via an emailed questionnaire in May 2022.</div>
+                        }
+                    </div>
+                }
+                {
+                    (race.hasQuestionnaire === 'general') && <div>
+                        {
+                            issueAnswers && <div>
+                                <div className="ledein">The material shown below was solicted from candidates via a written questionnaire in September and October 2022. Responses were limited to 1,000 characters and edited lightly for punctuation and spelling. Responses have not been exhaustively fact-checked. Send questions to Eric Dietrich at edietrich@montanafreepress.org.</div>
+                                <IssueQuestions content={issueAnswers} candidateName={Name} />
+                            </div>
+                        }
+                        {/* Assumes all candidates asked Qs in general elex have answers */}
+                        {
+                            !issueAnswers && <div className="ledein">MTFP didn't put a formal issue questionnaire before candidates in the primary for this race.</div>
                         }
                     </div>
                 }

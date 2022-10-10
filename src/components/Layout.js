@@ -6,6 +6,7 @@ import Nav from '../library/Nav'
 
 import Footer from './Footer'
 import MTFPLogo from './MTFPLogo'
+import SponsorLogo from './SponsorLogo'
 
 import { headerDonateUrl } from '../config/config'
 
@@ -87,6 +88,9 @@ const Layout = ({ children, siteHed, siteSubhed, maxWidth }) => {
                         <h2 className="subtitle">{siteSubhed}</h2>
                         <div className="blurb">
                             A digital project by <MTFPLogo />| <a href={headerDonateUrl}>Support this work</a>
+                        </div>
+                        <div className="blurb">
+                            Sponsored in part by <SponsorLogo />
                         </div>
                     </div>
                     <Nav schema={NAV_SCHEMA} />

@@ -107,7 +107,10 @@ const main = () => {
     const financeByRace = getJson('inputs/fec/finance.json')
     const articles = getJson('inputs/coverage/articles.json')
     const issueAnswers = getJson('inputs/issues/candidate-answers.json')
-    const rawLegislativeCandidates = getCsv('inputs/legislative/legislative-filings-6-8-2022.csv')
+    const pscAnswers = getJson('inputs/issues/psc-candidate-answers.json')
+    const supCoAnswers = getJson('inputs/issues/supco-candidate-answers.json')
+
+    const rawLegislativeCandidates = getCsv('inputs/legislative/legislative-filings-8-1-2022.csv')
     const primaryResults = getJson('inputs/primary-results/results-cleaned.json')
 
     const legislativeCandidates = cleanLegislativeCandidates(rawLegislativeCandidates)
@@ -139,7 +142,7 @@ const main = () => {
             financeByRace.find(d => d.district === candidate.Race),
         )
 
-        if (race.hasQuestionnaire) {
+        if (race.hasQuestionnaire === 'primary') {
             const candidateIssueAnswers = issueAnswers.find(d => d.name === candidate.Name)
             if (!candidateIssueAnswers) {
                 console.warn('No issue answer found for', candidate.Name)
@@ -147,7 +150,25 @@ const main = () => {
             } else {
                 candidate.issueAnswers = candidateIssueAnswers.responses
                     .slice(0, 11) // limits to 11 questions for publication
-
+            }
+        } else if (race.hasQuestionnaire === 'general') {
+            if (['PSC-District-1', 'PSC-District-5'].includes(race.key)) {
+                const candidateIssueAnswers = pscAnswers.find(d => d.name === candidate.Name)
+                if (!candidateIssueAnswers) {
+                    console.warn('No issue answer found for', candidate.Name)
+                    candidate.issueAnswers = null
+                } else {
+                    candidate.issueAnswers = candidateIssueAnswers.responses
+                }
+            }
+            if (['SupCo-1', 'SupCo-2'].includes(race.key)) {
+                const candidateIssueAnswers = supCoAnswers.find(d => d.name === candidate.Name)
+                if (!candidateIssueAnswers) {
+                    console.warn('No issue answer found for', candidate.Name)
+                    candidate.issueAnswers = null
+                } else {
+                    candidate.issueAnswers = candidateIssueAnswers.responses
+                }
             }
         } else {
             candidate.issueAnswers = null
