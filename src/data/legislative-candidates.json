@@ -565,7 +565,7 @@
     "Party": "D",
     "Status": "open seat",
     "City": "Missoula",
-    "CampaignWebsiteUrl": null,
+    "CampaignWebsiteUrl": "https://willisformontana.com/",
     "CampaignFBPageUrl": "https://www.facebook.com/willis.curdy",
     "CampaignTwitterUrl": null,
     "CampaignInstagramUrl": null,
@@ -2438,7 +2438,7 @@
     "Status": "challenger",
     "City": "East Helena",
     "CampaignWebsiteUrl": null,
-    "CampaignFBPageUrl": "https://www.facebook.com/robert.leach.921",
+    "CampaignFBPageUrl": null,
     "CampaignTwitterUrl": null,
     "CampaignInstagramUrl": null,
     "CampaignYoutubeUrl": null
@@ -2531,6 +2531,19 @@
     "CampaignWebsiteUrl": null,
     "CampaignFBPageUrl": "https://www.facebook.com/people/Ron-Marshall-for-House-District-87/100034431830728/",
     "CampaignTwitterUrl": "",
+    "CampaignInstagramUrl": null,
+    "CampaignYoutubeUrl": null
+  },
+  {
+    "urlKey": "hd-87-will-lovett-moore",
+    "Name": "WILL LOVETT MOORE",
+    "District": "HD 87",
+    "Party": "I",
+    "Status": "open seat",
+    "City": "Florence",
+    "CampaignWebsiteUrl": null,
+    "CampaignFBPageUrl": null,
+    "CampaignTwitterUrl": null,
     "CampaignInstagramUrl": null,
     "CampaignYoutubeUrl": null
   },

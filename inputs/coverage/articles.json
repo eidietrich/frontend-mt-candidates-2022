@@ -1,5 +1,131 @@
 [
   {
+    "title": "The Zinke, Tranel (and Lamb) show",
+    "date": "2022-10-26T16:26:59",
+    "link": "https://montanafreepress.org/2022/10/26/zinke-tranel-lamb-race-for-montanas-western-us-house-seat/",
+    "status": "publish",
+    "tags": {
+      "nodes": [
+        {
+          "name": "John Lamb"
+        },
+        {
+          "name": "Monica Tranel"
+        },
+        {
+          "name": "Ryan Zinke"
+        },
+        {
+          "name": "tracker 2022 campaign"
+        }
+      ]
+    },
+    "categories": {
+      "nodes": [
+        {
+          "name": "2022 Elections"
+        }
+      ]
+    },
+    "featuredImage": {
+      "node": {
+        "link": "https://montanafreepress.org/screen-shot-2022-10-25-at-3-44-31-pm/"
+      }
+    },
+    "author": {
+      "node": {
+        "name": "Arren Kimbel-Sannit"
+      }
+    },
+    "excerpt": "<p>Ryan Zinke and Monica Tranel are the two main contenders for Montana’s new western U.S. House district. The presence of Libertarian John Lamb and Zinke’s long, variable record in government could make things complicated. </p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><amp-social-share type=\"twitter\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Twitter\" title=\"Click to share on Twitter\"></amp-social-share><amp-social-share type=\"facebook\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Facebook\" title=\"Click to share on Facebook\" data-param-app_id=\"249643311490\"></amp-social-share><amp-social-share type=\"email\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Email\" title=\"Click to share on Email\" data-target=\"_self\"></amp-social-share></div></div></div>"
+  },
+  {
+    "title": "Ann Bukacek and John Repke: Two views vie for one seat on the PSC",
+    "date": "2022-10-20T14:12:53",
+    "link": "https://montanafreepress.org/2022/10/20/montana-public-service-commission-race-bukacek-repke/",
+    "status": "publish",
+    "tags": {
+      "nodes": [
+        {
+          "name": "Annie Bukacek"
+        },
+        {
+          "name": "John Repke"
+        },
+        {
+          "name": "tracker 2022 campaign"
+        }
+      ]
+    },
+    "categories": {
+      "nodes": [
+        {
+          "name": "2022 Elections"
+        }
+      ]
+    },
+    "featuredImage": {
+      "node": {
+        "link": "https://montanafreepress.org/psc-profile-2022-election/"
+      }
+    },
+    "author": {
+      "node": {
+        "name": "Amanda Eggert"
+      }
+    },
+    "excerpt": "<p>Retired executive John Repke hopes to be the first Democratic PSC commissioner in over a decade. Republican Ann Bukacek’s conservative platform has helped launch the Flathead Valley physician into the regulatory arena. On Nov. 8 voters will pick one to serve on the state’s influential Public Service Commission.</p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><amp-social-share type=\"twitter\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Twitter\" title=\"Click to share on Twitter\"></amp-social-share><amp-social-share type=\"facebook\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Facebook\" title=\"Click to share on Facebook\" data-param-app_id=\"249643311490\"></amp-social-share><amp-social-share type=\"email\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Email\" title=\"Click to share on Email\" data-target=\"_self\"></amp-social-share></div></div></div>"
+  },
+  {
+    "title": "Abortion-rights advocates rally support for Gustafson in Montana Supreme Court race",
+    "date": "2022-10-11T10:25:52",
+    "link": "https://montanafreepress.org/2022/10/11/abortion-rights-advocates-rally-gustafson-supreme-court-race/",
+    "status": "publish",
+    "tags": {
+      "nodes": [
+        {
+          "name": "abortion"
+        },
+        {
+          "name": "Armstrong V. State"
+        },
+        {
+          "name": "Ingrid Gustafson"
+        },
+        {
+          "name": "James Brown"
+        },
+        {
+          "name": "Montana Republican Party"
+        },
+        {
+          "name": "Montana Supreme Court"
+        },
+        {
+          "name": "tracker 2022 campaign"
+        }
+      ]
+    },
+    "categories": {
+      "nodes": [
+        {
+          "name": "2022 Elections"
+        }
+      ]
+    },
+    "featuredImage": {
+      "node": {
+        "link": "https://montanafreepress.org/montana-supreme-court-entrance_1200x675-copy/"
+      }
+    },
+    "author": {
+      "node": {
+        "name": "Mara Silvers"
+      }
+    },
+    "excerpt": "<p>With four weeks until Election Day, reproductive rights advocates in Montana and across the country are throwing their weight behind a down-ballot candidate they say is key to maintaining abortion access across much of the Rocky Mountain west: Supreme Court Justice Ingrid Gustafson.</p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><amp-social-share type=\"twitter\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Twitter\" title=\"Click to share on Twitter\"></amp-social-share><amp-social-share type=\"facebook\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Facebook\" title=\"Click to share on Facebook\" data-param-app_id=\"249643311490\"></amp-social-share><amp-social-share type=\"email\" height=\"32px\" width=\"32px\" aria-label=\"Click to share on Email\" title=\"Click to share on Email\" data-target=\"_self\"></amp-social-share></div></div></div>"
+  },
+  {
     "title": "Zinke, Tranel debate abortion, affordability and their personal histories",
     "date": "2022-10-03T17:08:32",
     "link": "https://montanafreepress.org/2022/10/03/zinke-tranel-debate-abortion-affordability-and-personal-histories/",

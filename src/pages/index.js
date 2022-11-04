@@ -51,10 +51,14 @@ const IndexPage = ({ data }) => {
 
       <RaceListing races={races} />
 
+      <NewsletterSignup />
+
       <div css={textContainerStyle}>
         <h2 id="Ballot-Initiatives">Ballot initiatives</h2>
         <ReactMarkdown>{overview.BallotMeasuresIntro}</ReactMarkdown>
       </div>
+
+
 
       <div css={textContainerStyle}>
         <h2 id="Montana-Legislature">Montana Legislature</h2>
@@ -64,7 +68,7 @@ const IndexPage = ({ data }) => {
         <LegislativeCandidates candidates={legislativeCandidates} />
       </div>
 
-      <NewsletterSignup />
+
 
       <div css={textContainerStyle}>
         <hr />

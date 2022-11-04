@@ -36,22 +36,10 @@
             "party": "R",
             "candidateId": "H4MT01041",
             "candidateCommitteeName": "ZINKE FOR CONGRESS",
-            "totalReceipts": 3784564.65,
-            "totalDisbursments": 2880145.57,
-            "cashOnHand": 904419.08,
-            "coverageEndDate": "2022-06-30T00:00:00"
-          },
-          {
-            "isThisCandidate": false,
-            "displayName": "Cora Neumann",
-            "status": "lost-primary",
-            "party": "D",
-            "candidateId": "H2MT02100",
-            "candidateCommitteeName": "CORA FOR MONTANA",
-            "totalReceipts": 1449413.16,
-            "totalDisbursments": 1529050.55,
-            "cashOnHand": 14304.98,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 5586751.35,
+            "totalDisbursments": 5058256.41,
+            "cashOnHand": 528494.94,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -60,10 +48,22 @@
             "party": "D",
             "candidateId": "H2MT02092",
             "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
-            "totalReceipts": 1254460.75,
-            "totalDisbursments": 1037500.19,
-            "cashOnHand": 216960.56,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 2372596.17,
+            "totalDisbursments": 2020052.5,
+            "cashOnHand": 352543.67,
+            "coverageEndDate": "2022-09-30T00:00:00"
+          },
+          {
+            "isThisCandidate": false,
+            "displayName": "Cora Neumann",
+            "status": "lost-primary",
+            "party": "D",
+            "candidateId": "H2MT02100",
+            "candidateCommitteeName": "CORA FOR MONTANA",
+            "totalReceipts": 1449799.79,
+            "totalDisbursments": 1540935.27,
+            "cashOnHand": 2806.89,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -72,10 +72,10 @@
             "party": "R",
             "candidateId": "H2MT02084",
             "candidateCommitteeName": "AL FOR MONTANA",
-            "totalReceipts": 899759.01,
-            "totalDisbursments": 868178.93,
-            "cashOnHand": 31580.08,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 908244.01,
+            "totalDisbursments": 870862.99,
+            "cashOnHand": 37381.02,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -96,10 +96,10 @@
             "party": "D",
             "candidateId": "H0MT00090",
             "candidateCommitteeName": "WINTER FOR MONTANA",
-            "totalReceipts": 121121.12,
-            "totalDisbursments": 116425.02,
-            "cashOnHand": 4696.1,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 121212.2,
+            "totalDisbursments": 118989.74,
+            "cashOnHand": 2222.46,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": true,
@@ -354,22 +354,10 @@
             "party": "R",
             "candidateId": "H4MT01041",
             "candidateCommitteeName": "ZINKE FOR CONGRESS",
-            "totalReceipts": 3784564.65,
-            "totalDisbursments": 2880145.57,
-            "cashOnHand": 904419.08,
-            "coverageEndDate": "2022-06-30T00:00:00"
-          },
-          {
-            "isThisCandidate": false,
-            "displayName": "Cora Neumann",
-            "status": "lost-primary",
-            "party": "D",
-            "candidateId": "H2MT02100",
-            "candidateCommitteeName": "CORA FOR MONTANA",
-            "totalReceipts": 1449413.16,
-            "totalDisbursments": 1529050.55,
-            "cashOnHand": 14304.98,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 5586751.35,
+            "totalDisbursments": 5058256.41,
+            "cashOnHand": 528494.94,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -378,10 +366,22 @@
             "party": "D",
             "candidateId": "H2MT02092",
             "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
-            "totalReceipts": 1254460.75,
-            "totalDisbursments": 1037500.19,
-            "cashOnHand": 216960.56,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 2372596.17,
+            "totalDisbursments": 2020052.5,
+            "cashOnHand": 352543.67,
+            "coverageEndDate": "2022-09-30T00:00:00"
+          },
+          {
+            "isThisCandidate": false,
+            "displayName": "Cora Neumann",
+            "status": "lost-primary",
+            "party": "D",
+            "candidateId": "H2MT02100",
+            "candidateCommitteeName": "CORA FOR MONTANA",
+            "totalReceipts": 1449799.79,
+            "totalDisbursments": 1540935.27,
+            "cashOnHand": 2806.89,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -390,10 +390,10 @@
             "party": "R",
             "candidateId": "H2MT02084",
             "candidateCommitteeName": "AL FOR MONTANA",
-            "totalReceipts": 899759.01,
-            "totalDisbursments": 868178.93,
-            "cashOnHand": 31580.08,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 908244.01,
+            "totalDisbursments": 870862.99,
+            "cashOnHand": 37381.02,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -414,10 +414,10 @@
             "party": "D",
             "candidateId": "H0MT00090",
             "candidateCommitteeName": "WINTER FOR MONTANA",
-            "totalReceipts": 121121.12,
-            "totalDisbursments": 116425.02,
-            "cashOnHand": 4696.1,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 121212.2,
+            "totalDisbursments": 118989.74,
+            "cashOnHand": 2222.46,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -664,22 +664,10 @@
             "party": "R",
             "candidateId": "H4MT01041",
             "candidateCommitteeName": "ZINKE FOR CONGRESS",
-            "totalReceipts": 3784564.65,
-            "totalDisbursments": 2880145.57,
-            "cashOnHand": 904419.08,
-            "coverageEndDate": "2022-06-30T00:00:00"
-          },
-          {
-            "isThisCandidate": false,
-            "displayName": "Cora Neumann",
-            "status": "lost-primary",
-            "party": "D",
-            "candidateId": "H2MT02100",
-            "candidateCommitteeName": "CORA FOR MONTANA",
-            "totalReceipts": 1449413.16,
-            "totalDisbursments": 1529050.55,
-            "cashOnHand": 14304.98,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 5586751.35,
+            "totalDisbursments": 5058256.41,
+            "cashOnHand": 528494.94,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -688,10 +676,22 @@
             "party": "D",
             "candidateId": "H2MT02092",
             "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
-            "totalReceipts": 1254460.75,
-            "totalDisbursments": 1037500.19,
-            "cashOnHand": 216960.56,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 2372596.17,
+            "totalDisbursments": 2020052.5,
+            "cashOnHand": 352543.67,
+            "coverageEndDate": "2022-09-30T00:00:00"
+          },
+          {
+            "isThisCandidate": false,
+            "displayName": "Cora Neumann",
+            "status": "lost-primary",
+            "party": "D",
+            "candidateId": "H2MT02100",
+            "candidateCommitteeName": "CORA FOR MONTANA",
+            "totalReceipts": 1449799.79,
+            "totalDisbursments": 1540935.27,
+            "cashOnHand": 2806.89,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -700,10 +700,10 @@
             "party": "R",
             "candidateId": "H2MT02084",
             "candidateCommitteeName": "AL FOR MONTANA",
-            "totalReceipts": 899759.01,
-            "totalDisbursments": 868178.93,
-            "cashOnHand": 31580.08,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 908244.01,
+            "totalDisbursments": 870862.99,
+            "cashOnHand": 37381.02,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -724,10 +724,10 @@
             "party": "D",
             "candidateId": "H0MT00090",
             "candidateCommitteeName": "WINTER FOR MONTANA",
-            "totalReceipts": 121121.12,
-            "totalDisbursments": 116425.02,
-            "cashOnHand": 4696.1,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 121212.2,
+            "totalDisbursments": 118989.74,
+            "cashOnHand": 2222.46,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -768,6 +768,11 @@
         ],
         "issueAnswers": null,
         "articles": [
+          {
+            "title": "The Zinke, Tranel (and Lamb) show",
+            "date": "2022-10-26T16:26:59",
+            "link": "https://montanafreepress.org/2022/10/26/zinke-tranel-lamb-race-for-montanas-western-us-house-seat/"
+          },
           {
             "title": "Zinke, Tranel debate abortion, affordability and their personal histories",
             "date": "2022-10-03T17:08:32",
@@ -853,22 +858,10 @@
             "party": "R",
             "candidateId": "H4MT01041",
             "candidateCommitteeName": "ZINKE FOR CONGRESS",
-            "totalReceipts": 3784564.65,
-            "totalDisbursments": 2880145.57,
-            "cashOnHand": 904419.08,
-            "coverageEndDate": "2022-06-30T00:00:00"
-          },
-          {
-            "isThisCandidate": false,
-            "displayName": "Cora Neumann",
-            "status": "lost-primary",
-            "party": "D",
-            "candidateId": "H2MT02100",
-            "candidateCommitteeName": "CORA FOR MONTANA",
-            "totalReceipts": 1449413.16,
-            "totalDisbursments": 1529050.55,
-            "cashOnHand": 14304.98,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 5586751.35,
+            "totalDisbursments": 5058256.41,
+            "cashOnHand": 528494.94,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -877,10 +870,22 @@
             "party": "D",
             "candidateId": "H2MT02092",
             "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
-            "totalReceipts": 1254460.75,
-            "totalDisbursments": 1037500.19,
-            "cashOnHand": 216960.56,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 2372596.17,
+            "totalDisbursments": 2020052.5,
+            "cashOnHand": 352543.67,
+            "coverageEndDate": "2022-09-30T00:00:00"
+          },
+          {
+            "isThisCandidate": false,
+            "displayName": "Cora Neumann",
+            "status": "lost-primary",
+            "party": "D",
+            "candidateId": "H2MT02100",
+            "candidateCommitteeName": "CORA FOR MONTANA",
+            "totalReceipts": 1449799.79,
+            "totalDisbursments": 1540935.27,
+            "cashOnHand": 2806.89,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": true,
@@ -889,10 +894,10 @@
             "party": "R",
             "candidateId": "H2MT02084",
             "candidateCommitteeName": "AL FOR MONTANA",
-            "totalReceipts": 899759.01,
-            "totalDisbursments": 868178.93,
-            "cashOnHand": 31580.08,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 908244.01,
+            "totalDisbursments": 870862.99,
+            "cashOnHand": 37381.02,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -913,10 +918,10 @@
             "party": "D",
             "candidateId": "H0MT00090",
             "candidateCommitteeName": "WINTER FOR MONTANA",
-            "totalReceipts": 121121.12,
-            "totalDisbursments": 116425.02,
-            "cashOnHand": 4696.1,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 121212.2,
+            "totalDisbursments": 118989.74,
+            "cashOnHand": 2222.46,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -1202,22 +1207,10 @@
             "party": "R",
             "candidateId": "H4MT01041",
             "candidateCommitteeName": "ZINKE FOR CONGRESS",
-            "totalReceipts": 3784564.65,
-            "totalDisbursments": 2880145.57,
-            "cashOnHand": 904419.08,
-            "coverageEndDate": "2022-06-30T00:00:00"
-          },
-          {
-            "isThisCandidate": false,
-            "displayName": "Cora Neumann",
-            "status": "lost-primary",
-            "party": "D",
-            "candidateId": "H2MT02100",
-            "candidateCommitteeName": "CORA FOR MONTANA",
-            "totalReceipts": 1449413.16,
-            "totalDisbursments": 1529050.55,
-            "cashOnHand": 14304.98,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 5586751.35,
+            "totalDisbursments": 5058256.41,
+            "cashOnHand": 528494.94,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": true,
@@ -1226,10 +1219,22 @@
             "party": "D",
             "candidateId": "H2MT02092",
             "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
-            "totalReceipts": 1254460.75,
-            "totalDisbursments": 1037500.19,
-            "cashOnHand": 216960.56,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 2372596.17,
+            "totalDisbursments": 2020052.5,
+            "cashOnHand": 352543.67,
+            "coverageEndDate": "2022-09-30T00:00:00"
+          },
+          {
+            "isThisCandidate": false,
+            "displayName": "Cora Neumann",
+            "status": "lost-primary",
+            "party": "D",
+            "candidateId": "H2MT02100",
+            "candidateCommitteeName": "CORA FOR MONTANA",
+            "totalReceipts": 1449799.79,
+            "totalDisbursments": 1540935.27,
+            "cashOnHand": 2806.89,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -1238,10 +1243,10 @@
             "party": "R",
             "candidateId": "H2MT02084",
             "candidateCommitteeName": "AL FOR MONTANA",
-            "totalReceipts": 899759.01,
-            "totalDisbursments": 868178.93,
-            "cashOnHand": 31580.08,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 908244.01,
+            "totalDisbursments": 870862.99,
+            "cashOnHand": 37381.02,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -1262,10 +1267,10 @@
             "party": "D",
             "candidateId": "H0MT00090",
             "candidateCommitteeName": "WINTER FOR MONTANA",
-            "totalReceipts": 121121.12,
-            "totalDisbursments": 116425.02,
-            "cashOnHand": 4696.1,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 121212.2,
+            "totalDisbursments": 118989.74,
+            "cashOnHand": 2222.46,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -1475,6 +1480,11 @@
         ],
         "articles": [
           {
+            "title": "The Zinke, Tranel (and Lamb) show",
+            "date": "2022-10-26T16:26:59",
+            "link": "https://montanafreepress.org/2022/10/26/zinke-tranel-lamb-race-for-montanas-western-us-house-seat/"
+          },
+          {
             "title": "Zinke, Tranel debate abortion, affordability and their personal histories",
             "date": "2022-10-03T17:08:32",
             "link": "https://montanafreepress.org/2022/10/03/zinke-tranel-debate-abortion-affordability-and-personal-histories/"
@@ -1611,22 +1621,10 @@
             "party": "R",
             "candidateId": "H4MT01041",
             "candidateCommitteeName": "ZINKE FOR CONGRESS",
-            "totalReceipts": 3784564.65,
-            "totalDisbursments": 2880145.57,
-            "cashOnHand": 904419.08,
-            "coverageEndDate": "2022-06-30T00:00:00"
-          },
-          {
-            "isThisCandidate": false,
-            "displayName": "Cora Neumann",
-            "status": "lost-primary",
-            "party": "D",
-            "candidateId": "H2MT02100",
-            "candidateCommitteeName": "CORA FOR MONTANA",
-            "totalReceipts": 1449413.16,
-            "totalDisbursments": 1529050.55,
-            "cashOnHand": 14304.98,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 5586751.35,
+            "totalDisbursments": 5058256.41,
+            "cashOnHand": 528494.94,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -1635,10 +1633,22 @@
             "party": "D",
             "candidateId": "H2MT02092",
             "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
-            "totalReceipts": 1254460.75,
-            "totalDisbursments": 1037500.19,
-            "cashOnHand": 216960.56,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 2372596.17,
+            "totalDisbursments": 2020052.5,
+            "cashOnHand": 352543.67,
+            "coverageEndDate": "2022-09-30T00:00:00"
+          },
+          {
+            "isThisCandidate": false,
+            "displayName": "Cora Neumann",
+            "status": "lost-primary",
+            "party": "D",
+            "candidateId": "H2MT02100",
+            "candidateCommitteeName": "CORA FOR MONTANA",
+            "totalReceipts": 1449799.79,
+            "totalDisbursments": 1540935.27,
+            "cashOnHand": 2806.89,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -1647,10 +1657,10 @@
             "party": "R",
             "candidateId": "H2MT02084",
             "candidateCommitteeName": "AL FOR MONTANA",
-            "totalReceipts": 899759.01,
-            "totalDisbursments": 868178.93,
-            "cashOnHand": 31580.08,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 908244.01,
+            "totalDisbursments": 870862.99,
+            "cashOnHand": 37381.02,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -1671,10 +1681,10 @@
             "party": "D",
             "candidateId": "H0MT00090",
             "candidateCommitteeName": "WINTER FOR MONTANA",
-            "totalReceipts": 121121.12,
-            "totalDisbursments": 116425.02,
-            "cashOnHand": 4696.1,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 121212.2,
+            "totalDisbursments": 118989.74,
+            "cashOnHand": 2222.46,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -1944,22 +1954,10 @@
             "party": "R",
             "candidateId": "H4MT01041",
             "candidateCommitteeName": "ZINKE FOR CONGRESS",
-            "totalReceipts": 3784564.65,
-            "totalDisbursments": 2880145.57,
-            "cashOnHand": 904419.08,
-            "coverageEndDate": "2022-06-30T00:00:00"
-          },
-          {
-            "isThisCandidate": false,
-            "displayName": "Cora Neumann",
-            "status": "lost-primary",
-            "party": "D",
-            "candidateId": "H2MT02100",
-            "candidateCommitteeName": "CORA FOR MONTANA",
-            "totalReceipts": 1449413.16,
-            "totalDisbursments": 1529050.55,
-            "cashOnHand": 14304.98,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 5586751.35,
+            "totalDisbursments": 5058256.41,
+            "cashOnHand": 528494.94,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -1968,10 +1966,22 @@
             "party": "D",
             "candidateId": "H2MT02092",
             "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
-            "totalReceipts": 1254460.75,
-            "totalDisbursments": 1037500.19,
-            "cashOnHand": 216960.56,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 2372596.17,
+            "totalDisbursments": 2020052.5,
+            "cashOnHand": 352543.67,
+            "coverageEndDate": "2022-09-30T00:00:00"
+          },
+          {
+            "isThisCandidate": false,
+            "displayName": "Cora Neumann",
+            "status": "lost-primary",
+            "party": "D",
+            "candidateId": "H2MT02100",
+            "candidateCommitteeName": "CORA FOR MONTANA",
+            "totalReceipts": 1449799.79,
+            "totalDisbursments": 1540935.27,
+            "cashOnHand": 2806.89,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -1980,10 +1990,10 @@
             "party": "R",
             "candidateId": "H2MT02084",
             "candidateCommitteeName": "AL FOR MONTANA",
-            "totalReceipts": 899759.01,
-            "totalDisbursments": 868178.93,
-            "cashOnHand": 31580.08,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 908244.01,
+            "totalDisbursments": 870862.99,
+            "cashOnHand": 37381.02,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -2004,10 +2014,10 @@
             "party": "D",
             "candidateId": "H0MT00090",
             "candidateCommitteeName": "WINTER FOR MONTANA",
-            "totalReceipts": 121121.12,
-            "totalDisbursments": 116425.02,
-            "cashOnHand": 4696.1,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 121212.2,
+            "totalDisbursments": 118989.74,
+            "cashOnHand": 2222.46,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -2148,6 +2158,11 @@
           }
         ],
         "articles": [
+          {
+            "title": "The Zinke, Tranel (and Lamb) show",
+            "date": "2022-10-26T16:26:59",
+            "link": "https://montanafreepress.org/2022/10/26/zinke-tranel-lamb-race-for-montanas-western-us-house-seat/"
+          },
           {
             "title": "Zinke, Tranel debate abortion, affordability and their personal histories",
             "date": "2022-10-03T17:08:32",
@@ -2299,22 +2314,10 @@
             "party": "R",
             "candidateId": "H4MT01041",
             "candidateCommitteeName": "ZINKE FOR CONGRESS",
-            "totalReceipts": 3784564.65,
-            "totalDisbursments": 2880145.57,
-            "cashOnHand": 904419.08,
-            "coverageEndDate": "2022-06-30T00:00:00"
-          },
-          {
-            "isThisCandidate": true,
-            "displayName": "Cora Neumann",
-            "status": "lost-primary",
-            "party": "D",
-            "candidateId": "H2MT02100",
-            "candidateCommitteeName": "CORA FOR MONTANA",
-            "totalReceipts": 1449413.16,
-            "totalDisbursments": 1529050.55,
-            "cashOnHand": 14304.98,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 5586751.35,
+            "totalDisbursments": 5058256.41,
+            "cashOnHand": 528494.94,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -2323,10 +2326,22 @@
             "party": "D",
             "candidateId": "H2MT02092",
             "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
-            "totalReceipts": 1254460.75,
-            "totalDisbursments": 1037500.19,
-            "cashOnHand": 216960.56,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 2372596.17,
+            "totalDisbursments": 2020052.5,
+            "cashOnHand": 352543.67,
+            "coverageEndDate": "2022-09-30T00:00:00"
+          },
+          {
+            "isThisCandidate": true,
+            "displayName": "Cora Neumann",
+            "status": "lost-primary",
+            "party": "D",
+            "candidateId": "H2MT02100",
+            "candidateCommitteeName": "CORA FOR MONTANA",
+            "totalReceipts": 1449799.79,
+            "totalDisbursments": 1540935.27,
+            "cashOnHand": 2806.89,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -2335,10 +2350,10 @@
             "party": "R",
             "candidateId": "H2MT02084",
             "candidateCommitteeName": "AL FOR MONTANA",
-            "totalReceipts": 899759.01,
-            "totalDisbursments": 868178.93,
-            "cashOnHand": 31580.08,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 908244.01,
+            "totalDisbursments": 870862.99,
+            "cashOnHand": 37381.02,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -2359,10 +2374,10 @@
             "party": "D",
             "candidateId": "H0MT00090",
             "candidateCommitteeName": "WINTER FOR MONTANA",
-            "totalReceipts": 121121.12,
-            "totalDisbursments": 116425.02,
-            "cashOnHand": 4696.1,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 121212.2,
+            "totalDisbursments": 118989.74,
+            "cashOnHand": 2222.46,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -2676,22 +2691,10 @@
             "party": "R",
             "candidateId": "H4MT01041",
             "candidateCommitteeName": "ZINKE FOR CONGRESS",
-            "totalReceipts": 3784564.65,
-            "totalDisbursments": 2880145.57,
-            "cashOnHand": 904419.08,
-            "coverageEndDate": "2022-06-30T00:00:00"
-          },
-          {
-            "isThisCandidate": false,
-            "displayName": "Cora Neumann",
-            "status": "lost-primary",
-            "party": "D",
-            "candidateId": "H2MT02100",
-            "candidateCommitteeName": "CORA FOR MONTANA",
-            "totalReceipts": 1449413.16,
-            "totalDisbursments": 1529050.55,
-            "cashOnHand": 14304.98,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 5586751.35,
+            "totalDisbursments": 5058256.41,
+            "cashOnHand": 528494.94,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -2700,10 +2703,22 @@
             "party": "D",
             "candidateId": "H2MT02092",
             "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
-            "totalReceipts": 1254460.75,
-            "totalDisbursments": 1037500.19,
-            "cashOnHand": 216960.56,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 2372596.17,
+            "totalDisbursments": 2020052.5,
+            "cashOnHand": 352543.67,
+            "coverageEndDate": "2022-09-30T00:00:00"
+          },
+          {
+            "isThisCandidate": false,
+            "displayName": "Cora Neumann",
+            "status": "lost-primary",
+            "party": "D",
+            "candidateId": "H2MT02100",
+            "candidateCommitteeName": "CORA FOR MONTANA",
+            "totalReceipts": 1449799.79,
+            "totalDisbursments": 1540935.27,
+            "cashOnHand": 2806.89,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -2712,10 +2727,10 @@
             "party": "R",
             "candidateId": "H2MT02084",
             "candidateCommitteeName": "AL FOR MONTANA",
-            "totalReceipts": 899759.01,
-            "totalDisbursments": 868178.93,
-            "cashOnHand": 31580.08,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 908244.01,
+            "totalDisbursments": 870862.99,
+            "cashOnHand": 37381.02,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": true,
@@ -2736,10 +2751,10 @@
             "party": "D",
             "candidateId": "H0MT00090",
             "candidateCommitteeName": "WINTER FOR MONTANA",
-            "totalReceipts": 121121.12,
-            "totalDisbursments": 116425.02,
-            "cashOnHand": 4696.1,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 121212.2,
+            "totalDisbursments": 118989.74,
+            "cashOnHand": 2222.46,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -2972,10 +2987,10 @@
             "party": "R",
             "candidateId": "H4MT00050",
             "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
-            "totalReceipts": 1741404.32,
-            "totalDisbursments": 940527.15,
-            "cashOnHand": 1063716.21,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 2040344.42,
+            "totalDisbursments": 1166318.39,
+            "cashOnHand": 1136865.07,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -2984,10 +2999,22 @@
             "party": "I",
             "candidateId": "H2MT02167",
             "candidateCommitteeName": "BUCHANAN FOR MONTANA",
-            "totalReceipts": 127124.73,
-            "totalDisbursments": 58162.1,
-            "cashOnHand": 68962.63,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 461780.83,
+            "totalDisbursments": 218093.58,
+            "cashOnHand": 243687.25,
+            "coverageEndDate": "2022-09-30T00:00:00"
+          },
+          {
+            "isThisCandidate": false,
+            "displayName": "Penny Ronning",
+            "status": "advancing-to-general",
+            "party": "D",
+            "candidateId": "H2MT02134",
+            "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
+            "totalReceipts": 134774.77,
+            "totalDisbursments": 108316.77,
+            "cashOnHand": 26458,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -2998,20 +3025,8 @@
             "candidateCommitteeName": "SWEENEY FOR MONTANA",
             "totalReceipts": 123323,
             "totalDisbursments": 119523.31,
-            "cashOnHand": 3799.69,
-            "coverageEndDate": "2022-06-30T00:00:00"
-          },
-          {
-            "isThisCandidate": false,
-            "displayName": "Penny Ronning",
-            "status": "advancing-to-general",
-            "party": "D",
-            "candidateId": "H2MT02134",
-            "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
-            "totalReceipts": 63309.88,
-            "totalDisbursments": 52547.3,
-            "cashOnHand": 10762.58,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "cashOnHand": 0,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -3020,10 +3035,10 @@
             "party": "L",
             "candidateId": "H0MT00074",
             "candidateCommitteeName": "RANKIN FOR CONGRESS",
-            "totalReceipts": 20696.66,
-            "totalDisbursments": 20596.66,
-            "cashOnHand": 100,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 26206.66,
+            "totalDisbursments": 22327.24,
+            "cashOnHand": 3879.42,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -3331,10 +3346,10 @@
             "party": "R",
             "candidateId": "H4MT00050",
             "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
-            "totalReceipts": 1741404.32,
-            "totalDisbursments": 940527.15,
-            "cashOnHand": 1063716.21,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 2040344.42,
+            "totalDisbursments": 1166318.39,
+            "cashOnHand": 1136865.07,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -3343,10 +3358,22 @@
             "party": "I",
             "candidateId": "H2MT02167",
             "candidateCommitteeName": "BUCHANAN FOR MONTANA",
-            "totalReceipts": 127124.73,
-            "totalDisbursments": 58162.1,
-            "cashOnHand": 68962.63,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 461780.83,
+            "totalDisbursments": 218093.58,
+            "cashOnHand": 243687.25,
+            "coverageEndDate": "2022-09-30T00:00:00"
+          },
+          {
+            "isThisCandidate": false,
+            "displayName": "Penny Ronning",
+            "status": "advancing-to-general",
+            "party": "D",
+            "candidateId": "H2MT02134",
+            "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
+            "totalReceipts": 134774.77,
+            "totalDisbursments": 108316.77,
+            "cashOnHand": 26458,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -3357,20 +3384,8 @@
             "candidateCommitteeName": "SWEENEY FOR MONTANA",
             "totalReceipts": 123323,
             "totalDisbursments": 119523.31,
-            "cashOnHand": 3799.69,
-            "coverageEndDate": "2022-06-30T00:00:00"
-          },
-          {
-            "isThisCandidate": false,
-            "displayName": "Penny Ronning",
-            "status": "advancing-to-general",
-            "party": "D",
-            "candidateId": "H2MT02134",
-            "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
-            "totalReceipts": 63309.88,
-            "totalDisbursments": 52547.3,
-            "cashOnHand": 10762.58,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "cashOnHand": 0,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -3379,10 +3394,10 @@
             "party": "L",
             "candidateId": "H0MT00074",
             "candidateCommitteeName": "RANKIN FOR CONGRESS",
-            "totalReceipts": 20696.66,
-            "totalDisbursments": 20596.66,
-            "cashOnHand": 100,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 26206.66,
+            "totalDisbursments": 22327.24,
+            "cashOnHand": 3879.42,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -3665,10 +3680,10 @@
             "party": "R",
             "candidateId": "H4MT00050",
             "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
-            "totalReceipts": 1741404.32,
-            "totalDisbursments": 940527.15,
-            "cashOnHand": 1063716.21,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 2040344.42,
+            "totalDisbursments": 1166318.39,
+            "cashOnHand": 1136865.07,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -3677,10 +3692,22 @@
             "party": "I",
             "candidateId": "H2MT02167",
             "candidateCommitteeName": "BUCHANAN FOR MONTANA",
-            "totalReceipts": 127124.73,
-            "totalDisbursments": 58162.1,
-            "cashOnHand": 68962.63,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 461780.83,
+            "totalDisbursments": 218093.58,
+            "cashOnHand": 243687.25,
+            "coverageEndDate": "2022-09-30T00:00:00"
+          },
+          {
+            "isThisCandidate": false,
+            "displayName": "Penny Ronning",
+            "status": "advancing-to-general",
+            "party": "D",
+            "candidateId": "H2MT02134",
+            "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
+            "totalReceipts": 134774.77,
+            "totalDisbursments": 108316.77,
+            "cashOnHand": 26458,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -3691,20 +3718,8 @@
             "candidateCommitteeName": "SWEENEY FOR MONTANA",
             "totalReceipts": 123323,
             "totalDisbursments": 119523.31,
-            "cashOnHand": 3799.69,
-            "coverageEndDate": "2022-06-30T00:00:00"
-          },
-          {
-            "isThisCandidate": false,
-            "displayName": "Penny Ronning",
-            "status": "advancing-to-general",
-            "party": "D",
-            "candidateId": "H2MT02134",
-            "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
-            "totalReceipts": 63309.88,
-            "totalDisbursments": 52547.3,
-            "cashOnHand": 10762.58,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "cashOnHand": 0,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -3713,10 +3728,10 @@
             "party": "L",
             "candidateId": "H0MT00074",
             "candidateCommitteeName": "RANKIN FOR CONGRESS",
-            "totalReceipts": 20696.66,
-            "totalDisbursments": 20596.66,
-            "cashOnHand": 100,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 26206.66,
+            "totalDisbursments": 22327.24,
+            "cashOnHand": 3879.42,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -4103,10 +4118,10 @@
             "party": "R",
             "candidateId": "H4MT00050",
             "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
-            "totalReceipts": 1741404.32,
-            "totalDisbursments": 940527.15,
-            "cashOnHand": 1063716.21,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 2040344.42,
+            "totalDisbursments": 1166318.39,
+            "cashOnHand": 1136865.07,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": true,
@@ -4115,10 +4130,22 @@
             "party": "I",
             "candidateId": "H2MT02167",
             "candidateCommitteeName": "BUCHANAN FOR MONTANA",
-            "totalReceipts": 127124.73,
-            "totalDisbursments": 58162.1,
-            "cashOnHand": 68962.63,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 461780.83,
+            "totalDisbursments": 218093.58,
+            "cashOnHand": 243687.25,
+            "coverageEndDate": "2022-09-30T00:00:00"
+          },
+          {
+            "isThisCandidate": false,
+            "displayName": "Penny Ronning",
+            "status": "advancing-to-general",
+            "party": "D",
+            "candidateId": "H2MT02134",
+            "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
+            "totalReceipts": 134774.77,
+            "totalDisbursments": 108316.77,
+            "cashOnHand": 26458,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -4129,20 +4156,8 @@
             "candidateCommitteeName": "SWEENEY FOR MONTANA",
             "totalReceipts": 123323,
             "totalDisbursments": 119523.31,
-            "cashOnHand": 3799.69,
-            "coverageEndDate": "2022-06-30T00:00:00"
-          },
-          {
-            "isThisCandidate": false,
-            "displayName": "Penny Ronning",
-            "status": "advancing-to-general",
-            "party": "D",
-            "candidateId": "H2MT02134",
-            "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
-            "totalReceipts": 63309.88,
-            "totalDisbursments": 52547.3,
-            "cashOnHand": 10762.58,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "cashOnHand": 0,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -4151,10 +4166,10 @@
             "party": "L",
             "candidateId": "H0MT00074",
             "candidateCommitteeName": "RANKIN FOR CONGRESS",
-            "totalReceipts": 20696.66,
-            "totalDisbursments": 20596.66,
-            "cashOnHand": 100,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 26206.66,
+            "totalDisbursments": 22327.24,
+            "cashOnHand": 3879.42,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -4433,10 +4448,10 @@
             "party": "R",
             "candidateId": "H4MT00050",
             "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
-            "totalReceipts": 1741404.32,
-            "totalDisbursments": 940527.15,
-            "cashOnHand": 1063716.21,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 2040344.42,
+            "totalDisbursments": 1166318.39,
+            "cashOnHand": 1136865.07,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -4445,10 +4460,22 @@
             "party": "I",
             "candidateId": "H2MT02167",
             "candidateCommitteeName": "BUCHANAN FOR MONTANA",
-            "totalReceipts": 127124.73,
-            "totalDisbursments": 58162.1,
-            "cashOnHand": 68962.63,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 461780.83,
+            "totalDisbursments": 218093.58,
+            "cashOnHand": 243687.25,
+            "coverageEndDate": "2022-09-30T00:00:00"
+          },
+          {
+            "isThisCandidate": false,
+            "displayName": "Penny Ronning",
+            "status": "advancing-to-general",
+            "party": "D",
+            "candidateId": "H2MT02134",
+            "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
+            "totalReceipts": 134774.77,
+            "totalDisbursments": 108316.77,
+            "cashOnHand": 26458,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -4459,20 +4486,8 @@
             "candidateCommitteeName": "SWEENEY FOR MONTANA",
             "totalReceipts": 123323,
             "totalDisbursments": 119523.31,
-            "cashOnHand": 3799.69,
-            "coverageEndDate": "2022-06-30T00:00:00"
-          },
-          {
-            "isThisCandidate": false,
-            "displayName": "Penny Ronning",
-            "status": "advancing-to-general",
-            "party": "D",
-            "candidateId": "H2MT02134",
-            "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
-            "totalReceipts": 63309.88,
-            "totalDisbursments": 52547.3,
-            "cashOnHand": 10762.58,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "cashOnHand": 0,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": true,
@@ -4481,10 +4496,10 @@
             "party": "L",
             "candidateId": "H0MT00074",
             "candidateCommitteeName": "RANKIN FOR CONGRESS",
-            "totalReceipts": 20696.66,
-            "totalDisbursments": 20596.66,
-            "cashOnHand": 100,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 26206.66,
+            "totalDisbursments": 22327.24,
+            "cashOnHand": 3879.42,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -4774,10 +4789,10 @@
             "party": "R",
             "candidateId": "H4MT00050",
             "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
-            "totalReceipts": 1741404.32,
-            "totalDisbursments": 940527.15,
-            "cashOnHand": 1063716.21,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 2040344.42,
+            "totalDisbursments": 1166318.39,
+            "cashOnHand": 1136865.07,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -4786,10 +4801,22 @@
             "party": "I",
             "candidateId": "H2MT02167",
             "candidateCommitteeName": "BUCHANAN FOR MONTANA",
-            "totalReceipts": 127124.73,
-            "totalDisbursments": 58162.1,
-            "cashOnHand": 68962.63,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 461780.83,
+            "totalDisbursments": 218093.58,
+            "cashOnHand": 243687.25,
+            "coverageEndDate": "2022-09-30T00:00:00"
+          },
+          {
+            "isThisCandidate": true,
+            "displayName": "Penny Ronning",
+            "status": "advancing-to-general",
+            "party": "D",
+            "candidateId": "H2MT02134",
+            "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
+            "totalReceipts": 134774.77,
+            "totalDisbursments": 108316.77,
+            "cashOnHand": 26458,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -4800,20 +4827,8 @@
             "candidateCommitteeName": "SWEENEY FOR MONTANA",
             "totalReceipts": 123323,
             "totalDisbursments": 119523.31,
-            "cashOnHand": 3799.69,
-            "coverageEndDate": "2022-06-30T00:00:00"
-          },
-          {
-            "isThisCandidate": true,
-            "displayName": "Penny Ronning",
-            "status": "advancing-to-general",
-            "party": "D",
-            "candidateId": "H2MT02134",
-            "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
-            "totalReceipts": 63309.88,
-            "totalDisbursments": 52547.3,
-            "cashOnHand": 10762.58,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "cashOnHand": 0,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -4822,10 +4837,10 @@
             "party": "L",
             "candidateId": "H0MT00074",
             "candidateCommitteeName": "RANKIN FOR CONGRESS",
-            "totalReceipts": 20696.66,
-            "totalDisbursments": 20596.66,
-            "cashOnHand": 100,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 26206.66,
+            "totalDisbursments": 22327.24,
+            "cashOnHand": 3879.42,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -5121,10 +5136,10 @@
             "party": "R",
             "candidateId": "H4MT00050",
             "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
-            "totalReceipts": 1741404.32,
-            "totalDisbursments": 940527.15,
-            "cashOnHand": 1063716.21,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 2040344.42,
+            "totalDisbursments": 1166318.39,
+            "cashOnHand": 1136865.07,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -5133,10 +5148,22 @@
             "party": "I",
             "candidateId": "H2MT02167",
             "candidateCommitteeName": "BUCHANAN FOR MONTANA",
-            "totalReceipts": 127124.73,
-            "totalDisbursments": 58162.1,
-            "cashOnHand": 68962.63,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 461780.83,
+            "totalDisbursments": 218093.58,
+            "cashOnHand": 243687.25,
+            "coverageEndDate": "2022-09-30T00:00:00"
+          },
+          {
+            "isThisCandidate": false,
+            "displayName": "Penny Ronning",
+            "status": "advancing-to-general",
+            "party": "D",
+            "candidateId": "H2MT02134",
+            "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
+            "totalReceipts": 134774.77,
+            "totalDisbursments": 108316.77,
+            "cashOnHand": 26458,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -5147,20 +5174,8 @@
             "candidateCommitteeName": "SWEENEY FOR MONTANA",
             "totalReceipts": 123323,
             "totalDisbursments": 119523.31,
-            "cashOnHand": 3799.69,
-            "coverageEndDate": "2022-06-30T00:00:00"
-          },
-          {
-            "isThisCandidate": false,
-            "displayName": "Penny Ronning",
-            "status": "advancing-to-general",
-            "party": "D",
-            "candidateId": "H2MT02134",
-            "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
-            "totalReceipts": 63309.88,
-            "totalDisbursments": 52547.3,
-            "cashOnHand": 10762.58,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "cashOnHand": 0,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -5169,10 +5184,10 @@
             "party": "L",
             "candidateId": "H0MT00074",
             "candidateCommitteeName": "RANKIN FOR CONGRESS",
-            "totalReceipts": 20696.66,
-            "totalDisbursments": 20596.66,
-            "cashOnHand": 100,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 26206.66,
+            "totalDisbursments": 22327.24,
+            "cashOnHand": 3879.42,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -5348,10 +5363,10 @@
             "party": "R",
             "candidateId": "H4MT00050",
             "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
-            "totalReceipts": 1741404.32,
-            "totalDisbursments": 940527.15,
-            "cashOnHand": 1063716.21,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 2040344.42,
+            "totalDisbursments": 1166318.39,
+            "cashOnHand": 1136865.07,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -5360,10 +5375,22 @@
             "party": "I",
             "candidateId": "H2MT02167",
             "candidateCommitteeName": "BUCHANAN FOR MONTANA",
-            "totalReceipts": 127124.73,
-            "totalDisbursments": 58162.1,
-            "cashOnHand": 68962.63,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 461780.83,
+            "totalDisbursments": 218093.58,
+            "cashOnHand": 243687.25,
+            "coverageEndDate": "2022-09-30T00:00:00"
+          },
+          {
+            "isThisCandidate": false,
+            "displayName": "Penny Ronning",
+            "status": "advancing-to-general",
+            "party": "D",
+            "candidateId": "H2MT02134",
+            "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
+            "totalReceipts": 134774.77,
+            "totalDisbursments": 108316.77,
+            "cashOnHand": 26458,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": true,
@@ -5374,20 +5401,8 @@
             "candidateCommitteeName": "SWEENEY FOR MONTANA",
             "totalReceipts": 123323,
             "totalDisbursments": 119523.31,
-            "cashOnHand": 3799.69,
-            "coverageEndDate": "2022-06-30T00:00:00"
-          },
-          {
-            "isThisCandidate": false,
-            "displayName": "Penny Ronning",
-            "status": "advancing-to-general",
-            "party": "D",
-            "candidateId": "H2MT02134",
-            "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
-            "totalReceipts": 63309.88,
-            "totalDisbursments": 52547.3,
-            "cashOnHand": 10762.58,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "cashOnHand": 0,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -5396,10 +5411,10 @@
             "party": "L",
             "candidateId": "H0MT00074",
             "candidateCommitteeName": "RANKIN FOR CONGRESS",
-            "totalReceipts": 20696.66,
-            "totalDisbursments": 20596.66,
-            "cashOnHand": 100,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 26206.66,
+            "totalDisbursments": 22327.24,
+            "cashOnHand": 3879.42,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -5740,10 +5755,10 @@
             "party": "R",
             "candidateId": "H4MT00050",
             "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
-            "totalReceipts": 1741404.32,
-            "totalDisbursments": 940527.15,
-            "cashOnHand": 1063716.21,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 2040344.42,
+            "totalDisbursments": 1166318.39,
+            "cashOnHand": 1136865.07,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -5752,10 +5767,22 @@
             "party": "I",
             "candidateId": "H2MT02167",
             "candidateCommitteeName": "BUCHANAN FOR MONTANA",
-            "totalReceipts": 127124.73,
-            "totalDisbursments": 58162.1,
-            "cashOnHand": 68962.63,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 461780.83,
+            "totalDisbursments": 218093.58,
+            "cashOnHand": 243687.25,
+            "coverageEndDate": "2022-09-30T00:00:00"
+          },
+          {
+            "isThisCandidate": false,
+            "displayName": "Penny Ronning",
+            "status": "advancing-to-general",
+            "party": "D",
+            "candidateId": "H2MT02134",
+            "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
+            "totalReceipts": 134774.77,
+            "totalDisbursments": 108316.77,
+            "cashOnHand": 26458,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -5766,20 +5793,8 @@
             "candidateCommitteeName": "SWEENEY FOR MONTANA",
             "totalReceipts": 123323,
             "totalDisbursments": 119523.31,
-            "cashOnHand": 3799.69,
-            "coverageEndDate": "2022-06-30T00:00:00"
-          },
-          {
-            "isThisCandidate": false,
-            "displayName": "Penny Ronning",
-            "status": "advancing-to-general",
-            "party": "D",
-            "candidateId": "H2MT02134",
-            "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
-            "totalReceipts": 63309.88,
-            "totalDisbursments": 52547.3,
-            "cashOnHand": 10762.58,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "cashOnHand": 0,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -5788,10 +5803,10 @@
             "party": "L",
             "candidateId": "H0MT00074",
             "candidateCommitteeName": "RANKIN FOR CONGRESS",
-            "totalReceipts": 20696.66,
-            "totalDisbursments": 20596.66,
-            "cashOnHand": 100,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 26206.66,
+            "totalDisbursments": 22327.24,
+            "cashOnHand": 3879.42,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -6067,10 +6082,10 @@
             "party": "R",
             "candidateId": "H4MT00050",
             "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
-            "totalReceipts": 1741404.32,
-            "totalDisbursments": 940527.15,
-            "cashOnHand": 1063716.21,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 2040344.42,
+            "totalDisbursments": 1166318.39,
+            "cashOnHand": 1136865.07,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -6079,10 +6094,22 @@
             "party": "I",
             "candidateId": "H2MT02167",
             "candidateCommitteeName": "BUCHANAN FOR MONTANA",
-            "totalReceipts": 127124.73,
-            "totalDisbursments": 58162.1,
-            "cashOnHand": 68962.63,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 461780.83,
+            "totalDisbursments": 218093.58,
+            "cashOnHand": 243687.25,
+            "coverageEndDate": "2022-09-30T00:00:00"
+          },
+          {
+            "isThisCandidate": false,
+            "displayName": "Penny Ronning",
+            "status": "advancing-to-general",
+            "party": "D",
+            "candidateId": "H2MT02134",
+            "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
+            "totalReceipts": 134774.77,
+            "totalDisbursments": 108316.77,
+            "cashOnHand": 26458,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -6093,20 +6120,8 @@
             "candidateCommitteeName": "SWEENEY FOR MONTANA",
             "totalReceipts": 123323,
             "totalDisbursments": 119523.31,
-            "cashOnHand": 3799.69,
-            "coverageEndDate": "2022-06-30T00:00:00"
-          },
-          {
-            "isThisCandidate": false,
-            "displayName": "Penny Ronning",
-            "status": "advancing-to-general",
-            "party": "D",
-            "candidateId": "H2MT02134",
-            "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
-            "totalReceipts": 63309.88,
-            "totalDisbursments": 52547.3,
-            "cashOnHand": 10762.58,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "cashOnHand": 0,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -6115,10 +6130,10 @@
             "party": "L",
             "candidateId": "H0MT00074",
             "candidateCommitteeName": "RANKIN FOR CONGRESS",
-            "totalReceipts": 20696.66,
-            "totalDisbursments": 20596.66,
-            "cashOnHand": 100,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 26206.66,
+            "totalDisbursments": 22327.24,
+            "cashOnHand": 3879.42,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -6301,10 +6316,10 @@
             "party": "R",
             "candidateId": "H4MT00050",
             "candidateCommitteeName": "MATT ROSENDALE FOR MONTANA",
-            "totalReceipts": 1741404.32,
-            "totalDisbursments": 940527.15,
-            "cashOnHand": 1063716.21,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 2040344.42,
+            "totalDisbursments": 1166318.39,
+            "cashOnHand": 1136865.07,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -6313,10 +6328,22 @@
             "party": "I",
             "candidateId": "H2MT02167",
             "candidateCommitteeName": "BUCHANAN FOR MONTANA",
-            "totalReceipts": 127124.73,
-            "totalDisbursments": 58162.1,
-            "cashOnHand": 68962.63,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 461780.83,
+            "totalDisbursments": 218093.58,
+            "cashOnHand": 243687.25,
+            "coverageEndDate": "2022-09-30T00:00:00"
+          },
+          {
+            "isThisCandidate": false,
+            "displayName": "Penny Ronning",
+            "status": "advancing-to-general",
+            "party": "D",
+            "candidateId": "H2MT02134",
+            "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
+            "totalReceipts": 134774.77,
+            "totalDisbursments": 108316.77,
+            "cashOnHand": 26458,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -6327,20 +6354,8 @@
             "candidateCommitteeName": "SWEENEY FOR MONTANA",
             "totalReceipts": 123323,
             "totalDisbursments": 119523.31,
-            "cashOnHand": 3799.69,
-            "coverageEndDate": "2022-06-30T00:00:00"
-          },
-          {
-            "isThisCandidate": false,
-            "displayName": "Penny Ronning",
-            "status": "advancing-to-general",
-            "party": "D",
-            "candidateId": "H2MT02134",
-            "candidateCommitteeName": "PENNY RONNING FOR US CONGRESS",
-            "totalReceipts": 63309.88,
-            "totalDisbursments": 52547.3,
-            "cashOnHand": 10762.58,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "cashOnHand": 0,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": false,
@@ -6349,10 +6364,10 @@
             "party": "L",
             "candidateId": "H0MT00074",
             "candidateCommitteeName": "RANKIN FOR CONGRESS",
-            "totalReceipts": 20696.66,
-            "totalDisbursments": 20596.66,
-            "cashOnHand": 100,
-            "coverageEndDate": "2022-06-30T00:00:00"
+            "totalReceipts": 26206.66,
+            "totalDisbursments": 22327.24,
+            "cashOnHand": 3879.42,
+            "coverageEndDate": "2022-09-30T00:00:00"
           },
           {
             "isThisCandidate": true,
@@ -6991,6 +7006,11 @@
         ],
         "articles": [
           {
+            "title": "Ann Bukacek and John Repke: Two views vie for one seat on the PSC",
+            "date": "2022-10-20T14:12:53",
+            "link": "https://montanafreepress.org/2022/10/20/montana-public-service-commission-race-bukacek-repke/"
+          },
+          {
             "title": "Recounts results confirm Bukacek won utility board GOP primary",
             "date": "2022-07-18T17:47:42",
             "link": "https://montanafreepress.org/2022/07/18/bukacek-wins-public-service-commission-primary/"
@@ -7425,6 +7445,11 @@
           }
         ],
         "articles": [
+          {
+            "title": "Ann Bukacek and John Repke: Two views vie for one seat on the PSC",
+            "date": "2022-10-20T14:12:53",
+            "link": "https://montanafreepress.org/2022/10/20/montana-public-service-commission-race-bukacek-repke/"
+          },
           {
             "title": "Recounts results confirm Bukacek won utility board GOP primary",
             "date": "2022-07-18T17:47:42",
@@ -7997,6 +8022,11 @@
         ],
         "articles": [
           {
+            "title": "Abortion-rights advocates rally support for Gustafson in Montana Supreme Court race",
+            "date": "2022-10-11T10:25:52",
+            "link": "https://montanafreepress.org/2022/10/11/abortion-rights-advocates-rally-gustafson-supreme-court-race/"
+          },
+          {
             "title": "Gustafson and Brown advancing over McMahon in Montana Supreme Court primary",
             "date": "2022-06-08T00:05:27",
             "link": "https://montanafreepress.org/2022/06/08/gustafson-brown-advance-montana-supreme-court-primary/"
@@ -8136,6 +8166,11 @@
           }
         ],
         "articles": [
+          {
+            "title": "Abortion-rights advocates rally support for Gustafson in Montana Supreme Court race",
+            "date": "2022-10-11T10:25:52",
+            "link": "https://montanafreepress.org/2022/10/11/abortion-rights-advocates-rally-gustafson-supreme-court-race/"
+          },
           {
             "title": "Gustafson and Brown advancing over McMahon in Montana Supreme Court primary",
             "date": "2022-06-08T00:05:27",
